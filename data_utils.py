@@ -216,7 +216,7 @@ def transformData(pfsrc, pfin, pfout):
     fin.close()
     fout.close()
     print 'fail/total: %d/%d'%(fail_cnt, total_cnt)
-def getDict(files):
+def getDict(files,fdict=None):
     d,rd = [], dict()
     for pf in files:
         f = open(pf,'r')
@@ -248,6 +248,12 @@ def getDict(files):
         d.append(_2utf(item[0]))
         rd[item[0]] = dcnt
         dcnt+=1
+    if fdict:
+        f = open(fdict, 'w')
+        for i in range(len(d)):
+            # f.write('%d %s\n'%(i,d[i]))
+            f.write('%s %d\n'%(d[i],i))
+        f.close()
     return d,rd
 def dictionarizeData(pfin, pfout, rd):
     fin = open(pfin, 'r')
@@ -288,9 +294,9 @@ def rebuildDict(pf):
 # printDataInfo('data')
 # transformData('data/train_origin.json', 'data/train_input_text.txt', 'data/train_output_text.txt')
 # transformData('data/dev_origin.json', 'data/dev_input_text.txt', 'data/dev_output_text.txt')
-# d1,rd1 = getDict(['data/train_input_text.txt'])
-# save2json(d1, 'data/dict_src')
-# d2,rd2 = getDict(['data/train_output_text.txt'])
-# save2json(d2, 'data/dict_dst')
+# d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
+# d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
 # dictionarizeData('data/train_input_text.txt', 'data/train_input_data.txt', rd1)
 # dictionarizeData('data/train_output_text.txt', 'data/train_output_data.txt', rd2)
+# dictionarizeData('data/dev_input_text.txt', 'data/dev_input_data.txt', rd1)
+# dictionarizeData('data/dev_output_text.txt', 'data/dev_output_data.txt', rd2)
