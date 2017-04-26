@@ -146,13 +146,15 @@ def printDataInfo(pf):
         ind += 1
 
     print _2gbk(pf+'\n共有%d组数据，其中：\n包含%d个键值，仅有%d种不同的键值\n包含%d个输入，有%d种不同的输入\n'%(ans_cnt, key_cnt, len(s_key), inp_cnt, len(s_pair)))
-def transformData(pfsrc, pfin, pfout):
+def transformData(pfsrc, pfin, pfout, only_input=False):
     data = json2load(pfsrc)
     ori_inputs = data['infos']
     ori_outputs = data['answers']
     ori_n = len(ori_inputs)
     fin = open(pfin, 'w')
     fout = open(pfout, 'w')
+    fkey = open(pfin+'.key','w')
+    fval = open(pfin+'.val','w')
     total_cnt = 0
     fail_cnt = 0
     for i in range(ori_n):
@@ -196,15 +198,25 @@ def transformData(pfsrc, pfin, pfout):
                     for t in l:
                         p = s.find(t)
                         if (p!=-1):
-                            return p, s.replace(t, rs)
+                            return p, s.replace(t, rs.replace(' ',''))
                     return -1, s
                 for k in t_inp.keys():
                     p, t_outp = fuzzy_find(t_outp, t_inp[k], "<$%s$>"%k)
                     if (p == -1):
                         ok = False
+                if only_input:
+                    fin.write(' '.join(t_inp.keys())+'\n')
+                    fout.write(t_outp+'\n')
+                    fval.write('\n'.join(inp.values())+'\n')
+                    for k in t_inp.keys():
+                        fkey.write(k.replace(' ','')+'\n')
+                    continue
                 if ok:
                     fin.write(' '.join(t_inp.keys())+'\n')
                     fout.write(t_outp+'\n')
+                    fval.write('\n'.join(inp.values())+'\n')
+                    for k in t_inp.keys():
+                        fkey.write(k.replace(' ','')+'\n')
                 else:
                     fail_cnt += 1
                     # printS(' | '.join(inp.keys()))
@@ -215,6 +227,8 @@ def transformData(pfsrc, pfin, pfout):
                     # printS(t_outp)
     fin.close()
     fout.close()
+    fval.close()
+    fkey.close()
     print 'fail/total: %d/%d'%(fail_cnt, total_cnt)
 def getDict(files,fdict=None):
     d,rd = [], dict()
@@ -241,18 +255,20 @@ def getDict(files,fdict=None):
                     rd[w]+=1
         f.close()
     dd =sorted(rd.items(),key=lambda d:d[1], reverse=True)
-    d.append('<UNK>')
-    rd['<UNK>']=0
-    dcnt = 1
+    dcnt = 0
     for item in dd:
-        d.append(_2utf(item[0]))
-        rd[item[0]] = dcnt
+        d.append(_2utf(item[0]).replace(' ',''))
+        rd[item[0].replace(' ','')] = dcnt
+        dcnt+=1
+    if not rd.has_key('<UNK>'):
+        d.append('<UNK>')
+        rd['<UNK>']=dcnt
+        dd.append(('<UNK>',0))
         dcnt+=1
     if fdict:
         f = open(fdict, 'w')
-        for i in range(len(d)):
-            # f.write('%d %s\n'%(i,d[i]))
-            f.write('%s %d\n'%(d[i],i))
+        for item in dd:
+            f.write('%s\t%d\n'%(_2utf(item[0]).replace(' ',''),item[1]))
         f.close()
     return d,rd
 def dictionarizeData(pfin, pfout, rd):
@@ -287,16 +303,51 @@ def rebuildDict(pf):
         rd[_2uni(d[i])] = i
     return d, rd
 
+def reText(pfin, pfout, d):
+    fin  = open(pfin,'r')
+    fout = open(pfout,'w')
+    for line in fin.readlines():
+        l = line.split()
+        for i in l:
+            fout.write(d[int(i)]+' ')
+        fout.write('\n')
+    fin.close()
+    fout.close()
+def postProcessing(pfin, pfkey, pfval, pfout):
+    fin = open(pfin, 'r')
+    fout = open(pfout, 'w')
+    fkey = open(pfkey, 'r')
+    fval = open(pfval, 'r')
+    lcnt = 0
+    for in_inline in fin.readlines():
+        k = '<$'+fkey.readline().strip()+'$>'
+        v = fval.readline().strip().replace('_',' ')
+        in_inline = in_inline.replace(k,v)
+        k = '<$'+fkey.readline().strip()+'$>'
+        v = fval.readline().strip().replace('_',' ')
+        in_inline = in_inline.replace(k,v)
+        fout.write(in_inline)
+    fin.close()
+    fout.close()
+    fkey.close()
+    fval.close()
 # save2json(getData('data/dev'),'data/dev_origin.json')
 # save2json(getData('data/train'),'data/train_origin.json')
 # printDataInfo('data/train')
 # printDataInfo('data/dev')
 # printDataInfo('data')
-# transformData('data/train_origin.json', 'data/train_input_text.txt', 'data/train_output_text.txt')
-# transformData('data/dev_origin.json', 'data/dev_input_text.txt', 'data/dev_output_text.txt')
-# d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
-# d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
-# dictionarizeData('data/train_input_text.txt', 'data/train_input_data.txt', rd1)
-# dictionarizeData('data/train_output_text.txt', 'data/train_output_data.txt', rd2)
-# dictionarizeData('data/dev_input_text.txt', 'data/dev_input_data.txt', rd1)
-# dictionarizeData('data/dev_output_text.txt', 'data/dev_output_data.txt', rd2)
+transformData('data/train_origin.json', 'data/train_input_text.txt', 'data/train_output_text.txt')
+transformData('data/dev_origin.json', 'data/dev_input_text.txt', 'data/dev_output_text.txt', True)
+d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
+d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
+dictionarizeData('data/train_input_text.txt', 'data/train_input_data.txt', rd1)
+dictionarizeData('data/train_output_text.txt', 'data/train_output_data.txt', rd2)
+dictionarizeData('data/dev_input_text.txt', 'data/dev_input_data.txt', rd1)
+dictionarizeData('data/dev_output_text.txt', 'data/dev_output_data.txt', rd2)
+reText('data/train_input_data.txt', 'data/train_input_text.txt', d1)
+reText('data/train_output_data.txt', 'data/train_output_text.txt', d2)
+reText('data/dev_input_data.txt', 'data/dev_input_text.txt', d1)
+reText('data/dev_output_data.txt', 'data/dev_output_text.txt', d2)
+d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
+d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
+# postProcessing('data/predictions.txt', 'data/dev_input_text.txt.key', 'data/dev_input_text.txt.val', 'data/predict_full.txt')
