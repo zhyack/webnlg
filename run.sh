@@ -29,6 +29,7 @@ python -m bin.train   --config_paths="
 
 export PRED_DIR=../webnlg/data
 mkdir -p ${PRED_DIR}
+cd ../seq2seq/
 python -m bin.infer \
   --tasks "
     - class: DecodeText" \
