@@ -29,7 +29,8 @@ def _2utf(s):
         try:
             return s.decode('GBK').encode('UTF-8')
         except UnicodeDecodeError:
-            return s.decode('UTF-8').encode('UTF-8')
+            # return s.decode('UTF-8').encode('UTF-8')
+            return s
 def queryS(q):
     return _2utf(raw_input(_2gbk(q)).strip().rstrip())
 def queryL(q):
@@ -79,12 +80,56 @@ def xml2dict(pf, isfile=True):
     ret[root.tag] = [getNodeDict(root)]
     return ret
 def getData(pf):
-    def getTextInfo(s):
-        l = s.split('|')
-        assert(len(l)==3)
-        for i in range(3):
-            l[i] = l[i].strip().rstrip()
-        return l[0], l[1], l[2]
+    def trackTriple(triples, category, o_or_m='otriple'):
+        def getTextInfo(s):
+            l = s.split('|')
+            assert(len(l)==3)
+            for i in range(3):
+                l[i] = l[i].strip().rstrip()
+            return l[0], l[1], l[2]
+        rmp = dict()
+        ret = dict()
+        for triple in triples[o_or_m]:
+            text = triple['text']
+            t1, t2, t3 = getTextInfo(text)
+            if t1==t3:
+                continue
+            rmp[t3] = t2
+        root = []
+        for triple in triples[o_or_m]:
+            text = triple['text']
+            t1, t2, t3 = getTextInfo(text)
+            if t1==t3:
+                continue
+            if not rmp.has_key(t1):
+                root.append(t1)
+                rmp[t1]='...'
+        if len(root)>1:
+            print pf
+            print triples
+            raise Exception('ROOT ERROR')
+        elif len(root)==0:
+            t1, _, _ = getTextInfo(triples[o_or_m][0]['text'])
+            root=[t1]
+        pre = [category]
+        ret[category] = root[0]
+        while(len(root)):
+            for triple in triples[o_or_m]:
+                text = triple['text']
+                t1, t2, t3 = getTextInfo(text)
+                if t1==t3:
+                    continue
+                if t1 == root[0]:
+                    t2 = pre[0]+'____'+t2
+                    while ret.has_key(t2):
+                        t2 += '*'
+                    ret[t2]=t3
+                    root.append(t3)
+                    pre.append(t2)
+            del(root[0])
+            del(pre[0])
+        return ret
+
     ret = {}
     ret['infos'] = []
     ret['answers'] = []
@@ -102,18 +147,10 @@ def getData(pf):
         ret['answers'].append([])
         if entry.has_key('originaltripleset'):
             for originaltriple in entry['originaltripleset']:
-                text = originaltriple['otriple'][0]['text']
-                t1, t2, t3 = getTextInfo(text)
-                ret['infos'][-1][0].append({})
-                ret['infos'][-1][0][-1][entry['category']]=t1
-                ret['infos'][-1][0][-1][t2]=t3
+                ret['infos'][-1][0].append(copy.deepcopy(trackTriple(originaltriple, entry['category'])))
         if entry.has_key('modifiedtripleset'):
             for modifiedtriple in entry['modifiedtripleset']:
-                text = modifiedtriple['mtriple'][0]['text']
-                t1, t2, t3 = getTextInfo(text)
-                ret['infos'][-1][1].append({})
-                ret['infos'][-1][1][-1][entry['category']]=t1
-                ret['infos'][-1][1][-1][t2]=t3
+                ret['infos'][-1][1].append(copy.deepcopy(trackTriple(modifiedtriple, entry['category'], o_or_m='mtriple')))
 
         if entry.has_key('lex'):
             for lex in entry['lex']:
@@ -141,8 +178,8 @@ def printDataInfo(pf):
                 for k in kd.keys():
                     s_key.add(k)
                     key_cnt+=1
-        ans_cnt += len(d['answers'][ind])*(key_cnt/2-inp_cnt)
-        inp_cnt = key_cnt/2
+                inp_cnt += 1
+                ans_cnt += len(d['answers'][ind])
         ind += 1
 
     print _2gbk(pf+'\n共有%d组数据，其中：\n包含%d个键值，仅有%d种不同的键值\n包含%d个输入，有%d种不同的输入\n'%(ans_cnt, key_cnt, len(s_key), inp_cnt, len(s_pair)))
@@ -166,10 +203,10 @@ def transformData(pfsrc, pfin, pfout, only_input=False):
                 total_cnt += 1
                 ok = True
                 t_outp = t_outp.lower()
-                for k1 in t_inp.keys():
-                    for k2 in t_inp.keys():
-                        if k1!=k2 and t_inp[k1].find(t_inp[k2])!=-1:
-                            t_inp[k1] = t_inp[k1].replace(t_inp[k2], '<$%s$>'%k2)
+                kld = {}
+                for k in inp.keys():
+                    kld[k]=len(k)
+                len_ordered_keys = sorted(kld.items(),key=lambda d:d[1], reverse=True)
                 for k in inp.keys():
                     if t_inp[k].endswith('@en'):
                         t_inp[k] = t_inp[k][:-3]
@@ -200,23 +237,26 @@ def transformData(pfsrc, pfin, pfout, only_input=False):
                         if (p!=-1):
                             return p, s.replace(t, rs.replace(' ',''))
                     return -1, s
-                for k in t_inp.keys():
+                for k in len_ordered_keys:
+                    k = k[0]
                     p, t_outp = fuzzy_find(t_outp, t_inp[k], "<$%s$>"%k)
                     if (p == -1):
                         ok = False
                 if only_input:
                     fin.write(' '.join(t_inp.keys())+'\n')
-                    fout.write(t_outp+'\n')
-                    fval.write('\n'.join(inp.values())+'\n')
+                    fout.write(outp+'\n')
+                    fval.write('\n'.join(inp.values())+'\n\n')
                     for k in t_inp.keys():
                         fkey.write(k.replace(' ','')+'\n')
+                    fkey.write('\n')
                     continue
                 if ok:
                     fin.write(' '.join(t_inp.keys())+'\n')
                     fout.write(t_outp+'\n')
-                    fval.write('\n'.join(inp.values())+'\n')
+                    fval.write('\n'.join(inp.values())+'\n\n')
                     for k in t_inp.keys():
                         fkey.write(k.replace(' ','')+'\n')
+                    fkey.write('\n')
                 else:
                     fail_cnt += 1
                     # printS(' | '.join(inp.keys()))
@@ -320,34 +360,40 @@ def postProcessing(pfin, pfkey, pfval, pfout):
     fval = open(pfval, 'r')
     lcnt = 0
     for in_inline in fin.readlines():
-        k = '<$'+fkey.readline().strip()+'$>'
-        v = fval.readline().strip().replace('_',' ')
-        in_inline = in_inline.replace(k,v)
-        k = '<$'+fkey.readline().strip()+'$>'
-        v = fval.readline().strip().replace('_',' ')
-        in_inline = in_inline.replace(k,v)
+        while(True):
+            k = '<$'+fkey.readline().strip()+'$>'
+            v = fval.readline().strip().replace('_',' ')
+            if v.endswith('@en'):
+                v = v[:-3]
+            if v.startswith("\"") and v.endswith("\""):
+                v = v[1:-1]
+            # v = _2utf(' '.join(word_tokenize(_2uni(v))))
+            if k=='<$$>':
+                break
+            in_inline = in_inline.replace(k,v)
         fout.write(in_inline)
     fin.close()
     fout.close()
     fkey.close()
     fval.close()
+# save2json(xml2dict('data/dev/3triples/3triples_Airport_dev_challenge.xml'),'tmp.json')
 # save2json(getData('data/dev'),'data/dev_origin.json')
 # save2json(getData('data/train'),'data/train_origin.json')
 # printDataInfo('data/train')
 # printDataInfo('data/dev')
 # printDataInfo('data')
-transformData('data/train_origin.json', 'data/train_input_text.txt', 'data/train_output_text.txt')
-transformData('data/dev_origin.json', 'data/dev_input_text.txt', 'data/dev_output_text.txt', True)
-d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
-d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
-dictionarizeData('data/train_input_text.txt', 'data/train_input_data.txt', rd1)
-dictionarizeData('data/train_output_text.txt', 'data/train_output_data.txt', rd2)
-dictionarizeData('data/dev_input_text.txt', 'data/dev_input_data.txt', rd1)
-dictionarizeData('data/dev_output_text.txt', 'data/dev_output_data.txt', rd2)
-reText('data/train_input_data.txt', 'data/train_input_text.txt', d1)
-reText('data/train_output_data.txt', 'data/train_output_text.txt', d2)
-reText('data/dev_input_data.txt', 'data/dev_input_text.txt', d1)
-reText('data/dev_output_data.txt', 'data/dev_output_text.txt', d2)
-d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
-d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
-# postProcessing('data/predictions.txt', 'data/dev_input_text.txt.key', 'data/dev_input_text.txt.val', 'data/predict_full.txt')
+# transformData('data/train_origin.json', 'data/train_input_text.txt', 'data/train_output_text.txt')
+# transformData('data/dev_origin.json', 'data/dev_input_text.txt', 'data/dev_output_text.txt', True)
+# d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
+# d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
+# dictionarizeData('data/train_input_text.txt', 'data/train_input_data.txt', rd1)
+# dictionarizeData('data/train_output_text.txt', 'data/train_output_data.txt', rd2)
+# dictionarizeData('data/dev_input_text.txt', 'data/dev_input_data.txt', rd1)
+# dictionarizeData('data/dev_output_text.txt', 'data/dev_output_data.txt', rd2)
+# reText('data/train_input_data.txt', 'data/train_input_text.txt', d1)
+# reText('data/train_output_data.txt', 'data/train_output_text.txt', d2)
+# reText('data/dev_input_data.txt', 'data/dev_input_text.txt', d1)
+# reText('data/dev_output_data.txt', 'data/dev_output_text.txt', d2)
+# d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
+# d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
+postProcessing('data/predictions.txt', 'data/dev_input_text.txt.key', 'data/dev_input_text.txt.val', 'data/predict_full.txt')
