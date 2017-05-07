@@ -387,6 +387,8 @@ def postProcessing(pfin, pfkey, pfval, pfout):
 # printDataInfo('data')
 transformData('data/train_origin.json', 'data/train_input_text.txt', 'data/train_output_text.txt')
 transformData('data/dev_origin.json', 'data/dev_input_text.txt', 'data/dev_output_text.txt')
+transformData('data/train_origin.json', 'data/train_input_text.txt', 'data/train_output_text_ori.txt', only_input=True)
+transformData('data/dev_origin.json', 'data/dev_input_text.txt', 'data/dev_output_text_ori.txt', only_input=True)
 d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
 d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
 dictionarizeData('data/train_input_text.txt', 'data/train_input_data.txt', rd1)
