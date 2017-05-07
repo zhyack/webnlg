@@ -29,8 +29,10 @@ def _2utf(s):
         try:
             return s.decode('GBK').encode('UTF-8')
         except UnicodeDecodeError:
-            # return s.decode('UTF-8').encode('UTF-8')
-            return s
+            try:
+                return s.decode('UTF-8').encode('UTF-8')
+            except UnicodeError:
+                return ""
 def queryS(q):
     return _2utf(raw_input(_2gbk(q)).strip().rstrip())
 def queryL(q):
@@ -245,19 +247,20 @@ def transformData(pfsrc, pfin, pfout, only_input=False):
                 if only_input:
                     fin.write(' '.join(t_inp.keys())+'\n')
                     fout.write(outp+'\n')
-                    fval.write('\n'.join(inp.values())+'\n\n')
                     for k in t_inp.keys():
                         fkey.write(k.replace(' ','')+'\n')
+                        fval.write(inp[k].replace('_',' ')+'\n')
                     fkey.write('\n')
+                    fval.write('\n')
                     continue
-                if ok:
-                    fin.write(' '.join(t_inp.keys())+'\n')
-                    fout.write(t_outp+'\n')
-                    fval.write('\n'.join(inp.values())+'\n\n')
-                    for k in t_inp.keys():
-                        fkey.write(k.replace(' ','')+'\n')
-                    fkey.write('\n')
-                else:
+                fin.write(' '.join(t_inp.keys())+'\n')
+                fout.write(t_outp+'\n')
+                for k in t_inp.keys():
+                    fkey.write(k.replace(' ','')+'\n')
+                    fval.write(inp[k].replace('_',' ')+'\n')
+                fkey.write('\n')
+                fval.write('\n')
+                if not ok:
                     fail_cnt += 1
                     # printS(' | '.join(inp.keys()))
                     # printS(' | '.join(inp.values()))
@@ -382,18 +385,18 @@ def postProcessing(pfin, pfkey, pfval, pfout):
 # printDataInfo('data/train')
 # printDataInfo('data/dev')
 # printDataInfo('data')
-# transformData('data/train_origin.json', 'data/train_input_text.txt', 'data/train_output_text.txt')
-# transformData('data/dev_origin.json', 'data/dev_input_text.txt', 'data/dev_output_text.txt', True)
+transformData('data/train_origin.json', 'data/train_input_text.txt', 'data/train_output_text.txt')
+transformData('data/dev_origin.json', 'data/dev_input_text.txt', 'data/dev_output_text.txt')
+d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
+d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
+dictionarizeData('data/train_input_text.txt', 'data/train_input_data.txt', rd1)
+dictionarizeData('data/train_output_text.txt', 'data/train_output_data.txt', rd2)
+dictionarizeData('data/dev_input_text.txt', 'data/dev_input_data.txt', rd1)
+dictionarizeData('data/dev_output_text.txt', 'data/dev_output_data.txt', rd2)
+reText('data/train_input_data.txt', 'data/train_input_text.txt', d1)
+reText('data/train_output_data.txt', 'data/train_output_text.txt', d2)
+reText('data/dev_input_data.txt', 'data/dev_input_text.txt', d1)
+reText('data/dev_output_data.txt', 'data/dev_output_text.txt', d2)
 # d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
 # d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
-# dictionarizeData('data/train_input_text.txt', 'data/train_input_data.txt', rd1)
-# dictionarizeData('data/train_output_text.txt', 'data/train_output_data.txt', rd2)
-# dictionarizeData('data/dev_input_text.txt', 'data/dev_input_data.txt', rd1)
-# dictionarizeData('data/dev_output_text.txt', 'data/dev_output_data.txt', rd2)
-# reText('data/train_input_data.txt', 'data/train_input_text.txt', d1)
-# reText('data/train_output_data.txt', 'data/train_output_text.txt', d2)
-# reText('data/dev_input_data.txt', 'data/dev_input_text.txt', d1)
-# reText('data/dev_output_data.txt', 'data/dev_output_text.txt', d2)
-# d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
-# d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
-postProcessing('data/predictions.txt', 'data/dev_input_text.txt.key', 'data/dev_input_text.txt.val', 'data/predict_full.txt')
+# postProcessing('data/predictions.txt', 'data/dev_input_text.txt.key', 'data/dev_input_text.txt.val', 'data/predict_full.txt')

@@ -1,15 +1,15 @@
-export VOCAB_SOURCE=./data/dict_src
-export VOCAB_TARGET=./data/dict_dst
-export TRAIN_SOURCES=./data/train_input_text.txt
-export TRAIN_TARGETS=./data/train_output_text.txt
-export DEV_SOURCES=./data/dev_input_text.txt
-export DEV_TARGETS=./data/dev_output_text.txt
-export DEV_TARGETS_REF=./data/dev_output_text.txt
+export VOCAB_SOURCE=../webnlg/data/dict_src
+export VOCAB_TARGET=../webnlg/data/dict_dst
+export TRAIN_SOURCES=../webnlg/data/train_input_text.txt
+export TRAIN_TARGETS=../webnlg/data/train_output_text.txt
+export DEV_SOURCES=../webnlg/data/dev_input_text.txt
+export DEV_TARGETS=../webnlg/data/dev_output_text.txt
+export DEV_TARGETS_REF=../webnlg/data/dev_output_text.txt
 export TRAIN_STEPS=120000
-export MODEL_DIR=./finalmodel
-export EVAL_N=1000
+export MODEL_DIR=./largemodel
+export EVAL_N=2000
 python -m bin.train   --config_paths="
-      ./example_configs/nmt_medium.yml,
+      ./example_configs/nmt_large.yml,
       ./example_configs/train_seq2seq.yml,
       ./example_configs/text_metrics_simple.yml"   --model_params "
       vocab_source: $VOCAB_SOURCE
@@ -58,9 +58,9 @@ export TRAIN_TARGETS=../webnlg/data/train_output_text.txt
 export DEV_SOURCES=../webnlg/data/dev_input_text.txt
 export DEV_TARGETS=../webnlg/data/dev_output_text.txt
 export DEV_TARGETS_REF=../webnlg/data/dev_output_text.txt
-export TRAIN_STEPS=100000
+export TRAIN_STEPS=120000
 export MODEL_DIR=./model
-export EVAL_N=10000
+export EVAL_N=2000
 python -m bin.train   --config_paths="
       ./example_configs/nmt_medium.yml,
       ./example_configs/train_seq2seq.yml,
