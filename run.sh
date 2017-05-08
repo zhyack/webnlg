@@ -49,6 +49,8 @@ cd ../seq2seq/
 # ./bin/tools/multi-bleu.perl ${TRAIN_TARGETS} < ${PRED_DIR}/predictions.txt
 
 ./bin/tools/multi-bleu.perl ${PRED_DIR}/dev_output_text_ori.txt < ${PRED_DIR}/predict_full.txt
+# ./bin/tools/multi-bleu.perl ${PRED_DIR}/dev_output_text_ori_s.txt < ${PRED_DIR}/predict_full.txt
+./bin/tools/multi-bleu.perl ${PRED_DIR}/dev_output_text_ori.txt0 ${PRED_DIR}/dev_output_text_ori.txt1 ${PRED_DIR}/dev_output_text_ori.txt2 ${PRED_DIR}/dev_output_text_ori.txt3 ${PRED_DIR}/dev_output_text_ori.txt4 ${PRED_DIR}/dev_output_text_ori.txt5 ${PRED_DIR}/dev_output_text_ori.txt6 ${PRED_DIR}/dev_output_text_ori.txt7 < ${PRED_DIR}/predict_full.txt
 
 
 export VOCAB_SOURCE=../webnlg/data/dict_src
