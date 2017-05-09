@@ -116,9 +116,9 @@ def create_source_target(b, options, dataset, delex=True):
         source_out, target_out = zip(*corpus)
 
     with open(dataset + '-webnlg-' + options + '.triple', 'w+') as f:
-        f.write('\n'.join(source_out))
+        f.write(('\n'.join(source_out)).encode('UTF-8'))
     with open(dataset + '-webnlg-' + options + '.lex', 'w+') as f:
-        f.write('\n'.join(target_out))
+        f.write(('\n'.join(target_out)).encode('UTF-8'))
 
     # create separate files with references for multi-bleu.pl for dev set
     scr_refs = defaultdict(list)
@@ -131,7 +131,7 @@ def create_source_target(b, options, dataset, delex=True):
         values = [value for (key, value) in sorted(scr_refs.items())]
         # write the source file not delex
         with open(options + '-source.triple', 'w+') as f:
-            f.write('\n'.join(keys))
+            f.write(('\n'.join(keys)).encode('UTF-8'))
         # write references files
         for j in range(0, len(max_refs)):
             with open(options + '-reference' + str(j) + '.lex', 'w+') as f:
@@ -141,7 +141,7 @@ def create_source_target(b, options, dataset, delex=True):
                         out += ref[j] + '\n'
                     except:
                         out += '\n'
-                f.write(out)
+                f.write(out.encode('UTF-8'))
 
     return rplc_list
 
@@ -177,7 +177,7 @@ def relexicalise(predfile, rplc_list):
         triples = [line.strip() for line in f]
     with open('relexicalised_predictions.txt', 'w+') as f:
         for triple in triples:
-            f.write(src_gens[triple])
+            f.write(src_gens[triple].encode('UTF-8'))
 
     return relex_predictions
 

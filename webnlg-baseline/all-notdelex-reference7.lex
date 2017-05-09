@@ -509,7 +509,7 @@
 
 
 
-Pietro Canonica designed the Atatürk Monument in Izmir .
+Pietro Canonica is the designer of the Ataturk Monument ( Izmir ) .
 
 
 

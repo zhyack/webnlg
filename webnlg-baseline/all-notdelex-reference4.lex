@@ -329,7 +329,7 @@
 
 
 
-Alan Shepard was awarded the Distinguished Service Medal by the United States Navy .
+Alan Shepard was awarded the United States Navy Distinguished Service Medal .
 
 
 
@@ -513,7 +513,7 @@ Pietro Canonica is the designer of the Ataturk Monument in Izmir .
 
 
 
-The Atatürk Monument in Izmir is made of bronze .
+Ataturk Monument is made of Bronze .
 
 
 
@@ -583,10 +583,10 @@ The Atatürk Monument in Izmir is made of bronze .
 
 
 
-The Baku Turkish Martyrs ' Memorial is located in Azerbaijan .
+The Baku Turkish Martyr ' s Memorial is in Azerbaijan .
 
 
-The Baku Turkish Martyrs ' Memorial is created in red granite and white marble .
+The Baku Turkish Martyrs ' Memorial is made with red granite and white marble .
 
 
 
@@ -691,8 +691,8 @@ The Baku Turkish Martyrs ' Memorial is created in red granite and white marble .
 
 
 
-NASA operated the Apollo 11 program of which Buzz Aldrin was a member .
-Buzz Aldrin was both a fighter pilot and member of the Apollo 11 flight crew .
+The Apollo 11 program was organized by NASA and included Buzz Aldrin as one of its crew members .
+Buzz Aldrin , who was a fighter pilot , was a crew member on Apollo 11 .
 
 
 

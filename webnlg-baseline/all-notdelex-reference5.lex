@@ -509,7 +509,7 @@
 
 
 
-The Atatürk Monument in Izmir was designed by Pietro Canonica .
+The Atat ü rk Monument in Izmir was designed by Pietro Canonica .
 
 
 
@@ -583,10 +583,10 @@ The Atatürk Monument in Izmir was designed by Pietro Canonica .
 
 
 
-The Baku Turkish Martyrs ' Memorial is found in Azerbaijan .
+The Baku Turkish Martyrs ' Memorial can be found is Azerbaijan .
 
 
-Baku Turkish Martyrs ' Memorial is made of red granite and white marble .
+The Baku Turkish Martyrs ' Memorial is made from red granite and white marble .
 
 
 
@@ -691,7 +691,7 @@ Baku Turkish Martyrs ' Memorial is made of red granite and white marble .
 
 
 
-The Apollo 11 program was organized by NASA and included Buzz Aldrin as one of its crew members .
+Buzz Aldrin was a crew member of Apollo 11 - whose operator was NASA .
 
 
 

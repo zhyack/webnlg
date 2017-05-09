@@ -509,11 +509,11 @@ Alan Shepard was awarded the Distinguished Service Medal in the United States Na
 
 
 
-The Atatürk Monument ( İzmir ) was designed by Pietro Canonica .
+The Atat ü rk Monument ( İ zmir ) was designed by Pietro Canonica .
 
 
 
-The Atatürk Monument ( İzmir ) is made of Bronze .
+The material of the Ataturk Monument ( Izmir ) is bronze .
 
 
 
@@ -583,10 +583,10 @@ The Atatürk Monument ( İzmir ) is made of Bronze .
 
 
 
-The Turkish martyrs memorial is located in Baku , Azerbaijan .
+The Baku Turkish Martyrs ' Memorial is found in Azerbaijan .
 
 
-The Baku Turkish Martyrs ' Memorial is made from red granite and white marble .
+The material of the Baku Turkish Martyrs ' Memorial is Red granite and white marble .
 
 
 
@@ -679,10 +679,10 @@ The Baku Turkish Martyrs ' Memorial is made from red granite and white marble .
 
 
 
-Buzz Aldrin ( AKA Edwin E Aldrin Jr ) graduated in 1963 from MIT with a Sc . D . was a crew member of Apollo 11 .
+Buzz Aldrin , whose real name is Edwin E . Aldrin Jr . , was a member of Apollo 11 who in 1963 graduated with a Sc . D . from MIT .
 
 
-Buzz Aldrin is a US national because he was born in Glen Ridge , New Jersey .
+Buzz Aldrin was born in Glen Ridge , New Jersey in the United States .
 
 
 
@@ -690,8 +690,8 @@ Buzz Aldrin is a US national because he was born in Glen Ridge , New Jersey .
 
 
 Buzz Aldrin was a United States national .
-Buzz Aldrin is now retired but he was once a fighter pilot .
-Buzz Aldrin was on Apollo 11 which NASA operated .
+Buzz Aldrin served as a fighter pilot and is now retired .
+buzz aldrin was a crew member of apollo 11 , which was operated by NASA .
 Buzz Aldrin was a fighter pilot who was also part of the Apollo 11 crew .
 
 
@@ -732,8 +732,8 @@ Buzz Aldrin was a fighter pilot who was also part of the Apollo 11 crew .
 
 
 
-Elliot See served as a test pilot .
-Elliot See was born in Dallas on July 23 , 1927 . He is now deceased .
+Elliot See was a test pilot .
+Elliot See is deceased , was born on 23rd July 1927 in Dallas .
 
 
 
@@ -801,7 +801,7 @@ Elliot See was born in Dallas on July 23 , 1927 . He is now deceased .
 
 
 
-One of the languages used in the Philippines is Arabic .
+Arabic is a language spoken in the Philippines .
 
 
 
@@ -827,7 +827,7 @@ One of the languages used in the Philippines is Arabic .
 
 
 
-The School of Business and Social Sciences at the Aarhus University is in Denmark .
+The Aarhus University School of Business and Social Sciences is in the country of Denmark .
 
 
 
@@ -860,7 +860,7 @@ The School of Business and Social Sciences at the Aarhus University is in Denmar
 
 
 
-Hook ' em is the mascot for the University of Texas at Austin .
+The Hook ' em is the mascot of University of Texas at Austin .
 
 
 

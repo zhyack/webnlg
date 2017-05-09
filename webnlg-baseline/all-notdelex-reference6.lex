@@ -509,7 +509,7 @@
 
 
 
-Ataturk Monument was designed by Pietro Canonica .
+Pietro Canonica designed the Atat ü rk Monument in Izmir .
 
 
 
@@ -583,10 +583,10 @@ Ataturk Monument was designed by Pietro Canonica .
 
 
 
-The Baku Turkish Martyr ' s Memorial is in Azerbaijan .
+The Turkish martyrs memorial is located in Baku , Azerbaijan .
 
 
-The material of the Baku Turkish Martyrs ' Memorial is Red granite and white marble .
+Baku Turkish Martyrs ' Memorial is made of red granite and white marble .
 
 
 
@@ -691,7 +691,7 @@ The material of the Baku Turkish Martyrs ' Memorial is Red granite and white mar
 
 
 
-Buzz Aldrin was a crew member of Apollo 11 - whose operator was NASA .
+Buzz Aldrin was on Apollo 11 which NASA operated .
 
 
 

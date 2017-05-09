@@ -1,16 +1,19 @@
 import re
 
-DEV_DELEX = 'webnlg-baseline/dev-webnlg-all-delex.lex'
-DEV_NOTDELEX = 'webnlg-baseline/dev-webnlg-all-notdelex.lex'
+DEV_DELEX = '../webnlg-baseline/dev-webnlg-all-delex.lex'
+DEV_NOTDELEX = '../webnlg-baseline/dev-webnlg-all-notdelex.lex'
 
-TRAIN_DELEX = 'webnlg-baseline/train-webnlg-all-delex.lex'
-TRAIN_NOTDELEX = 'webnlg-baseline/train-webnlg-all-notdelex.lex'
+TRAIN_DELEX = '../webnlg-baseline/train-webnlg-all-delex.lex'
+TRAIN_NOTDELEX = '../webnlg-baseline/train-webnlg-all-notdelex.lex'
 
 DEV_KEY_OUTPUT = 'dev-key.txt'
-DEV_VAL_OUTPUT = 'dev-val.txt'
+DEV_VAL_DELEX = 'dev-val.txt'
 
 TRAIN_KEY_OUTPUT = 'train-key.txt'
 TRAIN_VAL_DELEX = 'train-val.txt'
+
+TRAIN_MOD = 'train-mod.txt'
+DEV_MOD = 'dev-mod.txt'
 
 def is_word(c):
     if ord(c) >= ord('A') and ord(c) <= ord('Z'):
@@ -48,8 +51,10 @@ def trans_pat(str):
             res = res + str[i]
     return res
 
-dfi = open(TRAIN_DELEX, 'r', encoding='utf-8')
-nfi = open(TRAIN_NOTDELEX, 'r', encoding='utf-8')
+# dfi = open(TRAIN_DELEX, 'r', encoding='utf-8')
+# nfi = open(TRAIN_NOTDELEX, 'r', encoding='utf-8')
+dfi = open(DEV_DELEX, 'r', encoding='utf-8')
+nfi = open(DEV_NOTDELEX, 'r', encoding='utf-8')
 
 dls = dfi.readlines()
 nls = nfi.readlines()
@@ -57,8 +62,12 @@ nls = nfi.readlines()
 dfi.close()
 nfi.close()
 
-fk = open(TRAIN_KEY_OUTPUT, 'w', encoding='utf-8')
-fv = open(TRAIN_VAL_DELEX, 'w', encoding='utf-8')
+# fk = open(TRAIN_KEY_OUTPUT, 'w', encoding='utf-8')
+# fv = open(TRAIN_VAL_DELEX, 'w', encoding='utf-8')
+# fm = open(TRAIN_MOD, 'w', encoding='utf-8')
+fk = open(DEV_KEY_OUTPUT, 'w', encoding='utf-8')
+fv = open(DEV_VAL_DELEX, 'w', encoding='utf-8')
+fm = open(DEV_MOD, 'w', encoding='utf-8')
 
 n_index = 0
 for dl in dls:
@@ -114,12 +123,17 @@ for dl in dls:
 
     m = re.match(pat, nl, re.S)
 
+    ml = dl
+    ss = set()
     for i in range(num_pat):
-        if l_pat[i] == m.group(i + 1):
+        if l_pat[i] == m.group(i + 1) or l_pat[i] in ss:
             pass
         else:
-            fk.write('<$' + l_pat[i] + '$>' + '\n')
+            fk.write(l_pat[i].replace(' ','') + '\n')
             fv.write(m.group(i+1) + '\n')
+            ml = ml.replace(l_pat[i], ('<$%s$>'%l_pat[i]).replace(' ',''))
+            ss.add(l_pat[i])
+    fm.write(ml+'\n')
 
     fk.write('\n')
     fv.write('\n')
@@ -127,12 +141,4 @@ for dl in dls:
 
 fk.close()
 fv.close()
-
-
-
-
-
-
-
-
-
+fm.close()
