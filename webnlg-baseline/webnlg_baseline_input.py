@@ -158,8 +158,9 @@ def relexicalise(predfile, rplc_list):
     for i, pred in enumerate(predictions):
         # replace each item in the corresponding example
         rplc_dict = rplc_list[i]
-        relex_pred = pred
+        relex_pred = pred.decode('UTF-8')
         for key in sorted(rplc_dict):
+            relex_pred = relex_pred.replace('<$%s$> '%key, rplc_dict[key] + ' ')
             relex_pred = relex_pred.replace(key + ' ', rplc_dict[key] + ' ')
         relex_predictions.append(relex_pred)
     # with open('relexicalised_predictions_full.txt', 'w+') as f:
