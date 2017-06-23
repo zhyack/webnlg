@@ -387,6 +387,26 @@ def postProcessing(pfin, pfkey, pfval, pfout):
     fout.close()
     fkey.close()
     fval.close()
+
+def parallel2multiMap(pfin, pfout):
+    ret = dict()
+    fin = open(pfin, 'r')
+    fout = open(pfout, 'r')
+    inputs = fin.readlines()
+    outputs = fout.readlines()
+    if len(inputs)!=len(outputs):
+        raise Exception("Not Parallel Corpus!")
+    n = len(inputs)
+    for i in range(n):
+        if not ret.has_key(inputs[i]):
+            ret[inputs[i]] = set()
+        ret[inputs[i]].add(outputs[i])
+    for k in ret.keys():
+        ret[k] = list(ret[k])
+    return ret
+#
+# save2json(parallel2multiMap('modify/train-webnlg-all-delex.triple', 'modify/train-mod.txt'), 'modify/multimap.json')
+
 # save2json(xml2dict('data/dev/3triples/3triples_Airport_dev_challenge.xml'),'tmp.json')
 # save2json(getData('data/dev'),'data/dev_origin.json')
 # save2json(getData('data/train'),'data/train_origin.json')
@@ -410,6 +430,6 @@ def postProcessing(pfin, pfkey, pfval, pfout):
 # d1,rd1 = getDict(['data/train_input_text.txt'], 'data/dict_src')
 # d2,rd2 = getDict(['data/train_output_text.txt'], 'data/dict_dst')
 # postProcessing('data/predictions.txt', 'data/dev_input_text.txt.key', 'data/dev_input_text.txt.val', 'data/predict_full.txt')
-d1,rd1 = getDict(['modify/train-webnlg-all-delex.triple'], 'modify/dict_src')
-d2,rd2 = getDict(['modify/train-mod.txt'], 'modify/dict_dst')
+# d1,rd1 = getDict(['modify/train-webnlg-all-delex.triple'], 'modify/dict_src')
+# d2,rd2 = getDict(['modify/train-mod.txt'], 'modify/dict_dst')
 # postProcessing('modify/predictions.txt', 'modify/dev-key.txt', 'modify/dev-val.txt', 'modify/predict_full.txt')
