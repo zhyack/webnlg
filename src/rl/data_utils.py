@@ -156,7 +156,7 @@ def dataSeq2Onehot(s, full_dict, max_len):
         nr += 1
     return ret
 
-def dataSeqs2Digits(s, full_dict, max_len):
+def dataSeqs2Digits(s, full_dict, max_len=None):
     ret = []
     ndict = len(full_dict)
     assert(full_dict.has_key('<UNK>'))
@@ -169,6 +169,8 @@ def dataSeqs2Digits(s, full_dict, max_len):
             w = '<UNK>'
         ret.append(full_dict[w])
     nr = len(ret)
+    if max_len==None:
+        max_len=nr+1
     if nr > max_len-1:
         print(_2utf8('Len of setence %d ||| %s ||| exceed... Clipping...'%(nr, s)))
         ret = ret[:max_len-1]
@@ -185,10 +187,14 @@ def dataSeqs2NpSeqs(seqs, full_dict, max_len, dtype=np.int32, shuffled=False, su
     for s in seqs:
         x = subf(s, full_dict, buckets)
         ret.append(x)
+    ret_len = []
+    for s in ret:
+        ret_len.append(len(ret))
     ret = np.array(ret, dtype=dtype)
+    ret_len = np.array(ret, dtype=np.int32)
     if shuffled:
         [ret] = npShuffle([ret])
-    return ret
+    return ret, ret_len
 
 def dataLogits2Seq(x, full_dict, calc_argmax=False):
     if calc_argmax:
