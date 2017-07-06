@@ -13,10 +13,12 @@ class Seq2SeqModel():
         self.hidden_size = config['HIDDEN_SIZE']
 
 
-        self.encoder_inputs = tf.placeholder(dtype=tf.int32, shape=(None, None), name='encoder_inputs')
-        self.encoder_inputs_length = tf.placeholder(dtype=tf.int32, shape=(None, ), name='encoder_inputs_length')
-        self.decoder_inputs = tf.placeholder(dtype=tf.int32, shape=(None, None), name='decoder_inputs')
-        self.decoder_inputs_length = tf.placeholder(dtype=tf.int32, shape=(None, ), name='decoder_inputs_length')
+        self.encoder_inputs = tf.placeholder(dtype=tf.int32, shape=(None, self.batch_size), name='encoder_inputs')
+        self.encoder_inputs_length = tf.placeholder(dtype=tf.int32, shape=(self.batch_size), name='encoder_inputs_length')
+        self.encoder_inputs_mask = tf.placeholder(dtype=tf.float32, shape=(self.batch_size, None), name='max_input_len')
+        self.decoder_inputs = tf.placeholder(dtype=tf.int32, shape=(None, self.batch_size), name='decoder_inputs')
+        self.decoder_inputs_length = tf.placeholder(dtype=tf.int32, shape=(self.batch_size), name='decoder_inputs_length')
+        self.decoder_inputs_mask = tf.placeholder(dtype=tf.float32, shape=(self.batch_size, None), name='max_output_len')
         with tf.variable_scope("embedding") as scope:
             sqrt3 = math.sqrt(3)
             initializer = tf.random_uniform_initializer(-sqrt3, sqrt3)
@@ -28,18 +30,24 @@ class Seq2SeqModel():
 
             self.decoder_inputs_embedded = tf.nn.embedding_lookup(self.output_word_embedding_matrix, self.decoder_inputs)
 
-        config_cell = None
+        config_encoder_cell = None
+        config_decoder_cell = None
         if config['CELL'] in ['LSTM', 'lstm']:
-            config_cell = tf.contrib.rnn.BasicLSTMCell(self.hidden_size)
+            config_encoder_cell = tf.contrib.rnn.BasicLSTMCell(self.hidden_size)
+            config_decoder_cell = tf.contrib.rnn.BasicLSTMCell(self.hidden_size*2)
         elif config['CELL'] in ['GRU', 'gru']:
-            config_cell = tf.contrib.rnn.GRUCell(self.hidden_size)
+            config_encoder_cell = tf.contrib.rnn.GRUCell(self.hidden_size)
+            config_decoder_cell = tf.contrib.rnn.GRUCell(self.hidden_size*2)
         else:
-            config_cell = tf.contrib.rnn.BasicRNNCell(self.hidden_size)
-        config_cell = tf.contrib.rnn.DropoutWrapper(config_cell, input_keep_prob=config['INPUT_DROPOUT'], output_keep_prob=config['OUTPUT_DROPOUT'], seed=config['SEED'])
+            config_encoder_cell = tf.contrib.rnn.BasicRNNCell(self.hidden_size)
+            config_decoder_cell = tf.contrib.rnn.BasicRNNCell(self.hidden_size*2)
+        config_encoder_cell = tf.contrib.rnn.DropoutWrapper(config_encoder_cell, input_keep_prob=config['INPUT_DROPOUT'], output_keep_prob=config['OUTPUT_DROPOUT'], seed=config['SEED'])
+        config_decoder_cell = tf.contrib.rnn.DropoutWrapper(config_decoder_cell, input_keep_prob=config['INPUT_DROPOUT'], output_keep_prob=config['OUTPUT_DROPOUT'], seed=config['SEED'])
         # self.encoder_cell = config_cell
         # self.decoder_cell = config_cell
-        self.encoder_cell = tf.contrib.rnn.MultiRNNCell([config_cell] * config['ENCODER_LAYERS'])
-        self.decoder_cell = tf.contrib.rnn.MultiRNNCell([config_cell] * config['DECODER_LAYERS'])
+        self.encoder_cell = tf.contrib.rnn.MultiRNNCell([config_encoder_cell] * config['ENCODER_LAYERS'])
+        self.decoder_cell = tf.contrib.rnn.MultiRNNCell([config_decoder_cell] * config['DECODER_LAYERS'])
+        self.decoder_cell = tf.contrib.rnn.OutputProjectionWrapper( self.decoder_cell, output_size = self.output_size)
 
         with tf.variable_scope("BidirectionalEncoder") as scope:
             ((encoder_fw_outputs, encoder_bw_outputs), (encoder_fw_states, encoder_bw_states)) =                 tf.nn.bidirectional_dynamic_rnn(cell_fw=self.encoder_cell, cell_bw=self.encoder_cell, inputs=self.encoder_inputs_embedded, sequence_length=self.encoder_inputs_length, time_major=True, dtype=tf.float32)
@@ -59,7 +67,7 @@ class Seq2SeqModel():
             self.encoder_state =tuple([tf.contrib.rnn.LSTMStateTuple(c=encoder_state_c, h=encoder_state_h)]*config['DECODER_LAYERS'])
 
         with tf.variable_scope("AttentionDecoder") as scope:
-            attention_mechanism = tf.contrib.seq2seq.BahdanauAttention(self.hidden_size, self.encoder_outputs, memory_sequence_length=self.decoder_inputs_length)
+            attention_mechanism = tf.contrib.seq2seq.BahdanauAttention(self.hidden_size, tf.transpose(self.encoder_outputs,perm=[1,0,2]), memory_sequence_length=self.encoder_inputs_length)
             self.decoder_cell =   tf.contrib.seq2seq.AttentionWrapper(self.decoder_cell, attention_mechanism, attention_layer_size=self.hidden_size, output_attention=False)
             initial_state = self.decoder_cell.zero_state(batch_size=self.batch_size, dtype=tf.float32)
             initial_state = initial_state.clone(cell_state=self.encoder_state)
@@ -68,39 +76,58 @@ class Seq2SeqModel():
 
             self.train_helper = tf.contrib.seq2seq.TrainingHelper(self.decoder_inputs_embedded, self.decoder_inputs_length, time_major=True)
             self.decoder_train=tf.contrib.seq2seq.BasicDecoder(self.decoder_cell, helper=self.train_helper, initial_state=initial_state)
-            self.train_outputs, self.train_state, self.train_sequence_lengths = tf.contrib.seq2seq.dynamic_decode(self.decoder_train, impute_finished=True, maximum_iterations=config['MAX_OUT_LEN'])
+            self.train_outputs, self.train_state, self.train_sequence_lengths = tf.contrib.seq2seq.dynamic_decode(self.decoder_train, impute_finished=False, maximum_iterations=None)
+
+
+
+            # scope.reuse_variables()
+
+            self.infer_helper = tf.contrib.seq2seq.GreedyEmbeddingHelper(self.output_word_embedding_matrix, self.decoder_inputs[0], config['ID_END'])
+            self.decoder_infer=tf.contrib.seq2seq.BasicDecoder(self.decoder_cell, helper=self.infer_helper, initial_state=initial_state)
+            self.infer_outputs, self.infer_state, self.infer_sequence_lengths = tf.contrib.seq2seq.dynamic_decode(self.decoder_infer, maximum_iterations=config['MAX_OUT_LEN'])
             # def output_fn(outputs):
             #     return tf.contrib.layers.linear(outputs, self.vocab_size, scope=scope)
             # self.train_logits = output_fn(self.train_outputs)
-            self.train_prediction = tf.argmax(self.train_outputs, axis=-1, name='decoder_prediction_train')
-            self.train_loss = seq2seq.sequence_loss(logits=outputs, targets=self.decoder_inputs)
+
+            self.train_outputs = self.train_outputs.rnn_output
+            self.infer_outputs = self.infer_outputs.rnn_output
+
+            self.train_prediction = tf.argmax(self.train_outputs, axis=1, name='decoder_prediction_train')
+            self.train_loss = seq2seq.sequence_loss(logits=self.train_outputs, targets=self.decoder_inputs, weights=self.decoder_inputs_mask)
             self.train_op = tf.train.AdamOptimizer().minimize(self.train_loss)
 
-            scope.reuse_variables()
 
-            self.infer_helper = tf.contrib.seq2seq.GreedyEmbeddingHelper(self.output_word_embedding_matrix, self.decoder_inputs[0], config['ID_END'])
-            self.decoder_infer=tf.contrib.seq2seq.BasicDecoder(self.decoder_cell, helper=self.infer_helper, initial_state=self.encoder_state)
-            self.infer_outputs, self.infer_state, self.infer_sequence_lengths = tf.contrib.seq2seq.dynamic_decode(self.decoder_infer, maximum_iterations=config['MAX_OUT_LEN'])
-            self.infer_prediction = tf.argmax(self.infer_outputs, axis=-1, name='decoder_prediction_inference')
-            self.eval_loss = seq2seq.sequence_loss(logits=self.infer_outputs, targets=self.decoder_inputs)
+            self.infer_prediction = tf.argmax(self.infer_outputs, axis=1, name='decoder_prediction_inference')
+            self.eval_loss = seq2seq.sequence_loss(logits=self.infer_outputs, targets=self.decoder_inputs, weights=self.decoder_inputs_mask)
         self.saver = model_utils.initGlobalSaver()
 
 
-    def make_train_feed(self, encoder_inputs, encoder_inputs_length, decoder_inputs, decoder_inputs_length):
+    def make_train_feed(self, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask):
         return {
             self.encoder_inputs: encoder_inputs,
             self.encoder_inputs_length: encoder_inputs_length,
-            self.decoder_inputs: encoder_inputs,
+            self.encoder_inputs_mask: encoder_inputs_mask,
+            self.decoder_inputs: decoder_inputs,
             self.decoder_inputs_length: decoder_inputs_length,
+            self.decoder_inputs_mask: decoder_inputs_mask,
         }
-    def train_on_batch(self, session, encoder_inputs, encoder_inputs_length, decoder_inputs, decoder_inputs_length):
-        train_feed = make_train_feed(encoder_inputs, encoder_inputs_length, decoder_inputs, decoder_inputs_length)
+    def make_infer_feed(self, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask):
+        return {
+            self.encoder_inputs: encoder_inputs,
+            self.encoder_inputs_length: encoder_inputs_length,
+            self.encoder_inputs_mask: encoder_inputs_mask,
+            self.decoder_inputs: decoder_inputs,
+            self.decoder_inputs_length: decoder_inputs_length,
+            self.decoder_inputs_mask: decoder_inputs_mask,
+        }
+    def train_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask):
+        train_feed = self.make_train_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask)
         _, loss = session.run([self.train_op, self.train_loss], train_feed)
         return loss
-    def eval_on_batch(self, session, encoder_inputs, encoder_inputs_length, decoder_inputs, decoder_inputs_length):
-        infer_feed = make_infer_feed(encoder_inputs, encoder_inputs_length, decoder_inputs, decoder_inputs_length)
+    def eval_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask):
+        infer_feed = self.make_infer_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask)
         loss, outputs = session.run([self.eval_loss, self.infer_outputs], infer_feed)
         return loss, outputs
-    def predict_on_batch(self, session, encoder_inputs, encoder_inputs_length, decoder_inputs, decoder_inputs_length):
-        infer_feed = make_infer_feed(encoder_inputs, encoder_inputs_length, decoder_inputs, decoder_inputs_length)
+    def predict_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask):
+        infer_feed = self.make_infer_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask)
         return

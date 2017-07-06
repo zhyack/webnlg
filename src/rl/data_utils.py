@@ -172,29 +172,41 @@ def dataSeqs2Digits(s, full_dict, max_len=None):
     if max_len==None:
         max_len=nr+1
     if nr > max_len-1:
-        print(_2utf8('Len of setence %d ||| %s ||| exceed... Clipping...'%(nr, s)))
+        print(_2utf8('Len of setence %d ||| %s ||| exceed %d... Clipping...'%(nr, s, max_len)))
         ret = ret[:max_len-1]
         nr = max_len-1
     ret.append(full_dict['<EOS>'])
     nr += 1
+    ret_l = nr
+    ret_mask = [1]*nr
     while(nr < max_len):
         ret.append(full_dict['<PAD>'])
         nr += 1
-    return ret
+        ret_mask.append(0)
+    return ret, ret_l, ret_mask
 
-def dataSeqs2NpSeqs(seqs, full_dict, max_len, dtype=np.int32, shuffled=False, subf=dataSeqs2Digits):
+def dataSeqs2NpSeqs(seqs, full_dict, max_len=None, dtype=np.int32, shuffled=False, subf=dataSeqs2Digits):
+    print(max_len)
     ret = []
-    for s in seqs:
-        x = subf(s, full_dict, buckets)
-        ret.append(x)
     ret_len = []
-    for s in ret:
-        ret_len.append(len(ret))
+    ret_mask = []
+    for s in seqs:
+        x, x_l, x_mask = subf(s, full_dict, max_len)
+        ret.append(x)
+        ret_len.append(x_l)
+        ret_mask.append(x_mask)
     ret = np.array(ret, dtype=dtype)
-    ret_len = np.array(ret, dtype=np.int32)
+    ret_len = np.array(ret_len, dtype=np.int32)
+    ret_mask = np.array(ret_mask, dtype=np.float32)
     if shuffled:
         [ret] = npShuffle([ret])
-    return ret, ret_len
+    # for i in range(len(seqs)):
+    #     print(seqs[i],ret[i])
+    print(ret_len)
+    ret = np.transpose(ret)
+    print(ret.shape)
+    print(ret_mask.shape)
+    return ret, ret_len, ret_mask
 
 def dataLogits2Seq(x, full_dict, calc_argmax=False):
     if calc_argmax:

@@ -21,6 +21,7 @@ CONFIG['ITERS']=100
 CONFIG['BATCH_SIZE']=32
 CONFIG['MAX_IN_LEN']=50
 CONFIG['MAX_OUT_LEN']=70
+CONFIG['BUCKETS']=[[5,10], [10,20], [20,40], [30,50], [40,60], [50,70]]
 
 
 
@@ -46,12 +47,20 @@ full_dict_src, rev_dict_src = loadDict(CONFIG['SRC_DICT'])
 full_dict_dst, rev_dict_dst = loadDict(CONFIG['DST_DICT'])
 CONFIG['INPUT_VOCAB_SIZE']=len(rev_dict_src)
 CONFIG['OUTPUT_VOCAB_SIZE']=len(rev_dict_dst)
+print(CONFIG['INPUT_VOCAB_SIZE'],CONFIG['OUTPUT_VOCAB_SIZE'])
+CONFIG['ID_END']=full_dict_dst['<EOS>']
+CONFIG['ID_BOS']=full_dict_dst['<BOS>']
+CONFIG['ID_PAD']=full_dict_dst['<PAD>']
+CONFIG['ID_UNK']=full_dict_dst['<UNK>']
+
 
 f_x = open(CONFIG['TRAIN_INPUT'],'r')
 x_train_raw = f_x.readlines()
 f_y = open(CONFIG['TRAIN_OUTPUT'],'r')
 y_train_raw = f_y.readlines()
 train_raw = [ [x_train_raw[i].strip(),y_train_raw[i].strip()] for i in range(len(x_train_raw))]
+train_buckets_raw = arrangeBuckets(train_raw, CONFIG['BUCKETS'])
+print([len(b) for b in train_buckets_raw])
 f_x.close()
 f_y.close()
 f_x = open(CONFIG['DEV_INPUT'],'r')
@@ -59,6 +68,8 @@ x_eval_raw = f_x.readlines()
 f_y = open(CONFIG['DEV_OUTPUT'],'r')
 y_eval_raw = f_y.readlines()
 eval_raw = [ [x_eval_raw[i].strip(),y_eval_raw[i].strip()] for i in range(len(x_eval_raw))]
+eval_buckets_raw = arrangeBuckets(eval_raw, CONFIG['BUCKETS'])
+print([len(b) for b in eval_buckets_raw])
 f_x.close()
 f_y.close()
 
@@ -77,36 +88,35 @@ with tf.Session() as sess:
     print('Training Begin...')
     for n_iter in range(CONFIG['GLOBAL_STEP']/CONFIG['MAX_STEPS_PER_ITER'], CONFIG['ITERS']):
         while True:
-            n_train = len(train_raw)
-            train_batch = [ train_raw[random.randint(0, n_train-1)] for _ in range(CONFIG['BATCH_SIZE'])]
-            model_inputs, len_inputs = dataSeqs2NpSeqs(train_batch[:][0], full_dict_src)
-            model_outputs, len_outputs = dataSeqs2NpSeqs(train_batch[:][1], full_dict_dst)
-            print model_inputs
-            print len_inputs
-            print model_outputs
-            print len_outputs
-            exit(0)
-            batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, model_outputs, len_outputs)
+            b = random.randint(0, len(CONFIG['BUCKETS'])-1)
+            n_b = len(train_buckets_raw[b])
+            train_batch = [ train_buckets_raw[b][random.randint(0, n_b-1)] for _ in range(CONFIG['BATCH_SIZE'])]
+            train_batch = map(list, zip(*train_batch))
+            model_inputs, len_inputs, inputs_mask = dataSeqs2NpSeqs(train_batch[0], full_dict_src, CONFIG['BUCKETS'][b][0])
+            model_outputs, len_outputs, outputs_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1])
+            print(outputs_mask.shape)
+            batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs, outputs_mask)
             print('Train completed for Iter@%d, Step@%d: Loss=%.6f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss))
             CONFIG['GLOBAL_STEP']+=1
-            if (CONFIG['GLOBAL_STEP'] % CONFIG['MAX_STEPS_PER_ITER'] != 0):
+            if (CONFIG['GLOBAL_STEP'] % CONFIG['MAX_STEPS_PER_ITER'] == 0):
                 break
         print('Iter@%d completed! Start Evaluating...'%(n_iter))
         eval_losses=[]
         for b in range(len(CONFIG['BUCKETS'])):
-            n_eval = len(eval_raw)
-            for k in range( (n_eval+CONFIG['BATCH_SIZE']-1) / CONFIG['BATCH_SIZE'] ):
-                eval_batch = [ eval_raw[i] for i in range(k*CONFIG['BATCH_SIZE'], min((k+1)*CONFIG['BATCH_SIZE'], n_eval)) ]
-                model_inputs, len_inputs = dataSeqs2NpSeqs(eval_batch[:][0], full_dict_src)
-                model_outputs, len_outputs = dataSeqs2NpSeqs(eval_batch[:][1], full_dict_dst)
-                batch_loss, predict_outputs = Model.eval_on_batch(sess, model_inputs, len_inputs, model_outputs, len_outputs)
+            n_b = len(eval_buckets_raw[b])
+            for k in range((n_b+CONFIG['BATCH_SIZE']-1)/CONFIG['BATCH_SIZE']):
+                eval_batch = [ eval_buckets_raw[b][i] for i in range(k*CONFIG['BATCH_SIZE'], min(k*CONFIG['BATCH_SIZE']+CONFIG['BATCH_SIZE'], n_b)) ]
+                eval_batch = map(list, zip(*eval_batch))
+                model_inputs, len_inputs, inputs_mask = dataSeqs2NpSeqs(train_batch[0], full_dict_src, CONFIG['BUCKETS'][b][0])
+                model_outputs, len_outputs, outputs_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1])
+                batch_loss, predict_outputs = Model.eval_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs,  outputs_mask)
                 predict_seqs = dataLogits2Seq(predict_outputs, full_dict_dst, calc_argmax=True)
                 eval_losses.append(batch_loss)
                 for i in range(CONFIG['BATCH_SIZE']):
                     if random.random()<0.001:
-                        print('Raw input: %s\nExpected output: %s\nModel output: %s' % (eval_batch[i][0], eval_batch[i][1], predict_seqs[i]))
+                        print('Raw input: %s\nExpected output: %s\nModel output: %s' % (eval_batch[i][0], eval_batch[i][1], dataLogits2Seq(predict_ids, full_dict_dst)))
         print('Evaluationg completed:\nAverage Loss:%.6f'%(sum(eval_losses)/len(eval_losses)))
 
         if args.save_folder != None:
-            saveModelToFolder(sess, args.save_folder, CONFIG, Model)
+            saveModelToFolder(sess, Model.saver, args.save_folder, CONFIG, Model)
     print('Training Completed...')

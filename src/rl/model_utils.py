@@ -18,8 +18,6 @@ def initGlobalSaver():
 
 def loadModelFromFolder(sess, saver, pf):
     config = json2load(pf+'/config.json')
-    ret = seq2seq_model.Seq2SeqModel(config)
-    sess.run(ret.init_model)
     saver.restore(sess, pf+"/checkpoint")
     print("Restored model from %s"%pf)
     return ret, config
@@ -31,5 +29,6 @@ def saveModelToFolder(sess, saver, pf, config):
 
 def instanceOfInitModel(sess, config):
     ret = seq2seq_model.Seq2SeqModel(config)
+    sess.run(tf.global_variables_initializer())
     print('Model Initialized.')
     return ret
