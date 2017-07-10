@@ -17,7 +17,7 @@ CONFIG['TRAIN_INPUT']='../data_utils/modify/train-webnlg-all-delex.triple'
 CONFIG['TRAIN_OUTPUT']='../data_utils/modify/train-mod.txt'
 CONFIG['DEV_INPUT']='../data_utils/modify/dev-webnlg-all-delex.triple'
 CONFIG['DEV_OUTPUT']='../data_utils/modify/dev-mod.txt'
-CONFIG['MAX_STEPS_PER_ITER']=300
+CONFIG['MAX_STEPS_PER_ITER']=1000
 CONFIG['GLOBAL_STEP']=1
 CONFIG['ITERS']=100
 CONFIG['BATCH_SIZE']=32
@@ -70,7 +70,7 @@ x_eval_raw = f_x.readlines()
 f_y = open(CONFIG['DEV_OUTPUT'],'r')
 y_eval_raw = f_y.readlines()
 eval_raw = [ [x_eval_raw[i].strip(),y_eval_raw[i].strip()] for i in range(len(x_eval_raw))]
-eval_raw = eval_raw[:256]
+# eval_raw = eval_raw[:256]
 eval_buckets_raw = arrangeBuckets(eval_raw, CONFIG['BUCKETS'])
 print([len(b) for b in eval_buckets_raw])
 f_x.close()
@@ -106,6 +106,7 @@ with tf.Session() as sess:
                 break
         print('Iter@%d completed! Start Evaluating...'%(n_iter))
         eval_losses=[]
+        # eval_buckets_raw = train_buckets_raw
         for b in range(len(CONFIG['BUCKETS'])):
             n_b = len(eval_buckets_raw[b])
             for k in range((n_b+CONFIG['BATCH_SIZE']-1)/CONFIG['BATCH_SIZE']):

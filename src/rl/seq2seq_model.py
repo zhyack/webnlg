@@ -102,11 +102,11 @@ class Seq2SeqModel():
 
             self.train_prediction = tf.argmax(self.train_outputs, axis=1, name='decoder_prediction_train')
             self.train_loss = seq2seq.sequence_loss(logits=self.train_outputs, targets=tf.transpose(self.decoder_targets, perm=[1,0]), weights=self.decoder_targets_mask)
-            self.train_op = tf.train.AdamOptimizer(learning_rate=self.learning_rate).minimize(self.train_loss)
 
 
             self.infer_prediction = tf.argmax(self.infer_outputs, axis=1, name='decoder_prediction_inference')
             self.eval_loss = seq2seq.sequence_loss(logits=self.infer_outputs, targets=tf.transpose(self.decoder_targets, perm=[1,0]), weights=self.decoder_targets_mask)
+            self.train_op = tf.train.AdamOptimizer(learning_rate=self.learning_rate).minimize(self.eval_loss)
         scope.reuse_variables()
         self.saver = model_utils.initGlobalSaver()
 
@@ -137,7 +137,7 @@ class Seq2SeqModel():
         }
     def train_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask):
         train_feed = self.make_train_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask)
-        _, loss = session.run([self.train_op, self.train_loss], train_feed)
+        _, loss = session.run([self.train_op, self.eval_loss], train_feed)
         return loss
     def eval_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask):
         infer_feed = self.make_infer_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask)
