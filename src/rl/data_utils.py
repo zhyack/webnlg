@@ -4,6 +4,9 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 import numpy as np
+import os
+import time
+import random
 
 import chardet
 def _2uni(s):
@@ -16,11 +19,11 @@ def _2uni(s):
             try:
                 return unicode(s, 'GBK')
             except UnicodeDecodeError:
-                guess = chardet.detect(s)
                 try:
+                    guess = chardet.detect(s)
                     return unicode(s, guess["encoding"])
                 except:
-                    return ""
+                    return s
 def _2utf8(s):
     return _2uni(s).encode('UTF-8')
 def _2gbk(s):
@@ -75,10 +78,11 @@ def loadDict(pf):
     r_ret = []
     for l in f.readlines():
         [w, _] = l.split()
+        w = _2utf8(w)
         ret[w]=lcnt
         r_ret.append(w)
         lcnt += 1
-    if not ret.has_key('<bOS>'):
+    if not ret.has_key('<BOS>'):
         ret['<BOS>']=lcnt
         r_ret.append('<BOS>')
         lcnt += 1
@@ -144,7 +148,7 @@ def dataSeq2Onehot(s, full_dict, max_len):
         ret[-1][full_dict[w]]=1
     nr = len(ret)
     if nr > max_len-1:
-        print(_2utf8('Len of setence %d ||| %s ||| exceed... Clipping...'%(nr, s)))
+        # print(_2utf8('Len of setence %d ||| %s ||| exceed... Clipping...'%(nr, s)))
         ret = ret[:max_len-1]
         nr = max_len-1
     ret.append([0]*ndict)
@@ -156,41 +160,68 @@ def dataSeq2Onehot(s, full_dict, max_len):
         nr += 1
     return ret
 
-def dataSeqs2Digits(s, full_dict, max_len):
+def dataSeqs2Digits(s, full_dict, max_len=None, bias=0):
     ret = []
     ndict = len(full_dict)
     assert(full_dict.has_key('<UNK>'))
     assert(full_dict.has_key('<BOS>'))
     assert(full_dict.has_key('<EOS>'))
     assert(full_dict.has_key('<PAD>'))
-    ret.append(full_dict['<BOS>'])
+    if bias==0:
+        ret.append(full_dict['<BOS>'])
     for w in s.split():
         if not full_dict.has_key(w):
             w = '<UNK>'
         ret.append(full_dict[w])
     nr = len(ret)
-    if nr > max_len-1:
-        print(_2utf8('Len of setence %d ||| %s ||| exceed... Clipping...'%(nr, s)))
-        ret = ret[:max_len-1]
-        nr = max_len-1
+    if max_len==None:
+        max_len=nr+1
+    if nr > max_len-1-bias:
+        # print(_2utf8('Len of setence %d ||| %s ||| exceed %d... Clipping...'%(nr, s, max_len)))
+        ret = ret[:max_len-1-bias]
+        nr = max_len-1-bias
+    ret_l = nr+bias
+    ret_mask = [1]*ret_l
     ret.append(full_dict['<EOS>'])
     nr += 1
+    if (bias==0):
+        ret_mask.append(0)
     while(nr < max_len):
         ret.append(full_dict['<PAD>'])
         nr += 1
-    return ret
+        ret_mask.append(0)
+    return ret, ret_l, ret_mask
 
-def dataSeqs2NpSeqs(seqs, full_dict, max_len, dtype=np.int32, shuffled=False, subf=dataSeqs2Digits):
+def dataSeqs2NpSeqs(seqs, full_dict, max_len=None, dtype=np.int32, shuffled=False, subf=dataSeqs2Digits, bias=0):
+    # print(max_len)
     ret = []
+    ret_len = []
+    ret_mask = []
     for s in seqs:
-        x = subf(s, full_dict, buckets)
+        x, x_l, x_mask = subf(s, full_dict, max_len, bias)
         ret.append(x)
-    ret = np.array(ret, dtype=dtype)
+        ret_len.append(x_l)
+        ret_mask.append(x_mask)
+    ret_len = np.array(ret_len, dtype=np.int32)
+    ret = np.array(ret, dtype=dtype)[:, :np.amax(ret_len)]
+    ret_mask = np.array(ret_mask, dtype=np.float32)[:, :np.amax(ret_len)]
     if shuffled:
         [ret] = npShuffle([ret])
-    return ret
+    # for i in range(len(seqs)):
+    #     print(seqs[i],ret[i])
+    # print(ret_len)
+    ret = np.transpose(ret)
+    # print(ret.shape)
+    # print(ret_mask.shape)
+    return ret, ret_len, ret_mask
 
 def dataLogits2Seq(x, full_dict, calc_argmax=False):
     if calc_argmax:
-            x = x.argmax(axis=-1)
-    return ' '.join(full_dict[x] for x in x)
+        x = x.argmax(axis=-1)
+    ret = ''
+    for w in x:
+        try:
+            ret += _2utf8(full_dict[w])+' '
+        except:
+            print(w)
+    return ret
