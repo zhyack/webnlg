@@ -16,7 +16,8 @@ class Seq2SeqModel():
         self.output_size = config['OUTPUT_VOCAB_SIZE']
         self.encoder_hidden_size = config['HIDDEN_SIZE']
         if config['BIDIRECTIONAL_ENCODER']:
-            self.decoder_hidden_size = config['HIDDEN_SIZE']*2
+            # self.decoder_hidden_size = config['HIDDEN_SIZE']*2
+            self.decoder_hidden_size = config['HIDDEN_SIZE']
         else:
             self.decoder_hidden_size = config['HIDDEN_SIZE']
 
@@ -68,11 +69,12 @@ class Seq2SeqModel():
                     self.encoder_outputs = tf.concat((encoder_fw_outputs, encoder_bw_outputs), 2)
                     encoder_fw_state = encoder_fw_states[-1]
                     encoder_bw_state = encoder_bw_states[-1]
-                    encoder_state_c = tf.concat(
-                        (encoder_fw_state.c, encoder_bw_state.c), 1, name='bidirectional_concat_c')
-                    encoder_state_h = tf.concat(
-                        (encoder_fw_state.h, encoder_bw_state.h), 1, name='bidirectional_concat_h')
-                    self.encoder_state =tuple([tf.contrib.rnn.LSTMStateTuple(c=encoder_state_c, h=encoder_state_h)]*config['DECODER_LAYERS'])
+                    # encoder_state_c = tf.concat(
+                    #     (encoder_fw_state.c, encoder_bw_state.c), 1, name='bidirectional_concat_c')
+                    # encoder_state_h = tf.concat(
+                    #     (encoder_fw_state.h, encoder_bw_state.h), 1, name='bidirectional_concat_h')
+                    # self.encoder_state =tuple([tf.contrib.rnn.LSTMStateTuple(c=encoder_state_c, h=encoder_state_h)]*config['DECODER_LAYERS'])
+                    self.encoder_state = encoder_fw_state
                 else:
                     self.encoder_outputs, self.encoder_state = tf.nn.dynamic_rnn(cell=self.encoder_cell, inputs=self.encoder_inputs_embedded, sequence_length=self.encoder_inputs_length, time_major=True, dtype=tf.float32)
 
