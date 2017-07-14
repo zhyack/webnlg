@@ -8,6 +8,7 @@ import numpy as np
 from six.moves import range
 
 from data_utils import *
+from reward import *
 import random
 
 import seq2seq_model

@@ -4,6 +4,9 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 import numpy as np
+import os
+import time
+import random
 
 import chardet
 def _2uni(s):
@@ -16,8 +19,11 @@ def _2uni(s):
             try:
                 return unicode(s, 'GBK')
             except UnicodeDecodeError:
-                guess = chardet.detect(s)
-                return unicode(s, guess["encoding"])
+                try:
+                    guess = chardet.detect(s)
+                    return unicode(s, guess["encoding"])
+                except:
+                    return s
 def _2utf8(s):
     return _2uni(s).encode('UTF-8')
 def _2gbk(s):
@@ -212,4 +218,10 @@ def dataSeqs2NpSeqs(seqs, full_dict, max_len=None, dtype=np.int32, shuffled=Fals
 def dataLogits2Seq(x, full_dict, calc_argmax=False):
     if calc_argmax:
         x = x.argmax(axis=-1)
-    return _2utf8(' '.join(full_dict[x] for x in x))
+    ret = ''
+    for w in x:
+        try:
+            ret += _2utf8(full_dict[w])+' '
+        except:
+            print(w)
+    return ret

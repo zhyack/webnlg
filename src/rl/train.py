@@ -2,14 +2,18 @@ from model_utils import *
 from data_utils import _2uni, _2utf8, _2gbk
 
 CONFIG = dict()
-CONFIG['LR'] = 0.001
-CONFIG['LR_DECAY'] = 0.3
+CONFIG['LR'] = 0.0001
+CONFIG['LR_DECAY'] = 0.9
 CONFIG['CELL'] = "lstm"
-CONFIG['HIDDEN_SIZE'] = 300
+CONFIG['HIDDEN_SIZE'] = 1000
 CONFIG['ENCODER_LAYERS'] = 1
 CONFIG['DECODER_LAYERS'] = 1
+CONFIG['BIDIRECTIONAL_ENCODER'] = False
+CONFIG['ATTENTION_DECODER'] = True
+CONFIG['ATTENTION_MECHANISE'] = 'BAHDANAU'
+# CONFIG['ATTENTION_MECHANISE'] = 'LUONG'
 CONFIG['INPUT_DROPOUT'] = 1.0
-CONFIG['OUTPUT_DROPOUT'] = 0.8
+CONFIG['OUTPUT_DROPOUT'] = 0.7
 CONFIG['SEED'] = 233333
 CONFIG['SRC_DICT']='../data_utils/modify/dict_src'
 CONFIG['DST_DICT']='../data_utils/modify/dict_dst'
@@ -17,13 +21,17 @@ CONFIG['TRAIN_INPUT']='../data_utils/modify/train-webnlg-all-delex.triple'
 CONFIG['TRAIN_OUTPUT']='../data_utils/modify/train-mod.txt'
 CONFIG['DEV_INPUT']='../data_utils/modify/dev-webnlg-all-delex.triple'
 CONFIG['DEV_OUTPUT']='../data_utils/modify/dev-mod.txt'
-CONFIG['MAX_STEPS_PER_ITER']=1000
+CONFIG['MAX_STEPS_PER_ITER']=500
 CONFIG['GLOBAL_STEP']=1
 CONFIG['ITERS']=100
-CONFIG['BATCH_SIZE']=32
+CONFIG['BATCH_SIZE']=64
 CONFIG['MAX_IN_LEN']=50
-CONFIG['MAX_OUT_LEN']=70
+CONFIG['MAX_OUT_LEN']=80
 CONFIG['BUCKETS']=[[5,10], [10,20], [20,40], [30,50], [40,60], [50,70]]
+CONFIG['CLIP']=True
+CONFIG['CLIP_NORM']=5.0
+CONFIG['VAR_NORM_BETA']=0.00003
+CONFIG['TRAIN_ON_EACH_STEP']=True
 
 
 
@@ -106,6 +114,7 @@ with tf.Session() as sess:
                 break
         print('Iter@%d completed! Start Evaluating...'%(n_iter))
         eval_losses=[]
+        eval_results=dict()
         # eval_buckets_raw = train_buckets_raw
         for b in range(len(CONFIG['BUCKETS'])):
             n_b = len(eval_buckets_raw[b])
@@ -121,9 +130,10 @@ with tf.Session() as sess:
                 eval_losses.append(batch_loss)
                 eval_batch = map(list, zip(*eval_batch))
                 for i in range(CONFIG['BATCH_SIZE']):
+                    eval_results[eval_batch[i][0]] = dataLogits2Seq(predict_outputs[i], rev_dict_dst, calc_argmax=True)
                     if random.random()<0.01:
                         try:
-                            print('Raw input: %s\nExpected output: %s\nModel output: %s' % (eval_batch[i][0], eval_batch[i][1], dataLogits2Seq(predict_outputs[i], rev_dict_dst, calc_argmax=True)))
+                            print('Raw input: %s\nExpected output: %s\nModel output: %s' % (eval_batch[i][0], eval_batch[i][1], eval_results[eval_batch[i][0]]))
                             # for j in range(len(predict_outputs[i])):
                             #     ll = eval_batch[i][1].split()
                             #     try:
@@ -132,11 +142,26 @@ with tf.Session() as sess:
                             #         pass
                         except UnicodeDecodeError:
                             pass
-        print('Evaluationg completed:\nAverage Loss:%.6f'%(sum(eval_losses)/len(eval_losses)))
-        print(log_losses[max(0,len(log_losses)-10):])
-        log_losses.append(sum(eval_losses)/len(eval_losses))
-        if log_losses[-1]>min(log_losses[max(0,len(log_losses)-3):]):
-            sess.run(Model.lr_decay_op)
+
+
+        f_x = open(CONFIG['DEV_INPUT'],'r')
+        f_y = open('data/predictions.txt','w')
+        for line in f_x.readlines():
+            s = eval_results[line.strip()]
+            p = s.find('<EOS>')
+            if p==-1:
+                p = len(s)
+            f_y.write(s[:p]+'\n')
+        f_x.close()
+        f_y.close()
+        eval_bleu = bleuPerlInstance()
+        # print eval_bleu
+
+        print('Evaluationg completed:\nAverage Loss:%.6f\nBLEU:%.2f'%(sum(eval_losses)/len(eval_losses),eval_bleu))
+        print(log_losses[max(0,len(log_losses)-200):])
+        log_losses.append(eval_bleu)
+        if log_losses[-1]<=min(log_losses[max(0,len(log_losses)-3):]):
+            # sess.run(Model.lr_decay_op)
             print('Learning rate trun down-to %.6f'%(sess.run(Model.learning_rate)))
         if args.save_folder != None:
             saveModelToFolder(sess, Model.saver, args.save_folder, CONFIG, Model)
