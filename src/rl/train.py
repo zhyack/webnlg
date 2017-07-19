@@ -2,6 +2,7 @@ from model_utils import *
 from data_utils import _2uni, _2utf8, _2gbk
 
 CONFIG = dict()
+
 CONFIG['LR'] = 0.00015
 CONFIG['WE_LR'] = 0.00001
 CONFIG['ENCODER_LR'] = 0.00001
@@ -29,6 +30,7 @@ CONFIG['TRAIN_ON_EACH_STEP']=True
 CONFIG['MAX_STEPS_PER_ITER']=500
 CONFIG['ITERS']=50
 CONFIG['BATCH_SIZE']=64
+
 CONFIG['SEED'] = 233333
 CONFIG['SRC_DICT']='../data_utils/modify/dict_src'
 CONFIG['DST_DICT']='../data_utils/modify/dict_dst'
@@ -36,6 +38,7 @@ CONFIG['TRAIN_INPUT']='../data_utils/modify/train-webnlg-all-delex.triple'
 CONFIG['TRAIN_OUTPUT']='../data_utils/modify/train-mod.txt'
 CONFIG['DEV_INPUT']='../data_utils/modify/dev-webnlg-all-delex.triple'
 CONFIG['DEV_OUTPUT']='../data_utils/modify/dev-mod.txt'
+
 CONFIG['GLOBAL_STEP']=1
 CONFIG['MAX_IN_LEN']=30
 CONFIG['MAX_OUT_LEN']=80
@@ -95,8 +98,6 @@ f_y.close()
 # print len(train_raw), len(eval_raw)
 #
 # exit(0)
-
-
 
 with tf.Session() as sess:
     print('Loading model...')

@@ -9,6 +9,7 @@ from contrib_rnn_cell import ExtendedMultiRNNCell
 class Seq2SeqModel():
     def __init__(self, config):
         self.learning_rate = tf.Variable(config['LR'], dtype=tf.float32, name='model_learning_rate', trainable=False)
+
         self.word_embedding_learning_rate = tf.Variable(config['WE_LR'], dtype=tf.float32, name='model_learning_rate', trainable=False)
         self.encoder_learning_rate = tf.Variable(config['ENCODER_LR'], dtype=tf.float32, name='model_learning_rate', trainable=False)
         self.decoder_learning_rate = tf.Variable(config['DECODER_LR'], dtype=tf.float32, name='model_learning_rate', trainable=False)
@@ -196,7 +197,7 @@ class Seq2SeqModel():
             else:
                 self.train_op = updateBP(self.final_loss, [config['LR']], [self.all_trainable_variables])
 
-        self.saver = model_utils.initGlobalSaver()
+
 
 
     def make_train_feed(self, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask):
