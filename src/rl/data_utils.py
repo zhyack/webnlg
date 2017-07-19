@@ -233,3 +233,4 @@ def dataLogits2Seq(x, full_dict, calc_argmax=False):
         except:
             print(w)
     return _2utf8(ret)
+
