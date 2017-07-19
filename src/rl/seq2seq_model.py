@@ -20,6 +20,14 @@ class Seq2SeqModel():
             self.lr_decay_op = tmp_func()
         else:
             self.lr_decay_op = self.learning_rate.assign(self.learning_rate * config['LR_DECAY'])
+
+        if config['OPTIMIZER']='Adam':
+            self.optimizer = tf.train.AdamOptimizer
+        elif config['OPTIMIZER']='GD':
+            self.optimizer = tf.train.GradientDescentOptimizer
+        else:
+            raise Exception("Wrong optimizer name...")
+
         self.global_step = tf.Variable(config['GLOBAL_STEP'], dtype=tf.int32, name='model_global_step', trainable=False)
         self.batch_size = config['BATCH_SIZE']
         self.input_size = config['INPUT_VOCAB_SIZE']
@@ -174,7 +182,7 @@ class Seq2SeqModel():
         if config['CLIP']:
             def updateBP(loss, lr, var_list):
 
-                return [tf.contrib.layers.optimize_loss( loss=loss, global_step=self.global_step, learning_rate=lr[i], optimizer=tf.train.AdamOptimizer, clip_gradients=config['CLIP_NORM'], variables=var_list[i], learning_rate_decay_fn=model_utils.create_learning_rate_decay_fn(decay_rate=1-config['LR_DECAY'], decay_steps=config['MAX_STEPS_PER_ITER'])) for i in range(len(lr))]
+                return [tf.contrib.layers.optimize_loss( loss=loss, global_step=self.global_step, learning_rate=lr[i], optimizer=self.optimizer, clip_gradients=config['CLIP_NORM'], variables=var_list[i], learning_rate_decay_fn=model_utils.create_learning_rate_decay_fn(decay_rate=1-config['LR_DECAY'], decay_steps=config['MAX_STEPS_PER_ITER'])) for i in range(len(lr))]
 
             if config['SPLIT_LR']:
                 self.train_op = updateBP(self.final_loss, [config['WE_LR'], config['ENCODER_LR'], config['DECODER_LR']], [self.embedding_variables, self.encoder_variables, self.decoder_variables])

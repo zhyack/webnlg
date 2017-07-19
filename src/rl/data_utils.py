@@ -1,3 +1,4 @@
+#coding: UTF-8
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -28,6 +29,13 @@ def _2utf8(s):
     return _2uni(s).encode('UTF-8')
 def _2gbk(s):
     return _2uni(s).encode('GBK')
+
+def catUNI(s, c):
+    return s+_2uni(c)
+def catUTF8(s, c):
+    return _2utf8(_2uni(s)+_2uni(c))
+def catGBK(s, c):
+    return _2gbk(_2uni(s)+_2uni(c))
 
 def dict2utf8(d):
     ret = dict()
@@ -221,7 +229,7 @@ def dataLogits2Seq(x, full_dict, calc_argmax=False):
     ret = ''
     for w in x:
         try:
-            ret += _2utf8(full_dict[w])+' '
+            ret += _2uni(full_dict[w])+' '
         except:
             print(w)
-    return ret
+    return _2utf8(ret)
