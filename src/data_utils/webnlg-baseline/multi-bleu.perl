@@ -1,4 +1,4 @@
-#!/usr/bin/env perl
+#!/usr/bin/perl
 #
 # This file is part of moses.  Its use is licensed under the GNU Lesser General
 # Public License version 2.1 or, at your option, any later version.
@@ -44,7 +44,7 @@ sub add_to_ref {
     my $s=0;
     if ($file =~ /.gz$/) {
 	open(REF,"gzip -dc $file|") or die "Can't read $file";
-    } else { 
+    } else {
 	open(REF,$file) or die "Can't read $file";
     }
     while(<REF>) {

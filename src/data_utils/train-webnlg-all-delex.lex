@@ -6,7 +6,7 @@ The UNIVERSITY , also known as NICKNAME , is located in CITY , COUNTRY . It ' s 
 AIRPORT serves the city of CITYSERVED in COUNTRY where the LANGUAGE are spoken .
 MANAGER once managed AC Lumezzane . He played for Atalanta BC .
 The FOOD is a ' main course ' from the COUNTRY . It includes bacon , obviously , as well as sausage .
-ASTRONAUT is an American , who was born in BIRTHPLACE on November 18th , 1923 . He graduated from NWC in 1957 with an M . A . He was a test pilot , who was selected by NASA in WAS SELECTED BY NASA . He died in DEATHPLACE .
+ASTRONAUT is an American , who was born in BIRTHPLACE on November 18th , 1923 . He graduated from NWC in 1957 with an M . A . He was a test pilot , who was selected by NASA in WAS_SELECTED_BY_NASA . He died in DEATHPLACE .
 Ardmore Airport , at 34 metres above sea level , is in New Zealand and has a runway name of RUNWAYNAME with a length of 1411 and a surface type of poaceae .
 DEMONYM are from Spain .
 COMICSCHARACTER was broadcast by BROADCASTEDBY between 3 October 1983 and 15 April 1986 . It was created by CREATOR and starred STARRING .
@@ -18,7 +18,7 @@ COUNTRY has the currency of the CURRENCY and the capital city is CAPITAL . BUILD
 WRITTENWORK is produced in print and has an OCLC number of OCLC_NUMBER .
 LEADERNAME is the leader and President Of the LOCATION . An example of a street name in the LOCATION is Delaware Avenue and an example of an ethic group is ETHNICGROUP .
 Cookies and FOOD are both desserts , but the latter dish comes from COUNTRY .
-ASTRONAUT , who was born in BIRTHPLACE and in WAS SELECTED BY NASA selected by NASA , died in DEATHPLACE .
+ASTRONAUT , who was born in BIRTHPLACE and in WAS_SELECTED_BY_NASA selected by NASA , died in DEATHPLACE .
 FOOD is from the REGION region of COUNTRY . The region is led by the LEADERNAME . Felipe VI is the head of state of the DEMONYM .
 PUBLISHER , with president PRESIDENT , is the publisher of the WRITTENWORK .
 MAININGREDIENTS are part of the order of ORDER and is a flowering plant . It ' s ingredients are sweet potato and banana .
@@ -76,18 +76,18 @@ LANGUAGE is a language spoken in COUNTRY where FOOD is a popular dish .
 SPORTSTEAM ' s full name is FULLNAME .
 The main ingredients of FOOD are noodles , pork organs , vegetables , chicken , shrimp , and beef . It comes from the COUNTRY and originated from the region of REGION .
 WRITTENWORK was written by AUTHOR .
-ASTRONAUT attended the ALMAMATER who were affiliated to the university of Texas system which competed in the COMPETE IN , died in DEATHPLACE , ISPARTOF .
+ASTRONAUT attended the ALMAMATER who were affiliated to the university of Texas system which competed in the COMPETE_IN , died in DEATHPLACE , ISPARTOF .
 CAPITAL is the capital city in the UK .
 AIRPORT in LOCATION is ELEVATIONABOVETHESEALEVEL_(IN_FEET) feet above sea level .
 WRITTENWORK , abbreviated ABBREVIATION , has ISSN number ISSN_NUMBER .
 AIRPORT is located at Egg Harbour Township , which is located in Atlantic City , New Jersey , United States .
 MANAGER manages A S Roma and plays for CLUB .
 A food found in COUNTRY is ayam penyet which has fried chicken in it .
-As a member of the WAS A CREW MEMBER OF crew , ASTRONAUT ( birth name BIRTHNAME ) spent 100305 minutes in space . Nasa ' s WAS A CREW MEMBER OF was commanded by COMMANDER .
+As a member of the WAS_A_CREW_MEMBER_OF crew , ASTRONAUT ( birth name BIRTHNAME ) spent 100305 minutes in space . Nasa ' s WAS_A_CREW_MEMBER_OF was commanded by COMMANDER .
 FOOD comes from the country of COUNTRY . It is made using MAININGREDIENTS and should be served " SERVINGTEMPERATURE " .
 Michele Marcoli plays for both Atalanta B . C . and SPORTSTEAM and has been manager of AC Lumezzane .
 Jens Hartel plays for CLUB .
-ASTRONAUT , who has now retired , is a NATIONALITY citizen who graduated from UT Austin , BS in 1955 and served as a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT , who has now retired , is a NATIONALITY citizen who graduated from UT Austin , BS in 1955 and served as a crew member of WAS_A_CREW_MEMBER_OF .
 The runway length of Adolfo Suarez Madrid - Barajas airport , LOCATION , is RUNWAYLENGTH .
 The AIRPORT is run by the operation organisation the OPERATINGORGANISATION .
 The FLOORCOUNT floor AC Hotel Bella Sky , Copenhagen , is currently occupied by TENANT . The hotel was designed by architect firm ARCHITECT .
@@ -113,7 +113,7 @@ A T Charlie Johnson , a US national is the alma mater of ALMAMATER and editor of
 The fullname of SPORTSTEAM is FULLNAME .
 FOOD , which is made of tomatoes , guanciale , cheese , and olive oil , comes from the region of REGION in COUNTRY .
 LEADERNAME served as United State ' s vice president .
-BIRTHPLACE born test pilot ASTRONAUT attended the ALMAMATER . This university is affiliated to the university of texas system , and it will compete in the COMPETE IN .
+BIRTHPLACE born test pilot ASTRONAUT attended the ALMAMATER . This university is affiliated to the university of texas system , and it will compete in the COMPETE_IN .
 ASTRONAUT was born in BIRTHPLACE and he served as the TITLE .
 The MONUMENT ( known as Turk Sehitleri Aniti ) was designed by DESIGNER in red granite and white marble , and is dedicated to the DEDICATEDTO . It is located in LOCATION , where the leader is LEADERNAME , and the National Assembly is the legislative branch of government .
 BUILDING is located in LOCATION , whose leader is called LEADERNAME .
@@ -190,7 +190,7 @@ The UNIVERSITY , which was created in ESTABLISHED , is affiliated with the AFFIL
 Adolfo Su á rez LOCATIONCITY – BarajasAirport is in LOCATION and is operated by the company OPERATINGORGANISATION , which is located in LOCATIONCITY , COUNTRY .
 SPORTSTEAM play in season SEASON .
 The abbreviation " ABBREVIATION " is for WRITTENWORK and the ISSN number is ISSN_NUMBER .
-BUILDING is located in LOCATION . REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES is it ' s reference number in the National Register of Historic Places .
+BUILDING is located in LOCATION . REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES is it ' s reference number in the National Register of Historic Places .
 LEADERNAME is the leader of the U . S .
 FOOD is a dessert that originates from the REGION that can be served warm or cold . It has the main ingredients of almond , jam , butter and eggs .
 The Azerbaijan legislature is known as the National Assembly .
@@ -227,7 +227,7 @@ Barny cakes can be found in COUNTRY whose leaders are Claude Bartolone and LEADE
 WRITTENWORK is from the COUNTRY where LEADERNAME is the leader and ETHNICGROUP are an ethnic group .
 The city , CITYSERVED is part of little chute , Wisconsin , and is served by AIRPORT .
 Native Americans are one of the ethnic groups in the United States of America .
-The BUILDING were built in YEAROFCONSTRUCTION and are located in Asser Levy Place , East 23rd Street . They were added to the National Register of Historic Places on 23rd April 1980 with the reference number is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The BUILDING were built in YEAROFCONSTRUCTION and are located in Asser Levy Place , East 23rd Street . They were added to the National Register of Historic Places on 23rd April 1980 with the reference number is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 MAININGREDIENTS are the main ingredients of FOOD .
 WRITTENWORK , ISSN number is " ISSN_NUMBER " , LCCN number of LCCN_NUMBER , was published by the PUBLISHER and is known as Acta Palaeontol . Pol .
 Amatriciana is a traditional Italian sauce from the REGION region . One of the ingredients used is pecorino romano .
@@ -266,11 +266,11 @@ The total population of Anaheim California is POPULATIONTOTAL .
 The memorial depicting the 14th New Jersey Volunteer Infantry was founded on July 11th , 1907 .
 WRITTENWORK was Published in the COUNTRY where the leader the President . it is also where one of the ethnic groups is ETHNICGROUP .
 AIRPORT , located in LOCATION , services the Appleton , Ellington and Dale areas .
-ASTRONAUT was born on November 18th , 1923 in BIRTHPLACE and was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born on November 18th , 1923 in BIRTHPLACE and was selected by NASA in WAS_SELECTED_BY_NASA .
 WRITTENWORK was published by PUBLISHER in the COUNTRY which includes many ETHNICGROUP .
 ASTRONAUT was born on BIRTHDATE .
 The main ingredients of bhajji are gram flour and vegetables and the dish comes from the REGION region .
-ASTRONAUT was a crew member of OPERATOR ' s WAS A CREW MEMBER OF .
+ASTRONAUT was a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF .
 FOOD , which includes sausage , is from the REGION .
 President LEADERNAME leads the COUNTRY which is inhabited by DEMONYM . These include the ethnic group of Native DEMONYM . The country is the origin of the book 1634 The Ram Rebellion .
 A severed Wasp originates from the COUNTRY where the President is LEADERNAME . One of the ethnic groups in the US are the Native Americans .
@@ -299,7 +299,7 @@ The main ingredients of a FOOD are bacon and sausage . It comes from the REGION 
 The SPORTSTEAM club is located in LOCATION where Nikos Voutsis and LEADER are leaders . The language spoken in the country is greek .
 Washtenaw County in Michigan is located within the COUNTRY .
 AIRPORT is located in LOCATION , COUNTRY . The state ' s capital is Austin and its inhabitants are called Texans . Spanish is one of the spoken languages in LOCATION .
-BUILDING , located in LOCATION , has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+BUILDING , located in LOCATION , has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 WRITTENWORK was published by PUBLISHER .
 FOOD is also known as Bhaji or bajji . It comes from COUNTRY and includes gram flour and vegetables .
 AIRPORT location idenitifier is LOCATIONIDENTIFIER .
@@ -308,7 +308,7 @@ AIRPORT , which is operated by the Aktieselkab organisation , has a runway that 
 The OPERATINGORGANISATION , who use the transport aircraft TRANSPORTAIRCRAFT , operate AIRPORT in LOCATION , ISPARTOF .
 BUILDING is located in LOCATION , COUNTRY and has LEADERNAME as the prime minister .
 MANAGER is in the SK Vorw ä rts Steyr club , is manager of SPORTSTEAM and is affiliated with the CLUB club .
-American Buzz Aldrin was part of OPERATOR ' s WAS A CREW MEMBER OF mission which had ASTRONAUT as its backup pilot . Aldrin was born in Glen Ridge , New jersey which is in Essex County .
+American Buzz Aldrin was part of OPERATOR ' s WAS_A_CREW_MEMBER_OF mission which had ASTRONAUT as its backup pilot . Aldrin was born in Glen Ridge , New jersey which is in Essex County .
 From the COUNTRY , the FOOD has bacon and sausage as ingredients and is a main course .
 The CHAMPIONS were champions at the LEAGUE from COUNTRY . SPORTSTEAM , who have NUMBEROFMEMBERS members , also competed in the league in 2015 .
 LEADERNAME was the leader of Gujura , which is where BUILDING is located in LOCATION , COUNTRY .
@@ -330,7 +330,7 @@ BUILDING is in Eastern Province , COUNTRY , where LEADERNAME is a key leader . C
 John van den Brom plays for CLUB .
 FOOD is an COUNTRY dish popular with LEADERNAME .
 The hardback book , WRITTENWORK has NUMBEROFPAGES pages and has the ISBN number " ISBN_NUMBER " .
-ASTRONAUT who is a citizen of the NATIONALITY became a crew member of the WAS A CREW MEMBER OF along with BACKUP PILOT and CREWMEMBERS .
+ASTRONAUT who is a citizen of the NATIONALITY became a crew member of the WAS_A_CREW_MEMBER_OF along with BACKUP_PILOT and CREWMEMBERS .
 The American ASTRONAUT was born on the 15th of March 1932 in BIRTHPLACE . He graduated in 1955 from UT Austin with a B . S . He worked as a test pilot .
 Based in GROUND , SPORTSTEAM has NUMBEROFMEMBERS members .
 Turkmenistan airlines have their HQ in Turkmenistan and HEADQUARTER and their hub at Turkmenabat airport , They are the operating organisation for AIRPORT which has a runway length of RUNWAYLENGTH .
@@ -339,10 +339,10 @@ President LEADERNAME is leader of the LOCATION where BUILDING is located .
 The ground for AEK Athens FC is the GROUND and they compete in the LEAGUE . Previous champions of the superleague are Olympiacos FC .
 Tomatoes , guanciale , cheese and olive oil are the main ingredients of the Italian FOOD as well as pecorino romano .
 Massimo Drago played for CLUB .
-ASTRONAUT was born on the 17th of October 1933 in BIRTHPLACE and graduated , with an M . S . , from AFIT in 1962 . ASTRONAUT crewed WAS A CREW MEMBER OF and retired on September 1st , 1969 . .
+ASTRONAUT was born on the 17th of October 1933 in BIRTHPLACE and graduated , with an M . S . , from AFIT in 1962 . ASTRONAUT crewed WAS_A_CREW_MEMBER_OF and retired on September 1st , 1969 . .
 The total area for Anaheim California is 131 . 6 square kilometres .
 The headquarters of Turkmenistan Airlines are in HEADQUARTER .
-Gettysburg in LOCATION is the location of the 11th Mississippi Infantry monument . Adams County is south of Cumberland County and north east of HAS TO ITS SOUTHWEST .
+Gettysburg in LOCATION is the location of the 11th Mississippi Infantry monument . Adams County is south of Cumberland County and north east of HAS_TO_ITS_SOUTHWEST .
 COUNTRY has the ETHNICGROUP as an ethnic group , asam pedes as a local dish and LEADERNAME as a leader .
 Lead by Cyril Ramaphosa and LEADERNAME , LOCATION is the location of the address BUILDING and has the ethnic group of Asian South African .
 BUILDING which was begun in BUILDINGSTARTDATE and completed in COMPLETIONDATE was designed by the architect ARCHITECT .
@@ -354,7 +354,7 @@ John van den Brom plays for the CLUB .
 WRITTENWORK , available in hardcover and containing NUMBEROFPAGES pages , was written by AUTHOR . The ISBN number is ISBN_NUMBER .
 Ayam Penyet is a dish from REGION and COUNTRY . It has " Squeezed " or " smashed " fried chicken in it and is served hot with sambal .
 The Javanese dish , FOOD , is also found in REGION . This Chinese - speaking nation , led by LEADERNAME , is known for ayam penyet , which is a national dish of COUNTRY .
-ASTRONAUT was born in Glen Ridge , NJ . He is a US citizen and he was selected by NASA in WAS SELECTED BY NASA to become a crew member of WAS A CREW MEMBER OF . He has now retired .
+ASTRONAUT was born in Glen Ridge , NJ . He is a US citizen and he was selected by NASA in WAS_SELECTED_BY_NASA to become a crew member of WAS_A_CREW_MEMBER_OF . He has now retired .
 FOOD comes from the COUNTRY , where LEADERNAME was once the leader .
 New York city is located in the U . S .
 WRITTENWORK is from the COUNTRY and originally published in English .
@@ -375,14 +375,14 @@ FOOD is from the COUNTRY .
 Designed by architect ARCHITECT , the BUILDING is Located in LOCATION , Akita , COUNTRY .
 The Washington state capital is Olympia .
 FOOD includes chicken which is a class of bird .
-ASTRONAUT was a crew member of the OPERATOR operated WAS A CREW MEMBER OF . The United States Navy awarded him their Distinguished Service Medal , which is considered higher than the HIGHER . ASTRONAUT passed away in DEATHPLACE , which was represented by Senator SENATORS .
-LEADERNAME is a leader of the NATIONALITY of which Buzz Aldrin is a national . Aldrin was a member of the OPERATOR operated WAS A CREW MEMBER OF on which ASTRONAUT was a backup pilot .
+ASTRONAUT was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF . The United States Navy awarded him their Distinguished Service Medal , which is considered higher than the HIGHER . ASTRONAUT passed away in DEATHPLACE , which was represented by Senator SENATORS .
+LEADERNAME is a leader of the NATIONALITY of which Buzz Aldrin is a national . Aldrin was a member of the OPERATOR operated WAS_A_CREW_MEMBER_OF on which ASTRONAUT was a backup pilot .
 The MONUMENT is found in the DISTRICT .
 Associazione Calcio CheivoVerona manager MANAGER has formerly worked at FC Bari 1908 , and is a member of the CLUB club .
 FOOD has celery as an ingredient and is found in both REGION and China .
 LEADERNAME is a leader in Chicago .
 The MONUMENT , which was established on July 11th , 1907 , is in the Historic District of the DISTRICT in LOCATION .
-ASTRONAUT studied at ALMAMATER , which is affiliated with AFFILIATION and is competing in the COMPETE IN . ASTRONAUT died in DEATHPLACE , which leader is LEADERNAME .
+ASTRONAUT studied at ALMAMATER , which is affiliated with AFFILIATION and is competing in the COMPETE_IN . ASTRONAUT died in DEATHPLACE , which leader is LEADERNAME .
 The architectural style of BUILDING in LOCATION is Tudor and Jacobean .
 A . D . Isidro Metapan ' s full name is " FULLNAME " . It is managed by MANAGER , its ground is located in GROUND and has NUMBEROFMEMBERS members .
 BUILDING was formerly called the FORMERNAME .
@@ -411,7 +411,7 @@ The full name of the SPORTSTEAM is " FULLNAME . " and they have NUMBEROFMEMBERS 
 SPORTSTEAM has a ground in GROUND where the LEADERPARTY are the leading party .
 The GROUND is the home ground of AEK Athens FC .
 MANAGER plays for both Varese Calcio S . S . D . and CLUB and has managed AC Chievo Verona .
-Buzz Aldrin was an American who was born in Glen Ridge , ISPARTOF . He was part of OPERATOR ' s WAS A CREW MEMBER OF crew , along with backup pilot ASTRONAUT .
+Buzz Aldrin was an American who was born in Glen Ridge , ISPARTOF . He was part of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew , along with backup pilot ASTRONAUT .
 DEMONYM inhabit GROUND where the ground of SPORTSTEAM is located .
 The UNIVERSITY has NUMBEROFUNDERGRADUATESTUDENTS undergraduate students .
 The fourth runway at AIRPORT is 4TH_RUNWAY_LENGTHFEET feet long .
@@ -433,7 +433,7 @@ The BUILDING is 121 . 92 metres .
 The academic discipline of AIDS journal ( which has the ISSN number ISSN_NUMBER ) is ACADEMICDISCIPLINE .
 " WRITTENWORK " by AUTHOR has ISBN number ISBN_NUMBER .
 The LCCN number of WRITTENWORK ( abbreviated to Abh . Math . Semin . Univ . Hambg ) is LCCN_NUMBER .
-ASTRONAUT was born in BIRTHPLACE on the 23rd July 1927 . He was a student at the ALMAMATER . He was selected by NASA in WAS SELECTED BY NASA and died in St Louis .
+ASTRONAUT was born in BIRTHPLACE on the 23rd July 1927 . He was a student at the ALMAMATER . He was selected by NASA in WAS_SELECTED_BY_NASA and died in St Louis .
 Jens Hartel plays for 1 . FC Lokomotive Leipzig and for SV Babelsberg 03 . He is a member of the CLUB club and the manager of FC MAgdeburg .
 COUNTRY is home to the LANGUAGE , the capital CAPITAL and FOOD .
 BIRTHPLACE is the birthplace of Tim Brooke - Taylor .
@@ -464,12 +464,12 @@ The leader of COUNTRY is LEADERNAME , where the dish FOOD is served . It has var
 St Vincent - St Mary High School , Akron , LOCATION , COUNTRY is the ground of SPORTSTEAM .
 The character Auron was created by Karl Kesel and CREATOR .
 The SPORTSTEAM club is located in LOCATION whose leader is LEADER and spoken language is Greek .
-ASTRONAUT was born in BIRTHPLACE and graduated from UT Austin in 1955 with a Bachelor of Science degree . In WAS SELECTED BY NASA , Bean was selected by OPERATOR to be part of their WAS A CREW MEMBER OF crew commanded by COMMANDER .
+ASTRONAUT was born in BIRTHPLACE and graduated from UT Austin in 1955 with a Bachelor of Science degree . In WAS_SELECTED_BY_NASA , Bean was selected by OPERATOR to be part of their WAS_A_CREW_MEMBER_OF crew commanded by COMMANDER .
 BUILDING is located in Adare , LOCATION , ISPARTOF .
 The Javanese dish Arem arem is commonly served inCOUNTRY . The country ' s leaders include LEADERNAME and Joko Widodo . and the language is Indonesian .
 BUILDING is owned by OWNER .
 RUNWAYLENGTH is the length of the runway at AIRPORT , LOCATION .
-ASTRONAUT was born in BIRTHPLACE on the 17th of October 1933 . NASA selected him in WAS SELECTED BY NASA , and he served as a crew member of WAS A CREW MEMBER OF . He retired on the 1st of September , 1969 .
+ASTRONAUT was born in BIRTHPLACE on the 17th of October 1933 . NASA selected him in WAS_SELECTED_BY_NASA , and he served as a crew member of WAS_A_CREW_MEMBER_OF . He retired on the 1st of September , 1969 .
 AIRPORT is operated by OPERATINGORGANISATION which has HUBAIRPORT as its hub .
 Containing noodles , the dish FOOD is made in China and is popular in the Indonesian region and also in the neighbouring Southeast Asian countries .
 The dessert FOOD is found in LANGUAGE speaking COUNTRY , led by LEADERNAME . DISHVARIATION is also a dessert .
@@ -492,7 +492,7 @@ SPORTSTEAM ' s ground is St . Vincent - St . Mary High School in the city of CIT
 ASTRONAUT graduated , with an M . S . , from AFIT in 1962 .
 AUTHOR was born in Burbank California and is the author of 1634 : The Bavarian Crisis which was the sequel to WRITTENWORK .
 MAININGREDIENTS explosion originates from the REGION of the COUNTRY . Its main ingredients are bacon and sausage .
-ASTRONAUT was born in BIRTHPLACE , was a crew member of WAS A CREW MEMBER OF and spent 13017 . 0 minutes in space .
+ASTRONAUT was born in BIRTHPLACE , was a crew member of WAS_A_CREW_MEMBER_OF and spent 13017 . 0 minutes in space .
 AFC Blackpool have had as their manager , Stuart Parker , whose football club was Stockport County F . C .
 SPORTSTEAM has the ground GROUND .
 MONUMENT is located in LOCATION , made from stone , and dedicated to AEthelwald , Ealdorman of East Anglia . LOCATION ' s established religion is The Church of LOCATION , and the capital city is CAPITAL . The LANGUAGES is spoken there , and the ETHNICGROUPS are an English ethnic group .
@@ -508,7 +508,7 @@ The Labour Party leads Birmingham .
 The DISHVARIATION is a variation of both the club sandwich and the bacon sandwich ( which contains bacon ) .
 SPORTSTEAM is based in GROUND .
 ASTRONAUT was born on February 28 , 1966 in BIRTHPLACE and passed away in DEATHPLACE .
-ASTRONAUT , a retired fighter pilot , was born in BIRTHPLACE on January 20 , 1930 . He was a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT , a retired fighter pilot , was born in BIRTHPLACE on January 20 , 1930 . He was a crew member on WAS_A_CREW_MEMBER_OF .
 Big Hero 6 is distributed by DISTRIBUTOR and has COMICSCHARACTER as a character and stars STARRING .
 The fried chicken dish FOOD is a popular dish in REGION and COUNTRY . The ETHNICGROUP are an ethnic group of COUNTRY .
 AIRPORT in Denmark is operated by OPERATINGORGANISATION . The airport lies 25 metres above sea level and has a runway named RUNWAYNAME which is RUNWAYLENGTH metres long .
@@ -539,7 +539,7 @@ Arros Negre comes from the REGION region where Carles Puidgemont is the leader .
 AS Gubbio have their home ground in GROUND where Pietro Grasso and LEADER are leaders . The official language of the Italian people is Italian .
 Jorge Humberto Rodriguez is the manager of A . D . Isidro Metapan and plays for the El Salvador national football team and Alianza F . C . He is also in CLUB .
 AIRPORT serves the city of Saranac Lake , part of Harrietstown , ISPARTOF , COUNTRY .
-Located on 23rd Street Manhatten , BUILDING was built in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 23rd April 1980 where its reference number is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+Located on 23rd Street Manhatten , BUILDING was built in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 23rd April 1980 where its reference number is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 AIRPORT can be found in LOCATION which is in Madrid , COUNTRY and serves Madrid . The airport is 610 metres above sea level and has a runway length of 3 , 500 .
 MANAGER has managed SPORTSTEAM and played for Atalanta B . C . and CLUB .
 Addis Adaba City Hall was completed in COMPLETIONDATE and has a floor area of 140000 . 0 square metres .
@@ -560,7 +560,7 @@ Jens Hartel is in the RB Leipzig club , is part of the 1 . FC Union Berlin club 
 FOOD is from COUNTRY and is made from tomatoes , guanciale , cheese and olive oil .
 SPORTSTEAM club is located in LOCATION where the capital city is CAPITAL . Prokopis Pavloopoulos is a leader of the country where the LANGUAGE is spoken .
 Allama Iqbal International airport serves the city of CITYSERVED in LOCATION and is governed by the LOCATION Civil Aviation Authority . The runway , which is RUNWAYLENGTH in length , is named RUNWAYNAME .
-ASTRONAUT was an American test pilot who was born in BIRTHPLACE . He received a Bachelor of Science degree at the University of Texas at Austin in 1955 . In WAS SELECTED BY NASA , he was hired by NASA to be part of their WAS A CREW MEMBER OF crew .
+ASTRONAUT was an American test pilot who was born in BIRTHPLACE . He received a Bachelor of Science degree at the University of Texas at Austin in 1955 . In WAS_SELECTED_BY_NASA , he was hired by NASA to be part of their WAS_A_CREW_MEMBER_OF crew .
 BUILDING is in LOCATION , Cuyahoga County in ISPARTOF .
 AIRPORT serves CITYSERVED and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . The runway name is RUNWAYNAME and has a length of RUNWAYLENGTH .
 FOOD , from COUNTRY , and cookies are types of desserts . Manual Valls leads COUNTRY .
@@ -590,10 +590,10 @@ Est á dio Municipal Coaracy da Mata Fonesca is in LOCATION .
 MANAGER has been the manager of 1 FC Magdeburg and is part of the CLUB club .
 MANAGER has managed the 1 FC Magdeburg . He has represented the club CLUB .
 PRESIDENT is the President of University of Texas at Austin .
-Th TITLE , ASTRONAUT , served as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN .
+Th TITLE , ASTRONAUT , served as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN .
 CREATOR and Paris Cullins are creators of the comic character known as Bolt .
 BUILDING is located in LOCATION .
-COUNTRY is lead by the Monarchy of COUNTRY and Lars Lokke Rasmussen is the current leaderr . Southwest of HAS TO ITS NORTHEAST is the city of CITY which is the location of the UNIVERSITY in the city of CITY . The School is affiliated with the AFFILIATION headquartered in HEADQUARTERS .
+COUNTRY is lead by the Monarchy of COUNTRY and Lars Lokke Rasmussen is the current leaderr . Southwest of HAS_TO_ITS_NORTHEAST is the city of CITY which is the location of the UNIVERSITY in the city of CITY . The School is affiliated with the AFFILIATION headquartered in HEADQUARTERS .
 Associazione Calcio Chievo Verona is managed by MANAGER , who has previously worked at FC Bari 1908 and CLUB .
 BUILDING is in the LOCATION . The capital is Washington DC and LEADERNAME is a leader .
 WRITTENWORK is from The COUNTRY and written in English .
@@ -601,8 +601,8 @@ The editor of WRITTENWORK is EDITOR who lives in the U . S . and went to ALMAMAT
 Adolfo Suarez Madrid - Barejas airport is at 610 metres above sea level and is located at LOCATION , COUNTRY .
 LEADERNAME is one of the leaders of South Africa .
 FOOD is a soup dish made with noodles , pork organs , vegetables , chicken , shrimp and beef .
-ASTRONAUT , AKA ALTERNATIVENAMES , was a fighter pilot and crew member of WAS A CREW MEMBER OF . In 1963 , he graduated from Massachusetts Institute of Technology with an Sc . D .
-ASTRONAUT was an American test pilot . He attended the ALMAMATER before joining NASA in WAS SELECTED BY NASA . See died in DEATHPLACE , on February 28 , 1966 .
+ASTRONAUT , AKA ALTERNATIVENAMES , was a fighter pilot and crew member of WAS_A_CREW_MEMBER_OF . In 1963 , he graduated from Massachusetts Institute of Technology with an Sc . D .
+ASTRONAUT was an American test pilot . He attended the ALMAMATER before joining NASA in WAS_SELECTED_BY_NASA . See died in DEATHPLACE , on February 28 , 1966 .
 There are around NUMBEROFPOSTGRADUATESTUDENTS postgraduate students at the UNIVERSITY .
 The AIDS journal studies ACADEMICDISCIPLINE and The ISSN number is ISSN_NUMBER .
 CHAMPIONS are the champions of the LEAGUE , which SPORTSTEAM play in . GROUND , is where home matches of SPORTSTEAM are played . The club hasNUMBEROFMEMBERS members , and are in the SEASON season .
@@ -624,12 +624,12 @@ SPORTSTEAM is owned by OWNER and managed by John van den Bron who plays for AFC 
 One food found in COUNTRY is arem - arem which although is found nation - wide , it ' s specific to Java . Indonesian is spoken in COUNTRY and it ' s leader is LEADERNAME . .
 The LEAGUE has K - W United F . C . , ( who have been champions ) and Akron Summit among its competing teams .
 MANAGER ( born in PLACEOFBIRTH ) is manager of AC Chievo Verona and has played for Calcio Cantania and CLUB .
-CITY has a magistrate government . To its northeast is HAS TO ITS NORTHEAST . The UNIVERSITY is located in CITY .
+CITY has a magistrate government . To its northeast is HAS_TO_ITS_NORTHEAST . The UNIVERSITY is located in CITY .
 St . Vincent – St . Mary High School is located in the city of CITY .
 Petro Grasso is the leader of GROUND which is home to AC Lumezzane . The country uses the LANGUAGE and has the capital city of CAPITAL .
 Cleveland ' s governing body is GOVERNINGBODY .
 ASTRONAUT spent over 69 days in space , 100305 minutes to be exact !
-The BUILDING is located on LOCATION and was built in YEAROFCONSTRUCTION . It has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+The BUILDING is located on LOCATION and was built in YEAROFCONSTRUCTION . It has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 Roger Mckenzie , the american comic book writer is the creator of COMICSCHARACTER .
 Columbian FOOD ( Paisa region ) contains lemons ( members of the order ; sapindales and the rutaceae family ) .
 AIRPORT is located in LOCATION state , whose capital city is Austin and Spanish is one of the spoken language there .
@@ -641,7 +641,7 @@ ASTRONAUT ( born in BIRTHPLACE ) served as a test pilot but is now deceased .
 The Akita Museum is in LOCATION ( part of ISPARTOF ) in COUNTRY . The leader of COUNTRY is LEADERNAME . Brazilians are one ethnic group there .
 ARCHITECT , who was the architect of BUILDING was born in HOMETOWN . The governing body of the city ( which has the B postcode ) is the City Council lead by the UK Conservative Party .
 2ND_RUNWAY_SURFACETYPE , which is of the order poales and in the class CLASS , is the surface type of the second runway of Ardmore Airport , New Zealand .
-The UNIVERSITY in the city of CITY is affiliated with the AFFILIATION which has its headquarters in HEADQUARTERS . CITY is located southwest of HAS TO ITS NORTHEAST .
+The UNIVERSITY in the city of CITY is affiliated with the AFFILIATION which has its headquarters in HEADQUARTERS . CITY is located southwest of HAS_TO_ITS_NORTHEAST .
 Gene Colan is an American .
 SPORTSTEAM play in COUNTRY ' s LEAGUE league and competed in the SEASON event .
 John van den Brom plays for Istanbulspor A . S .
@@ -657,7 +657,7 @@ The BUILDING is located in Akita , COUNTRY .
 The currency of Iraq is the CURRENCY .
 The fictional comic superhero COMICSCHARACTER was created by CREATOR .
 The UNIVERSITY in COUNTRY has NUMBEROFSTUDENTS students and was established in ESTABLISHED .
-ASTRONAUT , as part of the OPERATOR operated WAS A CREW MEMBER OF program , spent 52 minutes in space .
+ASTRONAUT , as part of the OPERATOR operated WAS_A_CREW_MEMBER_OF program , spent 52 minutes in space .
 Jens Hartel , who played for CLUB and now plays for SV Babelsberg 03 , is the manager at FC Magdeburg .
 WRITTENWORK , ABBREVIATION , has an ISSN number of ISSN_NUMBER and an LCCN number of LCCN_NUMBER .
 The MONUMENT is located in the COUNTRY .
@@ -710,7 +710,7 @@ The building of BUILDING , started in BUILDINGSTARTDATE and completed in COMPLET
 ASTRONAUT , deceased , was a test pilot born in BIRTHPLACE on July 23 , 1927 .
 ASTRONAUT was a NATIONALITY national born in BIRTHPLACE . He died in DEATHPLACE .
 BUILDING is located in the LOCATION , where Washington DC is the capital . The leader of the LOCATION is known as the LEADERTITLE , and other key leaders include Paul Ryan and LEADERNAME .
-The UNIVERSITY in STATE , southwest of HAS TO ITS NORTHEAST , was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION and is affiliated with the AFFILIATION in CITY .
+The UNIVERSITY in STATE , southwest of HAS_TO_ITS_NORTHEAST , was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION and is affiliated with the AFFILIATION in CITY .
 The creator of COMICSCHARACTER is CREATOR .
 PRECEDEDBY preceded WRITTENWORK written by AUTHOR who was born in Burbank California .
 The chili pepper serves as an ingredient in FOOD , a traditional dish from REGION .
@@ -734,7 +734,7 @@ FOOD comes from the COUNTRY region of REGION , where the ETHNICGROUP live .
 AIRPORT , located in Maple Ridge Township , Michigan has a runway length of RUNWAYLENGTH and has an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters .
 Indians is the name given to people from India .
 BUILDING is located in LOCATION , ISPARTOF , COUNTRY .
-ASTRONAUT ( born on BIRTHDATE ) was a crew member of WAS A CREW MEMBER OF and spent 100305 . 0 " ( minutes ) in space !
+ASTRONAUT ( born on BIRTHDATE ) was a crew member of WAS_A_CREW_MEMBER_OF and spent 100305 . 0 " ( minutes ) in space !
 WRITTENWORK originates from the COUNTRY where the Native Americans are an ethnic group . It is written in the LANGUAGE which is spoken in SPOKENIN .
 IATA_LOCATION_IDENTIFIER is the IATA I . D . of the AIRPORT .
 Atlantic City is part of ISPARTOF .
@@ -766,7 +766,7 @@ BUILDING is located in LOCATION , ISPARTOF where the leader is LEADERNAME .
 LOCATION is part of ISPARTOF which is in the COUNTRY . It is served by the AIRPORT .
 AIRPORT is found in LOCATION and serves that area . Its runway length is 2744 and it is ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level .
 GROUND based club AFC GROUND is managed by Stuart Parker who is part of the CLUB club . The town is lead by the Conservative Party UK .
-ASTRONAUT was born on 23 July 1927 in BIRTHPLACE . He attended the University of Texas and began working for NASA in WAS SELECTED BY NASA . He has died in St Louis .
+ASTRONAUT was born on 23 July 1927 in BIRTHPLACE . He attended the University of Texas and began working for NASA in WAS_SELECTED_BY_NASA . He has died in St Louis .
 LEADER and Alexis Tsipras , are leaders in LOCATION , where Greek is spoken and the money used is the CURRENCY . SPORTSTEAM is located in LOCATION .
 Bacon sandwiches are popular in the UK and can contain the ingredient brown sauce . Another variation of the bacon sandwich is the DISHVARIATION , which is a variation of the club sandwich .
 The US is home to ETHNICGROUP and the origin place of WRITTENWORK .
@@ -782,7 +782,7 @@ J . V . Jones authored WRITTENWORK .
 The MONUMENT is made from rock .
 The European University Associatian headquarter is in HEADQUARTERS .
 1634 The Ram Rebellion ( preceded by PRECEDEDBY ) comes from the COUNTRY , where LEADERNAME is the President , and its capital city is Washington D . C . Native Americans are one of the ethnic groups of the COUNTRY .
-OCCUPATION ASTRONAUT , who worked for NASA beginning WAS SELECTED BY NASA , was born July 23rd 1927 and died DEATHDATE in St Louis .
+OCCUPATION ASTRONAUT , who worked for NASA beginning WAS_SELECTED_BY_NASA , was born July 23rd 1927 and died DEATHDATE in St Louis .
 FOOD is from the REGION region .
 The area codes for CITY are 770 , 404 and 678 .
 The MONUMENT is located in the COUNTRY .
@@ -795,7 +795,7 @@ Ice Cream is an ingredient of FOOD and is a dish found in the U . S .
 AIRPORT is 34 meters above sea level and has a runway length of 518 . The name of the runway is RUNWAYNAME and is made of 3RD_RUNWAY_SURFACETYPE .
 ASTRONAUT was born in BIRTHPLACE and was a NATIONALITY national where LEADER is the leader .
 The leader of COUNTRY is LEADERNAME and has a currency called the rupee . FOOD comes from that country .
-The university of texas at Austin is affiliated to the university of texas system . It will compete in the COMPETE IN . The Hook ' em is their mascot . PRESIDENT is the President and ASTRONAUT , born in BIRTHPLACE , is a notable student .
+The university of texas at Austin is affiliated to the university of texas system . It will compete in the COMPETE_IN . The Hook ' em is their mascot . PRESIDENT is the President and ASTRONAUT , born in BIRTHPLACE , is a notable student .
 ASTRONAUT , now retired , was born in Glen Ridge New Jersey . After graduating from MIT ScD in 1963 he became a fighter pilot .
 Test Pilot ASTRONAUT was born 23rd July 1927 and died in DEATHPLACE .
 ASTRONAUT ( born in BIRTHPLACE ) went to the ALMAMATER and was a test pilot . He is deceased now .
@@ -824,7 +824,7 @@ Barney cakes were founded by FOUNDATIONPLACE ' s CREATOR in COUNTRY ( led by LEA
 LOCATION is home to AIRPORT , and hails the capital , Austin . The people are referred to as Texans and spanish is a language spoken .
 Alvinegro is the nickname for SPORTSTEAM .
 ASTRONAUT was born in BIRTHPLACE and served as a test pilot . The United States Navy awarded him the Distinguished Service Medal , which is higher than the department of commerce gold medal . ASTRONAUT retired on the 1st of August , 1974 .
-ASTRONAUT was born on 23 July 1927 in BIRTHPLACE . He attended the ALMAMATER and was chosen by NASA in WAS SELECTED BY NASA . He died in St Louis .
+ASTRONAUT was born on 23 July 1927 in BIRTHPLACE . He attended the ALMAMATER and was chosen by NASA in WAS_SELECTED_BY_NASA . He died in St Louis .
 The SPORTSTEAM has NUMBEROFMEMBERS members and they play in the LEAGUE league .
 The UNIVERSITY is in COUNTRY . The Swiss anthem is the ANTHEM and its leader is LEADERNAME .
 SPORTSTEAM is managed by MANAGER who plays for CLUB .
@@ -857,11 +857,11 @@ John Buscema won the AWARD .
 PUBLISHER publish WRITTENWORK .
 AIRPORT is located in Punjab Pakistan ; its runway length is 3 , 310 .
 Preceded by PRECEDEDBY , WRITTENWORK ( by AUTHOR ) is the sequel to Grantville Gazette III .
-ASTRONAUT was an American , who was born in Glen Ridge , NJ and graduated from MIT , Sc . D . in 1963 . He was a fighter pilor and a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT was an American , who was born in Glen Ridge , NJ and graduated from MIT , Sc . D . in 1963 . He was a fighter pilor and a member of the WAS_A_CREW_MEMBER_OF crew .
 ASTRONAUT won AWARDS awards .
 WRITTENWORK is from the COUNTRY , where the leader is LEADERNAME . WRITTENWORK is written in English which is the language spoken in SPOKENIN .
 The operating organization for AIRPORT is called OPERATINGORGANISATION . The runway RUNWAYNAME is 2989m long and is 211m a . s . l .
-ASTRONAUT ( born in BIRTHPLACE on BIRTHDATE ) was a crew member of WAS A CREW MEMBER OF and also a fighter pilot .
+ASTRONAUT ( born in BIRTHPLACE on BIRTHDATE ) was a crew member of WAS_A_CREW_MEMBER_OF and also a fighter pilot .
 Adolfo Suarez Madrid - Barajas Airport is located 610 metres above sea level in Madrid , Paracuellos de Jarama , San Sebastian de los Reyes and Alcobendas , and operated by OPERATINGORGANISATION . The runway , named RUNWAYNAME has a length of 3500 .
 The comic character , Blockbuster ' s alternative name is ALTERNATIVENAME .
 AS Roma has NUMBEROFMEMBERS members and their grounds are in GROUND .
@@ -869,9 +869,9 @@ AIRPORT serves the city of CITYSERVED , Parana state , where the local leader pa
 FOOD is from the REGION region where the leader is LEADERNAME .
 SPORTSTEAM has NUMBEROFMEMBERS members and their ground is the GROUND . They currently play in the LEAGUE League in which Carpri F . C . 1909 have previously been champions .
 Al Asad airbase is operated by the OPERATINGORGANISATION , which uses AIRCRAFTFIGHTER ( an aircraft fighter ) and was part of BATTLES .
-ASTRONAUT was born in BIRTHPLACE and graduated from AFIT in 1962 with an MS . He served as a fighter pilot before joining NASA in WAS SELECTED BY NASA as crew on the WAS A CREW MEMBER OF , .
+ASTRONAUT was born in BIRTHPLACE and graduated from AFIT in 1962 with an MS . He served as a fighter pilot before joining NASA in WAS_SELECTED_BY_NASA as crew on the WAS_A_CREW_MEMBER_OF , .
 one of the ingredients of the BLT sandwich is INGREDIENT .
-ASTRONAUT , now retired , was hired by NASA in WAS SELECTED BY NASA .
+ASTRONAUT , now retired , was hired by NASA in WAS_SELECTED_BY_NASA .
 ASTRONAUT was a test pilot .
 The construction of BUILDING began in January 2014 .
 PUBLISHER , founded by FOUNDER , is the publisher of WRITTENWORK which has the OCLC number OCLC_NUMBER .
@@ -900,8 +900,8 @@ FOOD originates from the REGION and can be served either warm or cold . The main
 The UNIVERSITY in COUNTRY is affiliated to the AFFILIATION based in the city of CITY . It was established in ESTABLISHED and has B M Reddy as President and Dr G P Prabhukumar is the Director .
 Afonsa Pena International Airport serves the city of CITYSERVED , in the state of Parana . CITYSERVED is led by the Democratic Labour Party and is part of the ISPARTOF .
 INGREDIENT is an ingredient in the REGION regional dish , Arros negre .
-ASTRONAUT was a crew member of OPERATOR ' s WAS A CREW MEMBER OF .
-ASTRONAUT was born in BIRTHPLACE and graduated from UT Austin in 1955 with a B . S . He was a crew member of the OPERATOR operated WAS A CREW MEMBER OF . He is now retired . The back up pilot of WAS A CREW MEMBER OF was BACKUP PILOT , and the commander was COMMANDER .
+ASTRONAUT was a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF .
+ASTRONAUT was born in BIRTHPLACE and graduated from UT Austin in 1955 with a B . S . He was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF . He is now retired . The back up pilot of WAS_A_CREW_MEMBER_OF was BACKUP_PILOT , and the commander was COMMANDER .
 The UNIVERSITY is in CITY , COUNTRY . It has NUMBEROFSTUDENTS students .
 Alcobendas is part of the community of Madrid .
 Frank G Jackson is a leader in LOCATION , ISPARTOF where BUILDING is located .
@@ -916,7 +916,7 @@ The home ground of SPORTSTEAM is GROUND .
 ETHNICGROUP are an ethnic group in the U . S . and that country has a political leader called LEADERNAME . The FOOD comes from the U . S .
 FOOD is a dish from the country of COUNTRY . LANGUAGE is their language spoken , this Country leader is LEADERNAME .
 FOOD originates from COUNTRY where Narendra Modi and Sunmitra Mahajan are leaders , .
-ASTRONAUT is a US national , who was born in BIRTHPLACE on October 17th , 1933 . He received a M . S . from his alma Mater , AFIT . H was a fighter pilot who joined NASA in WAS SELECTED BY NASA and retired on the 1st September , 1969 .
+ASTRONAUT is a US national , who was born in BIRTHPLACE on October 17th , 1933 . He received a M . S . from his alma Mater , AFIT . H was a fighter pilot who joined NASA in WAS_SELECTED_BY_NASA and retired on the 1st September , 1969 .
 LEADERNAME is the name of the Leader of Greece .
 The comic character , Blockbuster , was created by CREATOR .
 FOOD is a dish from the COUNTRY .
@@ -926,8 +926,8 @@ CAPITAL , the capital of the LOCATION is lead via the LEADERTITLE and LEADERNAME
 The LANGUAGE are spoken in Iraq .
 Chicago is in the COUNTRY .
 AC Chievo Verona ' s home ground is Stadio Marc Antonio Bentegodi .
-WAS A CREW MEMBER OF crew member ASTRONAUT was born in BIRTHPLACE on November 18th , 1923 and was picked by OPERATOR for the space program .
-ASTRONAUT and CREWMEMBERS were WAS A CREW MEMBER OF were crew members .
+WAS_A_CREW_MEMBER_OF crew member ASTRONAUT was born in BIRTHPLACE on November 18th , 1923 and was picked by OPERATOR for the space program .
+ASTRONAUT and CREWMEMBERS were WAS_A_CREW_MEMBER_OF were crew members .
 Amarillo Texas is elevated ELEVATIONABOVETHESEALEVEL above sea level .
 The UNIVERSITY is located in CITY , LOCATION , COUNTRY . It has NUMBEROFSTUDENTS students and its dean is DEAN . It was established in ESTABLISHED . The leader of COUNTRY is the Federal Chancellor .
 The AIRPORT is located in LOCATION in the COUNTRY . The state ' s capital is Austin and its inhabitants are called Texans . English is one of the spoken languages of LOCATION .
@@ -948,7 +948,7 @@ MANAGER has been manager of AC Lumezzane and was at FC Bari 1908 . He is in the 
 AIRPORT in LOCATION has a runway that ' s 3 , 992 . 88 long .
 A traditional dish of COUNTRY is called FOOD , which has peanut sauce as an ingredient and should be served SERVINGTEMPERATURE .
 Located in the LOCATION , 205 Delaware Avenue , construction of which began in January 2014 , has a floor area of 30843 . 8 square metres and is made up of FLOORCOUNT floors .
-ASTRONAUT was born in BIRTHPLACE on the 23rd of July 1927 . He attended the ALMAMATER and then went on to become a test pilot . He joined NASA in WAS SELECTED BY NASA and died in St Louis .
+ASTRONAUT was born in BIRTHPLACE on the 23rd of July 1927 . He attended the ALMAMATER and then went on to become a test pilot . He joined NASA in WAS_SELECTED_BY_NASA and died in St Louis .
 Administrative Society Quarterly is published by PUBLISHER .
 FULLNAME ( abbreviated to SPORTSTEAM ) has NUMBEROFMEMBERS members and played in season SEASON .
 The MONUMENT was established on 11th July 1907 .
@@ -968,7 +968,7 @@ WRITTENWORK , abbreviated to Admin . Sci . Q , was published by PUBLISHER and ha
 WRITTENWORK comes from COUNTRY and was published by PUBLISHER .
 FOOD , also know as " ALTERNATIVENAME " , is made with garlic and comes from COUNTRY .
 WRITTENWORK was published by PUBLISHER .
-ASTRONAUT was an American born on July 23 , 1927 in BIRTHPLACE . He attended the U of Texas at Austin and began working for NASA in WAS SELECTED BY NASA . See died on Feb 28 , 1966 in DEATHPLACE .
+ASTRONAUT was an American born on July 23 , 1927 in BIRTHPLACE . He attended the U of Texas at Austin and began working for NASA in WAS_SELECTED_BY_NASA . See died on Feb 28 , 1966 in DEATHPLACE .
 BUILDING is located in the COUNTRY , where the natives are known as Irish . English and Irish are the main languages used in Ireland , and its currency is the CURRENCY .
 FOOD comes from the COUNTRY , one of the languages used in the COUNTRY is LANGUAGE .
 The BUILDING constructed in YEAROFCONSTRUCTION is located at LOCATION and was added to the National Register of Historic Places on February the 27nd 1987 .
@@ -993,7 +993,7 @@ In the year ESTABLISHED the 11th Mississsippi Infantry monument was established 
 The UNIVERSITY ( established ESTABLISHED ) has NUMBEROFSTUDENTS students , ACADEMICSTAFFSIZE academic staff and is affiliated with the AFFILIATION .
 Danish is the language of Denmark .
 CITY is located in ISPARTOF .
-The three members of OPERATOR ' s WAS A CREW MEMBER OF were CREWMEMBERS , backup pilot BACKUP PILOT and ASTRONAUT . Anders was born October 17th , 1933 and retired more than 60 years later on September 1st , 1969 .
+The three members of OPERATOR ' s WAS_A_CREW_MEMBER_OF were CREWMEMBERS , backup pilot BACKUP_PILOT and ASTRONAUT . Anders was born October 17th , 1933 and retired more than 60 years later on September 1st , 1969 .
 AUTHOR , author of ' WRITTENWORK ' , was influenced by Robert A Heinlein .
 The currency of Sri Lanka is the CURRENCY .
 AIRPORT serves the city of CITYSERVED , where the mayor is MAYOR .
@@ -1024,7 +1024,7 @@ Agremiacao Sportiva Arapiraquense has NUMBEROFMEMBERS members and are nicknamed 
 The ICAO Location Identifier of AIRPORT is ICAO_LOCATION_IDENTIFIER .
 ASTRONAUT has died in DEATHPLACE . He was born in BIRTHPLACE and served as a test pilot , being the recipient of the Distinguished Service Medal by the US Navy , an award higher than the Department of Commerce gold medal .
 Zamboangans are a group in the COUNTRY and the Igorot are an ethnic group in the COUNTRY . LANGUAGE is the spoken language and one of the foods eaten in the Philippine is batchoy .
-ASTRONAUT has died in DEATHPLACE , where SENATORS is a senator and you can find the gemstone Beintoite . He served aboard the OPERATOR operated WAS A CREW MEMBER OF as a crew member and was awarded the Distinguished Service Medal by the US Navy - an award higher than the Department of Commerce gold medal .
+ASTRONAUT has died in DEATHPLACE , where SENATORS is a senator and you can find the gemstone Beintoite . He served aboard the OPERATOR operated WAS_A_CREW_MEMBER_OF as a crew member and was awarded the Distinguished Service Medal by the US Navy - an award higher than the Department of Commerce gold medal .
 BUILDING is a location in LOCATION .
 SPORTSTEAM played in the Topklasse in the 2014 - 2015 season .
 Asherton , Texas is part of ISPARTOF .
@@ -1049,7 +1049,7 @@ Colombian dish FOOD has INGREDIENT as an ingredient .
 The AIRPORT serves the city of CITYSERVED where the mayor is MAYOR .
 The full name of the SPORTSTEAM is " FULLNAME . " .
 The ISBN number of WRITTENWORK is ISBN_NUMBER .
-OPERATOR ' s WAS A CREW MEMBER OF mission crew included ASTRONAUT .
+OPERATOR ' s WAS_A_CREW_MEMBER_OF mission crew included ASTRONAUT .
 CAPITAL is the Capital of the United Kingdom .
 Switzerland ' s legislature is formed in the Federal Assembly .
 ' WRITTENWORK ' which was written by AUTHOR is available in print form .
@@ -1111,8 +1111,8 @@ LEADERNAME is a leader in United States .
 Labour politician , John Clancy is the leader of BIRTHPLACE . ARCHITECT was born in this city and was the architect of BUILDING .
 320 South Boston was completed in COMPLETIONDATE .
 The ground of SPORTSTEAM is located in GROUND , where Pietro Grasso and LEADER are leaders . GROUND ' s capital is CAPITAL , and Italian is the official language .
-The BUILDING are in LOCATION and were constructed in YEAROFCONSTRUCTION . The architectural style is Romanesque Revival and they were added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES and given the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
-ASTRONAUT was an American who was born in BIRTHPLACE on the 15th March 1932 . He was a test pilot , who was selected by NASA in WAS SELECTED BY NASA . He became a member of the WAS A CREW MEMBER OF crew .
+The BUILDING are in LOCATION and were constructed in YEAROFCONSTRUCTION . The architectural style is Romanesque Revival and they were added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES and given the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
+ASTRONAUT was an American who was born in BIRTHPLACE on the 15th March 1932 . He was a test pilot , who was selected by NASA in WAS_SELECTED_BY_NASA . He became a member of the WAS_A_CREW_MEMBER_OF crew .
 The fullname of SPORTSTEAM is FULLNAME and they played in the 2014 - 15 Serie B season . Their ground is in GROUND and they have NUMBEROFMEMBERS members .
 DEMONYM inhabit the U . S .
 Poaceae is the order of ORDER .
@@ -1139,7 +1139,7 @@ FOOD is made in China and found in REGION . In REGION the main language is Indon
 CITY is in the COUNTRY .
 FOOD comes from COUNTRY , where its leaders include Pietro Grasso and LEADERNAME . Its capital is CAPITAL ; the language spoken there is Italian .
 The comic character , Dane Whitman Black Knight was created by CREATOR .
-ASTRONAUT is originally from Wheeler in Texas and graduated from UT Austin in 1955 with a B . S . He then went on to become a test pilot and became a member of the WAS A CREW MEMBER OF crew where he spent 100305 . 0 minutes in space .
+ASTRONAUT is originally from Wheeler in Texas and graduated from UT Austin in 1955 with a B . S . He then went on to become a test pilot and became a member of the WAS_A_CREW_MEMBER_OF crew where he spent 100305 . 0 minutes in space .
 INGREDIENT is an ingredient in FOOD , which comes from both the country of COUNTRY and the region of REGION .
 BUILDING , Adare , LOCATION , was designed by ARCHITECT and completed in COMPLETIONDATE .
 PUBLISHER is the publisher of WRITTENWORK written by AUTHOR .
@@ -1147,14 +1147,14 @@ ARCHITECT was born in BIRTHPLACE , where she designed the Riverside Art Museum .
 AIRPORT is in LOCATION which is ni turn part of both Awadh and ISPARTOF . The OPERATINGORGANISATION is the operating organisation of AIRPORT .
 Barny cakes , created by CREATOR , can be found in COUNTRY . That company was founded in FOUNDATIONPLACE . The leader of COUNTRY is LEADERNAME and its language is French .
 MANAGER played for CLUB and Maccabi Tel Aviv FC . He is a member of the Portugal national football team and manages SPORTSTEAM .
-The UNIVERSITY in CITY , STATE was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION , and it is affiliated with the AFFILIATION .
+The UNIVERSITY in CITY , STATE was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION , and it is affiliated with the AFFILIATION .
 FOOD is a native food of COUNTRY where the leaders are Silvano Aureoles Conejo and Enrique Pena Nieto .
 LEADERNAME is the leader in LOCATION which is part of ISPARTOF . In LOCATION is AIRPORT which is operated by the OPERATINGORGANISATION . The transport aircraft for the OPERATINGORGANISATION is the TRANSPORTAIRCRAFT .
 LEADERNAME is the leader of COUNTRY . Malaysian Chinese is an ethnic grop from COUNTRY and one of the other ethnic groups of COUNTRY is ETHNICGROUP . FOOD is from the REGION region and is a food that is found in COUNTRY .
 WRITTENWORK is published by PUBLISHER in the COUNTRY , written in English ( language of SPOKENIN ) . The US has many ethnically ETHNICGROUP .
 FOOD is a food found in COUNTRY where they speak Spanish and the leader is Enrique Pena Nieto . The dish is a dessert that can sometimes include cottage cheese .
 Adolfo Suarez LOCATION - Barajas Aiport is located in LOCATION and is operated by OPERATINGORGANISATION . The runway name at the airport is RUNWAYNAME and it has a length of RUNWAYLENGTH .
-ASTRONAUT was a crew member on the WAS A CREW MEMBER OF flight mission operated by OPERATOR and spent 100305 . 0 minutes in Space .
+ASTRONAUT was a crew member on the WAS_A_CREW_MEMBER_OF flight mission operated by OPERATOR and spent 100305 . 0 minutes in Space .
 AIRPORT has a runway length of RUNWAYLENGTH .
 The dean of UNIVERSITY is DEAN and it has NUMBEROFSTUDENTS students .
 LEADER is the leader of CITY , United states . It is here that St . Vincent - St . Mary High School , which is home to SPORTSTEAM ' s ground , is located .
@@ -1165,7 +1165,7 @@ CREATOR is the creator of the comic character , Asterix .
 The Malaysian chinese are an ethnic group from REGION which is where Ayam Penyet is from . Ayam Penyet can also be found in COUNTRY and it contains fried chicken .
 The UNIVERSITY was established in COUNTRY in ESTABLISHED and has ACADEMICSTAFFSIZE academic staff .
 The Javenese people are an ethnic group in COUNTRY where the fried chicken dish ayam penyet that originated in REGION can be found .
-BUILDING is located in LOCATION . It was constructed in YEAROFCONSTRUCTION . It has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+BUILDING is located in LOCATION . It was constructed in YEAROFCONSTRUCTION . It has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 INGREDIENT is an ingredient in FOOD .
 FOOD is eaten in the COUNTRY where the ETHNICGROUP are an ethnic group .
 SPORTSTEAM played in the SEASON season and has NUMBEROFMEMBERS members .
@@ -1181,9 +1181,9 @@ Operated by OPERATINGORGANISATION , and serving the city of CITYSERVED ( part of
 The GOVERNINGBODY is the governing body of Eastern Province , Sri Lanka .
 BUILDING in LOCATION , COUNTRY has FLOORCOUNT floors and cost 120 million AUD .
 Sweet potatoes , which are a flowering plant and belong to the order of ORDER , are an ingredient of binignit , together with coconut milk .
-ASTRONAUT was born on October 17th , 1933 . In WAS SELECTED BY NASA , he was chosen by OPERATOR to serve as a member of the WAS A CREW MEMBER OF crew , with CREWMEMBERS and backup pilot , BACKUP PILOT .
+ASTRONAUT was born on October 17th , 1933 . In WAS_SELECTED_BY_NASA , he was chosen by OPERATOR to serve as a member of the WAS_A_CREW_MEMBER_OF crew , with CREWMEMBERS and backup pilot , BACKUP_PILOT .
 Stuart Parker has been the manager of AFC GROUND , a club based in the city of GROUND where the council is lead by the UK Labour Party . His previous club was Stockport County FC .
-Alan Shephard was a crew member of the OPERATOR operated WAS A CREW MEMBER OF . He was awarded the Distinguished Service Medal by the US Navy , which ranks higher than the HIGHER . He did in DEATHPLACE . SENATORS is a senator in DEATHPLACE . GEMSTONE is a gemstone found in the same state .
+Alan Shephard was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF . He was awarded the Distinguished Service Medal by the US Navy , which ranks higher than the HIGHER . He did in DEATHPLACE . SENATORS is a senator in DEATHPLACE . GEMSTONE is a gemstone found in the same state .
 An affiliate of Visvesvaraya Technology University , UNIVERSITY in CITY , COUNTRY has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students .
 BLTis a type of sandwich containing bacon and tomato . Bacon sandwiches are very popular in Great Britain where the leader is called LEADERNAME .
 COUNTRY , where FOOD is found , has Native Americans as an ethnic group and their leader is known as the president .
@@ -1196,7 +1196,7 @@ Stuart Parker is a footballer in the A . F . C Blackpool club .
 The capital of Texas is Austin .
 Akita Prefecture is located in COUNTRY .
 COUNTRY is the country FOOD comes from . they speak LANGUAGE and OFFICIALLANGUAGE , the ethnic groups are Igorot people and ETHNICGROUP .
-ASTRONAUT was born on 20th January , 1930 in Glen Ridge , NJ . He was a fighter pilot , who was hired by NASA in WAS SELECTED BY NASA . He was a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born on 20th January , 1930 in Glen Ridge , NJ . He was a fighter pilot , who was hired by NASA in WAS_SELECTED_BY_NASA . He was a crew member on WAS_A_CREW_MEMBER_OF .
 The COUNTRY Civil Aviation Authority governs the AIRPORT , which serves the city of CITYSERVED and is located in Punjab , COUNTRY . LEADERNAME is the leader of COUNTRY .
 AIRPORT serves the English speaking city of CITYSERVED .
 The AIRPORT has a runway length of 733 and its 1st runway surface is poaceae .
@@ -1258,11 +1258,11 @@ BUILDING is located in the region of REGION of COUNTRY , which is lead by LEADER
 The AIRPORT is located in LOCATION , COUNTRY and serves the city of Appleton , Wisconsin . Greenville is part of the town of Menasha and Ellington , Wisconsin .
 ASTRONAUT was born on July 23 , 1927 .
 Arros negre is from the REGION region and it ' s leaders are the LEADERNAME .
-ASTRONAUT ( born at Glen Ridge in New Jersey , USA ) was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT ( born at Glen Ridge in New Jersey , USA ) was a crew member of WAS_A_CREW_MEMBER_OF .
 GROUND , the ground of SPORTSTEAM , is located in LOCATION .
 Albuquerque , in New Mexico , has a population density of 1142 , 3 inhabitants per square kilometre .
 MANAGER has been manager of SPORTSTEAM , he plays for both ADO Den Haag and CLUB .
-ASTRONAUT , who was born in BIRTHPLACE on October 17th , 1033 , was picked by NASA in WAS SELECTED BY NASA to be part of WAS A CREW MEMBER OF .
+ASTRONAUT , who was born in BIRTHPLACE on October 17th , 1033 , was picked by NASA in WAS_SELECTED_BY_NASA to be part of WAS_A_CREW_MEMBER_OF .
 ASTRONAUT died in St louis . He was a US National who was born in BIRTHPLACE on 23 July 1927 and attended the ALMAMATER , .
 ALTERNATIVENAME Black , also known as ALTERNATIVENAME was created by CREATOR .
 Arros negre comes from the region of the REGION , COUNTRY . The leader of the community of Valencia is Ximo Puig and the country ' s leader is Felipe VI .
@@ -1274,7 +1274,7 @@ AIRPORT serves the city of CITYSERVED which is in COUNTRY and is led by LEADERNA
 FOOD is originates from the COUNTRY and served as a soup . Its main ingredients are noodles , pork organs , vegetables , chicken , shrimp and beef .
 The capital of Michigan is Lansing .
 FOOD come from the REGION region in COUNTRY . LEADERNAME is the leader of REGION and Sumitra Mahajan is a leader in COUNTRY .
-ASTRONAUT was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was selected by NASA in WAS_SELECTED_BY_NASA .
 The AZAL Arena is in LOCATION .
 The UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED . It has ACADEMICSTAFFSIZE academic staff and its Latin name is " LATINNAME " . Its dean is Thomas Pellesen and it is affiliated with the AFFILIATION .
 RECTOR is rector of the UNIVERSITY which has the nickname of NICKNAME and is located in the city of CITY , STATE , COUNTRY .
@@ -1318,7 +1318,7 @@ CITY has a land area of 686 square kilometres .
 The number of undergraduates attending the UNIVERSITY is roughly NUMBEROFUNDERGRADUATESTUDENTS students .
 The ground of AS Gubbio 1910 is called GROUND and the club has NUMBEROFMEMBERS members .
 The College of William and Mary is the owner of the BUILDING , it is located in LOCATION and has an Georgian architectural style .
-ASTRONAUT was part of the WAS A CREW MEMBER OF crew and was once a fighter pilot .
+ASTRONAUT was part of the WAS_A_CREW_MEMBER_OF crew and was once a fighter pilot .
 The OPERATINGORGANISATION uses the ATTACKAIRCRAFT attack aircraft and AIRCRAFTFIGHTER aircraft . The USAF operates the AIRPORT and fought in the BATTLES .
 ASTRONAUT retired on 1 August 1974 . He was born in BIRTHPLACE and served as a test pilot . He was awarded the Distinguished Service Medal by the US Navy which ranks higher than the Department of Commerce gold medal .
 FOOD is a dish of COUNTRY found in REGION and includes the ingredients ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables , and fried shallots .
@@ -1335,7 +1335,7 @@ FOOD is from the REGION region , specifically COUNTRY where ETHNICGROUP are an e
 The ETHNICGROUPS are an English ethnic group .
 The MONUMENT , established in ESTABLISHED , is located in Adams County Pennsylvania , with Carrol County to the southeast .
 Condiments are ingredients of bacon sandwiches which come from COUNTRY .
-Adams County Pennsylvania is East of HAS TO ITS WEST . To the southeast is HAS TO ITS SOUTHEAST . Adams County has Cumberland County to its north and HAS TO ITS SOUTHWEST to its southwest . The MONUMENT is in this county and was completed in ESTABLISHED . This Monument is categorized as a Contributing Property .
+Adams County Pennsylvania is East of HAS_TO_ITS_WEST . To the southeast is HAS_TO_ITS_SOUTHEAST . Adams County has Cumberland County to its north and HAS_TO_ITS_SOUTHWEST to its southwest . The MONUMENT is in this county and was completed in ESTABLISHED . This Monument is categorized as a Contributing Property .
 FOOD , containing sesame oil , is a dish in COUNTRY .
 FOOD comes from the country COUNTRY where LEADERNAME is a leader .
 INGREDIENT is one of the ingredients in FOOD and is a member of the ORDER plant order .
@@ -1371,13 +1371,13 @@ BUILDING are located in LOCATION , which is part of ISPARTOF .
 The AIRPORT lies ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and its third runway is 7 , 202 feet long .
 The Black Knight , ( also known as ALTERNATIVENAME ) , was created in the comics genre by CREATOR .
 LEADER is a leader in Greece .
-ASTRONAUT is a citizen of the United State and graduated from UT Austin in 1955 . He was a crew member of WAS A CREW MEMBER OF and is currently retired .
+ASTRONAUT is a citizen of the United State and graduated from UT Austin in 1955 . He was a crew member of WAS_A_CREW_MEMBER_OF and is currently retired .
 BUILDING ' s architect was ARCHITECT .
 The WRITTENWORK , abbreviated " Admin . Sci . Q , " comes under the academic discipline of ACADEMICDISCIPLINE .
 ASTRONAUT , who was born in BIRTHPLACE , has died .
 Lemon is from the genus citrus .
 MANAGER started his career playing for FC Lokomotive Leipzig . Since then he has been the manager of 1 FC Magdeburg and is currently in the RB Leipzig club and playing for SV Germania Schoneiche .
-ASTRONAUT is a US national who was born on 15 March 1932 in BIRTHPLACE . He spent a total of 100305 minutes in space as a crew member on the WAS A CREW MEMBER OF mission after being selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT is a US national who was born on 15 March 1932 in BIRTHPLACE . He spent a total of 100305 minutes in space as a crew member on the WAS_A_CREW_MEMBER_OF mission after being selected by NASA in WAS_SELECTED_BY_NASA .
 BUILDING is located in LOCATION , where the capital is CAPITAL , and key leaders are Cyril Ramaphosa and LEADERNAME .
 With NUMBEROFMEMBERS members , AD Isidro Metap á n ' s grounds are located in GROUND .
 The creator of Blockbuster ( comics character ) is CREATOR .
@@ -1408,7 +1408,7 @@ WRITTENWORK is from the COUNTRY where the main language is English , originated 
 The Bella Sky hotel in Copenhagen has FLOORCOUNT floors , is owned by OWNER and tenanted by TENANT .
 The leader of South Africa is LEADERNAME .
 A . F . C . Fylde ' s ground is GROUND and the club has NUMBEROFMEMBERS members .
-ASTRONAUT ( born in BIRTHPLACE on BIRTHDATE ) was selected to work for NASA in WAS SELECTED BY NASA . He was a fighter pilot and a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT ( born in BIRTHPLACE on BIRTHDATE ) was selected to work for NASA in WAS_SELECTED_BY_NASA . He was a fighter pilot and a crew member of WAS_A_CREW_MEMBER_OF .
 The surface of the 1st runway at Alderney airport is poaceae which belongs to the Poales and ORDER orders .
 AIRPORT is operated by OPERATINGORGANISATION ; its runway name is RUNWAYNAME and its runway length is 2776 .
 FOOD is a traditional dish from the region of REGION in COUNTRY .
@@ -1416,13 +1416,13 @@ ASTRONAUT was in space for 52 minutes .
 The length of the 1st runway at Abilene Regional airport is 1ST_RUNWAY_LENGTHFEET feet .
 BUILDING , which was completed in COMPLETIONDATE with a height of 42 metres and a floor area of 140000 square metres . The current tenants are the CURRENTTENANTS .
 LOCATION , where the capital city is CAPITAL , is the location of MONUMENT . The established religion of the country is The Church of LOCATION and one of the several indigenous languages is the LANGUAGES . There are various ethnic groups one of which is the ETHNICGROUPS .
-ASTRONAUT was a crew member of OPERATOR ' s WAS A CREW MEMBER OF with commander COMMANDER . He was a test pilot .
+ASTRONAUT was a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF with commander COMMANDER . He was a test pilot .
 LANGUAGE is one of the languages spoken in the COUNTRY and FOOD comes from there . Ethnic groups from the COUNTRY include the Ilocano people and ETHNICGROUP .
 BUILDING is located in LOCATION , LOCATION District , Eastern Province , COUNTRY and had BEDCOUNT beds .
 SPORTSTEAM has NUMBEROFMEMBERS members and its ground is the GROUND .
 AIRPORT is located ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and the 1st runway is made of asphalt .
 The BUILDING ( designed by the company Populous ) is located at LOCATION and was completed in COMPLETIONDATE .
-Buzz Aldrin is a national of the NATIONALITY led by LEADERNAME . He was a crew member of WAS A CREW MEMBER OF . On WAS A CREW MEMBER OF the backup pilot was ASTRONAUT .
+Buzz Aldrin is a national of the NATIONALITY led by LEADERNAME . He was a crew member of WAS_A_CREW_MEMBER_OF . On WAS_A_CREW_MEMBER_OF the backup pilot was ASTRONAUT .
 The leader of the United States is called the LEADERTITLE .
 The MONUMENT is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku .
 The runway length of AIRPORT is 3 , 500 and has the name RUNWAYNAME . It is located at 610 metres above sea level in LOCATION and is operated by OPERATINGORGANISATION .
@@ -1432,7 +1432,7 @@ Fall Creek Township , Madison County , Indiana is located in the U . S .
 WRITTENWORK was published by Harcourt .
 LEADERNAME is a leader in REGION in COUNTRY . An ethnic group there are ETHNICGROUP . FOOD is also from that country .
 AIRPORT is operated by the OPERATINGORGANISATION which has several types of aircraft , including TRANSPORTAIRCRAFT ( transport aircraft ) and the ATTACKAIRCRAFT ( attack aircraft ) . The OPERATINGORGANISATION fought battles in the Korean war and in BATTLES .
-ASTRONAUT was born in BIRTHPLACE . His Alma mater was NWC and he graduated with a M , A , in 1957 . He worked as a test pilot and he was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born in BIRTHPLACE . His Alma mater was NWC and he graduated with a M , A , in 1957 . He worked as a test pilot and he was selected by NASA in WAS_SELECTED_BY_NASA .
 COUNTRY ' s UNIVERSITY is affiliated with AFFILIATION and the campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
 Barny cakes have 1 . 8g protein , 4 . 8g fat and 18g carbohydrates . One variation of the dish uses milk in the recipe .
 The FOOD is from the COUNTRY where ETHNICGROUP are one of the ethnic groups and the capital city is Washington D . C .
@@ -1445,7 +1445,7 @@ The UNIVERSITY is located in CITY .
 The UNIVERSITY was established in ESTABLISHED in STATE , COUNTRY .
 SPORTSTEAM stands for " FULLNAME " and they have NUMBEROFMEMBERS members . SPORTSTEAM Bakou is playing in the Azerbaijan Premier League , 2014 – 15 .
 AIRPORT is located in LOCATION in the COUNTRY and part of ISPARTOF .
-The UNIVERSITY , located in Aarus which is governed by a magistrate and is southwest of HAS TO ITS NORTHEAST .
+The UNIVERSITY , located in Aarus which is governed by a magistrate and is southwest of HAS_TO_ITS_NORTHEAST .
 Jepson Way is the grounds for SPORTSTEAM .
 Gram flour and vegetables are main ingredients in bhajji which originates in COUNTRY .
 FOOD comes from the COUNTRY where LEADERNAME is a leader and the capital is Washington D . C . ETHNICGROUP are an ethic group there .
@@ -1453,7 +1453,7 @@ Sweet potatoes are in binignit recipes but the main ingredient is coconut milk .
 2ND_RUNWAY_SURFACETYPE which is of the ORDER order belongs to the division of flowering plants , the 2nd runway at AIRPORT is made of 2ND_RUNWAY_SURFACETYPE .
 LEADER is the leader in GROUND where AFC GROUND have their ground . The club is managed by Stuart Parker who was a footballer for Chesterfield FC and Blackburn Rovers FC .
 American ASTRONAUT was born in BIRTHPLACE , died in St Louis and was a test pilot . He graduated from the ALMAMATER , which is affiliated to the University Of Texas system .
-OCCUPATION ASTRONAUT , who is now retired , was part of WAS A CREW MEMBER OF which included CREWMEMBERS among the crew .
+OCCUPATION ASTRONAUT , who is now retired , was part of WAS_A_CREW_MEMBER_OF which included CREWMEMBERS among the crew .
 Represented by REPRESENTATIVE , BIRTHPLACE is known as the birth place of ASTRONAUT , who retired on September 1st , 1969 .
 Texas is in the COUNTRY .
 WRITTENWORK has NUMBEROFPAGES pages , and its ISBN number is ISBN_NUMBER .
@@ -1470,7 +1470,7 @@ The BUILDING is located in LOCATION , ISPARTOF , COUNTRY , where the main ethnic
 INGREDIENT is an ingredient of FOOD .
 FOOD is a dish from the COUNTRY and sandesh is a dessert . Native Americans in the U . S . are one of the ethnic groups of the country .
 WRITTENWORK is from the COUNTRY where they speak English and ETHNICGROUP live .
-STATE state which is positioned with the HAS TO ITS WEST to it ' s west is also home to the UNIVERSITY , which is located in the city of CITY and was founded by Kempe Gowda . The institute has recently been given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY which is based in LOCATION . The UNIVERSITY also has connections with the AFFILIATION .
+STATE state which is positioned with the HAS_TO_ITS_WEST to it ' s west is also home to the UNIVERSITY , which is located in the city of CITY and was founded by Kempe Gowda . The institute has recently been given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY which is based in LOCATION . The UNIVERSITY also has connections with the AFFILIATION .
 Jens H ä rtel is part of the CLUB club .
 INGREDIENT is a member of the family FAMILY and is an ingredient in bandeja paisa .
 AFC Fylde has the full name " FULLNAME , " they have NUMBEROFMEMBERS members and are based at GROUND .
@@ -1484,7 +1484,7 @@ BUILDING was completed in COMPLETIONDATE .
 BUILDING was designed by the architect ARCHITECT who was born in BIRTHPLACE .
 The SPORTSTEAM club is located in LOCATION . LOCATION ' s capital is CAPITAL and their leaders are Nikos Voutsis and LEADER .
 AIRPORT ICAO Location Identifier is ICAO_LOCATION_IDENTIFIER .
-The WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION granted Technical Campus status to the UNIVERSITY in the city of CITY which was founded by Kempe Gowda . One of the sports offered at the Institute which is affiliated with the AFFILIATION , is tennis , which has the SPORTSGOVERNINGBODY as it ' s governing body .
+The WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION granted Technical Campus status to the UNIVERSITY in the city of CITY which was founded by Kempe Gowda . One of the sports offered at the Institute which is affiliated with the AFFILIATION , is tennis , which has the SPORTSGOVERNINGBODY as it ' s governing body .
 LEADERNAME is the leader of Punjab , Pakistan .
 FOOD is a dish from the REGION region , one of the ingredients is Chicharron , FOOD is part of COUNTRY .
 Arros negre comes from the region of the REGION , which leader is Ximo Puig , and is a traditional dish from COUNTRY , where Felipe VI rules .
@@ -1494,8 +1494,8 @@ CHAMPIONS have been champions of Campeonato Brasileiro S é rie C .
 FOOD comes from the REGION region in COUNTRY . Two leaders of COUNTRY are T . S . Thakur and LEADERNAME .
 LEADERNAME is the leader of Malaysia .
 BUILDING and ISPARTOF are both located in LOCATION , COUNTRY . Malatu Teshome and LEADERNAME are key country leaders .
-UNIVERSITY in CITY is affiliated with AFFILIATION . The school was given its Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION . CITY , which was founded by Kempe Gowda , is in the state of STATE which has the HAS TO ITS WEST to its west .
-ASTRONAUT is a US national who was born on 20 January 1930 in BIRTHPLACE . He is now retired but was a member of the WAS A CREW MEMBER OF crew , .
+UNIVERSITY in CITY is affiliated with AFFILIATION . The school was given its Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION . CITY , which was founded by Kempe Gowda , is in the state of STATE which has the HAS_TO_ITS_WEST to its west .
+ASTRONAUT is a US national who was born on 20 January 1930 in BIRTHPLACE . He is now retired but was a member of the WAS_A_CREW_MEMBER_OF crew , .
 INGREDIENT is an ingredient in a BLT .
 AIRPORT is in LOCATION .
 The SPORTSTEAM club is located in LOCATION where the capital city is CAPITAL .
@@ -1504,7 +1504,7 @@ CITY is part of Fulton County in Georgia .
 WRITTENWORK editors include the following : Vincent H . Crespi , Bernard S . Gerstman , A . T . Charlie Johnson , Masaaki Tanaka , Enge G . Wang .
 SPORTSTEAM has NUMBEROFMEMBERS members and will play in LEAGUE . Lumezzane played in LEAGUE : 2014 .
 FOOD is a food found in COUNTRY which is lead by LEADERNAME and has the capital of CAPITAL .
-ASTRONAUT is an American born in BIRTHPLACE . He graduated with a BS from UT Austin in 1955 and became a test pilot before being selected by NASA in WAS SELECTED BY NASA to serve as crew on WAS A CREW MEMBER OF . He retired in DATEOFRETIREMENT .
+ASTRONAUT is an American born in BIRTHPLACE . He graduated with a BS from UT Austin in 1955 and became a test pilot before being selected by NASA in WAS_SELECTED_BY_NASA to serve as crew on WAS_A_CREW_MEMBER_OF . He retired in DATEOFRETIREMENT .
 200 Public square , with FLOORCOUNT floors , is in LOCATION , COUNTRY .
 English is the language of the COUNTRY and SPOKENIN . The capital city of the US is Washington DC and it is from the States that WRITTENWORK originates .
 AIRPORT is located in the LOCATION , U . S . A . The airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level and the runway is 1533 long .
@@ -1516,7 +1516,7 @@ RUNWAYNAME is the runway name for Atlantic City International airport located in
 The capital of CITYSERVED is Saint Anne and is served by the AIRPORT .
 Born in Northbrook Illinois , VOICE , provides the voice for the character COMICSCHARACTER .
 FOOD comes from the region of REGION .
-ASTRONAUT , who crewed WAS A CREW MEMBER OF , retired on September 1st , 1969 .
+ASTRONAUT , who crewed WAS_A_CREW_MEMBER_OF , retired on September 1st , 1969 .
 Serving the city of CITYSERVED , AIRPORT ' s runway length is RUNWAYLENGTH metres .
 Felipe VI is the leader of COUNTRY , a country where the ETHNICGROUP are the main ethnic group . FOOD is from REGION in COUNTRY . One of the leaders of REGION Is Susana Diaz .
 LEADERNAME is the leader of Ethiopia .
@@ -1528,7 +1528,7 @@ BUILDING is owned by OWNER .
 MANAGER plays for Unione Triestina 2012 S . S . D and CLUB . He has also managed AC Chievo Verona .
 ASTRONAUT was born on 07 / 23 / 1927 .
 Anderson is located within ISPARTOF .
-ASTRONAUT served as a OCCUPATION before being a member of WAS A CREW MEMBER OF ' s crew , operated by OPERATOR , alongside CREWMEMBERS . ASTRONAUT is now retired .
+ASTRONAUT served as a OCCUPATION before being a member of WAS_A_CREW_MEMBER_OF ' s crew , operated by OPERATOR , alongside CREWMEMBERS . ASTRONAUT is now retired .
 A . F . C . Fylde ( full name FULLNAME ) is located in the county of GROUND . The club competed in the SEASON season and has NUMBEROFMEMBERS members .
 Adolfo Suarez LOCATION - Barajas Aiport is located in LOCATION .
 INGREDIENT is an ingredient in bakso which is made in China .
@@ -1563,12 +1563,12 @@ Michele Marcolini was born in PLACEOFBIRTH .
 Tony Tan and LEADERNAME are leaders in COUNTRY , where LANGUAGE is spoken and the dish FOOD is served . The dish is also available in Indonesia .
 FOOD and the cookie are desserts , the former originating from COUNTRY , where French is spoken .
 Allama Iqbal International airport is located in LOCATION where LEADERNAME is a leader .
-The UNIVERSITY is in CITY , COUNTRY . CITY is governed by a GOVERNMENTTYPE and has HAS TO ITS NORTHEAST to its northeast . COUNTRY is ruled by the Monarchy of Denmaek , has the Church of COUNTRY as its religion , and is led by LEADERNAME .
+The UNIVERSITY is in CITY , COUNTRY . CITY is governed by a GOVERNMENTTYPE and has HAS_TO_ITS_NORTHEAST to its northeast . COUNTRY is ruled by the Monarchy of Denmaek , has the Church of COUNTRY as its religion , and is led by LEADERNAME .
 Footballer , Peter St ö ger , plays for the Austria National Football team .
 CITY is part of ISPARTOF .
 The 4th runway at AIRPORT is made of 4TH_RUNWAY_SURFACETYPE .
 Adolfo Suarez Madrid - Barajas Airport is in LOCATION , which is part of the community in Madrid , COUNTRY . The airport is elevated 610 meters above sea level and it has a runway which measures 3 , 500 .
-ASTRONAUT was born in BIRTHPLACE and became a test pilot . He was on the crew of WAS A CREW MEMBER OF operated by OPERATOR and retired on August 1 , 1974 .
+ASTRONAUT was born in BIRTHPLACE and became a test pilot . He was on the crew of WAS_A_CREW_MEMBER_OF operated by OPERATOR and retired on August 1 , 1974 .
 The author of WRITTENWORK is AUTHOR .
 FOOD is a food found in the Mexican region of REGION , where the leader is Aristoteles Sandoval . FOOD is served as a dessert course , a variation of which is cake .
 ETHNICGROUP is the ethnic group in Sumatra .
@@ -1582,11 +1582,11 @@ AIRPORT is in LOCATION .
 BUILDING are located in ISPARTOF City , part of ISPARTOF in the US .
 " The BUILDING was completed in COMPLETIONDATE and the height of BUILDING is 28 . 0 meters . The BUILDING is located at LOCATION and the BUILDING is a concerts and events venue type building . " .
 AIRPORT is operated by the OPERATINGORGANISATION which uses an aircraft fighter called the AIRCRAFTFIGHTER and which was involved in BATTLES .
-ASTRONAUT was an American born on Nov 18 , 1923 in BIRTHPLACE . He graduated from NWC with an MA in 1957 . Shepard was a member of WAS A CREW MEMBER OF and retired on Aug 1 , 1974 . He later died in DEATHPLACE .
+ASTRONAUT was an American born on Nov 18 , 1923 in BIRTHPLACE . He graduated from NWC with an MA in 1957 . Shepard was a member of WAS_A_CREW_MEMBER_OF and retired on Aug 1 , 1974 . He later died in DEATHPLACE .
 WRITTENWORK was written in English in the COUNTRY where Native Americans are one of the ethnic groups .
 The UNIVERSITY is located in CITY , COUNTRY and its neighbouring municipality is NEIGHBORINGMUNICIPALITY . COUNTRY ' s leader is called LEADERNAME .
 FOOD comes from the country of COUNTRY , where French is the national language .
-Buzz Aldrin was a crew member of WAS A CREW MEMBER OF operated by OPERATOR and is a US national . LEADERNAME is a NATIONALITY leader . The backup pilot of WAS A CREW MEMBER OF was ASTRONAUT .
+Buzz Aldrin was a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR and is a US national . LEADERNAME is a NATIONALITY leader . The backup pilot of WAS_A_CREW_MEMBER_OF was ASTRONAUT .
 DEMONYM are the inhabitants of the Republic of Ireland .
 CAPITAL is the capital city of LOCATION where the leader is Prime Minister LEADERNAME and the legislature is the National Assembly . The country is the location of the CAPITAL Turkish Martyrs memorial , also known as the Turk Sehitleri Aniti , designed by Huseyin Butuner and Hilmi Guner .
 AEK Athens FC compete in the LEAGUE , Olympiacos FC are previous champions of the team .
@@ -1596,7 +1596,7 @@ The US Air Force is the operating organisation for Al Asad airbase , where the g
 DISHVARIATION and FOOD are both served as desserts .
 The leader of Romania is LEADERNAME .
 Agremiacao Sportiva Arapiraquense has NUMBEROFMEMBERS members .
-OPERATOR ' s WAS A CREW MEMBER OF crew included ASTRONAUT .
+OPERATOR ' s WAS_A_CREW_MEMBER_OF crew included ASTRONAUT .
 CAPITAL is the capital of LOCATION where the official title of the leader is the LEADERTITLE who is Ahmet Davutoglu . The Ataturk monument ( Izmir ) was inaugurated in the country on 27 July 1932 .
 AIRPORT , which serves Alpena Michigan , is located in Wilson Township , Alpena County , Michigan . The Airport has a runway length of 1 , 533 and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 COMICSCHARACTER was first aired on 10 / 03 / 1983 and was broadcast by the BROADCASTEDBY . STARRING starred in the show , which was created by CREATOR .
@@ -1623,7 +1623,7 @@ AIRPORT serves the city of CITYSERVED which is COUNTRY . Two of the leaders of w
 The runway name of AIRPORT is RUNWAYNAME .
 Often including honey , FOOD is a dessert found in COUNTRY where Spanish is spoken . The name of the leader of COUNTRY is LEADERNAME .
 The UNIVERSITY ' s campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY , Karnatka , 560090 , COUNTRY . Its director is Dr . G . P . Prabhukumar and it is affiliated to the AFFILIATION .
-The city of CITY in the state of STATE , India which lies southwest of HAS TO ITS NORTHEAST is the location of the UNIVERSITY ffiliated to the AFFILIATION . The Institute was given Technical Campus status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY based in LOCATION .
+The city of CITY in the state of STATE , India which lies southwest of HAS_TO_ITS_NORTHEAST is the location of the UNIVERSITY ffiliated to the AFFILIATION . The Institute was given Technical Campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY based in LOCATION .
 The MONUMENT , which falls under the category of CATEGORY , is in STATE .
 In almost unrelated facts both ETHNICGROUP and the book WRITTENWORK come from the U . S .
 The UNIVERSITY was founded in ESTABLISHED in the city of CITY in the country COUNTRY . It has NUMBEROFSTUDENTS students and ACADEMICSTAFFSIZE members of staff . The dean of the school is DEAN .
@@ -1659,9 +1659,9 @@ LEADERNAME is the leader of France .
 AIRPORT is operated by the Flemish government and its runway is 600 long .
 The 14th New Jersey Volunteer Infantry monument is located in the COUNTRY within the DISTRICT . It was established on 11 July 1907 and is categorised as a historic district .
 The 3rd runway at AIRPORT is 3RD_RUNWAY_LENGTHFEET feet long .
-ASTRONAUT graduated from UT at Austin , which is affiliated to with the AFFILIATION and will compete in the COMPETE IN . Gregory L Fenves is the appointed president . ASTRONAUT died in St Louis where Francis G Slay is the mayor .
+ASTRONAUT graduated from UT at Austin , which is affiliated to with the AFFILIATION and will compete in the COMPETE_IN . Gregory L Fenves is the appointed president . ASTRONAUT died in St Louis where Francis G Slay is the mayor .
 ASTRONAUT died on the 21st of July , 1998 .
-ASTRONAUT was a NATIONALITY national . His Alma mater was UT Austin and he graduated with a B . S . in 1955 . He was a crew member of WAS A CREW MEMBER OF . He is now retired .
+ASTRONAUT was a NATIONALITY national . His Alma mater was UT Austin and he graduated with a B . S . in 1955 . He was a crew member of WAS_A_CREW_MEMBER_OF . He is now retired .
 BUILDING can be found in the Akita Prefecture in the city of Akita in COUNTRY , where the ethnic group is the Filipinos .
 " WRITTENWORK " can be found in hardcover and has NUMBEROFPAGES pages . The OCLC number is OCLC_NUMBER and the ISBN number is ISBN_NUMBER .
 ASTRONAUT is from the NATIONALITY .
@@ -1704,7 +1704,7 @@ INGREDIENT is an ingredient in beef kway teow , which comes from COUNTRY .
 AIRPORT serves the city of CITYSERVED .
 AIRPORT is in LOCATION , part of the community of Madrid , in COUNTRY . the airport has an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and a runway length of 3500 .
 WRITTENWORK which has the OCLC numberOCLC_NUMBER , is available in hardcover .
-STATUS ASTRONAUT was once a crew member of WAS A CREW MEMBER OF which OPERATOR assigned him to and he was born on January 20th , 1930 .
+STATUS ASTRONAUT was once a crew member of WAS_A_CREW_MEMBER_OF which OPERATOR assigned him to and he was born on January 20th , 1930 .
 The BUILDING is in the country of COUNTRY .
 REGION , COUNTRY , is the regions where FOOD comes from , it includes lemons .
 ABBREVIATION , the abbreviated name of the ABBREVIATION Journal , has the ISSN number ISSN_NUMBER , the LCCN number LCCN_NUMBER and is published by PUBLISHER .
@@ -1719,19 +1719,19 @@ PUBLISHER is the publisher of WRITTENWORK . The abbreviatedform of which is ABBR
 Romania ' s leader is call the LEADERTITLE .
 Almonds are from the FAMILY family .
 A . S . Roma play in LEAGUE .
-ASTRONAUT who was born in BIRTHPLACE joined OPERATOR and was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT who was born in BIRTHPLACE joined OPERATOR and was a crew member of WAS_A_CREW_MEMBER_OF .
 CAPITAL is the capital of the UK which is lead by LEADERNAME via the LEADERTITLE . The native people are known as British and BUILDING is located within the country .
 ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He was a NATIONALITY citizen . His Alma mater was UT , Austin and he graduated with a B , S . In 1955 .
 PUBLISHER which published WRITTENWORK is affiliated with the Association of Public and Land grant Universities as well as with the AFFILIATION .
 PRECEDEDBY preceded the book WRITTENWORK , published by PUBLISHER ( located in the COUNTRY ) , which was followed by FOLLOWEDBY .
 Coming from the COUNTRY , the Bacon Sandwich ( which has ketchup as an ingredient ) , can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
-The state of STATE has HAS TO ITS NORTHEAST to the northeast and the HAS TO ITS WEST to the west . It is the location of the UNIVERSITY which was granted Technical Campus status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION .
+The state of STATE has HAS_TO_ITS_NORTHEAST to the northeast and the HAS_TO_ITS_WEST to the west . It is the location of the UNIVERSITY which was granted Technical Campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION .
 LOCATION ( led by LEADERNAME ) ) is the home of the ethnic group White South Africans and the location of BUILDING .
 AUTHOR is the author of WRITTENWORK .
 Two of COUNTRY ' s leaders are LEADERNAME and T S Thakur . BUILDING is located in LOCATION in the country .
-OCCUPATION ASTRONAUT , who is now retired , was born in BIRTHPLACE and later became a crew member of WAS A CREW MEMBER OF .
+OCCUPATION ASTRONAUT , who is now retired , was born in BIRTHPLACE and later became a crew member of WAS_A_CREW_MEMBER_OF .
 The English written book WRITTENWORK was written before the DeMarce Short stories in the Grantville Gazette . Then followed the book 1634 : The Bavarian Crisis whose authors are AUTHOR .
-BUILDING was added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING was added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 FOOD comes from the REGION region of COUNTRY . The main ingredients of the dish are sour cream , chopped fruits , condensed milk . granola , raisins and shredded coconut .
 The book WRITTENWORK comes from the U . S , the capital of this country is Washington D . C . and one of the ethnic group is The ETHNICGROUP . They speak English , same as in SPOKENIN .
 The ground of SPORTSTEAM is located in GROUND . The football club play in LEAGUE , the champions of which are CHAMPIONS . GROUND is led by LEADER and the language spoken is Italian .
@@ -1744,7 +1744,7 @@ The manager of 1 . FC Koln is Peter Stoger . They have NUMBEROFMEMBERS members a
 INGREDIENT is in Arros negre , a dish from the REGION region of COUNTRY .
 The UNIVERSITY in CITY , COUNTRY is affiliated to the AFFILIATION ( which has its HQ in HEADQUARTERS ) . CITY has a magistrate government . COUNTRY ' s leader is Lars Lokke Rasmussen .
 The UNIVERSITY is in COUNTRY , it ' s dean is DEAN . COUNTRY ' s leader is the Federal Chancellor .
-ASTRONAUT ( born in BIRTHPLACE ) was a crew member of WAS A CREW MEMBER OF and was selected by NASA in WAS SELECTED BY NASA . He retired on DATEOFRETIREMENT .
+ASTRONAUT ( born in BIRTHPLACE ) was a crew member of WAS_A_CREW_MEMBER_OF and was selected by NASA in WAS_SELECTED_BY_NASA . He retired on DATEOFRETIREMENT .
 While the leader of COUNTRY is LEADERNAME , another leader is TS Thakur , and BUILDING is a location in COUNTRY .
 The 11th Mississippi Infantry monument was completed in ESTABLISHED and categorised as a contributing property . It is located in the municipality of Gettysburg , LOCATION , COUNTRY .
 ASTRONAUT was born in BIRTHPLACE and is a citizen of the NATIONALITY .
@@ -1752,7 +1752,7 @@ WRITTENWORK , also known as ABBREVIATION , with ISSN number ISSN_NUMBER , is in 
 WRITTENWORK was published by the PUBLISHER and is abbreviated to ABBREVIATION . It is identified by the ISSN number of " ISSN_NUMBER " and the LCCN number of LCCN_NUMBER . It also has the CODEN code of " CODEN_CODE " .
 The main course FOOD is a dish of REGION and is also popular in COUNTRY . The main ingredients are rice cooked in banana leaf with vegetables or minced meat fillings .
 The full name of SPORTSTEAM is " SPORTSTEAM " .
-ASTRONAUT was a member of the WAS A CREW MEMBER OF crew , his nationality is NATIONALITY and the operator of WAS A CREW MEMBER OF was OPERATOR .
+ASTRONAUT was a member of the WAS_A_CREW_MEMBER_OF crew , his nationality is NATIONALITY and the operator of WAS_A_CREW_MEMBER_OF was OPERATOR .
 CITYSERVED International airport serves CITYSERVED , COUNTRY where German is an official language .
 The MONUMENT is located in the COUNTRY at the DISTRICT .
 The CURRENTTENANTS is located in the COUNTRY and are the current tenants of Alan B Miller Hall , LOCATION , which is owned by the College of William and Mary .
@@ -1767,7 +1767,7 @@ LEADERNAME is the leader of the UK . The UK published the AIDS journal . CAPITAL
 Washington DC is the capital of the LOCATION where the leader is known as the President . One of the leaders in the LOCATION is LEADERNAME . BUILDING is located in the LOCATION .
 ASTRONAUT was born on Nov 18 , 1923 in BIRTHPLACE and died in DEATHPLACE . ASTRONAUT ' s nationality is the NATIONALITY and he retired on 1st August 1974 .
 Ethiopa is lead by LEADERNAME and uses the LANGUAGE language . The BUILDING is located in the city of LOCATION .
-ASTRONAUT was a crew member on WAS A CREW MEMBER OF , performed as a fighter pilot and his birth date was 1930 01 20 .
+ASTRONAUT was a crew member on WAS_A_CREW_MEMBER_OF , performed as a fighter pilot and his birth date was 1930 01 20 .
 ASTRONAUT is an American who was born in BIRTHPLACE .
 LANGUAGE is the language spoken in COUNTRY where the leaders are Joko Widodo and LEADERNAME . FOOD is a food found in COUNTRY but is more specific to Java .
 BUILDING is located in LOCATION .
@@ -1862,13 +1862,13 @@ BUILDING is located in LOCATION , COUNTRY , whose leader is Frank G Jackson , an
 BUILDING was designed by the architects of ARCHITECT and is owned by OWNER .
 AIRPORT is at an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) from sea level and the 5th runway is made of asphalt .
 ASTRONAUT was born in BIRTHPLACE and went to school at NWC , graduating with an MA in 1957 . He was awarded the US Navy Distinguished Service Medal . He retired on 1 August 1974 and died in DEATHPLACE .
-located in LOCATION , BUILDING were constructed in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 23rd April 1980 where it has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+located in LOCATION , BUILDING were constructed in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 23rd April 1980 where it has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 WRITTENWORK publisher of PUBLISHER .
 ETHNICGROUP are an ethnic group from Japan .
 WRITTENWORK , or ABBREVIATION for short , is about the academic discipline of Pure Mathematics .
 WRITTENWORK ' s ( abbreviated to ABBREVIATION ) comes under the academic discipline of paleontology and has a CODEN code of CODEN_CODE .
 Ethnic groups in the COUNTRY include the ETHNICGROUP and the Ilocano people . Languages used in the country are LANGUAGE and Arabic and one of the traditional dishes that can be found there is batchoy .
-On the OPERATOR operated WAS A CREW MEMBER OF program , crew member ASTRONAUT spent 52 . 0 minutes in space .
+On the OPERATOR operated WAS_A_CREW_MEMBER_OF program , crew member ASTRONAUT spent 52 . 0 minutes in space .
 The BUILDING is located in LOCATION , which is part of ISPARTOF in COUNTRY . The leader of COUNTRY is LEADERNAME and the Brazilians in COUNTRY are an ethnic group found in the country .
 A LEADERTITLE is the leader of Atlantic City , N . J .
 The UNIVERSITY has an academic staff of ACADEMICSTAFFSIZE and the dean is called DEAN .
@@ -1880,7 +1880,7 @@ The tenant of the BUILDING , LOCATION is the TENANT Hotel , a company which was 
 INGREDIENT is an ingredient of FOOD which is a dish from COUNTRY .
 MANAGER is at the CLUB club and manages 1 FC Koln .
 The ground of AS Gubbio 1910 , which has NUMBEROFMEMBERS members , is called GROUND .
-Buzz Aldrin ( born in BIRTHPLACE ) was a crew member of OPERATOR ' s WAS A CREW MEMBER OF with ASTRONAUT as a backup pilot .
+Buzz Aldrin ( born in BIRTHPLACE ) was a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF with ASTRONAUT as a backup pilot .
 The OPERATINGORGANISATION , who is the operating organisation for Al Asad airbase , fought battles in the Korean war . They deploy the ATTACKAIRCRAFT attack aircraft and the AIRCRAFTFIGHTER aircraft fighter .
 LEADERNAME is the leader of LOCATION ( COUNTRY ) , where BUILDING is located .
 A T Charlie Johnson is the editor of WRITTENWORK , he lives in the U . S and is doctoral advisor to DOCTORALADVISOR . ALMAMATER is his almaMater .
@@ -1906,7 +1906,7 @@ BUILDING is located in the COUNTRY , where the leader is LEADERNAME , the curren
 The fullname of SPORTSTEAM is Associazione Calcio ChievoVerona S . r . l .
 AIRPORT is owned by the OWNER which is headed by LEADERNAME .
 2ND_RUNWAY_SURFACETYPE ( monocotyledon and Polales ) are flowering plants that are the surface type of the second runway of Ardmore Airport , New Zealand .
-ASTRONAUT , who was selected by NASA in WAS SELECTED BY NASA , died in DEATHPLACE .
+ASTRONAUT , who was selected by NASA in WAS_SELECTED_BY_NASA , died in DEATHPLACE .
 MANAGER played for the CLUB and is the manager of SPORTSTEAM .
 SPORTSTEAM , who have NUMBEROFMEMBERS members , play in the LEAGUE league based in COUNTRY .
 FOOD comes from the COUNTRY where ETHNICGROUP are an ethnic group .
@@ -1916,7 +1916,7 @@ Sumatra has an ethnic group called the ETHNICGROUP .
 AIRPORT is found in LOCATION and has a runway length of 3 , 990 .
 Stuart Parker , is a footballer with the CLUB and has been the manager of AFC Blackpool .
 FOOD originates from COUNTRY and also popular in neighbouring Southeast Asian countries . The country ' s capital city is CAPITAL , its main language is Indonesian and led by president LEADERNAME .
-BUILDING is located in LOCATION and was built in YEAROFCONSTRUCTION . It holds the Reference Number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+BUILDING is located in LOCATION and was built in YEAROFCONSTRUCTION . It holds the Reference Number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 AIRPORT is operated by the OPERATINGORGANISATION .
 The UNIVERSITY is located in CITY , COUNTRY . CITY ' s neighbouring municipality is NEIGHBORINGMUNICIPALITY . The Swiss anthem is the ANTHEM and its leader is Federal Chancellor LEADERNAME . The legislature of COUNTRY is the Federal Assembly .
 In LOCATION , the LOCATION Civil Aviation Authority is the operating organisation of the AIRPORT .
@@ -1989,7 +1989,7 @@ FOOD , a dessert which comes from the REGION region , can be served warm or cold
 The code for Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg is CODEN_CODE .
 FOOD is a dish found in COUNTRY , where LEADERNAME is the leader and where the language spoken is Indonesian .
 STARRING starred in COMICSCHARACTER which is broadcast by BROADCASTEDBY and first aired on 3 October 1983 .
-ASTRONAUT served as a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT served as a crew member of WAS_A_CREW_MEMBER_OF .
 SPORTSTEAM is in the LEAGUE league who ' s previous champions include S S Robur Siena . The grounds of the SPORTSTEAM are located in GROUND which currently has LEADER as a leader and CAPITAL is the capital city .
 FOOD is a dessert that originates from the REGION . It was created in CREATOR and the main ingredients of FOOD are ground almond , jam , butter , eggs .
 In January 2014 building began on the construction of BUILDING in the US . The building has FLOORCOUNT floors with a total floor area of FLOORAREA and cost 110 million dollars .
@@ -2015,7 +2015,7 @@ It has NUMBEROFMEMBERS members , and the full name of SPORTSTEAM , is FULLNAME .
 Dave Challinor is affiliated with Tranmere Rovers F . C .
 SPORTSTEAM the Brazilian football team play their matches in Campeonato Brasileiro Serie C , they played in the SEASON . The CHAMPIONS were champions at the LEAGUE .
 The city of CITYSERVED is served by the AIRPORT which has first runway made of asphalt .
-Aarhus has to its northeast HAS TO ITS NORTHEAST .
+Aarhus has to its northeast HAS_TO_ITS_NORTHEAST .
 The editor of WRITTENWORK is EDITOR , an alumnus of ALMAMATER .
 CITY is part of ISPARTOF .
 The UNIVERSITY campus is located in COUNTRY at CAMPUS The President is B M Reddy and there are NUMBEROFPOSTGRADUATESTUDENTS postgraduate students .
@@ -2028,9 +2028,9 @@ MANAGER has been manager of SPORTSTEAM and plays for both AFC Ajax and CLUB .
 BUILDING was built in YEAROFCONSTRUCTION , and is located in LOCATION .
 CITY has area codes 770 , 404 , and 678 .
 ASTRONAUT was born in BIRTHPLACE represented by REPRESENTATIVE .
-ASTRONAUT was born on July 23 , 1927 , in BIRTHPLACE . He attended the ALMAMATER , and joined NASA in WAS SELECTED BY NASA . See died in DEATHPLACE .
-ASTRONAUT was born on Oct 17 , 1933 in BIRTHPLACE . He graduated from AFIT in 1962 with an M . S . Anders was a fighter pilot and joined NASA in WAS SELECTED BY NASA , where he was a member of WAS A CREW MEMBER OF . He retired on Sept 1 , 1969 .
-ASTRONAUT was born in BIRTHPLACE , and was selected by NASA in WAS SELECTED BY NASA . He served as crew member on WAS A CREW MEMBER OF , and died in DEATHPLACE .
+ASTRONAUT was born on July 23 , 1927 , in BIRTHPLACE . He attended the ALMAMATER , and joined NASA in WAS_SELECTED_BY_NASA . See died in DEATHPLACE .
+ASTRONAUT was born on Oct 17 , 1933 in BIRTHPLACE . He graduated from AFIT in 1962 with an M . S . Anders was a fighter pilot and joined NASA in WAS_SELECTED_BY_NASA , where he was a member of WAS_A_CREW_MEMBER_OF . He retired on Sept 1 , 1969 .
+ASTRONAUT was born in BIRTHPLACE , and was selected by NASA in WAS_SELECTED_BY_NASA . He served as crew member on WAS_A_CREW_MEMBER_OF , and died in DEATHPLACE .
 FOOD is found in the REGION of Columbia . The main ingredients are MAININGREDIENTS .
 The Indonesian dish FOOD is popular nationwide in Singapore and COUNTRY . Its ingredients include kway teow , beef tenderloin , gula Melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil .
 The comic character of Bolt was created by Gary Cohn and the Puerto Rican national , Ernie Colon .
@@ -2044,11 +2044,11 @@ The UNIVERSITY is located in the city of CITY , COUNTRY ( capital CAPITAL ) .
 The CURRENTTENANTS are the current tenants of Alan B Miller Hall which is located in the COUNTRY . The architect of the Hall is Robert A M Stern and the building was completed on 1st June 2009 .
 ' 1634 The Ram Rebellion ' was written in the COUNTRY , a country where ETHNICGROUP are one of the ethnic groups .
 Randall County in Texas is located within the COUNTRY .
-Born in BIRTHPLACE , ASTRONAUT served as a test pilot before being selected by NASA in WAS SELECTED BY NASA .
+Born in BIRTHPLACE , ASTRONAUT served as a test pilot before being selected by NASA in WAS_SELECTED_BY_NASA .
 AIRPORT owned by OWNER who ' s chief is CHIEF .
 The leader party at Alcobendas is the Peoples Party ( Spain ) .
 LEADERNAME is leader of the COUNTRY , home to the dish FOOD . ETHNICGROUP are an ethic group in the COUNTRY , where Washington DC is the capital and the leader has the title President .
-COMMANDER was a Commander with ASTRONAUT as crew member and BACKUP PILOT as the backup pilot on the WAS A CREW MEMBER OF mission .
+COMMANDER was a Commander with ASTRONAUT as crew member and BACKUP_PILOT as the backup pilot on the WAS_A_CREW_MEMBER_OF mission .
 FOOD is a food from COUNTRY where the capital is CAPITAL and the Malaysian chinese are an ethnic group .
 BUILDING is located in LOCATION , the country which has Cyril Ramaphosa and LEADERNAME as leaders and where one of the ethnic groups is White South Africans .
 BUILDING is located in LOCATION , COUNTRY . LOCATION is part of the Cuyahoga County in ISPARTOF .
@@ -2067,14 +2067,14 @@ UNIVERSITY in COUNTRY was created in ESTABLISHED and has ACADEMICSTAFFSIZE emplo
 Operated by the OPERATINGORGANISATION , AIRPORT is in LOCATION . Its runway name is RUNWAYNAME and its runway length is RUNWAYLENGTH .
 FOOD is from COUNTRY where French is the spoken language and Gerard Larcher is the leader .
 The MONUMENT established in ESTABLISHED is found in LOCATION .
-ASTRONAUT ( born on March 15 , 1932 ) graduated from UT Austin in 1955 with a B . S . ASTRONAUT who was chosen by NASA in WAS SELECTED BY NASA is an American born in BIRTHPLACE .
+ASTRONAUT ( born on March 15 , 1932 ) graduated from UT Austin in 1955 with a B . S . ASTRONAUT who was chosen by NASA in WAS_SELECTED_BY_NASA is an American born in BIRTHPLACE .
 BUILDING is in the COUNTRY , where English is the main language used by the Irish . The leader of the COUNTRY is LEADERNAME , and the currency used is the CURRENCY .
 The key person for BROADCASTEDBY is Rona Fairfield and it ' s located in LOCATIONCITY in London and shows COMICSCHARACTER TV Series .
 NATIONALITY citizen ASTRONAUT graduated from UT Austin , B . S . in 1955 and is now retired .
 Denmark ' s language is Faroese .
 There are NUMBEROFSTUDENTS students at the UNIVERSITY .
 The Addiction journal has an ISSN number of ISSN_NUMBER .
-ASTRONAUT was born on Oct 17 , 1933 in BIRTHPLACE but is from the US . He graduated from AFIT in 1962 with an M . S . He was a fighter pilot and began working with NASA in WAS SELECTED BY NASA . Anders retired on Sept 1 , 1969 .
+ASTRONAUT was born on Oct 17 , 1933 in BIRTHPLACE but is from the US . He graduated from AFIT in 1962 with an M . S . He was a fighter pilot and began working with NASA in WAS_SELECTED_BY_NASA . Anders retired on Sept 1 , 1969 .
 Amserdam Airport Schiphol runway name is 18L / 36R Aalsmeerbaan .
 HUBAIRPORT is the hub airport for HEADQUARTER Airlines which operates AIRPORT and has its headquarters located in HEADQUARTER .
 INGREDIENT is an ingredient used in the preparation of FOOD .
@@ -2127,7 +2127,7 @@ The BUILDING architectural style is that of Romanesque Revival .
 INGREDIENT is found in bakso which is popular in COUNTRY and Southeastern Asian countries . FOOD comes from COUNTRY .
 Almond is part of the FAMILY family .
 Anderson is a city in ISPARTOF .
-ASTRONAUT was selected to work for NASA in WAS SELECTED BY NASA and has since retired .
+ASTRONAUT was selected to work for NASA in WAS_SELECTED_BY_NASA and has since retired .
 Abilene , Texas is in the COUNTRY .
 Michele Marcolini is at the CLUB club .
 SPORTSTEAM ground is in the town of GROUND . It has NUMBEROFMEMBERS members and plays in the LEAGUE .
@@ -2135,10 +2135,10 @@ Ring of Fire II was preceded by WRITTENWORK .
 FOOD is from COUNTRY , it ' s currency is also the CURRENCY and it ' s leader is LEADERNAME .
 The Flemish Department of Mobility and Public Works is the operator of AIRPORT , which has a runway length of RUNWAYLENGTH .
 LEADERNAME is the leader of the Federal Assembly in that country . UNIVERSITY is located in COUNTRY .
-ASTRONAUT was hired by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was hired by NASA in WAS_SELECTED_BY_NASA .
 FOOD comes from the REGION region of COUNTRY and is made from chopped fruits , sour cream , condensed milk , granola , shredded coconut and raisins .
 ASTRONAUT was born in BIRTHPLACE and went to ALMAMATER and was the TITLE .
-ASTRONAUT has retired . He is a US national who was born in BIRTHPLACE on 17 October 1933 . He graduated from AFIT , MS in 1962 and served as a fighter pilot . In WAS SELECTED BY NASA he was selected by NASA .
+ASTRONAUT has retired . He is a US national who was born in BIRTHPLACE on 17 October 1933 . He graduated from AFIT , MS in 1962 and served as a fighter pilot . In WAS_SELECTED_BY_NASA he was selected by NASA .
 A . E . Dimitra Efxeinoupolis has NUMBEROFMEMBERS members and they were in the SEASON season .
 ASTRONAUT , who was born in BIRTHPLACE , well known for the BIRD , was awarded the AWARDS and the higher HIGHER .
 Ayam Penyet includes fried chicken and is found in Malaysia , Singapore and is nationwide .
@@ -2155,7 +2155,7 @@ FOOD , which are made of vegetables , originated in the country of COUNTRY .
 The American George Winckler was the architect of BUILDING , of which construction began in BUILDINGSTARTDATE .
 The COUNTRY is the country of origin of Lippincott , Williams & Wilkins .
 LANGUAGE is a language spoken in Singapore .
-ASTRONAUT was born in BIRTHPLACE on October 17th 1933 . He served as a fighter pilot and was selected by NASA in WAS SELECTED BY NASA . He retired on September 1st 1969 .
+ASTRONAUT was born in BIRTHPLACE on October 17th 1933 . He served as a fighter pilot and was selected by NASA in WAS_SELECTED_BY_NASA . He retired on September 1st 1969 .
 MANAGER clubs are Alianza F . C . and the FC Dallas club . He also manages AD Isidro Metapan and plays for the CLUB .
 The book WRITTENWORK comes from the U . S . , where there is an ethnic group of Native Americans . The book is written in English , that is spoken in SPOKENIN .
 The main ingredients of FOOD are bacon and sausage , it is a main course from the REGION .
@@ -2163,7 +2163,7 @@ The capital of Sri Lanka is CAPITAL .
 The OPERATINGORGANISATION is the operating organisation of the AIRPORT in LOCATION which serves the city of CITYSERVED . The airport has a runway named RUNWAYNAME which is RUNWAYLENGTH in length .
 LEADERNAME is the leader of REGION . In REGION , the LANGUAGE is spoken , and the capital city is CAPITAL . Types of food include FOOD which originates from COUNTRY .
 ASTRONAUT was born on the 15th of March 1932 and his Alma Mater is ALMAMATER .
-American ASTRONAUT , who is now retired , was a fighter pilot who helped crew WAS A CREW MEMBER OF . He was born on January 20th , 1930 in BIRTHPLACE and graduated from MIT with a Sc . D . in 1963 .
+American ASTRONAUT , who is now retired , was a fighter pilot who helped crew WAS_A_CREW_MEMBER_OF . He was born on January 20th , 1930 in BIRTHPLACE and graduated from MIT with a Sc . D . in 1963 .
 The BUILDING at 142 Nakadori has FLOORCOUNT floors with a total area of 3746 . 66 square metres .
 TENANT which was founded in FOUNDATIONPLACE is the tenant of BUILDING .
 Jens H ä rtel played for CLUB .
@@ -2208,14 +2208,14 @@ English is spoken in SPOKENIN and the COUNTRY . Native Americans are an ethnic g
 LARGESTCITY is the largest city of the United States .
 The Al Taqaddum air base which serves the city of CITYSERVED is 84 metres above sea level and has a runway length of 3684 .
 John van den Brom plays for CLUB .
-ASTRONAUT was born on October 17 , 1933 in BIRTHPLACE , served as a fighter pilot and crew member of WAS A CREW MEMBER OF .
+ASTRONAUT was born on October 17 , 1933 in BIRTHPLACE , served as a fighter pilot and crew member of WAS_A_CREW_MEMBER_OF .
 AIRPORT is located in LOCATION in the COUNTRY . The Airport ' s runway name is called " RUNWAYNAME " .
 INGREDIENT is one of the ingredients used to make FOOD .
 Allama Igbal Internation airport is located in CITYSERVED , LOCATION and run by the LOCATION Civil Aviation Authority . The length of the runway is 3310m and known as RUNWAYNAME .
 Kempe Gowda was the founder of the city of CITY where the UNIVERSITY is located . The Institute is affiliated to the AFFILIATION and one of the sports offered at the Institute is tennis which has the SPORTSGOVERNINGBODY as its governing body .
 CAPITAL is the capital of GROUND which is inhabited by DEMONYM and where SPORTSTEAM plays .
 Angola International airport is located in Icolo e Bengo , elevated ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level and serves the city of CITYSERVED . The airport ' s runway is called " RUNWAYNAME " and is 4000 meters long .
-ASTRONAUT was born in British Honk . He is a retired fighter pilot , who was selected by NASA in WAS SELECTED BY NASA to become a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT was born in British Honk . He is a retired fighter pilot , who was selected by NASA in WAS_SELECTED_BY_NASA to become a member of the WAS_A_CREW_MEMBER_OF crew .
 FOOD has fried chicken in it .
 French is one of the languages spoken in Belgium .
 ASTRONAUT was born in BIRTHPLACE , NATIONALITY .
@@ -2244,7 +2244,7 @@ The ETHNICGROUPS , an English ethnic group , went to visit the DeadMan ' s Plack
 The OPERATINGORGANISATION is the operating organisation for Al Asad airbase .
 BUILDING is located in COUNTRY .
 The tomato comes from the FAMILY family .
-BIRTHPLACE born ASTRONAUT was a fighter pilot on WAS A CREW MEMBER OF .
+BIRTHPLACE born ASTRONAUT was a fighter pilot on WAS_A_CREW_MEMBER_OF .
 Located in Sao Jose dos Pinhais and operated by OPERATINGORGANISATION , Afonsa Pena International Airport serves the city of CITYSERVED which is part of the ISPARTOF .
 Jerry Ordway ' s nationality is American .
 The author of WRITTENWORK is AUTHOR .
@@ -2253,7 +2253,7 @@ BUILDING was designed by ARCHITECT , who was born in BIRTHPLACE .
 Arem arem is a food which comes from REGION , whose leader is LEADERNAME .
 BIRTHPLACE born ARCHITECT was the architect of BUILDING and also designed other significant buildings , including the Los Angeles Herald Examiner building .
 Part of Columbian cuisine and found in the REGION , FOOD ' s main ingredients is INGREDIENT .
-ASTRONAUT ( born in BIRTHPLACE ) was selected by NASA in WAS SELECTED BY NASA after attending ALMAMATER and retired on DATEOFRETIREMENT .
+ASTRONAUT ( born in BIRTHPLACE ) was selected by NASA in WAS_SELECTED_BY_NASA after attending ALMAMATER and retired on DATEOFRETIREMENT .
 CITY is in the COUNTRY .
 The ares codes of Austin ( Texas ) are 512 and 737 .
 The dish bhajji is related to pakora .
@@ -2272,7 +2272,7 @@ LEADERNAME is the leader of the Eastern Province , COUNTRY where the BUILDING is
 FOOD has ground almond , jam , butter and eggs as main ingredients and originates from the REGION .
 FOOD is found in REGION and Singapore . Its main ingredients are kway teow , beef tender loin , gula melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil .
 The UNIVERSITY is located in CITY , COUNTRY . COUNTRY ' s legislature is the Federal Assembly .
-The WAS A CREW MEMBER OF is operated by Nasa , its commander was COMMANDER , its backup pilot was BACKUP PILOT and it was crewed by ASTRONAUT . ASTRONAUT graduated from AFIT in 1962 with an M . S . and retired Sept 1st 1969 .
+The WAS_A_CREW_MEMBER_OF is operated by Nasa , its commander was COMMANDER , its backup pilot was BACKUP_PILOT and it was crewed by ASTRONAUT . ASTRONAUT graduated from AFIT in 1962 with an M . S . and retired Sept 1st 1969 .
 AIRPORT serves the city of CITYSERVED and is found in Punjab , COUNTRY where LEADERNAME is the leader .
 AIRPORT , located ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , serves the city of CITYSERVED with a runway length of 2 , 195 .
 WRITTENWORK ( abbreviated to " ABBREVIATION " ) has a CODEN code of " CODEN_CODE " .
@@ -2321,12 +2321,12 @@ FULLNAME ( abbreviated to SPORTSTEAM ) has NUMBEROFMEMBERS members .
 The length of the runway at AIRPORT in LOCATION , which lies ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , is RUNWAYLENGTH . The ICAO Location Identifier of AIRPORT is ICAO_LOCATION_IDENTIFIER and it is operated by the Airports Authority of LOCATION .
 The character of COMICSCHARACTER , whose full name is FULLNAME , was created by CREATOR and the comic book writer Roger Mckenzie who is American .
 Established in ESTABLISHED the UNIVERSITY in COUNTRY is affiliated with the AFFILIATION . The university has a staff compliment of ACADEMICSTAFFSIZE and NUMBEROFSTUDENTS students and it ' s latin name is LATINNAME .
-The Acharya Institure of Technology in CITY is affiliated to the Visvesaraya Technological University . It was also given the " Technical Campus " status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY , which is located in LOCATION . CITY ' s founder was FOUNDER .
+The Acharya Institure of Technology in CITY is affiliated to the Visvesaraya Technological University . It was also given the " Technical Campus " status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY , which is located in LOCATION . CITY ' s founder was FOUNDER .
 Barny cakes have a dish variation that uses milk in the recipe . The nutritional value of the Barny cake includes the following : 1 . 8g protein , 18 . 00g carbohydrates and 4 . 8g of fat .
 ARCHITECT was the architect of the BUILDING , and it was completed in COMPLETIONDATE .
 WRITTENWORK , from COUNTRY , and published by PUBLISHER , was followed by FOLLOWEDBY .
 The location of the MONUMENT is LOCATION and was established in ESTABLISHED where it is categorised as contributing property , .
-ASTRONAUT was a crew member on the WAS A CREW MEMBER OF flight mission .
+ASTRONAUT was a crew member on the WAS_A_CREW_MEMBER_OF flight mission .
 ARCHITECT , born in BIRTHPLACE designed Asilomar Conference grounds , The Riverside Art Museum and other significant buildings in Chinatown , BIRTHPLACE .
 Native Americans and country FOOD both are from the COUNTRY .
 Peter Stoger plays for CLUB .
@@ -2334,8 +2334,8 @@ The CURRENTTENANTS are the current tenants of Alan B Miller Hall , which was com
 BUILDING , built in YEAROFCONSTRUCTION , is located at LOCATION .
 AIRPORT serves the city of Abilene which is part of ISPARTOF .
 The location of AIRPORT is LOCATION , part of the Central COUNTRY region , in COUNTRY where the language is Dutch .
-ASTRONAUT joined NASA in WAS SELECTED BY NASA .
-ASTRONAUT is a US national who was born in BIRTHPLACE . He was a fighter pilot and member of the WAS A CREW MEMBER OF crew . He spent 52 minutes in space and is now retired .
+ASTRONAUT joined NASA in WAS_SELECTED_BY_NASA .
+ASTRONAUT is a US national who was born in BIRTHPLACE . He was a fighter pilot and member of the WAS_A_CREW_MEMBER_OF crew . He spent 52 minutes in space and is now retired .
 The runway length at AIRPORT is RUNWAYLENGTH meters .
 The architect of BUILDING , completed in COMPLETIONDATE , was ARCHITECT .
 BUILDING was constructed in the Tudor Revival style between BUILDINGSTARTDATE and COMPLETIONDATE in LOCATION .
@@ -2351,10 +2351,10 @@ The AC Hotel Bella Sky is in LOCATION .
 WRITTENWORK is abbreviated to ABBREVIATION It has the LCCN number LCCN_NUMBER and the ISSN number ISSN_NUMBER .
 WRITTENWORK is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of ACADEMICDISCIPLINE , Cornell University . It comes under the academic discipline of ACADEMICDISCIPLINE and has the abbreviation Admin . Sci . Q . .
 Located in the region of REGION , in the Eastern Province of COUNTRY , is BUILDING . It has a bed count of BEDCOUNT and has a website .
-The state of STATE has the HAS TO ITS WEST to the west and is the location of the UNIVERSITY . The Institute was given Technical campus status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION .
+The state of STATE has the HAS_TO_ITS_WEST to the west and is the location of the UNIVERSITY . The Institute was given Technical campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION .
 An ingredient of beef kway teow , which originates from REGION and is a popular food of COUNTRY , is palm sugar .
 WRITTENWORK is NUMBEROFPAGES pages long and was published in print & paperback .
-ASTRONAUT was born on Nov 18 , 1923 in BIRTHPLACE , USA . He graduated from NWC with an M . A . in 1957 . He was a member of WAS A CREW MEMBER OF . Shepard died in DEATHPLACE .
+ASTRONAUT was born on Nov 18 , 1923 in BIRTHPLACE , USA . He graduated from NWC with an M . A . in 1957 . He was a member of WAS_A_CREW_MEMBER_OF . Shepard died in DEATHPLACE .
 LEADERNAME is the leader of LOCATION in ISPARTOF , COUNTRY where the LANGUAGE is spoken . The city is the location of 300 North La Salle .
 The population density of Attica Indiana is POPULATIONDENSITY .
 The Maple Ridge Township , Alpena County , Michigan is in the U . S .
@@ -2384,7 +2384,7 @@ PARENTCOMPANY is the parent company of PUBLISHER who publish the WRITTENWORK . T
 The American CREATOR created the comic character Balder .
 Belgium ' s leader is LEADERNAME .
 The fullname of SPORTSTEAM is FULLNAME .
-BUILDING are located in LOCATION and has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+BUILDING are located in LOCATION and has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 ASTRONAUT attended the ALMAMATER .
 There are FLOORCOUNT floors at BUILDING , LOCATION , with a total floor area of 30843 . 8 square metres .
 The BUILDING in Manhattan , LOCATION are part of ISPARTOF .
@@ -2458,11 +2458,11 @@ Barny cakes , made with sponge cakes , can be found in COUNTRY , where they spea
 Sandesh is a dessert confection . FOOD is a dessert that includes sweet potato ( a member of the ORDER order ) .
 WRITTENWORK is available in hardcover . The OCLC number is OCLC_NUMBER and the ISBN number is ISBN_NUMBER .
 Alan Shephard , born in BIRTHPLACE , was awarded the Distinguished Service Medal ( a higher award than the HIGHER ) by the United States Navy .
-UNIVERSITY in CITY , STATE , east of the HAS TO ITS WEST , was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION .
+UNIVERSITY in CITY , STATE , east of the HAS_TO_ITS_WEST , was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION .
 SPORTSTEAM is located at the St . Vincent - St . Mary High school in STATE .
 BUILDING is located in LOCATION , Cuyahoga County , ISPARTOF ; Frank G Jackson is a leader in LOCATION .
 BUILDING is found in LOCATION where one of the ethnic groups is ETHNICGROUP .
-BUILDING , built in YEAROFCONSTRUCTION with the architectural style of ARCHITECTURALSTYLE , are located in LOCATION . It was added to the National Register of Historic Places on 27 February 1987 with ref number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING , built in YEAROFCONSTRUCTION with the architectural style of ARCHITECTURALSTYLE , are located in LOCATION . It was added to the National Register of Historic Places on 27 February 1987 with ref number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 The population density , of Attica ( Indiana ) , is 783 . 1 inhabitants per square kilometre .
 AIRPORT is located in LOCATION .
 FOOD is a food found in COUNTRY where Spanish is spoken and Enrique Pena Nieto is the leader .
@@ -2502,7 +2502,7 @@ The UNIVERSITY in LOCATION was established ESTABLISHED . It has a staff of ACADE
 US national ASTRONAUT was born in BIRTHPLACE on 17th October 1933 . The NASA test pilot retired on 1st September 1969 .
 FOOD is a food found in COUNTRY , the ingredients include ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables and fried shallots .
 The Olympic Stadium , located in LOCATION , is the home ground of AEK LOCATION FC .
-ASTRONAUT was an American born in BIRTHPLACE . He served as a test pilot and a WAS A CREW MEMBER OF crew member . He spent at total of 100305 . 0 minutes in space .
+ASTRONAUT was an American born in BIRTHPLACE . He served as a test pilot and a WAS_A_CREW_MEMBER_OF crew member . He spent at total of 100305 . 0 minutes in space .
 The owner of BUILDING in LOCATION is OWNER . The Lord Mayor of the city was LEADERNAME .
 The MONUMENT is categorised as a contributing property and can be found in MUNICIPALITY .
 CITY is part of the ISPARTOF .
@@ -2518,7 +2518,7 @@ DESIGNER is the designer of the Ataturk Monument in Izmir , which is made of bro
 The leader of Japan is called LEADERNAME .
 Shumai is a variation of DISHVARIATION .
 LEADERNAME and Jusuf Kalla are leaders in REGION where the capital is CAPITAL and FOOD ( made in China ) is found .
-ASTRONAUT was born in BIRTHPLACE . He graduated from UT Austin with a BS in 1955 and was chosen by OPERATOR in WAS SELECTED BY NASA . He was on the crew of WAS A CREW MEMBER OF , operated by OPERATOR and commanded by COMMANDER .
+ASTRONAUT was born in BIRTHPLACE . He graduated from UT Austin with a BS in 1955 and was chosen by OPERATOR in WAS_SELECTED_BY_NASA . He was on the crew of WAS_A_CREW_MEMBER_OF , operated by OPERATOR and commanded by COMMANDER .
 English is the language of the COUNTRY where WRITTENWORK was published . One of the ethnic groups in the country are the ETHNICGROUP .
 The Javenese people are an ethnic group in COUNTRY , where you can find the dish FOOD . The dish , which has the main ingredient of fried chicken , originated in REGION .
 The UNIVERSITY in CITY was established in ESTABLISHED . It has ACADEMICSTAFFSIZE academic staff and NUMBEROFSTUDENTS students . Its dean is DEAN .
@@ -2553,15 +2553,15 @@ Alexandria , in Indiana , has a total area of 6 , 81 square kilometres .
 The MONUMENT is in the municipality of Gettysburg , PA in Adams County .
 FOOD is a dish from COUNTRY , where LEADERNAME is leader . INGREDIENT is an ingredient of batagor and siomay and shumai are versions of the same dish .
 Tim Brooke - Taylor was born in BIRTHPLACE .
-The UNIVERSITY is located in Karnatka and it is affiliated to the AFFILIATION in CITY . Its offered sport is tennis , whose governing body is the SPORTSGOVERNINGBODY . STATE has HAS TO ITS NORTHEAST to its northeast and the HAS TO ITS WEST to its west .
+The UNIVERSITY is located in Karnatka and it is affiliated to the AFFILIATION in CITY . Its offered sport is tennis , whose governing body is the SPORTSGOVERNINGBODY . STATE has HAS_TO_ITS_NORTHEAST to its northeast and the HAS_TO_ITS_WEST to its west .
 The lira is the currency of LOCATION where Ahmet Davutoglu is the leader and the capital city is CAPITAL . The country is the site of the Ataturk monument at Izmir which was designed by DESIGNER and inaugurated on 27 July 1932 .
-ASTRONAUT was born on January 20 , 1930 in Glen Ridge New Jersey and graduated in WAS SELECTED BY NASA from MIT with a Sc . D . He was selected by NASA in WAS SELECTED BY NASA as a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born on January 20 , 1930 in Glen Ridge New Jersey and graduated in WAS_SELECTED_BY_NASA from MIT with a Sc . D . He was selected by NASA in WAS_SELECTED_BY_NASA as a crew member on WAS_A_CREW_MEMBER_OF .
 AIRPORT in LOCATION is part of Atlantic County in the U . S . A . Its runway name is RUNWAYNAME .
 FOOD , containing vegetables , are found in the region of REGION .
 The OPERATINGORGANISATION operate AIRPORT and use the ATTACKAIRCRAFT as an attack aircraft . Two of their key battles are the Invasion of Grenada and BATTLES .
 FOOD is a dish from COUNTRY . The country ' s capital city is CAPITAL and it is led by president LEADERNAME and vice president Jusuf Kalla .
 The MONUMENT belongs to the category of Historic districts and is found in the COUNTRY .
-The BUILDING , built in YEAROFCONSTRUCTION with a Romanesque Revival architectural style , is located in LOCATION . It was registered in the National Register of Historic Places on 23 / 4 / 1980 with number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The BUILDING , built in YEAROFCONSTRUCTION with a Romanesque Revival architectural style , is located in LOCATION . It was registered in the National Register of Historic Places on 23 / 4 / 1980 with number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 FOOD and cookies are both dishes served for dessert .
 LOCATION airport , whose location id is ICAO_LOCATION_IDENTIFIER OR IATA is located in LOCATION . The OPERATINGORGANISATION operates it .
 The FLOORCOUNT floor building at BUILDING in BIRTHPLACE was designed by ARCHITECT , a local architect .
@@ -2591,7 +2591,7 @@ WRITTENWORK ( abbrv . Acta Palaeontol . Pol ) was published by the PUBLISHER . C
 The architectural style of the BUILDING is Georgian .
 MANAGER , who was born in PLACEOFBIRTH , has been manager of AC Lumezzane , owns Torino F . C . and played for CLUB .
 BUILDING is located in Avenue A , Manhattan .
-ASTRONAUT was born in BIRTHPLACE and graduated from NWC in 1957 with a M . A . Alan went on to become a test pilot and joined NASA in WAS SELECTED BY NASA . He later died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE and graduated from NWC in 1957 with a M . A . Alan went on to become a test pilot and joined NASA in WAS_SELECTED_BY_NASA . He later died in DEATHPLACE .
 INGREDIENT sandwiches , which include bacon , are popular in the UK and are a variation of the BLT , which is itself a variation of the club sandwich .
 MANAGER manages the A . D . Isidro Metapan . He also plays for Alianza F . C . , FC Dallas , and the CLUB .
 Agremiacao Sportiva Arapiraquense , nicknamed Alvinegro , has NUMBEROFMEMBERS members .
@@ -2604,7 +2604,7 @@ SPORTSTEAM are in season SEASON and have NUMBEROFMEMBERS members . Their manager
 INGREDIENT ( from the family of solanaceae ) is an ingredient in FOOD .
 Sandesh is a dessert , along with FOOD , which comes from COUNTRY , where the leader is LEADERNAME .
 SPORTSTEAM played in SEASON .
-The UNIVERSITY is located in CITY , STATE . Its offered sport is tennis ( sports governing body - the International SPORTSOFFERED Foundation ) and it is affiliated to the Visvesvaraya Technology University . STATE has HAS TO ITS NORTHEAST to its northeast and the HAS TO ITS WEST to its west .
+The UNIVERSITY is located in CITY , STATE . Its offered sport is tennis ( sports governing body - the International SPORTSOFFERED Foundation ) and it is affiliated to the Visvesvaraya Technology University . STATE has HAS_TO_ITS_NORTHEAST to its northeast and the HAS_TO_ITS_WEST to its west .
 FOOD ( or ALTERNATIVENAME ) originates from REGION in COUNTRY . The main ingredients are bread , almonds , garlic , water and olive oil .
 Poaceae is in the class CLASS .
 The BUILDING has FLOORCOUNT floors and a total floor area of FLOORAREA . It is located at ADDRESS .
@@ -2614,8 +2614,8 @@ WRITTENWORK is published by PUBLISHER which was founded by FOUNDER .
 The length of the first runway at AIRPORT is 1ST_RUNWAY_LENGTHFEET feet .
 A . S . Roma , which has NUMBEROFMEMBERS members , have their grounds in GROUND .
 The BUILDING was completed in COMPLETIONDATE , it is 111484 square metres and has a floor count of FLOORCOUNT .
-ASTRONAUT was born in BIRTHPLACE . He graduated from NWC , M . A . in 1957 , was a member of the WAS A CREW MEMBER OF crew and retired on 1st August 1974 . He was awarded the Distinguished Service Medal by the United States Navy , which is higher than the HIGHER .
-American ASTRONAUT was born on October 17th , 1933 in BIRTHPLACE . He joined NASA in WAS SELECTED BY NASA as a OCCUPATION and retired on September 1 , 1969 .
+ASTRONAUT was born in BIRTHPLACE . He graduated from NWC , M . A . in 1957 , was a member of the WAS_A_CREW_MEMBER_OF crew and retired on 1st August 1974 . He was awarded the Distinguished Service Medal by the United States Navy , which is higher than the HIGHER .
+American ASTRONAUT was born on October 17th , 1933 in BIRTHPLACE . He joined NASA in WAS_SELECTED_BY_NASA as a OCCUPATION and retired on September 1 , 1969 .
 Ahmet Davutoglu is the leader of LOCATION , the location of the bronze Atat ü rk Monument in Izmir designed by DESIGNER .
 ASTRONAUT , who was born in BIRTHPLACE , was awarded the Distinguished Service Medal by the U . S . Navy .
 ISPARTOF City is part of ISPARTOF .
@@ -2623,7 +2623,7 @@ FOOD can be varied by adding garlic .
 ASTRONAUT spent 52 minutes in space .
 The comic book character Blockbuster was created by both Gardner Fox and CREATOR .
 FOOD , which is a dish of REGION , originates from COUNTRY . The leader of COUNTRY is LEADERNAME and the language is Indonesian .
-ASTRONAUT is an American who was born in BIRTHPLACE on the 15th March 1932 . He graduated from UT Austin in 1955 with a B . S . degree , He was a test pilot , who was on the crew of WAS A CREW MEMBER OF . He retired in DATEOFRETIREMENT .
+ASTRONAUT is an American who was born in BIRTHPLACE on the 15th March 1932 . He graduated from UT Austin in 1955 with a B . S . degree , He was a test pilot , who was on the crew of WAS_A_CREW_MEMBER_OF . He retired in DATEOFRETIREMENT .
 WRITTENWORK was published in English ( language of SPOKENIN ) in the COUNTRY , where the leader is called a " president " and part of the population is African American .
 The UK dish DISHVARIATION is a variation of the bacon sandwich which has ketchup as one of it ' s ingredients .
 A . S . Gubbio has NUMBEROFMEMBERS members and their ground is located in GROUND .
@@ -2638,21 +2638,21 @@ In the COUNTRY , the leader ( Queen ) is LEADERNAME , English is the primary lan
 The BUILDING is located in COUNTRY where LEADERNAME is the current leader . The hospital is situated in the Eastern Province where the GOVERNINGBODY is the governing body .
 MANAGER plays for U . S Castrovillari Calcio ; he has been the manager of A C Cesena and is attached to the club CLUB .
 LEADERNAME is the leader of Atlantic City , , which is served by Atlantic City International airport located at LOCATION , COUNTRY .
-ASTRONAUT was a fighter pilot who joined OPERATOR in WAS SELECTED BY NASA . He was part of WAS A CREW MEMBER OF ' s crew , along with CREWMEMBERS and backup pilot BACKUP PILOT .
+ASTRONAUT was a fighter pilot who joined OPERATOR in WAS_SELECTED_BY_NASA . He was part of WAS_A_CREW_MEMBER_OF ' s crew , along with CREWMEMBERS and backup pilot BACKUP_PILOT .
 The MONUMENT is located in the district of the DISTRICT .
 ALTERNATIVENAME is also known as Amazing - Man in the comics genre .
 CAPITAL is the capital of Malaysia .
-ASTRONAUT was born in BIRTHPLACE and is an American . Elliot attended the ALMAMATER which will compete in the COMPETE IN . Elliot died in St Louis .
+ASTRONAUT was born in BIRTHPLACE and is an American . Elliot attended the ALMAMATER which will compete in the COMPETE_IN . Elliot died in St Louis .
 ETHNICGROUP are an ethnic group from the Philippines .
 Associazione Calcio ChievoVerona is managed by MANAGER who plays for Unione Triestina 2012 SSD .
 CITY has a total area of 4 . 14 sq km .
-WAS A CREW MEMBER OF was operated by OPERATOR . Among the crew members were CREWMEMBERS and ASTRONAUT . The latter was born in BIRTHPLACE , whose representative is REPRESENTATIVE .
+WAS_A_CREW_MEMBER_OF was operated by OPERATOR . Among the crew members were CREWMEMBERS and ASTRONAUT . The latter was born in BIRTHPLACE , whose representative is REPRESENTATIVE .
 BUILDING ' s completion date was in COMPLETIONDATE .
 UNIVERSITY is located in COUNTRY . The capital of the country is Buharest , it ' s leader is the Prime Minister and the national anthem is ANTHEM .
-Born on the 17th of October 1933 ASTRONAUT started working for OPERATOR in WAS SELECTED BY NASA . He was a crew member on the OPERATOR operated WAS A CREW MEMBER OF mission along with backup pilot BACKUP PILOT and CREWMEMBERS .
+Born on the 17th of October 1933 ASTRONAUT started working for OPERATOR in WAS_SELECTED_BY_NASA . He was a crew member on the OPERATOR operated WAS_A_CREW_MEMBER_OF mission along with backup pilot BACKUP_PILOT and CREWMEMBERS .
 Qarabag FK are champions of the LEAGUE . SPORTSTEAM , who have NUMBEROFMEMBERS members also play in the league and are in season SEASON .
 WRITTENWORK is NUMBEROFPAGES pages long .
-ASTRONAUT was born in BIRTHPLACE . He received an MS from AFIT in 1962 and joined NASA in WAS SELECTED BY NASA . He was a fighter pilot and a crew member on Apollo . He retired in 1969 .
+ASTRONAUT was born in BIRTHPLACE . He received an MS from AFIT in 1962 and joined NASA in WAS_SELECTED_BY_NASA . He was a fighter pilot and a crew member on Apollo . He retired in 1969 .
 FOOD comes from COUNTRY , which leaders are Pietro Grasso and LEADERNAME , CAPITAL is its capital and they speak Italian .
 LEADERNAME is the leader of the ADMINISTRATIVECOUNTY Dales ( in County of ADMINISTRATIVECOUNTY ) , where FOOD originates . A variant of the pudding is DISHVARIATION which has INGREDIENT as one of the ingredients .
 WRITTENWORK is NUMBEROFPAGES pages long and has the ISBN number ISBN_NUMBER .
@@ -2690,16 +2690,16 @@ ASTRONAUT was in space 100305 minutes .
 The leader of the US is known as the President and two of the leaders are John Roberts and LEADERNAME . The country is the location of BUILDING .
 Barny cakes can be found in COUNTRY , where LEADERNAME leads and French is a language spoken there .
 A variation of Shumai is DISHVARIATION .
-ASTRONAUT , who graduated , with an M . S . , from AFIT in 1962 and served as a crew member on WAS A CREW MEMBER OF , retired DATEOFRETIREMENT .
+ASTRONAUT , who graduated , with an M . S . , from AFIT in 1962 and served as a crew member on WAS_A_CREW_MEMBER_OF , retired DATEOFRETIREMENT .
 The dish arem arem is found nationwide in COUNTRY , but is more specific to Java . In COUNTRY , the currency is called the CURRENCY , the language spoken is Indonesian and a leader is LEADERNAME .
 The BUILDING ( located in LOCATION ) is owned by OWNER .
 The comic character , Airman , was created by CREATOR .
-ASTRONAUT ( born on November 18 , 1923 in BIRTHPLACE ) graduated from NWC in 1957 with a M . A . He was selected by NASA in WAS SELECTED BY NASA and was awarded the Distinguished Service Medal by the United States Navy which is higher than the Department of Commerce Gold Metal . ASTRONAUT died in DEATHPLACE .
+ASTRONAUT ( born on November 18 , 1923 in BIRTHPLACE ) graduated from NWC in 1957 with a M . A . He was selected by NASA in WAS_SELECTED_BY_NASA and was awarded the Distinguished Service Medal by the United States Navy which is higher than the Department of Commerce Gold Metal . ASTRONAUT died in DEATHPLACE .
 RUNWAYNAME is the runway name at Angola International airport .
 MANAGER is manager of SPORTSTEAM and plays for CLUB .
 SPORTSTEAM has NUMBEROFMEMBERS members .
 The UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED . Its dean is DEAN and it is affiliated to the AFFILIATION , which has its headquarters in HEADQUARTERS .
-ASTRONAUT was born in BIRTHPLACE . He became a crew member of WAS A CREW MEMBER OF and spent 52 minutes in space as a fighter pilot on Nasa ' s program . Buzz is now retired .
+ASTRONAUT was born in BIRTHPLACE . He became a crew member of WAS_A_CREW_MEMBER_OF and spent 52 minutes in space as a fighter pilot on Nasa ' s program . Buzz is now retired .
 Cumberland County Pennsylvania is located in the north of Adams County Pennsylvania .
 In the COUNTRY , LEADERNAME is the Leader and the Aids journal was published here by PUBLISHER ( parent company PARENTCOMPANY ) .
 DESIGNER designed the bronze Ataturk monument which was inaugurated in Izmir , LOCATION on 27 July 1932 .
@@ -2715,7 +2715,7 @@ Prime Minister LEADERNAME leads the country of COUNTRY which has " Desteapta - t
 The manager of SPORTSTEAM is MANAGER .
 AIRPORT is located in CITYSERVED and is operated by OPERATINGORGANISATION . The airport lies 25 metres above sea level and has a runway named RUNWAYNAME which is 2777 metres long .
 There are ACADEMICSTAFFSIZE academic staff at the UNIVERSITY in the state of STATE . The College was established in ESTABLISHED .
-ASTRONAUT was born in BIRTHPLACE on BIRTHDATE . He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science before being a crew member of WAS A CREW MEMBER OF operated by OPERATOR .
+ASTRONAUT was born in BIRTHPLACE on BIRTHDATE . He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science before being a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR .
 Found in LOCATION , AIRPORT is elevated ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . It has a runway length of 1 , 982 and RUNWAYNAME is the runway name .
 The comic character Blockbuster is also known as ALTERNATIVENAME .
 The Acharya institute of Technology is in CITY STATE state , COUNTRY . The director is DIRECTOR and the campus is in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY 560090 .
@@ -2737,8 +2737,8 @@ COMICSCHARACTER , voiced by VOICE and created by Duncan Roulean and CREATOR firs
 AIRPORT in LOCATION with a runway length of 3 , 990 is operated by the OPERATINGORGANISATION .
 The full name of SPORTSTEAM is AZAL Pesokar Futbol Klubu . They competed in the SEASON season and have NUMBEROFMEMBERS members .
 Willian Anders born in BIRTHPLACE served as a fighter pilot .
-ASTRONAUT was an American astronaut , born on March 15 , 1932 in BIRTHPLACE . He received a Bachelor of Science degree at the University of Texas at Austin in 1955 and was chosen by NASA in WAS SELECTED BY NASA .
-ASTRONAUT ( born BIRTHNAME ) was a crew member on the OPERATOR operated WAS A CREW MEMBER OF mission under Commander COMMANDER . In total he spent 100305 minutes in space .
+ASTRONAUT was an American astronaut , born on March 15 , 1932 in BIRTHPLACE . He received a Bachelor of Science degree at the University of Texas at Austin in 1955 and was chosen by NASA in WAS_SELECTED_BY_NASA .
+ASTRONAUT ( born BIRTHNAME ) was a crew member on the OPERATOR operated WAS_A_CREW_MEMBER_OF mission under Commander COMMANDER . In total he spent 100305 minutes in space .
 To vary arrabbiata sauce , basil may be used .
 AUTHOR ' s novel WRITTENWORK , printed in hardcover , has NUMBEROFPAGES pages . The ISBN code is ISBN_NUMBER .
 WRITTENWORK , written by AUTHOR , is available in print form . Its OCLC number is 33OCLC_NUMBER and ISBN number is ISBN_NUMBER .
@@ -2773,7 +2773,7 @@ CREATOR which was founded in FOUNDATIONPLACE , is the creator of Barny cakes . T
 AIRPORT is operated by OPERATINGORGANISATION , whose headquarters are located in HEADQUARTER .
 COMICSCHARACTER was broadcasted by BROADCASTEDBY , it starred Tim Brooke Taylor and last aired on 15th April 1986 .
 Appleton International airport ( Appleton ) is located in Greenville which is in Grand Chute and part of ISPARTOF .
-ASTRONAUT joined NASA in WAS SELECTED BY NASA and died in St Louis .
+ASTRONAUT joined NASA in WAS_SELECTED_BY_NASA and died in St Louis .
 Arros negre is from COUNTRY where ETHNICGROUP are an ethnic group .
 INGREDIENT is an ingredient in a bacon sandwich which has a variation known as the DISHVARIATION .
 WRITTENWORK ( abbreviating to ABBREVIATION ) is concerned with the academic discipline of Pure Mathematics .
@@ -2809,7 +2809,7 @@ BUILDING on LOCATION , was constructed in YEAROFCONSTRUCTION and added to the Na
 The UNIVERSITY ' s campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY , Karnatka , 560090 , COUNTRY . Its president is PRESIDENT and it is affiliated to the AFFILIATION .
 Distinguished Service Medal from United States Navy ranks higher than HIGHER .
 INGREDIENT , which is an ingredient in FOOD along with the main ingredient of coconut milk , belongs to the order of ORDER flowering plants .
-ASTRONAUT graduated from UT Austin in 1955 with a Bachelor of Science degree . He was hired by OPERATOR in WAS SELECTED BY NASA and served as a test pilot . WAS A CREW MEMBER OF ' s backup pilot was BACKUP PILOT and was commanded by COMMANDER .
+ASTRONAUT graduated from UT Austin in 1955 with a Bachelor of Science degree . He was hired by OPERATOR in WAS_SELECTED_BY_NASA and served as a test pilot . WAS_A_CREW_MEMBER_OF ' s backup pilot was BACKUP_PILOT and was commanded by COMMANDER .
 The comic character , Arion , is also known by he name ALTERNATIVENAME .
 INGREDIENT is an ingredient in FOOD , a dish from the region of REGION , which can also be found in COUNTRY .
 The FOOD has its origins in the COUNTRY , home to ETHNICGROUP . The U . S . has leader LEADERNAME with its capital in Washington D . C .
@@ -2833,7 +2833,7 @@ Albuquerque is in New Mexico , in the COUNTRY .
 ASTRONAUT has retired .
 Anaheim , CA has POPULATIONTOTAL people inhabiting it .
 Peter Stoger plays for CLUB and is the manager of 1 . FC Koln .
-ASTRONAUT graduated from MIT with a Sc . D in 1963 and went on to become a fighter pilot with OPERATOR . He also became a part of the WAS A CREW MEMBER OF crew .
+ASTRONAUT graduated from MIT with a Sc . D in 1963 and went on to become a fighter pilot with OPERATOR . He also became a part of the WAS_A_CREW_MEMBER_OF crew .
 WRITTENWORK is published in MEDIATYPE which is NUMBEROFPAGES pages long .
 AIRPORT is located in LOCATION at 610 metres above sea level and is operated by OPERATINGORGANISATION . The runway is named RUNWAYNAME and is 4349 metres long .
 AIRPORT serves the city of Abilene in Taylor county and also Jones county , Texas , USA . The airport has a runway length of RUNWAYLENGTH .
@@ -2845,16 +2845,16 @@ WRITTENWORK was written by AUTHOR . It has an ISBN number of ISBN_NUMBER and a O
 WRITTENWORK was published in Print & Paperback .
 WRITTENWORK is written by COUNTRY in English and followed FOLLOWEDBY .
 A food from COUNTRY is asam pedas which is a dish from REGION . CAPITAL is the capital of COUNTRY and one of its ethnic groups are the ETHNICGROUP who are Chinese .
-ASTRONAUT was born October 17th 1933 in BIRTHPLACE , and now has NATIONALITY nationality . He graduated from AFIT in 1962 with an M . S . , before going on to join NASA in WAS SELECTED BY NASA . He was a fighter pilot and is now retired .
+ASTRONAUT was born October 17th 1933 in BIRTHPLACE , and now has NATIONALITY nationality . He graduated from AFIT in 1962 with an M . S . , before going on to join NASA in WAS_SELECTED_BY_NASA . He was a fighter pilot and is now retired .
 FOOD contains water .
 FOOD is from the REGION region of COUNTRY . REGION is led by the LEADERNAME and the country ' s leader is Felipe VI .
 The American , CREATOR created the character of COMICSCHARACTER which appeared in the film Big Hero 6 alongside the star of the film , STARRING .
 Ahmet Davutoglu is the LEADERTITLE . The MONUMENT is located in LOCATION .
-ASTRONAUT , who has now retired , was born in Wheeler Texas and graduated from UT Austin in 1955 with a Bachelor of Science degree . He was a member of the OPERATOR operated WAS A CREW MEMBER OF along with commander COMMANDER and backup pilot BACKUP PILOT .
-ASTRONAUT was born on the 23rd July 1927 in BIRTHPLACE . He attended the ALMAMATER ( affiliated to the university of Texas system ) . The University of Texas will compete in the COMPETE IN . ASTRONAUT died in DEATHPLACE .
+ASTRONAUT , who has now retired , was born in Wheeler Texas and graduated from UT Austin in 1955 with a Bachelor of Science degree . He was a member of the OPERATOR operated WAS_A_CREW_MEMBER_OF along with commander COMMANDER and backup pilot BACKUP_PILOT .
+ASTRONAUT was born on the 23rd July 1927 in BIRTHPLACE . He attended the ALMAMATER ( affiliated to the university of Texas system ) . The University of Texas will compete in the COMPETE_IN . ASTRONAUT died in DEATHPLACE .
 FOOD , a dish originating in COUNTRY , is also popular in Paris , New York and Hong Kong . Its main ingedients include meringue , ice cream , sponge cake or Christmas pudding .
 FOOD is from the REGION of COUNTRY and contains the ingredient Chicharron .
-ASTRONAUT served as a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT served as a crew member of WAS_A_CREW_MEMBER_OF .
 Attica is part of the state of ISPARTOF .
 The inauguration date for the MONUMENT , made of bronze , is INAUGURATIONDATE .
 The AWH Engineering Collage in Kuttittattoor , STATE , COUNTRY has ACADEMICSTAFFSIZE academic staff . LARGESTCITY is the largest city in COUNTRY .
@@ -2879,7 +2879,7 @@ WRITTENWORK was published by PUBLISHER which has the nickname of NICKNAME .
 AIRPORT can be found in LOCATION .
 The MONUMENT is located in LOCATION , made of rock and dedicated to DEDICATEDTO . One of the ethnic groups found in LOCATION is the ETHNICGROUPS .
 The CHAMPIONS were champions at the LEAGUE in which SPORTSTEAM also play . Their home ground is the Estadio Minicipal Coaracy da Mata Fonseca in LOCATION .
-ASTRONAUT was born in BIRTHPLACE on the 23rd of July 1927 . He graduated from the ALMAMATER which is competing in the COMPETE IN . ASTRONAUT died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE on the 23rd of July 1927 . He graduated from the ALMAMATER which is competing in the COMPETE_IN . ASTRONAUT died in DEATHPLACE .
 AIRPORT serves the city of Lake Placid , New York , is ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level and serves the city of CITYSERVED .
 LOCATION , in the COUNTRY , is the location of AIRPORT . The airport serves CITYSERVED , is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , and has a runway length of 1 , 533 .
 WRITTENWORK is written by AUTHOR and was preceded by PRECEDEDBY .
@@ -2889,7 +2889,7 @@ The surface of the 1st runway at Alderney airport is poaceae which is of the ord
 The fried chicken dish FOOD can be found nationwide in COUNTRY ( country of the Javenese ) and also in Malaysia and Singapore .
 The UNIVERSITY is located in the state of STATE in COUNTRY which is southeast of Mahe , COUNTRY .
 The UNIVERSITY is in STATE , COUNTRY . Its Latin name is " LATINNAME . " COUNTRY is led by Prime Minister LEADERNAME , an ethnic German of COUNTRY . COUNTRY ' s capital is CAPITAL .
-ASTRONAUT was born on March 15th in 1932 in BIRTHPLACE . Bean was hired by OPERATOR in WAS SELECTED BY NASA , and was a crew member of WAS A CREW MEMBER OF , which was operated by OPERATOR . COMMANDER was the commander of WAS A CREW MEMBER OF , while BACKUP PILOT was a backup pilot for WAS A CREW MEMBER OF .
+ASTRONAUT was born on March 15th in 1932 in BIRTHPLACE . Bean was hired by OPERATOR in WAS_SELECTED_BY_NASA , and was a crew member of WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR . COMMANDER was the commander of WAS_A_CREW_MEMBER_OF , while BACKUP_PILOT was a backup pilot for WAS_A_CREW_MEMBER_OF .
 Amatriciana is a popular sauce from REGION , COUNTRY . It includes INGREDIENT cheese along with tomatoes , guanciale and olive oil .
 ISPARTOF , named for its city location , is located in LANGUAGE - speaking COUNTRY .
 ARCHITECT was the architect of BUILDING in LOCATION which was completed in COMPLETIONDATE with FLOORCOUNT floors .
@@ -2927,7 +2927,7 @@ Jens H ä rtel is part of the club CLUB .
 ASTRONAUT , who was from the NATIONALITY , was actually born in BIRTHPLACE .
 BUILDING is found in LOCATION , ISPARTOF .
 the football player Stuart Parker plays for CLUB .
-To the west of Adams County , Pennsylvania , is HAS TO ITS WEST .
+To the west of Adams County , Pennsylvania , is HAS_TO_ITS_WEST .
 WRITTENWORK is written in English and the sequel to PRECEDEDBY written by AUTHOR .
 CITYSERVED is served by CITYSERVED airport which is located 88 meters above sea level . The 1st runway , which is made from poaceae is RUNWAYLENGTH in length .
 AUTHOR , born in BIRTHPLACE , is the author of WRITTENWORK , which follows PRECEDEDBY .
@@ -2968,7 +2968,7 @@ The UNIVERSITY is located in COUNTRY .
 MANAGER manages the SPORTSTEAM and plays for Torino F . C . He is also in the CLUB club .
 The AIRPORT ' s runway length is 3300 .
 FOOD is a dish commonly found in COUNTRY .
-ASTRONAUT was born in BIRTHPLACE on March 15th , 1932 . He was chosen by OPERATOR in WAS SELECTED BY NASA and became a crew member of OPERATOR operated WAS A CREW MEMBER OF . BACKUP PILOT was a backup pilot of WAS A CREW MEMBER OF and COMMANDER was the commander .
+ASTRONAUT was born in BIRTHPLACE on March 15th , 1932 . He was chosen by OPERATOR in WAS_SELECTED_BY_NASA and became a crew member of OPERATOR operated WAS_A_CREW_MEMBER_OF . BACKUP_PILOT was a backup pilot of WAS_A_CREW_MEMBER_OF and COMMANDER was the commander .
 The runway name at AIRPORT , operated by OPERATINGORGANISATION , is " RUNWAYNAME " .
 The 1st runway at Alderney airport has an asphalt surface .
 The School of Business and Social Sciences at Aarhus University in COUNTRY was established in ESTABLISHED . It is affiliated to the AFFILIATION , which has its headquarters in HEADQUARTERS . COUNTRY ' s leader is Lars Lokke Rasmussen .
@@ -2981,7 +2981,7 @@ Vietnamese is one of the languages being spoken in California .
 The MONUMENT is dedicated to DEDICATEDTO , LOCATION . The capital of LOCATION is CAPITAL and the main religion is The Church of LOCATION .
 AIRPORT is located in LOCATION where the inhabitants are known by the demonym DEMONYM . The language spoken in LOCATION is English , the largest city is LARGESTCITY , and the capital is Austin .
 Washington D . C . is the capital of the COUNTRY which includes many ETHNICGROUP . 1634 The Ram Rebellion comes from the country .
-American ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He graduated from NWC with a M . A . in 1957 , was on the crew for WAS A CREW MEMBER OF and retired on DATEOFRETIREMENT .
+American ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He graduated from NWC with a M . A . in 1957 , was on the crew for WAS_A_CREW_MEMBER_OF and retired on DATEOFRETIREMENT .
 Addiction journal is published by PUBLISHER , whose parent company is PARENTCOMPANY .
 ASTRONAUT ( born on BIRTHDATE ) graduated from AFIT , M . S . in 1962 .
 BUILDING is located in COUNTRY whose leader is Malatu Teshome .
@@ -3038,7 +3038,7 @@ SPORTSTEAM ' s ground is St . Vincent - St . Mary High School which is located i
 FOOD comes from COUNTRY but is made nationwide and can also be found in Malaysia and Singapore . The main ingredients are squeezed or smashed fried chicken served with sambal .
 AUTHOR penned WRITTENWORK which was published in hardcover and has the OCLC number OCLC_NUMBER .
 ARCHITECT , who designed BUILDING , comes from HOMETOWN , which is run by the LEADERNAME .
-ASTRONAUT died in St Louis , whose Mayor is Francis G Slay , and graduated from the ALMAMATER . It is affiliated to the University Of Texas system , will compete in the COMPETE IN and its mascot is the The Hook ' em .
+ASTRONAUT died in St Louis , whose Mayor is Francis G Slay , and graduated from the ALMAMATER . It is affiliated to the University Of Texas system , will compete in the COMPETE_IN and its mascot is the The Hook ' em .
 ASTRONAUT , who retired on the 1st of September 1969 , was born in BIRTHPLACE where REPRESENTATIVE served as a representative .
 A Loyal Character is a NUMBEROFPAGES page hardcover book written by AUTHOR .
 The avocado plant belongs to the FAMILY family .
@@ -3054,7 +3054,7 @@ The Aids Journal is part of the academic discipline HIV . The discipline studies
 Ampara Hopsital is in the Eastern Province , COUNTRY ( with capital CAPITAL ) , where LEADERNAME is the name of the leader .
 The book WRITTENWORK comes from the U . S , the capital is CAPITAL and one of the ethnic groups is African American . They speak English , same as in SPOKENIN .
 BUILDING , completed in COMPLETIONDATE , has a floor count of FLOORCOUNT .
-In 1962 , ASTRONAUT received a M . S . from his alma Mater , AFIT . He was a crew member on WAS A CREW MEMBER OF operated by OPERATOR with BACKUP PILOT a the backup pilot and CREWMEMBERS as a crew member .
+In 1962 , ASTRONAUT received a M . S . from his alma Mater , AFIT . He was a crew member on WAS_A_CREW_MEMBER_OF operated by OPERATOR with BACKUP_PILOT a the backup pilot and CREWMEMBERS as a crew member .
 Stuart Parker ( footballer ) was at Drogheda United FC .
 INGREDIENT is an ingredient of FOOD .
 1634 The Bavarian Crisis comes in hardcover .
@@ -3064,7 +3064,7 @@ Native Americans are an ethnic group in the COUNTRY where LEADERNAME is presiden
 The Turkish martyrs memorial is located in Baku , LOCATION , which has LEADERNAME as its Prime Minister and leader .
 The Columbian dish , FOOD , originates from the Paisa region . Its main ingredients include red beans , pork belly , white rice , ground meat , chicharr ó n , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon .
 The Asser Levy Public baths are located in LOCATION in the COUNTRY . Manhattan , which is lead by LEADERNAME , and ISPARTOF are both parts of LOCATION .
-ASTRONAUT was an American - born fighter pilot who was born in BIRTHPLACE . Aldrin graduated from ALMAMATER , and was hired by NASA that same year . He was was a member of the WAS A CREW MEMBER OF crew who spent a total of 52 minutes in space .
+ASTRONAUT was an American - born fighter pilot who was born in BIRTHPLACE . Aldrin graduated from ALMAMATER , and was hired by NASA that same year . He was was a member of the WAS_A_CREW_MEMBER_OF crew who spent a total of 52 minutes in space .
 A Loyal Character was written by Qiu Ziaolong , can be found in hardcover and has NUMBEROFPAGES pages .
 SPORTSTEAM play in the LEAGUE and they played the 2014 - 2015 season . Their ground is in GROUND , and they have NUMBEROFMEMBERS members .
 The 14th New Jersey Volunteer infantry Monument is in the state of STATE .
@@ -3122,23 +3122,23 @@ An ingredient in a bacon sandwich is bread .
 The School of Business and Social Services at the CITY University in CITY , COUNTRY was established in ESTABLISHED . It has 16 , 000 students and it is affiliated to the AFFILIATION .
 The AC Hotel Bella Sky in LOCATION is part of TENANT . TENANT was founded in Washington DC and a key member of staff is KEYPERSON .
 The film Big Hero 6 stars Damon Wayans , Jr .
-The UNIVERSITY is based in the city of CITY , which has to its northeast HAS TO ITS NORTHEAST . The School is affiliated with the AFFILIATION which had its headquarters in HEADQUARTERS .
+The UNIVERSITY is based in the city of CITY , which has to its northeast HAS_TO_ITS_NORTHEAST . The School is affiliated with the AFFILIATION which had its headquarters in HEADQUARTERS .
 UNIVERSITY of CITY , STATE , COUNTRY was established in the year ESTABLISHED .
 AIRPORT covers the city of CITYSERVED . CITYSERVED is a popular tourist destination in COUNTRY . A leader there is LEADERNAME and Dutch is the language spoken there .
 A flowering plant includes the division of Almonds which are an ingredient in ajoblanco .
 BUILDING was completed in COMPLETIONDATE .
 JP McManus owns BUILDING .
 The manager of SPORTSTEAM is Stuart Parker who plays for CLUB and is attached to Irlam Town Football Club .
-Adams County Pennsylvania is East of HAS TO ITS WEST .
+Adams County Pennsylvania is East of HAS_TO_ITS_WEST .
 The AIDS journal , published by Lippincott , Williams & Wilkins , was published in the COUNTRY . PARENTCOMPANY is the parent company of PUBLISHER . CAPITAL is the capital of the U . K .
 DISHVARIATION is a variation of dessert such as FOOD which has sour cream as an ingredient .
 " Abh . Math . Semin . Univ . Hambg " is the abbreviation for WRITTENWORK .
 The city of CITY in COUNTRY is the location of the UNIVERSITY . The School is affiliated with the AFFILIATION which has its headquarters in HEADQUARTERS and has ACADEMICSTAFFSIZE academic staff and NUMBEROFSTUDENTS students .
 Enrique Pena Nieto is the leader of COUNTRY , the country where the dish bionico can be found . FOOD is a served for dessert and honey can be added to it .
 FOOD includes sweet potato and ( the main ingredient ) taro .
-ASTRONAUT is a NATIONALITY test pilot . He was born on March 15 , 1932 in BIRTHPLACE . ASTRONAUT retired after spending 100305 minutes in space , he was also a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT is a NATIONALITY test pilot . He was born on March 15 , 1932 in BIRTHPLACE . ASTRONAUT retired after spending 100305 minutes in space , he was also a crew member of WAS_A_CREW_MEMBER_OF .
 The runway length of AIRPORT is 3090 meters .
-ASTRONAUT graduated from the ALMAMATER which competes in the COMPETE IN . He served as a test pilot and died in St Louis .
+ASTRONAUT graduated from the ALMAMATER which competes in the COMPETE_IN . He served as a test pilot and died in St Louis .
 AIRPORT is operated by the OPERATINGORGANISATION which has the attack aircaft , the ATTACKAIRCRAFT . The OPERATINGORGANISATION has fought in the Korean War and took part in BATTLES .
 WRITTENWORK is published in the US by PUBLISHER . English is spoken in the US and Native Americans are the original ethnic group of that country .
 An ingredient in a bacon sandwich is brown sauce .
@@ -3157,7 +3157,7 @@ FOOD can be found in COUNTRY where the language is Italian and LEADERNAME is a l
 The Atat ü rk Monument in Izmir , LOCATION , where LEADERNAME is the leader , was inaugurated on July 27th , 1932 and was designed by DESIGNER .
 AEK Athens FC played in the LEAGUE SEASON season . They have NUMBEROFMEMBERS members and currently play their home games at the GROUND .
 Lead by LEADERNAME and with the postcode area ' B ' , HOMETOWN is the hometown of architect ARCHITECT , whom designed 102 Colmore Row .
-Buzz Aldrin is an American who was born in BIRTHPLACE . He served as a crew member on the OPERATOR - operated WAS A CREW MEMBER OF mission alongside backup pilot ASTRONAUT . Another notable American is the leader LEADERNAME .
+Buzz Aldrin is an American who was born in BIRTHPLACE . He served as a crew member on the OPERATOR - operated WAS_A_CREW_MEMBER_OF mission alongside backup pilot ASTRONAUT . Another notable American is the leader LEADERNAME .
 The California State Assembly is located in the LOCATION .
 WRITTENWORK is produced in print and has NUMBEROFPAGES pages .
 COUNTRY is lead by Charles Michel and Philippe of COUNTRY . CITYSERVED is a popular tourist destination in the country and is served by AIRPORT .
@@ -3183,13 +3183,13 @@ The Alan B Miller Hall is located in LOCATION .
 BUILDING is located in LOCATION , ISPARTOF .
 SPORTSTEAM , with their ground in GROUND , play in the LEAGUE in which CHAMPIONS were past champions .
 Allama Iqbal International airport is located in LOCATION .
-In SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN ASTRONAUT was TITLE .
+In SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN ASTRONAUT was TITLE .
 LEADERNAME is the Chief Justice in America where the leader is known as the LEADERTITLE and the capital is Washington DC . The US is the location of BUILDING .
 Addiction ( Journal ) has the CODEN Code CODEN_CODE .
 The binignit dish can be found in the COUNTRY and the main ingredient is sweet potatoes .
 SPORTSTEAM ( their full name ) play in the LEAGUE league which is based in COUNTRY . CHAMPIONS are the champions of this league .
 The book WRITTENWORK comes from the U . S . The country ' s population includes the ethnic group of ETHNICGROUP and is lead by the President . The language spoken in both the US and SPOKENIN is English .
-OCCUPATION ASTRONAUT was picked by NASA in WAS SELECTED BY NASA to join the WAS A CREW MEMBER OF space mission . Anders was born in BIRTHPLACE on October 17th , 1933 and he retired September 1st , 1969 .
+OCCUPATION ASTRONAUT was picked by NASA in WAS_SELECTED_BY_NASA to join the WAS_A_CREW_MEMBER_OF space mission . Anders was born in BIRTHPLACE on October 17th , 1933 and he retired September 1st , 1969 .
 After DeMarce short stories were published in the Grantville Gazettes , there came WRITTENWORK written by AUTHOR of Burbank California , who was influenced by Robert A , Heinlein , as a sequel to Grantville Gazette III .
 FOOD originates from the ISPARTOF Dales , ISPARTOF .
 WRITTENWORK was Published in the COUNTRY , where ETHNICGROUP are one ethnic group and the leader is called a President . The language spoken there is English , originated in SPOKENIN .
@@ -3214,24 +3214,24 @@ INGREDIENT is an ingredient of FOOD which comes from REGION .
 The bacon sandwich comes from the UK , where LEADERNAME is the leader . A variation of the bacon sandwich is the BLT , which is a variation of the club sandwich .
 CHAMPIONS are champions of Serie D .
 BUILDING , located at LOCATION , was designed by the architect , ARCHITECT .
-ASTRONAUT is an American and was born in BIRTHPLACE . He graduated from UT at Austin in 1955 with a B . S . He worked as a test pilot and was chosen to work for NASA in WAS SELECTED BY NASA . Bean spent 100305 minutes in space , and he has since retired .
+ASTRONAUT is an American and was born in BIRTHPLACE . He graduated from UT at Austin in 1955 with a B . S . He worked as a test pilot and was chosen to work for NASA in WAS_SELECTED_BY_NASA . Bean spent 100305 minutes in space , and he has since retired .
 The publisher , John Hopkins University Press is located in the COUNTRY and publishes the WRITTENWORK . This publication is also abbreviated to Am . J . Math .
 UNIVERSITY in CITY , COUNTRY was created in ESTABLISHED and has NUMBEROFSTUDENTS students . The federal chancellor of the country is LEADERNAME and the national anthem is ANTHEM .
 CHANCELLOR served as chancellor of the College of William and Mary .
-ASTRONAUT was born in Wheeler Texas in 1932 and graduated from UT Austin in 1955 . He was a test pilot and a crew member of WAS A CREW MEMBER OF and spent 100305 minutes in space .
+ASTRONAUT was born in Wheeler Texas in 1932 and graduated from UT Austin in 1955 . He was a test pilot and a crew member of WAS_A_CREW_MEMBER_OF and spent 100305 minutes in space .
 BIRTHPLACE native Eliot See ' s alma mater was the ALMAMATER .
 The bacon sandwich , which contains bacon , comes from the COUNTRY . It is a variation of the BLT which itself is a variation of the club sandwich .
 The city of Albany is part of ISPARTOF .
 PUBLISHER , of CITY , is the publisher of WRITTENWORK . The president of PUBLISHER is PRESIDENT and the university is affiliated with the Association of Public and Land grant Universities .
 The runway length of AIRPORT is 4 , 349 .
-ASTRONAUT was born in BIRTHPLACE on March 15th 1932 . He then went on to become a test pilot and joined NASA in WAS SELECTED BY NASA where he became a part of the WAS A CREW MEMBER OF crew .
+ASTRONAUT was born in BIRTHPLACE on March 15th 1932 . He then went on to become a test pilot and joined NASA in WAS_SELECTED_BY_NASA where he became a part of the WAS_A_CREW_MEMBER_OF crew .
 The journal ABBREVIATION ( abbreviated to ABBREVIATION ) has the LCCN number LCCN_NUMBER .
 WRITTENWORK is written in English , a language that is spoken in SPOKENIN . It was published in the COUNTRY , where ETHNICGROUP are an ethnic group .
 1634 : The Galileo Affair was followed by WRITTENWORK .
 The book , WRITTENWORK , has the ISBN number of ISBN_NUMBER which has NUMBEROFPAGES pages .
 The total area of Akron Ohio is 161 . 54 Sq Km .
 BUILDING is located in LOCATION , which has CAPITAL as its capital and LEADERNAME as leader . ETHNICGROUP people are an ethic group of this country .
-The AFFILIATION affiliated UNIVERSITY in CITY , STATE was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION . STATE has the HAS TO ITS WEST to its west . CITY was founded by FOUNDER .
+The AFFILIATION affiliated UNIVERSITY in CITY , STATE was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION . STATE has the HAS_TO_ITS_WEST to its west . CITY was founded by FOUNDER .
 The SPORTSTEAM club is located in LOCATION , where the money used is the CURRENCY . CAPITAL is the capital of LOCATION , and two of the leaders are Alexis Tsipras and LEADER .
 Bakes Alaska , which has meringue as an ingredient , is from the REGION region of the COUNTRY .
 MANAGER plays for R . S . C . Anderlecht and Istanbulspor A . S . He is also manager of SPORTSTEAM .
@@ -3275,10 +3275,10 @@ The LANGUAGE is spoken in SPOKENIN and WRITTENWORK was written in it but it come
 The LEADERTITLE leads CITY .
 BUILDING , in LOCATION and completed in COMPLETIONDATE , has FLOORCOUNT floors .
 SPORTSTEAM stands for " FULLNAME " . They competed in the season SEASON and have NUMBEROFMEMBERS members .
-ASTRONAUT , who was one of the astronauts on WAS A CREW MEMBER OF , retired in DATEOFRETIREMENT .
+ASTRONAUT , who was one of the astronauts on WAS_A_CREW_MEMBER_OF , retired in DATEOFRETIREMENT .
 1634 The Bavarian Crisis which was authored by AUTHOR , was preceded by 1634 The Ram Rebellion .
 The manager of SPORTSTEAM is MANAGER who is in the CLUB club .
-BUILDING are located in LOCATION and was added to the National Register of Historic Places on April 23 , 1980 . Their reference number in the Register is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING are located in LOCATION and was added to the National Register of Historic Places on April 23 , 1980 . Their reference number in the Register is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 Jack Kirby was an American .
 Huseyin Butuner and Hilmi Guner designed the red granite and white marble CAPITAL Turkish Martyrs memorial which is located in LOCATION and dedicated to the Ottoman army soldiers killed in the Battle of CAPITAL , the capital city . Prime Minister LEADERNAME is the current leader of the country .
 INGREDIENT is an ingredient in FOOD .
@@ -3310,9 +3310,9 @@ LOCATION is the location of AIRPORT and has the capital of Austin . The local in
 The LOCATION is lead by President LEADERNAME along with Paul Ryan , and is the location of BUILDING .
 INGREDIENT is an ingredient of FOOD .
 WRITTENWORK . written by AUTHOR , has the ISBN number ISBN_NUMBER and is also available as an E book .
-ASTRONAUT was born an American in BIRTHPLACE , Texas . He was a student at ALMAMATER , which is affiliated with the University of of Texas system . The University of Texas competed in the COMPETE IN in Austin . See died in DEATHPLACE .
+ASTRONAUT was born an American in BIRTHPLACE , Texas . He was a student at ALMAMATER , which is affiliated with the University of of Texas system . The University of Texas competed in the COMPETE_IN in Austin . See died in DEATHPLACE .
 ASTRONAUT , deceased . was born in BIRTHPLACE .
-ASTRONAUT died on 21 July 1998 in DEATHPLACE . He was born on 18 November 1923 in BIRTHPLACE and graduated from NWC in 1957 with an MA . In WAS SELECTED BY NASA he was selected by NASA to serve as a crew member aboard WAS A CREW MEMBER OF .
+ASTRONAUT died on 21 July 1998 in DEATHPLACE . He was born on 18 November 1923 in BIRTHPLACE and graduated from NWC in 1957 with an MA . In WAS_SELECTED_BY_NASA he was selected by NASA to serve as a crew member aboard WAS_A_CREW_MEMBER_OF .
 PARENTCOMPANY is the parent company of PUBLISHER , the publisher of the journal Addiction which has the LCCN number LCCN_NUMBER .
 CAPITAL is the capital of COUNTRY . In the Eastern Province of the country LEADERNAME is the leader . Also in that region is BUILDING located in the REGION .
 SPORTSTEAM is in the Superleague of Greece ( previous champions : Olympiacos ) , and their home ground is The GROUND .
@@ -3353,10 +3353,10 @@ John Clancy is the leader of BIRTHPLACE where ARCHITECT , the designer of BUILDI
 Ardmore airport in New Zealand is 34 meters above sea level and has a 3rd runway surfaced with poaceae . The length of the runway is 1411 and its name is RUNWAYNAME .
 BUILDING is located in LOCATION , Cuyahoga County , ISPARTOF , COUNTRY and was designed by HOK .
 Stuart Parker has represented the club CLUB .
-ASTRONAUT is a US national was was born in BIRTHPLACE . He graduated from UT Austin with a B . S . in 1955 . He performed as a test pilot and was chosen by NASA in WAS SELECTED BY NASA . He was a crew member of WAS A CREW MEMBER OF and he was in space for 100305 minutes .
+ASTRONAUT is a US national was was born in BIRTHPLACE . He graduated from UT Austin with a B . S . in 1955 . He performed as a test pilot and was chosen by NASA in WAS_SELECTED_BY_NASA . He was a crew member of WAS_A_CREW_MEMBER_OF and he was in space for 100305 minutes .
 FOOD , otherwise known as Bhaji or bajji , comes from the REGION region . The main ingredients are gram flour and vegetables .
 Ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables , and fried shallots are main ingredients in the Indonesian food of FOOD .
-ASTRONAUT , a NATIONALITY citizen who served as crew member on WAS A CREW MEMBER OF , was born on 20 January 1930 in BIRTHPLACE .
+ASTRONAUT , a NATIONALITY citizen who served as crew member on WAS_A_CREW_MEMBER_OF , was born on 20 January 1930 in BIRTHPLACE .
 The COUNTRY is home to the dish FOOD . LEADERNAME is a leader of the COUNTRY , where Washington DC is the capital , English is the language used and ETHNICGROUP are one of the ethnic groups .
 LEADERNAME is a leader of the COUNTRY which is home to the bacon explosion .
 CAPITAL is the capital city of the COUNTRY which is lead by LEADERNAME . The country is where the AIDS journal is published by PUBLISHER who have PARENTCOMPANY as their parent company .
@@ -3411,7 +3411,7 @@ FOOD is a dish from the Guadalaraja region of COUNTRY and its ingredients are ch
 The HIV virus is part of the family of orthoretrovirinae .
 Found in COUNTRY , the food FOOD comes from the region of REGION where on of the ethnic groups is ETHNICGROUP .
 The city of CITY in COUNTRY , which has a magistrate lead government , is the location of the School of Business and Social Sciences . The School is affiliated to the AFFILIATION based in HEADQUARTERS . The current leader of the country is Lars Lokke Rasmussen .
-The MONUMENT is located in LOCATION , in the COUNTRY , and has Franklin County to its west and HAS TO ITS SOUTHWEST to its southwest .
+The MONUMENT is located in LOCATION , in the COUNTRY , and has Franklin County to its west and HAS_TO_ITS_SOUTHWEST to its southwest .
 MANAGER , born in PLACEOFBIRTH , is part of the CLUB club . He plays for SPORTSTEAM and has been manager of AC Lumezzane .
 one of the ethnic groups of the Philippines is the ETHNICGROUP .
 PUBLISHER in the state of STATE is affiliated with the Association of Public and Land grant Universities and publishes WRITTENWORK .
@@ -3427,7 +3427,7 @@ The BUILDING is located in LOCATION which in turn is part of ISPARTOF . , COUNTR
 FOOD contains raisins and is served as a dessert .
 SPORTSTEAM play in the LEAGUE league , which is based in COUNTRY and also competed in the 2015 Campeonato Brasileiro Serie C .
 The National Assembly is the legislative branch of government in Azerbaijan .
-ASTRONAUT was born in BIRTHPLACE , and died in DEATHPLACE . He was selected by NASA in WAS SELECTED BY NASA , after graduating from NWC with a M . A . in 1957 .
+ASTRONAUT was born in BIRTHPLACE , and died in DEATHPLACE . He was selected by NASA in WAS_SELECTED_BY_NASA , after graduating from NWC with a M . A . in 1957 .
 COMICSCHARACTER was created by Steven T Seagle and the American , Duncan Rouleau .
 The Dean of UNIVERSITY is Mario Botto and the school has an academic staff size of ACADEMICSTAFFSIZE people .
 INGREDIENT is one of the ingredients in FOOD which is typical COUNTRY and found in the REGION .
@@ -3445,7 +3445,7 @@ The location of AIRPORT is in LOCATION which is in the central ISPARTOF region o
 FOOD is from COUNTRY , where french is spoken .
 AIRPORT is located in Sao Jose dos Pinhais and serves Curitaba which is part of the state of Parana . It is operated by OPERATINGORGANISATION .
 Bill Oddies stars in COMICSCHARACTER , broadcasted by the BROADCASTEDBY .
-ASTRONAUT , a US national , has died in St Louis . Born on 23 July 1927 in BIRTHPLACE he graduated from the ALMAMATER ( a competitor in the COMPETE IN at Austin ) and became a test pilot .
+ASTRONAUT , a US national , has died in St Louis . Born on 23 July 1927 in BIRTHPLACE he graduated from the ALMAMATER ( a competitor in the COMPETE_IN at Austin ) and became a test pilot .
 The HEADQUARTER is the headquarters of the Port Authority of New York and ISPARTOF who operate Atlantic City International airport located in Egg Harbor Township , ISPARTOF .
 Jens Hartel played for Berliner AK 07 and has been manager of 1 FC Magdeburg . He is a member of the CLUB club and plays for SV Babelsberg 03 .
 BUILDING , completed in COMPLETIONDATE in the architectural Tudor Revival style , is located in LOCATION .
@@ -3455,14 +3455,14 @@ Rick parker , aka the Arrow was created by CREATOR .
 The BUILDING is located in Akita , LOCATION , COUNTRY .
 Chinese and Indonesian dish FOOD contains : ground beef , tapioca , noodle , rice , beef broth , kailan , celery , salted vegetables and fried shallots .
 FOOD , from the REGION region of COUNTRY , is made with sour cream .
-ASTRONAUT was born in BIRTHPLACE and was hired by OPERATOR in WAS SELECTED BY NASA performed as a test pilot . He served as a crew member of WAS A CREW MEMBER OF , that is operated by OPERATOR . COMMANDER was the commander of WAS A CREW MEMBER OF and BACKUP PILOT was a backup pilot .
+ASTRONAUT was born in BIRTHPLACE and was hired by OPERATOR in WAS_SELECTED_BY_NASA performed as a test pilot . He served as a crew member of WAS_A_CREW_MEMBER_OF , that is operated by OPERATOR . COMMANDER was the commander of WAS_A_CREW_MEMBER_OF and BACKUP_PILOT was a backup pilot .
 With grounds in GROUND , A . S . Roma play in LEAGUE . Juventus FC have been champions of that league .
 Stuart Parker has represented the club KV Mechelen and was manager for AFC Blackpool , He plays for CLUB .
 ARCHITECT , the architect of BUILDING , was born in BIRTHPLACE .
 The RUNWAYNAME runway in Allama Iqbal International airport in LOCATION , has a length of RUNWAYLENGTH .
 The architect Alfred Giles died in Kendall County Texas .
 ETHNICGROUP are an ethnic group in the United States .
-ASTRONAUT served as a test pilot , joining NASA in WAS SELECTED BY NASA . Born on 07 / 23 / 1927 , he lived only until 02 / 28 / 1966 , when he died in DEATHPLACE .
+ASTRONAUT served as a test pilot , joining NASA in WAS_SELECTED_BY_NASA . Born on 07 / 23 / 1927 , he lived only until 02 / 28 / 1966 , when he died in DEATHPLACE .
 The UNIVERSITY is located in COUNTRY where the leader of the country is LEADERNAME .
 The MONUMENT is located in the Seminary Ridge , Gettysburg , LOCATION , USA . It is categorised as a contributing property .
 Dublin is part of the ISPARTOF .
@@ -3508,7 +3508,7 @@ The address of BUILDING is Lalbhai Dalpatbhai Campus , LOCATION near CEPT Univer
 MANAGER is the manager of AFC Fylde . He played football for Bury FC . , and now plays for Tranmere Rovers F . C . and Colwyn Bay FC .
 The MONUMENT is a bronze monument designed by DESIGNER , and inaugurated on 27th July , 1932 . It is located in LOCATION , where the capital is CAPITAL , and the leader ( the LEADERTITLE ) is LEADERNAME .
 The book WRITTENWORK has the ISSN number ISSN_NUMBER . It is published by PARENTCOMPANY Press , PARENTCOMPANY , COUNTRY .
-ASTRONAUT was born in BIRTHPLACE . Along with CREWMEMBERS he was a crew member on WAS A CREW MEMBER OF . He retired on 1969 . 09 . 01 .
+ASTRONAUT was born in BIRTHPLACE . Along with CREWMEMBERS he was a crew member on WAS_A_CREW_MEMBER_OF . He retired on 1969 . 09 . 01 .
 FOOD contains the main ingredient of sweet potatoes and also contains sago .
 Eric Flint was influenced by Robert A Heinlein .
 Bacon sandwiches are popular in the UK and one of the variations is DISHVARIATION and condiments are one of the ingredients . The sandwich can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
@@ -3534,20 +3534,20 @@ The UNIVERSITY ( Latin name LATINNAME ) is found in the state of STATE , COUNTRY
 FOOD is from COUNTRY .
 The MONUMENT is in the municipality of MUNICIPALITY and is categorised as a contributing property .
 Owned by OWNER , club SPORTSTEAM is the club of NUMBEROFMEMBERS members .
-American ASTRONAUT was born in BIRTHPLACE . He graduated from Massachusetts Institute of Technology with a Sc . D in WAS SELECTED BY NASA , after that he was hired by OPERATOR in WAS SELECTED BY NASA as a OCCUPATION . He was member of the WAS A CREW MEMBER OF crew , that was a program organized by OPERATOR .
+American ASTRONAUT was born in BIRTHPLACE . He graduated from Massachusetts Institute of Technology with a Sc . D in WAS_SELECTED_BY_NASA , after that he was hired by OPERATOR in WAS_SELECTED_BY_NASA as a OCCUPATION . He was member of the WAS_A_CREW_MEMBER_OF crew , that was a program organized by OPERATOR .
 AIRPORT is found in LOCATION .
-BUILDING was constructed in YEAROFCONSTRUCTION on US Route 83 . It was added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES with the Reference Number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING was constructed in YEAROFCONSTRUCTION on US Route 83 . It was added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES with the Reference Number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 The book " A Long , Long Way , " which was followed by " FOLLOWEDBY , " is published by PUBLISHER .
 The elevation above the sea level in CITY , is ELEVATIONABOVETHESEALEVEL .
 The UNIVERSITY in STATE , COUNTRY was established in ESTABLISHED , it is located southeast of Mahe .
 one of the ingredients of FOOD is INGREDIENT .
 MANAGER is manager of AEK Athens FC and his club is CLUB .
-Born on 17 October , 1933 , ASTRONAUT joined NASA in WAS SELECTED BY NASA .
+Born on 17 October , 1933 , ASTRONAUT joined NASA in WAS_SELECTED_BY_NASA .
 AIRPORT in LOCATION is ELEVATIONABOVETHESEALEVEL_(IN_METRES) m above sea level .
 FOOD is in COUNTRY where they speak Spanish and the leader is Felipe VI .
 Bhaji and bajji are alternative names for FOOD , which is found in the region of REGION . INGREDIENT and vegetables are the main ingredients of bhajji .
 The number of the 1st runway at AIRPORT is 1ST_RUNWAY_NUMBER , the airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
-ASTRONAUT , born on the 15th of March 1932 , was in space for 100305 minutes as part of the crew of WAS A CREW MEMBER OF .
+ASTRONAUT , born on the 15th of March 1932 , was in space for 100305 minutes as part of the crew of WAS_A_CREW_MEMBER_OF .
 Switzerland has a leader called Johann Schneider Ammann .
 MANAGER is at Colwyn Bay FC and manages SPORTSTEAM . He is also affiliated with Tranmere Rovers F . C .
 FOOD is a dish that is popular nationwide in Singapore and Indonesia .
@@ -3571,7 +3571,7 @@ Newark is the largest city of New Jersey .
 Rene Goscinny is a French national .
 The novel Owen Glendower is a notable work by John Cowper Powys .
 Arros Negre is a traditional dish from the REGION region of COUNTRY . The region ' s leader is Carles Puigdemont and the ruler of the country is King Felipe VI .
-BUILDING was added to the National Register of Historic Places on " ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES " .
+BUILDING was added to the National Register of Historic Places on " ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES " .
 INGREDIENT is an ingredient in ajoblanco . Almonds are from the FAMILY family , a division of flowering plants and a member of the ORDER order .
 The WRITTENWORK is the academic discipline of ACADEMICDISCIPLINE and has the LCCN number is LCCN_NUMBER .
 AIRPORT serves the city of CITYSERVED in COUNTRY . LEADERNAME leads that country where LANGUAGE is the spoken language .
@@ -3585,7 +3585,7 @@ LEADERNAME is the leader of COUNTRY where the ethnic groups are the Malaysian Ch
 FOOD or ajo blanco , a dish made of bread , almonds , garlic , water , olive oil , is from the REGION region of COUNTRY .
 WRITTENWORK is written in English , a language spoken in SPOKENIN .
 AUTHOR is the author of WRITTENWORK which can be found in hardcover and has NUMBEROFPAGES pages .
-Born in Glen Ridge NewJersey in Essex County Buzz Aldrin was a US citizen and crew member of WAS A CREW MEMBER OF along with backup pilot ASTRONAUT . LEADERNAME was the American leader .
+Born in Glen Ridge NewJersey in Essex County Buzz Aldrin was a US citizen and crew member of WAS_A_CREW_MEMBER_OF along with backup pilot ASTRONAUT . LEADERNAME was the American leader .
 AIRPORT is in LOCATION , COUNTRY . Faroese is the language there .
 The AIRPORT in REGIONSERVED is operated by the Port Authority of HEADQUARTER and REGIONSERVED who have their headquarters in HEADQUARTER .
 CAPITAL is the capital of the COUNTRY where WRITTENWORK originates . This novel is published in English which is the language spoken in SPOKENIN .
@@ -3601,7 +3601,7 @@ AUTHOR was influenced by Robert A Heinlen . He was born in BIRTHPLACE and wrote 
 TENANT is a tenant of BUILDING and was founded in Washington , D . C .
 LEADERNAME is a leader in Catalonia .
 Bandeja Paisa is found in the Antioquio Department , is a typical COUNTRY and has hogao as an ingredient .
-ASTRONAUT , a US national was born on 15 March 1932 in BIRTHPLACE . He graduated in 1955 with a BS from UT Austin , before becoming a test pilot . He was selected by NASA in WAS SELECTED BY NASA and served on the crew of WAS A CREW MEMBER OF .
+ASTRONAUT , a US national was born on 15 March 1932 in BIRTHPLACE . He graduated in 1955 with a BS from UT Austin , before becoming a test pilot . He was selected by NASA in WAS_SELECTED_BY_NASA and served on the crew of WAS_A_CREW_MEMBER_OF .
 A . S Gubbio played in the SEASON season .
 Auburn is part of ISPARTOF .
 The Turkish currency is the CURRENCY .
@@ -3633,11 +3633,11 @@ Cyril Ramaphosa and LEADERNAME are South African leaders . The ETHNICGROUP are o
 Appleton , Wisconsin is part of ISPARTOF .
 Architect ARCHITECT was born in BIRTHPLACE . She has designed many significant buildings , including the Los Angeles Herald Examiner building , the Asilomar Conference Ground and the SIGNIFICANTBUILDING .
 In COUNTRY , the language spoken is Spanish . COUNTRY contains regions such as REGION , where FOOD originates from . Susana Diaz is the leader of REGION , where as Felipe Vl is the leader of COUNTRY .
-American ASTRONAUT was born in BIRTHPLACE . He graduated from UT Austin in 1955 with a B . S . and performed as a test pilot . He was chosen by NASA in WAS SELECTED BY NASA and was in space 100305 minutes . He is retired now .
+American ASTRONAUT was born in BIRTHPLACE . He graduated from UT Austin in 1955 with a B . S . and performed as a test pilot . He was chosen by NASA in WAS_SELECTED_BY_NASA and was in space 100305 minutes . He is retired now .
 WRITTENWORK which is abbreviated to ABBREVIATION has a LCCN number of LCCN_NUMBER .
 MANAGER has been manager of SPORTSTEAM , he is in CLUB and plays for AFC Ajax .
 AIRPORT has a runway length of RUNWAYLENGTH .
-American fighter pilot ASTRONAUT was born on January 20 , 1930 , in BIRTHPLACE . He would serve as a crew member aboard OPERATOR ' s WAS A CREW MEMBER OF program .
+American fighter pilot ASTRONAUT was born on January 20 , 1930 , in BIRTHPLACE . He would serve as a crew member aboard OPERATOR ' s WAS_A_CREW_MEMBER_OF program .
 The main ingredients of FOOD are bacon and sausage .
 INGREDIENT is a fruit of the ORDER order and FAMILY family . It is an ingredient found in FOOD . That dish comes from REGION region in Columbia .
 FOOD which comes from COUNTRY includes tomatoes , red chili , garlic , olive oil , chili pepper . DISHVARIATION can also be included if you like .
@@ -3663,8 +3663,8 @@ The SPORTSTEAM ( abbreviated from " FULLNAME " ) , with NUMBEROFMEMBERS members 
 COMICSCHARACTER the TV series was shown on the BROADCASTEDBY , the BROADCASTEDBY is headquartered in Broadcasting house .
 FOOD originates from COUNTRY where the ETHNICGROUP are an ethnic group .
 Aarhus Aiport is in Tirstruo which is in COUNTRY , whose Queen id Margrethe II .
-ASTRONAUT was born in BIRTHPLACE and worked as a OCCUPATION before being selected by NASA in WAS SELECTED BY NASA .
-WAS A CREW MEMBER OF crew member ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He graduated with an M . A . from NWC in 1957 . The United States Navy awarded Shepard the Distinguished Service Medal . The precedence of the Navy ' s Distinguished Service Medal is above that of the HIGHER .
+ASTRONAUT was born in BIRTHPLACE and worked as a OCCUPATION before being selected by NASA in WAS_SELECTED_BY_NASA .
+WAS_A_CREW_MEMBER_OF crew member ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He graduated with an M . A . from NWC in 1957 . The United States Navy awarded Shepard the Distinguished Service Medal . The precedence of the Navy ' s Distinguished Service Medal is above that of the HIGHER .
 INGREDIENT is an ingredient in ( U . S . consumed ) FOOD .
 LEADERNAME is the leader of the Eastern Provice , COUNTRY , where BUILDING is located .
 MANAGER who once played football for CLUB now manages the SPORTSTEAM .
@@ -3701,7 +3701,7 @@ FOOD is a typical COUNTRY from the Paisa region . The main ingredients are red b
 The AIRPORT , which is 12 metres above sea level , is operated by the OPERATINGORGANISATION .
 AIRPORT is in LOCATION , COUNTRY , where the spanish language is spoken and the local people are known as DEMONYM .
 The inauguration date of the Atat ü rk Monument , made of MATERIAL , in Izmir is the 27th of July , 1932 and located in İ zmir , LOCATION .
-ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He attended the U of Texas at Austin and received a BSc in 1955 . Bean was a test pilot and a part of WAS A CREW MEMBER OF , which was run by OPERATOR and where COMMANDER was the commander .
+ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He attended the U of Texas at Austin and received a BSc in 1955 . Bean was a test pilot and a part of WAS_A_CREW_MEMBER_OF , which was run by OPERATOR and where COMMANDER was the commander .
 Located in LOCATION , BUILDING were constructed in YEAROFCONSTRUCTION , added to the National Register of Historic Places on 27nd February 1987 and is in the architectural style of the " Arts and Crafts Movement and American Craftsman Bungalows " .
 WRITTENWORK is from the COUNTRY which is lead by the President and includes the ethnic group of ETHNICGROUP .
 Stuart Parker is the manager of AFC Blackpool . He own club was Stockport County FC and he has represented KV Mechelen .
@@ -3717,7 +3717,7 @@ INGREDIENT is a main ingredient in FOOD . It is classed as a flowering plant and
 AIRPORT , in LOCATION , is operated by the OPERATINGORGANISATION and lies ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . The runway has a length of RUNWAYLENGTH and the airport ' s ICAO locationa identifier is ICAO_LOCATION_IDENTIFIER .
 The OPERATINGORGANISATION governs the AIRPORT in LOCATION . The airport serves the city of CITYSERVED and has a runway length of 3310 .
 Al Asad airbase in Al Anbar Province of Iraq is operated by the OPERATINGORGANISATION . The Airbase is RUNWAYNAME which is RUNWAYLENGTH long , The ICAO Location Identifier of AIRPORT is ICAO_LOCATION_IDENTIFIER .
-ASTRONAUT was born on October 17th 1933 in BIRTHPLACE . He joined NASA in WAS SELECTED BY NASA where he worked as a fighter pilot before he retired .
+ASTRONAUT was born on October 17th 1933 in BIRTHPLACE . He joined NASA in WAS_SELECTED_BY_NASA where he worked as a fighter pilot before he retired .
 RUNWAYNAME is the runway name of the AIRPORT .
 Carpi FC 1909 are the champions of LEAGUE , the league AC Cesena are in . They are managed by MANAGER , who was at the club ASD Licita 1931 .
 LEADERNAME is a leader in LOCATION , ISPARTOF , COUNTRY . BUILDING is located in the city and has FLOORCOUNT floors .
@@ -3740,8 +3740,8 @@ FOOD is a snack that is similar to RELATED .
 BUILDING and the ISPARTOF are located in LOCATION , COUNTRY . Malatu Teshome and LEADERNAME are leaders in this country .
 AIRPORT , located in LOCATION , is operated by OPERATINGORGANISATION . It is 211m above sea level and the length is 900m . The runway us known as RUNWAYNAME .
 The Mason School of Business is located in the COUNTRY .
-Buzz Aldrin was a crew member of WAS A CREW MEMBER OF where ASTRONAUT was a backup pilot and the mission was operated by OPERATOR .
-The UNIVERSITY which is in CITY in the state of STATE , got its Technical Campus status from the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in Mumbia . The institute is affiliated with AFFILIATION . The HAS TO ITS WEST is west of the state .
+Buzz Aldrin was a crew member of WAS_A_CREW_MEMBER_OF where ASTRONAUT was a backup pilot and the mission was operated by OPERATOR .
+The UNIVERSITY which is in CITY in the state of STATE , got its Technical Campus status from the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in Mumbia . The institute is affiliated with AFFILIATION . The HAS_TO_ITS_WEST is west of the state .
 The capital city of LOCATION is CAPITAL where Alexis Tsipras and LEADER are leaders . The country is the location of SPORTSTEAM .
 The Galileo Affair was written in 1634 , followed in the same year by The Ram Rebellion this was followed in 1635 by The Cannon Law .
 ETHNICGROUP are an ethnic group in the United States .
@@ -3787,7 +3787,7 @@ The manager of SPORTSTEAM is john van den Brom who plays for tboh R . S . C . An
 AZAL Arena is located in LOCATION .
 TENANT is the tenant of AC Hotel Bella Sky in LOCATION and the architect was ARCHITECT .
 BUILDING was designed by the architect ARCHITECT , who was born in HOMETOWN . The leader of HOMETOWN is the LEADERNAME , and it has the postcode area ' B ' . Its governing body is GOVERNINGBODY .
-ASTRONAUT , born in BIRTHPLACE , died in DEATHPLACE . Shepard went to school at NWC and graduated with an MA in 1957 ; he was a crew member of WAS A CREW MEMBER OF operated by OPERATOR .
+ASTRONAUT , born in BIRTHPLACE , died in DEATHPLACE . Shepard went to school at NWC and graduated with an MA in 1957 ; he was a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR .
 A T Charlie Johnson is the editor of WRITTENWORK .
 COUNTRY is the country FOOD comes from .
 The COMICSCHARACTER was created by CREATOR , who won the AWARD .
@@ -3808,13 +3808,13 @@ The SPORTSTEAM club is located in LOCATION , where Greek is spoken and the curre
 WRITTENWORK is from the COUNTRY where the language is English and the Native Americans are one of the ethnic groups .
 LARGESTCITY is the largest city in LOCATION but the Ataturk monument is located in Izmir . The Turkish currency is known as the CURRENCY .
 The UNIVERSITY in Kuttikkattor , STATE , COUNTRY was established in ESTABLISHED and it has ACADEMICSTAFFSIZE academic staff . The RIVER is a river in COUNTRY .
-The BUILDING was built in YEAROFCONSTRUCTION and is located in LOCATION . The building was added to the National Register of Historic Places on 23 April 1980 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The BUILDING was built in YEAROFCONSTRUCTION and is located in LOCATION . The building was added to the National Register of Historic Places on 23 April 1980 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 Bakwell tart ( variant of a bakewell pudding ) includes fruit preserves . The pudding hails from LEADERNAME led REGION .
 The COUNTRY is the country of the FOOD , one of the ethnic groups of the COUNTRY is Native Indians also LEADERNAME is a leader of the COUNTRY .
 The publication WRITTENWORK is abbreviated to ABBREVIATION It has an ISSN number of ISSN_NUMBER , LCCN number LCCN_NUMBER and CODEN code of CODEN_CODE .
 The operating organization for AIRPORT which is elevated ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level is called OPERATINGORGANISATION .
 FOOD , Siomay and DISHVARIATION are all variations of the same dish . DISHVARIATION contains shiitake and comes from COUNTRY .
-ASTRONAUT was born on July 23rd , 1927 in BIRTHPLACE . He was a student at ALMAMATER , after that was chosen by NASA in WAS SELECTED BY NASA . He died on the 28th of February 1966 and is deceased .
+ASTRONAUT was born on July 23rd , 1927 in BIRTHPLACE . He was a student at ALMAMATER , after that was chosen by NASA in WAS_SELECTED_BY_NASA . He died on the 28th of February 1966 and is deceased .
 AIRPORT is located in LOCATION , in the country of COUNTRY . It is part of the Central COUNTRY region . German is the language spoken there and the country is led by Margrethe II if COUNTRY .
 PARENTCOMPANY is the parent company of Lippincott Williams & Wilkins .
 ARCHITECT , born in BIRTHPLACE , designed several significant buildings , such as the BUILDING , the Riverside Art Musuem , and the SIGNIFICANTBUILDING .
@@ -3823,7 +3823,7 @@ The owner of BUILDING in LOCATION is OWNER . LEADERTITLE leads LOCATION .
 FOOD ( also known as ALTERNATIVENAME ) is a dish from REGION , COUNTRY and includes the ingredients bread , almonds , garlic , water and olive oil .
 BUILDING was designed by the architect ARCHITECT whose hometown was HOMETOWN .
 BUILDING is situated in LOCATION in COUNTRY . COUNTRY ' s leader is LEADERNAME and the language spoken is Tamil .
-ASTRONAUT is an American who attended the ALMAMATER , which is affiliated with the University of Texas system and is competing in the COMPETE IN . He was selected by NASA in WAS SELECTED BY NASA and died in DEATHPLACE .
+ASTRONAUT is an American who attended the ALMAMATER , which is affiliated with the University of Texas system and is competing in the COMPETE_IN . He was selected by NASA in WAS_SELECTED_BY_NASA and died in DEATHPLACE .
 Washington D . C . is the capital of the COUNTRY the country where Native Americans are an ethnic group . It is also where WRITTENWORK is from .
 MONUMENT was founded FOUNDINGDATE .
 FOOD is a popular dish in COUNTRY and Indonesia , and contains beef tenderloin , gula Melaka , sliced dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil .
@@ -3835,7 +3835,7 @@ The Distinguished Service Medal of the United States Navy is higher than the HIG
 The College of William and Mary owns the BUILDING and the Chancellor of the College is CHANCELLOR .
 Jens Hartel , who plays for SV Germania Schoneiche , is part of 1 . FC Union Berlin and has been the manager of 1 FC Magdeburg .
 FOOD is a dish served in COUNTRY . The leader of this country is LEADERNAME and the currency used is the Indonesian Rupiah .
-ASTRONAUT was born in BIRTHPLACE , on March 15 , 1932 . In 1955 he received a Bachelor of Science degree at the University of Texas at Austin . ASTRONAUT served as a test pilot , later he became a crew member on the WAS A CREW MEMBER OF flight mission , operated by OPERATOR . The commander of WAS A CREW MEMBER OF was COMMANDER .
+ASTRONAUT was born in BIRTHPLACE , on March 15 , 1932 . In 1955 he received a Bachelor of Science degree at the University of Texas at Austin . ASTRONAUT served as a test pilot , later he became a crew member on the WAS_A_CREW_MEMBER_OF flight mission , operated by OPERATOR . The commander of WAS_A_CREW_MEMBER_OF was COMMANDER .
 PUBLISHER ( nickname NICKNAME ) published WRITTENWORK . PUBLISHER is affiliated with the AFFILIATION and is located in CITY .
 The Atat ü rk Monument in LOCATION ( İ zmir ) was designed by DESIGNER , is made of bronze and was inaugurated on 27th July , 1932 . The Turkish leader ' s name is Ahmet Davutoglu .
 The Bella Sky hotel in Copenhagen has FLOORCOUNT floors .
@@ -3844,7 +3844,7 @@ The demonym of natives of the Republic of Ireland is DEMONYM .
 The American Journal of Math ( ABBREVIATION ) is published in the U . S . by the PARENTCOMPANY Press . PARENTCOMPANY is the parent company of the PARENTCOMPANY Press .
 INGREDIENT is an ingredient of a Bacon Sandwich , a dish from the COUNTRY . Another variation for a bacon sandwich is a DISHVARIATION .
 AUTHOR ( born in BIRTHPLACE ) is the author of WRITTENWORK . The Bavarian Crisis was preceded by 1634 : The Baltic War and PRECEDEDBY .
-American ASTRONAUT was a test pilot who became a member of the WAS A CREW MEMBER OF crew when NASA picked him in WAS SELECTED BY NASA . He was born in BIRTHPLACE and retired on September 1st , 1969 .
+American ASTRONAUT was a test pilot who became a member of the WAS_A_CREW_MEMBER_OF crew when NASA picked him in WAS_SELECTED_BY_NASA . He was born in BIRTHPLACE and retired on September 1st , 1969 .
 BUILDING has a floor area of 30853 . 8 square metres and has FLOORCOUNT floors .
 The main ingredients of batchoy , which is eaten in the COUNTRY , are noodles , pork , pork organs , vegetables , chicken , shrimp , and beef .
 AIRPORT which is also known as RUNWAYNAME is operated by OPERATINGORGANISATION and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . It has a runway length of RUNWAYLENGTH .
@@ -3875,13 +3875,13 @@ SPORTSTEAM ' s ground is GROUND .
 AIRPORT is located ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and the length of the 3rd runway is 3RD_RUNWAY_LENGTHFEET feet .
 John van den Brom is in CLUB .
 FOOD is a traditional dish from the Valencian community of COUNTRY the country of which Felipe VI is the leader .
-ASTRONAUT , who graduated from AFIT in 1962 with an M . S . , was a crew member of WAS A CREW MEMBER OF along with Fr . ank Borman .
+ASTRONAUT , who graduated from AFIT in 1962 with an M . S . , was a crew member of WAS_A_CREW_MEMBER_OF along with Fr . ank Borman .
 WRITTENWORK by AUTHOR is in print and has an OCLC number of OCLC_NUMBER .
 FOOD is a dish made of sausage and bacon .
 BIRTHPLACE , led by the Labour Party , was the birthplace of ARCHITECT who was the architect that designed BUILDING .
 AIRPORT serves the city of Abilene in ISPARTOF , COUNTRY .
 J . V . Jones is the author of WRITTENWORK and the OCLC number is OCLC_NUMBER .
-The BUILDING was constructed in YEAROFCONSTRUCTION in the architectural style of ARCHITECTURALSTYLE at LOCATION . It was added to the National Register of Historic Places on 27 February 1987 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The BUILDING was constructed in YEAROFCONSTRUCTION in the architectural style of ARCHITECTURALSTYLE at LOCATION . It was added to the National Register of Historic Places on 27 February 1987 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 FOOD is made in China and REGION ( capital CAPITAL ) . LEADERNAME is the leader of REGION .
 ASTRONAUT , born 18th of November 1923 in BIRTHPLACE , passed away in DEATHPLACE . He was a graduate of NWC , M . A . ( class of 1957 ) .
 FOOD includes fried chicken and is a dish enjoyed by the Javanese of COUNTRY and also found in REGION .
@@ -3899,15 +3899,15 @@ The comic character Bolt , who has the alternative name of ALTERNATIVENAME , was
 Although found in Indonesia , FOOD is found in and originates from REGION . Two of the leaders in this country , where LANGUAGE is spoke , are LEADERNAME and Tony Tan .
 The city nearest to Monocacy National Battlefield is NEARESTCITY .
 St Vincent - St Mary High School ( CITY , US ) is the ground of SPORTSTEAM .
-ASTRONAUT was born on 23rd July 1927 in BIRTHPLACE . He was a student at ALMAMATER which affiliated to the AFFILIATIONS . The University of Texas competed in the COMPETE IN in Austin . Elliot died in DEATHPLACE .
+ASTRONAUT was born on 23rd July 1927 in BIRTHPLACE . He was a student at ALMAMATER which affiliated to the AFFILIATIONS . The University of Texas competed in the COMPETE_IN in Austin . Elliot died in DEATHPLACE .
 The main ingredients of binignit are sweet potatotes .
 BUILDING were constructed in YEAROFCONSTRUCTION , are located in LOCATION and were added to the National Register of Historic Places on 23rd April 1980 .
 SPORTSTEAM has NUMBEROFMEMBERS members and played in the Eredivisie 2014 - 15 .
 UNIVERSITY is located in the city of CITY .
-The BUILDING was built in YEAROFCONSTRUCTION and is located on LOCATION . It was added to the National Register of Historic Places , on 22nd November 1988 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The BUILDING was built in YEAROFCONSTRUCTION and is located on LOCATION . It was added to the National Register of Historic Places , on 22nd November 1988 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 SPORTSTEAM , whose nickname is Alvinegro , has NUMBEROFMEMBERS members and took part in Campeonato Brasileiro Serie C in 2015 .
 The distributor of Big Hero 6 ( film ) is DISTRIBUTOR .
-ASTRONAUT served as a crew member of WAS A CREW MEMBER OF which is operated by OPERATOR .
+ASTRONAUT served as a crew member of WAS_A_CREW_MEMBER_OF which is operated by OPERATOR .
 With an ISSN number of ISSN_NUMBER , AIDS journal comes under the academic discipline ACADEMICDISCIPLINE .
 comic book writer , Roger McKenzie , along with CREATOR , created COMICSCHARACTER .
 A . S Roma ' s has NUMBEROFMEMBERS members and its grounds are at GROUND .
@@ -3915,7 +3915,7 @@ Icolo e bengo is part of ISPARTOF , COUNTRY and is the location of COUNTRY Inter
 UNIVERSITY ' s latin name is LATINNAME and is located in COUNTRY .
 The runway at AIRPORT is named RUNWAYNAME .
 BUILDING is located in LOCATION , where ethnic groups include the Asian South Africans and the ETHNICGROUP . LEADERNAME is the leader of LOCATION , and its capital is CAPITAL .
-BUILDING which was constructed in YEAROFCONSTRUCTION in the architectural style of ARCHITECTURALSTYLE is located at LOCATION . It was added to the National Register of Historic Places on 27 February 1987 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING which was constructed in YEAROFCONSTRUCTION in the architectural style of ARCHITECTURALSTYLE is located at LOCATION . It was added to the National Register of Historic Places on 27 February 1987 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 FOOD includes INGREDIENT ( genus : GENUS ; family : FAMILY ) , found in the REGION region of Columbia .
 WRITTENWORK released in MEDIATYPE was written by J . V . Jones .
 The School of Business and Social Sciences at the CITY Univerrsity in the city of CITY , COUNTRY is affiliated with the AFFILIATION headquartered in HEADQUARTERS . The School is lead by Dean DEAN and has NUMBEROFSTUDENTS students and an academic staff of ACADEMICSTAFFSIZE .
@@ -3924,7 +3924,7 @@ The UNIVERSITY in COUNTRY is affiliated to the AFFILIATION based in the city of 
 If you ' ve heard of a FOOD you might not know that it was created in The COUNTRY and the main ingredient is actually bacon .
 ASTRONAUT died in DEATHPLACE on February 28th , 1966 .
 The LANGUAGE is spoken in REGION , which is where LEADERNAME is the leader . It is also where the dish FOOD ( which is also popular in COUNTRY ) comes from .
-The location of BUILDING , built in YEAROFCONSTRUCTION is LOCATION . They were added to the National Register of Historic Places on 23rd April 1980 with the Reference Number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The location of BUILDING , built in YEAROFCONSTRUCTION is LOCATION . They were added to the National Register of Historic Places on 23rd April 1980 with the Reference Number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 ASTRONAUT died in DEATHPLACE on July 21 , 1998 . He was born in BIRTHPLACE On 11 - 18 - 1923 .
 Dave Challinor plays for Tranmere Rovers F . C .
 COMICSCHARACTER is broadcast by the BROADCASTEDBY which is headquartered in Broadcasting house .
@@ -3942,17 +3942,17 @@ WRITTENWORK ( abbreviated to ABBREVIATION ) comes under the academic discipline 
 ASTRONAUT , who was born on the 17th of October 1933 , graduated from AFIT , M . S . in 1962 .
 The county seat of Tarrant County is Fort Worth in Texas .
 1634 The Ram Rebellion was written in the U . S . where Native Americans live and LEADERNAME is the leader .
-ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He went school at NWC and graduated with an MA in 1957 , was a test pilot and was a crew member aboard WAS A CREW MEMBER OF which was operated by OPERATOR .
+ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He went school at NWC and graduated with an MA in 1957 , was a test pilot and was a crew member aboard WAS_A_CREW_MEMBER_OF which was operated by OPERATOR .
 STARRING starred in COMICSCHARACTER .
 FOOD comes from COUNTRY where LEADERNAME is a leader .
 ASTRONAUT , born January AWARDS , 1930 , graduated in 1963 from MIT with a Sc . D . with AWARDS awards .
-ASTRONAUT was born on Oct 17 , 1933 in BIRTHPLACE but was an American . He graduated from AFIT in 1962 with an M . S . He worked as a fighter pilot and was hired by NASA in WAS SELECTED BY NASA . He is now retired .
+ASTRONAUT was born on Oct 17 , 1933 in BIRTHPLACE but was an American . He graduated from AFIT in 1962 with an M . S . He worked as a fighter pilot and was hired by NASA in WAS_SELECTED_BY_NASA . He is now retired .
 SPORTSTEAM is located in LOCATION , of which which CAPITAL is the capital . LOCATION ' s leaders are Alexis Tsipras and LEADER .
 MONUMENT in LOCATION is made of rock and dedicated to Ethelwald , Ealdorman of East Anglia .
 FOOD is a dish from COUNTRY that contains the ingredient celery .
 AIRPORT is found in LOCATION , USA . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH .
 ASTRONAUT ( born on BIRTHDATE in BIRTHPLACE ) retired on DATEOFRETIREMENT date .
-ASTRONAUT was a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT was a member of the WAS_A_CREW_MEMBER_OF crew .
 AIRPORT is located in LOCATION , where Spanish is spoken and Austin is the capital . It is also where the LOCATION demonym is DEMONYM .
 BUILDING is located in LOCATION .
 The BROADCASTEDBY , which is located in LOCATIONCITY and broadcast COMICSCHARACTER , was founded by John Reith 1st Baron Reith .
@@ -3961,7 +3961,7 @@ The natives of the UK are the DEMONYM and the currency is the pound sterling . T
 FOOD come from COUNTRY where the leaders are G é rard Larcher and LEADERNAME . Barny cakes are created by CREATOR who were founded in FOUNDATIONPLACE .
 WRITTENWORK is in print with the ISBN number of ISBN_NUMBER and is NUMBEROFPAGES pages long .
 The School of Business and Social Sciences at Aarhus University was created in ESTABLISHED and has an academic staff size of ACADEMICSTAFFSIZE people .
-ASTRONAUT , a member of the WAS A CREW MEMBER OF crew was born in BIRTHPLACE , US .
+ASTRONAUT , a member of the WAS_A_CREW_MEMBER_OF crew was born in BIRTHPLACE , US .
 WRITTENWORK is NUMBEROFPAGES pages , available in print and authored by J . V . Jones .
 LEADERNAME was the leader of Gujurat .
 PARENTCOMPANY is the parent company of PUBLISHER which published Addiction journal .
@@ -3975,7 +3975,7 @@ WRITTENWORK is published in the COUNTRY , where the language is English and the 
 WRITTENWORK is from the country of Australia .
 Northwest of Mahe , COUNTRY is the state of STATE which is the location of the UNIVERSITY which was established in ESTABLISHED .
 AC Cesena play in the LEAGUE league which has been won by CHAMPIONS in the past . Their ground is located in GROUND .
-ASTRONAUT was born on the 20th of January , 1930 in BIRTHPLACE . He graduated from Massachusetts Institute of Technology , Sc . D . in WAS SELECTED BY NASA and was selected to work for NASA the same year . He served as a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born on the 20th of January , 1930 in BIRTHPLACE . He graduated from Massachusetts Institute of Technology , Sc . D . in WAS_SELECTED_BY_NASA and was selected to work for NASA the same year . He served as a crew member on WAS_A_CREW_MEMBER_OF .
 LEADERNAME is the leader of LOCATION , part of Awadh and ISPARTOF . It is the location of Agra airport which has the IATA location identifier of IATA_LOCATION_IDENTIFIER .
 The runway length of AIRPORT is RUNWAYLENGTH .
 WRITTENWORK was made in " MEDIATYPE " .
@@ -3991,17 +3991,17 @@ The LANGUAGE is spoken in SPOKENIN and is also what WRITTENWORK is written in . 
 FOOD is a Spanish dish found in REGION and bread , almonds , garlic , water and olive oil are among its ingredients .
 LEADERNAME was the leader of LOCATION , COUNTRY , the location of BUILDING .
 FOOD is found in the countries of Indonesia and Singapore , it includes palm sugar as an ingredient .
-ASTRONAUT , a crew member of WAS A CREW MEMBER OF , retired in DATEOFRETIREMENT .
+ASTRONAUT , a crew member of WAS_A_CREW_MEMBER_OF , retired in DATEOFRETIREMENT .
 A . S . Roma ' s ground is in GROUND .
 ETHNICGROUP is an ethnic group in the Philippines .
 AIRPORT in Denmark has a runway named RUNWAYNAME which is RUNWAYLENGTH metres long . The airport , which lies 25 metres above sea level , is operated by OPERATINGORGANISATION .
-" REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES " is BUILDING ' reference number in the National Register of Historic Places .
+" REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES " is BUILDING ' reference number in the National Register of Historic Places .
 The UNIVERSITY is in CITY , neighbouring the municipality of NEIGHBORINGMUNICIPALITY in COUNTRY . The country is led by the Federal Chancellor , LEADERNAME and it ' s national anthem is the ANTHEM .
 The Olympic Stadium , in LOCATION , is the home ground of AEK LOCATION FC .
 SPORTSTEAM has its grounds at Jepson Way and has NUMBEROFMEMBERS members .
 The BUILDING is in LOCATION , in the Eastern Province , of COUNTRY . LEADERNAME is one of the leaders of that region . One of COUNTRY ' s leaders is Ranil Wickremesinghe .
-ASTRONAUT was born BIRTHDATE in BIRTHPLACE . He died on DEATHDATE in DEATHPLACE . He graduated from NWC in 1957 with M . A . and was chosen by NASA in WAS SELECTED BY NASA .
-In 1962 , ASTRONAUT graduated with a M . S . from his alma Mater , AFIT . He became a crew member on WAS A CREW MEMBER OF , a OPERATOR operated mission . His commander on WAS A CREW MEMBER OF was COMMANDER , and the mission ' s backup pilot was BACKUP PILOT . ASTRONAUT retired on the 1st of September , 1969 .
+ASTRONAUT was born BIRTHDATE in BIRTHPLACE . He died on DEATHDATE in DEATHPLACE . He graduated from NWC in 1957 with M . A . and was chosen by NASA in WAS_SELECTED_BY_NASA .
+In 1962 , ASTRONAUT graduated with a M . S . from his alma Mater , AFIT . He became a crew member on WAS_A_CREW_MEMBER_OF , a OPERATOR operated mission . His commander on WAS_A_CREW_MEMBER_OF was COMMANDER , and the mission ' s backup pilot was BACKUP_PILOT . ASTRONAUT retired on the 1st of September , 1969 .
 MANAGER has managed AC Chievo Verona and plays at the CLUB .
 Carrie Lam is the leader of Hong Kong .
 INGREDIENT are an ingredient in DISHVARIATION , which is a dish that comes from the ADMINISTRATIVECOUNTY Dales region , where the leader is LEADERNAME . A variant of bakewell pudding is bakewell tart .
@@ -4035,14 +4035,14 @@ FOOD includes tomatoes .
 Roy Thomas won the AWARD .
 CHAIRMAN , born in BIRTHPLACE , is the chairman of A . S . Roma .
 Completed in COMPLETIONDATE , BUILDING has FLOORCOUNT floors and 111484 square meters space , and can be found in Cleveland , Ohio , 44114 .
-ASTRONAUT was born in Wheeler Texas . He was a test pilot who was also a crew member of WAS A CREW MEMBER OF . He is now retired .
+ASTRONAUT was born in Wheeler Texas . He was a test pilot who was also a crew member of WAS_A_CREW_MEMBER_OF . He is now retired .
 The MONUMENT ( established ESTABLISHED ) is categorised as a historic district in the United States , and is owned by the OWNINGORGANISATION .
 The population density , of Akron ( Ohio ) , is 1239 . 3 inhabitants per square kilometre .
 SPORTSTEAM is in the league , LEAGUE and play in GROUND .
 The academic discipline of AIDS journal with IBN of ISSN_NUMBER is ACADEMICDISCIPLINE .
 The AIRPORT ' s location id is " LOCATIONIDENTIFIER " .
 ASTRONAUT was born in BIRTHPLACE . He graduated from AFIT with a M . S . in 1962 and became a fighter pilot . He retired on 09 / 01 / 1969 .
-ASTRONAUT was born in BIRTHPLACE on March 15th , 1932 . He worked as a test pilot and became crew member of WAS A CREW MEMBER OF before he retired .
+ASTRONAUT was born in BIRTHPLACE on March 15th , 1932 . He worked as a test pilot and became crew member of WAS_A_CREW_MEMBER_OF before he retired .
 WRITTENWORK is written in English .
 OFFICIALLANGUAGE is the official language of the COUNTRY ( where batchoy is eaten ) , but the spoken language is LANGUAGE . The Chinese Filipino and the llocano people are both ethnic groups in the COUNTRY .
 The manager of SPORTSTEAM is MANAGER , who plays at the CLUB club .
@@ -4074,7 +4074,7 @@ BUILDING is located in the Eastern Province , COUNTRY , where LEADERNAME is the 
 BUILDING is in LOCATION .
 INGREDIENT is the main ingredient of the bacon sandwich that comes from the COUNTRY .
 ASTRONAUT won the Legion of Merit ribbon .
-Gregory L . Fenves is appointed president on the ALMAMATER who ASTRONAUT ( born in BIRTHPLACE ) attended as a student . On that time , University of Texas is affiliated to the system and compete in the COMPETE IN . The Hook ` em is the mascot of University of Texas as Austin .
+Gregory L . Fenves is appointed president on the ALMAMATER who ASTRONAUT ( born in BIRTHPLACE ) attended as a student . On that time , University of Texas is affiliated to the system and compete in the COMPETE_IN . The Hook ` em is the mascot of University of Texas as Austin .
 BUILDING is located in the LOCATION , where the leader is know as the LEADERTITLE . One of the leaders in the US is LEADERNAME and an ethnic group of the LOCATION ( where English is the language ) is ETHNICGROUP .
 German is a language spoken in Denmark .
 Adolfo Suarez Madrid - Barejas Airport is in LOCATION , Madrid .
@@ -4107,7 +4107,7 @@ BUILDING is in Chciago , in the State of ISPARTOF .
 Jack Kirby ' s nationality is American .
 LOCATION is in COUNTRY which has a leader named LEADERNAME . BUILDING and the ISPARTOF are both in LOCATION .
 The parent company of Lippincott Williams & Wilkins is PARENTCOMPANY .
-BUILDING is located in LOCATION , built in YEAROFCONSTRUCTION , and was added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING is located in LOCATION , built in YEAROFCONSTRUCTION , and was added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 OCCUPATION ASTRONAUT was born in BIRTHPLACE on November 18 , 1923 .
 FOOD comes from the Paisa region of Colombia . It is made with MAININGREDIENTS .
 Designed by , BIRTHPLACE born , architect , ARCHITECT , BUILDING was completed in COMPLETIONDATE . It is located in LOCATION and has FLOORCOUNT floors .
@@ -4120,14 +4120,14 @@ One of the ethnic groups within South Africa is ETHNICGROUP .
 BUILDING is located in the LOCATION , where a leader is LEADERNAME . Native Americans are an ethnic group in the LOCATION , where the language spoken is English and the leader is LEADERTITLE .
 HOMETOWN , which has the B postcode is lead by LEADERNAME and is the hometown of architect ARCHITECT who designed BUILDING .
 The full name of the SPORTSTEAM is " FULLNAME , " they have NUMBEROFMEMBERS members and their ground is GROUND .
-Crew member ASTRONAUT and backup pilot BACKUP PILOT served under commander COMMANDER on WAS A CREW MEMBER OF .
+Crew member ASTRONAUT and backup pilot BACKUP_PILOT served under commander COMMANDER on WAS_A_CREW_MEMBER_OF .
 WRITTENWORK was originally published in English . The book came from the COUNTRY , where there is an ethnic group called ETHNICGROUP .
 ASTRONAUT was an American born in BIRTHPLACE on the 20th of January , 1930 . He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science . He is now retired .
 Allama Iqbal International airport is located in Punjab Pakistan and is operated by the OPERATINGORGANISATION . It serves the city of CITYSERVED and has a runway length of RUNWAYLENGTH .
 ETHNICGROUP are the ethnic group of COUNTRY where the language is Spanish and where FOOD is from .
 The Civil Aviation Authority of LOCATION , New Zealand is the operating organisation for Ardmore Airport , New Zealand .
 Jens Hartel has represented the club CLUB and his club is Berliner AK07 . He is currently part of the club 1 . FC Union Berlin and manages FC Magdeburg .
-ASTRONAUT was born on March 15 , 1932 in Wheeler Texas . He graduated from UT Austin with a BSc . in 1955 . Bean worked as a test pilot and was part of WAS A CREW MEMBER OF , which was run by OPERATOR . He is retired .
+ASTRONAUT was born on March 15 , 1932 in Wheeler Texas . He graduated from UT Austin with a BSc . in 1955 . Bean worked as a test pilot and was part of WAS_A_CREW_MEMBER_OF , which was run by OPERATOR . He is retired .
 WRITTENWORK was assigned the OCLC number OCLC_NUMBER .
 FOOD , containing peanut sauce , is a variation of the Siomay dish , which is very similar to DISHVARIATION .
 SPORTSTEAM are managed by MANAGER , who is in the A . S . Roma club , and was attached to the Real Madrid CF club .
@@ -4201,7 +4201,7 @@ WRITTENWORK is published in the COUNTRY which is , unrelatedly , lead by a presi
 BUILDING is in COUNTRY in it ' s Eastern Province . The leader of COUNTRY is Ranil Wickremesinghe and the leader in the Eastern Province is LEADERNAME .
 Monroe Township , Madison County , Indiana is situated within the COUNTRY .
 ASTRONAUT was American .
-ASTRONAUT was born in BIRTHPLACE and went to the ALMAMATER . Elliot was selected by NASA in WAS SELECTED BY NASA and served as a test pilot before passing away in St Louis .
+ASTRONAUT was born in BIRTHPLACE and went to the ALMAMATER . Elliot was selected by NASA in WAS_SELECTED_BY_NASA and served as a test pilot before passing away in St Louis .
 UNIVERSITY in Mendriso , COUNTRY has NUMBEROFSTUDENTS students and DEAN is its dean . The leader of the country is LEADERNAME .
 COUNTRY , where the local inhabitants are known as DEMONYM , is lead by Alexis Tsipras and LEADERNAME . CITYSERVED is a city in COUNTRY which is served by CITYSERVED International airport .
 BUILDING ( owned by OWNER ) is located in LEADERTITLE led LOCATION ( a part of ISPARTOF of The COUNTRY ) .
@@ -4218,7 +4218,7 @@ The dessert FOOD requires granola as one of its ingredients and sometimes includ
 RECTOR is rector of the UNIVERSITY .
 There are about NUMBEROFPOSTGRADUATESTUDENTS post graduate students at the UNIVERSITY .
 One of the main ingredients of FOOD is the sweet potato , whic can be found in the philippines and has INGREDIENT as an ingredient .
-ASTRONAUT was a crew member of the OPERATOR operated WAS A CREW MEMBER OF along with fellow crew member CREWMEMBERS and backup pilot BACKUP PILOT .
+ASTRONAUT was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF along with fellow crew member CREWMEMBERS and backup pilot BACKUP_PILOT .
 MAININGREDIENTS is the main ingredient in a FOOD which also has sausage in it . It comes from the U . S .
 AUTHOR was born in BIRTHPLACE and one of his notable works is A Romance of the Dark Ages . He also wrote WRITTENWORK .
 FOOD , a food product from the REGION region of COUNTRY , contains condensed milk .
@@ -4233,7 +4233,7 @@ SPORTSTEAM ( GROUND ) play in LEAGUE . CHAMPIONS are champions of that serie . L
 BUILDING has FLOORCOUNT floors and is located in LOCATION , COUNTRY .
 The Egg Harbor Township in New Jersey is located in Atlantic City , New Jersey . It is served by AIRPORT which has a runway length of 1873 .
 FULLNAME is the full name of , A . S . Roma , who have their ground in GROUND . They competed in the SEASON season and have NUMBEROFMEMBERS members .
-ASTRONAUT was a test pilot who was a student at the University of Texas in Austin , a school that competes in the COMPETE IN . The school is affiliated with the university of Texas system and See died on February 28th , 1966 in DEATHPLACE .
+ASTRONAUT was a test pilot who was a student at the University of Texas in Austin , a school that competes in the COMPETE_IN . The school is affiliated with the university of Texas system and See died on February 28th , 1966 in DEATHPLACE .
 The OPERATINGORGANISATION , who is the operating organisation for Al Asad airbase , were involved in the invasion of Panama and deploy the ATTACKAIRCRAFT on their aircraft carriers , and use the AIRCRAFTFIGHTER fighter aircraft .
 The 1634 The Bavarian Crisis by AUTHOR , was put in print and has the ISBN number ISBN_NUMBER .
 SPORTSTEAM club has NUMBEROFMEMBERS members .
@@ -4244,7 +4244,7 @@ The capital of Belgium is Brussels .
 The location of AIRPORT is LOCATION ISPARTOF .
 BIRTHPLACE born STARRING starred in COMICSCHARACTER , which was broadcast by the BROADCASTEDBY , whose headquarters are called LOCATIONCITY .
 AS Roma ' s manager is MANAGER ( who was also at CLUB ) and they play in the LEAGUE league . The Champions of that league are Juventus F . C .
-ASTRONAUT received a Bachelor of Science degree at the University of Texas at Austin in 1955 was a crew member on the WAS A CREW MEMBER OF flight mission and retired in June of 1981 .
+ASTRONAUT received a Bachelor of Science degree at the University of Texas at Austin in 1955 was a crew member on the WAS_A_CREW_MEMBER_OF flight mission and retired in June of 1981 .
 WRITTENWORK , ISSN number ISSN_NUMBER .
 The operating organization for AIRPORT in LOCATION , is called OPERATINGORGANISATION . The airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and the runway length is 900 metres .
 SPORTSTEAM is located in LOCATION , the capital of which is CAPITAL and the country is headed by LEADER .
@@ -4340,15 +4340,15 @@ CITYSERVED Airport Schipol serves the city of CITYSERVED and has a runway that i
 ALTERNATIVENAME is the alternative name for the comic book character Bolt , which was created by Ernie Colon and the American Paris Cullins .
 STARRING starred in COMICSCHARACTER which was broadcast by the BROADCASTEDBY and first aired on 3 October 1983 .
 AIRPORT is located in the city of CITYSERVED . The runway is 8m long and is 973m above sea level . The airport is known as RUNWAYNAME .
-ASTRONAUT , who graduated in 1955 from UT Austin with a B . S . and was selected by NASA in WAS SELECTED BY NASA , spent 100305 . 0 minutes in space .
+ASTRONAUT , who graduated in 1955 from UT Austin with a B . S . and was selected by NASA in WAS_SELECTED_BY_NASA , spent 100305 . 0 minutes in space .
 AIRPORT is located in Sao Jose dos Pinhais , it ' s runway name is RUNWAYNAME it ' s length is RUNWAYLENGTH and is 911 metres above sea level .
 John Hopkins University Press is located in the COUNTRY and publishes the WRITTENWORK .
 FOOD is a Javanese dish and uses the ingredient banana leaf .
 WRITTENWORK is in English ( also spoken in SPOKENIN ) , from the COUNTRY , a country with capital city Washington D . C . and a large population of ETHNICGROUP .
 Peter Stoger previously played football for SK Vorwarts Steyr and now plays for Favoritner AC . In addition he is a member of CLUB coccer club and the manager or 1 . FC Koln .
 San Marcos is the county seat of Hays County , Texas .
-ASTRONAUT was born in BIRTHPLACE , on March 15th 1932 . He was hired by OPERATOR in WAS SELECTED BY NASA and served on the OPERATOR - operated WAS A CREW MEMBER OF mission along with backup pilot BACKUP PILOT and commander COMMANDER .
-Before he retired in DATEOFRETIREMENT , ASTRONAUT was a member of WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE , on March 15th 1932 . He was hired by OPERATOR in WAS_SELECTED_BY_NASA and served on the OPERATOR - operated WAS_A_CREW_MEMBER_OF mission along with backup pilot BACKUP_PILOT and commander COMMANDER .
+Before he retired in DATEOFRETIREMENT , ASTRONAUT was a member of WAS_A_CREW_MEMBER_OF .
 ISPARTOF and BUILDING are located in LOCATION .
 Arrabbiata sause , which is made with oregano and garlic , is from COUNTRY .
 The comic book character , COMICSCHARACTER , was created by Dick Dillin and CREATOR .
@@ -4357,10 +4357,10 @@ The UNIVERSITY was founded in ESTABLISHED in the country COUNTRY and has NUMBERO
 The TRANSPORTAIRCRAFT is a transport aircraft for the OPERATINGORGANISATION who operates AIRPORT in LOCATION in ISPARTOF .
 ASTRONAUT is TITLE and was born in BIRTHPLACE .
 LEADERNAME leads COUNTRY whose people are known as Indians . FOOD comes from COUNTRY .
-The MONUMENT is categorized as a CATEGORY , and is found in LOCATION , in the US . Adams County is to the east of HAS TO ITS WEST , and it has Carrol County Maryland to its southeast , Pennsylvania ' s Cumberland County to its north , and Maryland ' s Frederick County to its southwest .
+The MONUMENT is categorized as a CATEGORY , and is found in LOCATION , in the US . Adams County is to the east of HAS_TO_ITS_WEST , and it has Carrol County Maryland to its southeast , Pennsylvania ' s Cumberland County to its north , and Maryland ' s Frederick County to its southwest .
 The ground of AS Gubbio 1910 is called GROUND and has the capacity for a crowd of NUMBEROFMEMBERS .
-ASTRONAUT graduated with a M . S . from AFIT in 1962 . He then went on to become a member of the WAS A CREW MEMBER OF crew along with CREWMEMBERS .
-Elliot see selected by NASA in WAS SELECTED BY NASA died in DEATHPLACE .
+ASTRONAUT graduated with a M . S . from AFIT in 1962 . He then went on to become a member of the WAS_A_CREW_MEMBER_OF crew along with CREWMEMBERS .
+Elliot see selected by NASA in WAS_SELECTED_BY_NASA died in DEATHPLACE .
 AIRPORT is located in LOCATION , COUNTRY where the language spoken is English .
 LEADERNAME is the prime minister of India .
 FOOD originates from the region of REGION .
@@ -4379,7 +4379,7 @@ Antwerp is admin Arrondissement of Arrondissement .
 FOOD originated from the region of REGION , COUNTRY . The main ingredients of FOOD are noodles , pork organs , vegetables , chicken , shrimp and beef .
 CITYSERVED , in the US , is served by the AIRPORT .
 One of John Cowper Powys notable works is Oliver Glendower .
-OCCUPATION ASTRONAUT was picked by OPERATOR in WAS SELECTED BY NASA to help crew WAS A CREW MEMBER OF . Aldrin was born January 20th , 1930 , graduated from MIT with a Sc . D . in WAS SELECTED BY NASA and is now retired .
+OCCUPATION ASTRONAUT was picked by OPERATOR in WAS_SELECTED_BY_NASA to help crew WAS_A_CREW_MEMBER_OF . Aldrin was born January 20th , 1930 , graduated from MIT with a Sc . D . in WAS_SELECTED_BY_NASA and is now retired .
 The WRITTENWORK has a LCCN number of LCCN_NUMBER and the abbreviated name of ABBREVIATION It comes under the academic discipline of ACADEMICDISCIPLINE .
 PRECEDEDBY is written by AUTHOR . It is followed by WRITTENWORK , FOLLOWEDBY and Maiden Castle .
 American ASTRONAUT was born on July 23rd , 1927 and died in DEATHPLACE February 28th , 1966 .
@@ -4388,7 +4388,7 @@ The MONUMENT was founded on July 11 , 1907 and belongs to the Historic districts
 The location of AIRPORT is LOCATION , which is in the Central COUNTRY region .
 FOOD , from the REGION region in COUNTRY , has almond as one of its ingredients . ALTERNATIVENAME is an alternative name of FOOD .
 The WRITTENWORK , or Admin . Sci . Q , is in the management discipline with ISSN number ISSN_NUMBER .
-ASTRONAUT was born in BIRTHPLACE on November 18th , 1923 and in WAS SELECTED BY NASA NASA chose him as part of the space program .
+ASTRONAUT was born in BIRTHPLACE on November 18th , 1923 and in WAS_SELECTED_BY_NASA NASA chose him as part of the space program .
 WRITTENWORK was published by PUBLISHER , ( parent company PARENTCOMPANY ) in the COUNTRY , where the capital city is CAPITAL .
 The area code of CITY , is AREACODE .
 BUILDING was completed in COMPLETIONDATE and has a floor area of 62145 . 3 square metres .
@@ -4478,7 +4478,7 @@ The UNIVERSITY in CITY , COUNTRY is affiliated with the AFFILIATION and it ' s c
 The SPORTSTEAM team is based in GROUND and play in the LEAGUE where CHAMPIONS were previous champions .
 Celery is a member of the family FAMILY .
 TENANT , founded in FOUNDATIONPLACE , is the tenant of the AC Hotel Bella Sky in Copenhagen , LOCATION .
-The 11th Mississippi Monument is located in LOCATION . It was established in ESTABLISHED and it is categorized as a Contributing Property . Adams County has Cumberland County ( Pa ) to its north ; Maryland ' s Frederick County to its north east and HAS TO ITS SOUTHEAST to its southeast .
+The 11th Mississippi Monument is located in LOCATION . It was established in ESTABLISHED and it is categorized as a Contributing Property . Adams County has Cumberland County ( Pa ) to its north ; Maryland ' s Frederick County to its north east and HAS_TO_ITS_SOUTHEAST to its southeast .
 The rector of the UNIVERSITY in CITY , STATE , COUNTRY , is RECTOR . The latin name of the University is " LATINNAME " and it is known by the nickname NICKNAME .
 The AIRPORT is in LOCATION and has a runway length of RUNWAYLENGTH .
 The UNIVERSITY was established in ESTABLISHED in CITY , COUNTRY . The school has 16 , 000 students and ACADEMICSTAFFSIZE academic staff .
@@ -4487,7 +4487,7 @@ DISHVARIATION is a variation of the dish FOOD which is found nationwide in Indon
 The 2nd runway at AIRPORT is made of 2ND_RUNWAY_SURFACETYPE which belongs to the order of ORDER .
 WRITTENWORK originates from the COUNTRY where the capital is Washington D . C .
 BUILDING is located in LOCATION , Cuyahoga County , ISPARTOF . The governing body for the city is GOVERNINGBODY and Frank G Jackson is a city leader .
-ASTRONAUT was part of WAS A CREW MEMBER OF which was operated by OPERATOR .
+ASTRONAUT was part of WAS_A_CREW_MEMBER_OF which was operated by OPERATOR .
 The runway at AIRPORT is 1800 meters long .
 The Javenese people are an ethnic group in COUNTRY , where the dish ayam penyet can be found . The dish is from REGION , where LANGUAGE is spoken .
 RUNWAYNAME is the runway name of the AIRPORT .
@@ -4517,7 +4517,7 @@ Agra airport has the location identifier ICAO_LOCATION_IDENTIFIER and is located
 The REGION has LEADERNAME as their leader and the dish arros negre comes from that region of COUNTRY .
 ASTRONAUT is a retired test pilot who was born in BIRTHPLACE . He graduated from UT Austin in 1955 with a B . S .
 1st Baron , John Reith was the founder of the BROADCASTEDBY which is located in LOCATIONCITY and showed the TV series , COMICSCHARACTER . Another product of the BROADCASTEDBY is BROADCASTEDBY radio .
-ASTRONAUT ' s time in space is 13017 minutes , he was on the crew of WAS A CREW MEMBER OF and his birth place was BIRTHPLACE .
+ASTRONAUT ' s time in space is 13017 minutes , he was on the crew of WAS_A_CREW_MEMBER_OF and his birth place was BIRTHPLACE .
 SPORTSTEAM play at the GROUND ground which is located in LOCATION . They currently play in the Campeonato Brasileiro Serie C League whose current champions are The Vila Nova Futebl Clube .
 The capital of the United Kingdom is CAPITAL .
 Stuart Parker ' s football club was Stockport County F . C .
@@ -4532,7 +4532,7 @@ AFC GROUND is located in GROUND and has NUMBEROFMEMBERS members .
 The address of BUILDING , located in LOCATION ( COUNTRY ) , is ADDRESS .
 The UNIVERSITY is located in COUNTRY . COUNTRY ' s capital is CAPITAL , its anthem is Desteapta - te romane ! and its leader is the Prime Minister .
 FOOD comes from the COUNTRY where LANGUAGE is the language spoken . It is also where ETHNICGROUP are a group .
-ASTRONAUT was born in BIRTHPLACE on October 17th , 1933 and after joing NASA in WAS SELECTED BY NASA as part of the WAS A CREW MEMBER OF crew , he retired on September 1st , 1969 . Anders was a test pilot who in 1962 graduated with a M . S . from AFIT .
+ASTRONAUT was born in BIRTHPLACE on October 17th , 1933 and after joing NASA in WAS_SELECTED_BY_NASA as part of the WAS_A_CREW_MEMBER_OF crew , he retired on September 1st , 1969 . Anders was a test pilot who in 1962 graduated with a M . S . from AFIT .
 ETHNICGROUP and Ilocano people are ethnic groups from the COUNTRY which is home to the dish batchoy and where LANGUAGE and Arabic are spoken .
 In Hong Kong , the spoken language is Chinese .
 Marv Wolfman was awarded the AWARD .
@@ -4545,7 +4545,7 @@ WRITTENWORK is published by PUBLISHER , which is located in the U . S , where so
 AIRPORT serves CITYSERVED , a popular tourist destination in French speaking COUNTRY .
 " WRITTENWORK " was published in the COUNTRY , where the official language is English .
 Wilson Township , Alpena County , Michigan is in the COUNTRY .
-The MONUMENT ' s location is LOCATION , COUNTRY . To the west of Adams County is Franklin County and to the southwest is HAS TO ITS SOUTHWEST .
+The MONUMENT ' s location is LOCATION , COUNTRY . To the west of Adams County is Franklin County and to the southwest is HAS_TO_ITS_SOUTHWEST .
 CITY is part of ISPARTOF .
 FOOD is from the REGION region of COUNTRY . It has the ingredients : chopped fruit , condensed milk , granola , raisins and shredded coconut .
 Helmut Jan designed BUILDING which was completed in COMPLETIONDATE and has FLOORCOUNT floors .
@@ -4566,11 +4566,11 @@ PARENTCOMPANY is the parent company of Tor Books .
 FOOD is a dish from the COUNTRY where LEADERNAME is the Queen . Variations on the sandwich are the BLT and the club sandwich .
 The CAPITAL Turkish Martyr ' s Memorial , which is made from red granite and white marble , is in LOCATION which has the National Assembly as its legislature and CAPITAL is the capital .
 In the state of Paran á , Sao Jose dos Pinhais is part of the ISPARTOF and is where AIRPORT is located . The airport serves the city of CITYSERVED and is operated by OPERATINGORGANISATION .
-The west of Karnataka is the HAS TO ITS WEST .
+The west of Karnataka is the HAS_TO_ITS_WEST .
 Agra airport has the ICAO location identifier ICAO_LOCATION_IDENTIFIER and is in LOCATION , part of Awadh and ISPARTOF .
 GOVERNINGBODY is the governing body of Eastern Province in Sri Lanka .
 The total area of the city Auburn , in Alabama , is 140 . 8 square kilometres .
-US national ASTRONAUT was born on the 20th of January , 1930 in BIRTHPLACE . He graduated with a Sc . D from MIT in WAS SELECTED BY NASA and was selected by NASA the same year . He served as a crew member of WAS A CREW MEMBER OF and received AWARDS awards during his service .
+US national ASTRONAUT was born on the 20th of January , 1930 in BIRTHPLACE . He graduated with a Sc . D from MIT in WAS_SELECTED_BY_NASA and was selected by NASA the same year . He served as a crew member of WAS_A_CREW_MEMBER_OF and received AWARDS awards during his service .
 SPORTSTEAM is in the LEAGUE league ( with Carpi FC 1909 as champions ) and has a ground in GROUND .
 The number of postgraduate students in UNIVERSITY is ~ NUMBEROFPOSTGRADUATESTUDENTS .
 WRITTENWORK is available in print and has the OCLC number OCLC_NUMBER .
@@ -4589,10 +4589,10 @@ BUILDING , LOCATION , COUNTRY ( where LEADERTITLE is a leader ) , is owned by OW
 The LANGUAGE is spoken in Singapore .
 The BUILDING are in LOCATION which is part of ISPARTOF .
 FOOD is from the REGION region where LEADERNAME is a leader .
-ASTRONAUT , retired , served as a fighter pilot before joining as a crew member on WAS A CREW MEMBER OF alongside CREWMEMBERS , .
+ASTRONAUT , retired , served as a fighter pilot before joining as a crew member on WAS_A_CREW_MEMBER_OF alongside CREWMEMBERS , .
 FOOD is a dish from the COUNTRY and condiments are used to prepare it . BLT is a variation of a Club Sandwich .
 WRITTENWORK was preceded by PRECEDEDBY and originates in the COUNTRY . That country is lead by LEADERNAME from the capital city of Washington DC . It contains the ethnic group of ETHNICGROUP .
-ASTRONAUT , a US national , was a crew member on WAS A CREW MEMBER OF operated by OPERATOR .
+ASTRONAUT , a US national , was a crew member on WAS_A_CREW_MEMBER_OF operated by OPERATOR .
 CREATOR created the COMICSCHARACTER .
 OPERATINGORGANISATION operates AIRPORT , and its runway is called RUNWAYNAME .
 MANAGER has been manager of AC Lumezzane and plays for both Torino F . C . and CLUB .
@@ -4605,7 +4605,7 @@ BUILDING is located in LOCATION in the COUNTRY .
 FOOD is from COUNTRY , which is home to DEMONYM and where CAPITAL is the capital . LEADERNAME and Pietro Grasso are leaders in this country .
 The UNIVERSITY is located in Soldevanahalli , at the address Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 . Its director is DIRECTOR .
 AIRPORT is located in LOCATION , which is part of the state of Paran á . The airport serves CITYSERVED and is operated by OPERATINGORGANISATION .
-ASTRONAUT was born in BIRTHPLACE on BIRTHDATE . He attended the Massachusetts Institute of Technology obtaining a Sc . D in 1963 . He was a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE on BIRTHDATE . He attended the Massachusetts Institute of Technology obtaining a Sc . D in 1963 . He was a crew member on WAS_A_CREW_MEMBER_OF .
 J . V , Jones is the author of the hardcovered book , WRITTENWORK .
 The authors of WRITTENWORK are AUTHOR .
 BUILDING is located in the country of COUNTRY where one of the leaders is LEADERNAME and they speak Tamil .
@@ -4619,7 +4619,7 @@ The runway name of AIRPORT is RUNWAYNAME .
 BUILDING is located in the LOCATION , where English is the official language , and an ethnic group present is Asians . The title of the leader is LEADERTITLE ; LEADERNAME is also a leader .
 The fried chicken dish FOOD comes from the region of COUNTRY and also REGION where ETHNICGROUP are an ethnic group .
 LEADERNAME is a leader in COUNTRY , where DEMONYM come from , CAPITAL is the capital and arrabbiata sauce is a traditional dish .
-STATUS American test pilot ASTRONAUT , born in BIRTHPLACE was a member of the WAS A CREW MEMBER OF crew who spent 100305 minutes in space . His Alma Mater is ALMAMATER .
+STATUS American test pilot ASTRONAUT , born in BIRTHPLACE was a member of the WAS_A_CREW_MEMBER_OF crew who spent 100305 minutes in space . His Alma Mater is ALMAMATER .
 FOOD , containing INGREDIENT , is from COUNTRY and REGION .
 CITY is part of the U . S .
 Rolando Maran is in CLUB club .
@@ -4691,7 +4691,7 @@ FOOD is classed as a COURSE .
 Enrique Pena Nieto is a leader in COUNTRY , where one of the languages spoken is LANGUAGE and the dish bionico can be found . FOOD is a dessert dish that can be varied by adding cottage cheese .
 INGREDIENT is an ingredient of binignit , which also contains sweet potato - of the order ORDER and a flowering plant .
 FOOD , which has celery in it , is a traditional dish throughout COUNTRY and is popular in Southeast Asian countries too .
-ASTRONAUT has died in DEATHPLACE . A NATIONALITY national , he was born on 18 November 1923 in BIRTHPLACE . He graduated from NWC in 1957 with an MA and became a crew member aboard WAS A CREW MEMBER OF .
+ASTRONAUT has died in DEATHPLACE . A NATIONALITY national , he was born on 18 November 1923 in BIRTHPLACE . He graduated from NWC in 1957 with an MA and became a crew member aboard WAS_A_CREW_MEMBER_OF .
 The bacon sandwich is a dish from the COUNTRY , also known as a bacon butty or sarnie . It is a variation of the DISHVARIATION . It usually includes a condiment such as ketchup or brown sauce .
 Amatriciana is a sauce from REGION .
 Andrews County airport is located in LOCATION where LARGESTCITY is the largest city and the capital is Austin . The local inhabitants have the demonym of Texans and use the LANGUAGE .
@@ -4720,7 +4720,7 @@ The tenant of the BUILDING , LOCATION is TENANT , the company which was founded 
 The capital of the U . S . is Washington , D . C .
 HIV comes under the family of Retroviruses .
 BIRTHPLACE born STARRING starred in COMICSCHARACTER which was a TV series shown on the BROADCASTEDBY , based at LOCATIONCITY in London .
-ASTRONAUT ( born in BIRTHPLACE ) served as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN and was awarded an American Defense Service ribbon .
+ASTRONAUT ( born in BIRTHPLACE ) served as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN and was awarded an American Defense Service ribbon .
 The bacon sandwich has different names including : Bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin .
 An ingredient of amatriciana sauce is tomato ( a member of the ORDER order ) .
 Fountain County is in Indiana in the U . S .
@@ -4750,11 +4750,11 @@ The University of Texas , the president of which is Gregory L . Fences , is affi
 St . Vincent St . Mary High School is located in LOCATION , CITY , COUNTRY . Its leader is LEADER and it is the ground of SPORTSTEAM .
 BUILDING is located on 23rd Street , Manhattan .
 The building of BUILDING , LOCATION began in January 2014 . The building has FLOORCOUNT floors with a total area of FLOORAREA .
-ASTRONAUT , from the NATIONALITY was born in BIRTHPLACE and selected as a fighter pilot by NASA in WAS SELECTED BY NASA .
+ASTRONAUT , from the NATIONALITY was born in BIRTHPLACE and selected as a fighter pilot by NASA in WAS_SELECTED_BY_NASA .
 The creator of Airman , ( comics character ) is CREATOR .
 WRITTENWORK is from the COUNTRY where LEADERNAME is President . The LANGUAGE is used both in the US and in SPOKENIN .
 WRITTENWORK ( Acta Math . Hungar ) has the ISSN number of " ISSN_NUMBER " and the LCCN number of LCCN_NUMBER . The CODEN code for it is CODEN_CODE .
-ASTRONAUT was born in BIRTHPLACE on the 15th of March , 1932 . He served as a test pilot and crew member on the WAS A CREW MEMBER OF . ASTRONAUT is retired .
+ASTRONAUT was born in BIRTHPLACE on the 15th of March , 1932 . He served as a test pilot and crew member on the WAS_A_CREW_MEMBER_OF . ASTRONAUT is retired .
 COMICSCHARACTER , created by CREATOR and starring STARRING , was first broadcast by the BROADCASTEDBY on the 3rd October 1983 .
 Agra airport is operated by the OPERATINGORGANISATION and is located in LOCATION . Its ATA location identifier is IATA_LOCATION_IDENTIFIER , but the location identifier for the airport is ICAO_LOCATION_IDENTIFIER .
 A . E . Dimitra Efxeinoupolis is located in LOCATION where CAPITAL is the capital and both LEADER and Nikos Voutis are leaders .
@@ -4781,14 +4781,14 @@ The Al Taqaddum Air Base serves the city of CITYSERVED , COUNTRY . Haider Al - A
 LOCATION is lead by LEADERNAME and is part of ISPARTOF in the COUNTRY . One of its monuments is the 300 North LaSelle , a building which has FLOORCOUNT floors .
 The AIRPORT serves the city of CITYSERVED .
 Peter Stoger , who plays for FC Admira Wacker Modling is also the manager of FC Kolin . He is affiliated with the SC Wiener Neustadt club and previously played for the club CLUB .
-ASTRONAUT is a US national who was born in BIRTHPLACE . He was a fighter pilot and then became a crew member of the WAS A CREW MEMBER OF mission organised by OPERATOR . He has now retired .
+ASTRONAUT is a US national who was born in BIRTHPLACE . He was a fighter pilot and then became a crew member of the WAS_A_CREW_MEMBER_OF mission organised by OPERATOR . He has now retired .
 BUILDING has a floor count of FLOORCOUNT .
 UNIVERSITY in CITY is affiliated with AFFILIATION .
 The hub airport for OPERATINGORGANISATION , who are the operating organisation for AIRPORT , is HUBAIRPORT .
 FULLNAME , otherwise known as Bibbo , was created by CREATOR .
 ASTRONAUT graduated from UT Austin in 1955 with a B . S .
 Lee County , Alabama , is within the COUNTRY .
-ASTRONAUT attended the ALMAMATER , which is affiliated to the AFFILIATIONS and will compete in the COMPETE IN . ASTRONAUT died in DEATHPLACE on February 28 , 1966 .
+ASTRONAUT attended the ALMAMATER , which is affiliated to the AFFILIATIONS and will compete in the COMPETE_IN . ASTRONAUT died in DEATHPLACE on February 28 , 1966 .
 The owner of BUILDING , located at LOCATION , is OWNER .
 Arlington is part of Tarrant County in Texas .
 Labour politician , John Clancy is the leader of HOMETOWN , this city is the hometown of Joh Madin , who was the architect of BUILDING .
@@ -4802,14 +4802,14 @@ SPORTSTEAM ( which is their full name ) competed in the SEASON . Their ground is
 The CURRENTTENANTS , located in the COUNTRY , is the current tenant of Alan B Miller Hall , which cost 75 million dollars .
 BUILDING is in LOCATION , COUNTRY . The country ' s capital is CAPITAL , the LANGUAGE is used and the currency is the CURRENCY .
 The runway length of AIRPORT , located in LOCATION , is RUNWAYLENGTH .
-The OPERATOR operated WAS A CREW MEMBER OF had many crew members . The commander was COMMANDER , and ASTRONAUT ( born in BIRTHPLACE ) was a test pilot . BACKUP PILOT was the backup pilot .
+The OPERATOR operated WAS_A_CREW_MEMBER_OF had many crew members . The commander was COMMANDER , and ASTRONAUT ( born in BIRTHPLACE ) was a test pilot . BACKUP_PILOT was the backup pilot .
 The country of COUNTRY , where Indonesian is spoken , commonly serves FOOD .
 WRITTENWORK is published by PUBLISHER in the COUNTRY . The language of both the US and SPOKENIN is English .
 Cumberland County in Pennsylvania is situated north of Adams County which is the location of the MONUMENT which was erected in ESTABLISHED and categorised as a contributing property . Franklin County can be found to the west and Carroll County Maryland is to the southeast .
 BUILDING , LOCATION is 120770 . 0 square metres , completed in COMPLETIONDATE , and has FLOORCOUNT floors .
 AUTHOR was influenced by Robert A Heinlein and wrote WRITTENWORK which was preceded by 1634 The Ram Rebellion .
 The Javenese people are an ethnic group in COUNTRY , where FOOD is from . it uses fried chicken as an igredient and as well being found nationwide in COUNTRY , it can also be found in Malaysia and Singapore .
-NASA selected ASTRONAUT in WAS SELECTED BY NASA .
+NASA selected ASTRONAUT in WAS_SELECTED_BY_NASA .
 WRITTENWORK was written in COUNTRY and published by PARENTCOMPANY ( parent company PUBLISHER ) .
 ASTRONAUT went to ALMAMATER and died in DEATHPLACE on 1966 - 02 - 08 .
 CITY is in the COUNTRY .
@@ -4821,7 +4821,7 @@ LEADERNAME is a leader in the U . S .
 AIRPORT is operated by the OPERATINGORGANISATION and uses ATTACKAIRCRAFT attack air crafts . Among the air crafts of the USAF can be found the Boeing C - 17 Globemaster and the McDonnell douglas F - 15 Eagle . The BATTLES is one of the battles of the OPERATINGORGANISATION .
 Afonsa Pena International Airport in San Jose Dos Pinhais serves the city of CITYSERVED . Sao Jose is part of Parana and in the south region of Brazil . The airport is operated by OPERATINGORGANISATION .
 The leader of the United States was LEADERNAME .
-The BUILDING , constructed in YEAROFCONSTRUCTION in Asser Levy Place on East 23rd Street , were added to the National Register of historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES .
+The BUILDING , constructed in YEAROFCONSTRUCTION in Asser Levy Place on East 23rd Street , were added to the National Register of historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 ASTRONAUT was born in BIRTHPLACE , and graduated from ALMAMATER , which is Affiliated with AFFILIATIONS .
 ' WRITTENWORK ' was followed by ' FOLLOWEDBY ' which was authored by AUTHOR .
 The city of CITYSERVED in COUNTRY is served by Allama Iqbal International airport .
@@ -4850,7 +4850,7 @@ FOOD is founded in Manuel Valls led COUNTRY or Chinese speaking , REGION ( led b
 US national ASTRONAUT , who was born on 23rd July 1927 in BIRTHPLACE has died in St Louis . During his life he was a student at the ALMAMATER .
 ASTRONAUT served as the TITLE .
 The main ingredients of binignit are sweet potatotes , it is a dessert same as sandesh .
-Karnataka has to its northeast HAS TO ITS NORTHEAST .
+Karnataka has to its northeast HAS_TO_ITS_NORTHEAST .
 The OPERATINGORGANISATION is the operating organisation for Al Asad airbase which is located in LOCATION , the airbase has a runway length of RUNWAYLENGTH .
 FOOD is a popular dish in COUNTRY .
 The binignit dish can be found in the COUNTRY where one of the languages used is LANGUAGE .
@@ -4862,7 +4862,7 @@ CAPITAL is the capital of Italy .
 AIRPORT , serving CITYSERVED U . S . , is located in the LOCATION . The airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level and the runway is 1533 m long .
 Dane Whitman , a . k . a . Black Knight , was created by CREATOR ( American ) in the comics genre .
 Aplena County Regional Airport , which is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level is owned by OWNER .
-ASTRONAUT was an American astronaut selected by OPERATOR in WAS SELECTED BY NASA as a crew member for the WAS A CREW MEMBER OF mission . WAS A CREW MEMBER OF was commanded by COMMANDER , and BACKUP PILOT was a backup pilot .
+ASTRONAUT was an American astronaut selected by OPERATOR in WAS_SELECTED_BY_NASA as a crew member for the WAS_A_CREW_MEMBER_OF mission . WAS_A_CREW_MEMBER_OF was commanded by COMMANDER , and BACKUP_PILOT was a backup pilot .
 Lars Lokke Rasmussen is Denmark ' s leader .
 CITYSERVED Airport Schuphol serves CITYSERVED and has a runway length of RUNWAYLENGTH .
 The operating organization for AIRPORT is called OPERATINGORGANISATION who have their headquarters in HEADQUARTER .
@@ -4896,8 +4896,8 @@ FOOD is a dish served for dessert that can be varied by using cottage cheese .
 LEADERNAME is a leader in BIRTHPLACE where the architect ARCHITECT who designed BUILDING was born .
 LEADERNAME is the leader of COUNTRY where the Acehnese and Malays are ethnic groups . FOOD is a dish from REGION in COUNTRY .
 The WRITTENWORK has a OCLC number of OCLC_NUMBER .
-ASTRONAUT was born on 18 November 1923 in BIRTHPLACE . He was a test pilot before being selected by NASA in WAS SELECTED BY NASA . He died in DEATHPLACE .
-Built in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 1980 / 04 / 23 ( reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES ) , the BUILDING can be found in LOCATION .
+ASTRONAUT was born on 18 November 1923 in BIRTHPLACE . He was a test pilot before being selected by NASA in WAS_SELECTED_BY_NASA . He died in DEATHPLACE .
+Built in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 1980 / 04 / 23 ( reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES ) , the BUILDING can be found in LOCATION .
 The College of William and Mary is the owner of the BUILDING in LOCATION . The current tenant is the US based CURRENTTENANTS .
 SPORTSTEAM are managed by MANAGER who plays for A . S . Roma and was attached to the Real Madrid CF club .
 Sandesh is a dessert , as is binignit . INGREDIENT , which belongs to the ORDER order of plants , is one of the ingredients of binignit .
@@ -4906,7 +4906,7 @@ SPORTSTEAM is located in LOCATION , which leader is Prokopis Pavloopoulos and th
 Apollo 12 is operated by OPERATOR .
 The country FOOD comes from is the COUNTRY . FOOD is a main course and it includes bacon as its main ingredient and sausage as another ingredient .
 AC Chievo Verona , full name " FULLNAME " , play out of GROUND . They competed in the SEASON Serie A season and have NUMBEROFMEMBERS members .
-After being recruited by NASA in WAS SELECTED BY NASA , ASTRONAUT spent 100305 minutes in space .
+After being recruited by NASA in WAS_SELECTED_BY_NASA , ASTRONAUT spent 100305 minutes in space .
 BUILDING is located in LOCATION .
 BUILDING was designed by ARCHITECT and was completed in COMPLETIONDATE .
 The UNIVERSITY was established in ESTABLISHED . Its dean is DEAN . It has NUMBEROFSTUDENTS students and ACADEMICSTAFFSIZE academic staff .
@@ -4924,7 +4924,7 @@ The UNIVERSITY is located in CITY , LOCATION . It was established in ESTABLISHED
 AE Dimitra Efxeinoupolis played in the SEASON season and has NUMBEROFMEMBERS members . Their ground is located in the town of GROUND .
 UNIVERSITY is located in CITY , COUNTRY and its rector is RECTOR .
 The WRITTENWORK is published bi - monthly and abbreviated to ABBREVIATION It comes under the academic discipline of Math .
-Alan Been was born on March 15 , 1932 in Wheeler Texas . He graduated from UT Austin in 1955 with a B . S and became a Test Pilot . He was part of the WAS A CREW MEMBER OF crew for OPERATOR and is now retired .
+Alan Been was born on March 15 , 1932 in Wheeler Texas . He graduated from UT Austin in 1955 with a B . S and became a Test Pilot . He was part of the WAS_A_CREW_MEMBER_OF crew for OPERATOR and is now retired .
 A severed Wasp was written in English ( language of SPOKENIN ) and originates from the COUNTRY , where one ethnic group is Asian American and the capital city is Washington D . C .
 Previous Greece Superleague champions AEK LOCATION FC play their home games at The Olympic Stadium , LOCATION .
 SPORTSTEAM has NUMBEROFMEMBERS members .
@@ -4946,8 +4946,8 @@ MANAGER has been manager of AC Lumezzane .
 The MONUMENT is located in Gettysburg , LOCATION . It is categorised as a contributing property and it was established in ESTABLISHED . Carrol County , Maryland is southeast of Adams County .
 WRITTENWORK was published in print and paperback . Its ISBN number is ISBN_NUMBER and its OCLC number is OCLC_NUMBER .
 ASTRONAUT , a US national whose birth place is BIRTHPLACE , served as a test pilot .
-The religion of COUNTRY is the Church of COUNTRY and the country is lead by Lars Lokke Rasummsen . The city of CITY which is located southwest of HAS TO ITS NORTHEAST is the location of the UNIVERSITY . The School is affiliated with the AFFILIATION headquartered in HEADQUARTERS .
-ASTRONAUT who was born on October 17th 1933 in Hong Kong graduated in 1962 with a M . S . ASTRONAUT went on to become a member of the WAS A CREW MEMBER OF crew and retired in 1969 .
+The religion of COUNTRY is the Church of COUNTRY and the country is lead by Lars Lokke Rasummsen . The city of CITY which is located southwest of HAS_TO_ITS_NORTHEAST is the location of the UNIVERSITY . The School is affiliated with the AFFILIATION headquartered in HEADQUARTERS .
+ASTRONAUT who was born on October 17th 1933 in Hong Kong graduated in 1962 with a M . S . ASTRONAUT went on to become a member of the WAS_A_CREW_MEMBER_OF crew and retired in 1969 .
 AIRPORT , which is operated by the OPERATINGORGANISATION , is located in LOCATION which is part of Awadh , ISPARTOF .
 AIRPORT is run by OPERATINGORGANISATION and is 25 metres above sea level . The runway length is 2776 and it is called RUNWAYNAME .
 Chicago is part of ISPARTOF .
@@ -4967,7 +4967,7 @@ WRITTENWORK is from the COUNTRY and is written in the English Language . ETHNICG
 BUILDING is in LOCATION , Cook County Illinois . The leader of LOCATION is LEADERNAME .
 The UNIVERSITY is located in CITY , COUNTRY . COUNTRY ' s capital is CAPITAL ; its leader is LEADERNAME and its ethnic group is the Germans of COUNTRY .
 Guadalajara is in the country of COUNTRY .
-ASTRONAUT was born on March 15th , 1932 . He served as a crew member on OPERATOR ' s WAS A CREW MEMBER OF . He is now retired . The commander of WAS A CREW MEMBER OF was COMMANDER .
+ASTRONAUT was born on March 15th , 1932 . He served as a crew member on OPERATOR ' s WAS_A_CREW_MEMBER_OF . He is now retired . The commander of WAS_A_CREW_MEMBER_OF was COMMANDER .
 The city of CITY in LOCATION , COUNTRY is the location of the UNIVERSITY which was established in the year ESTABLISHED and has NUMBEROFSTUDENTS students and an academic staff of ACADEMICSTAFFSIZE .
 BUILDING ' s address is Lalbhai Dalpathbhai Campus , near CEPT University , opp . LOCATION University , University Road , LOCATION , COUNTRY .
 Arros negre is from COUNTRY and it ' s leader is Felipe VI .
@@ -4985,7 +4985,7 @@ DISHVARIATION and FOOD are both served as desserts . The latter dish comes from 
 From the REGION region in COUNTRY comes the traditional dish called Arros Negre .
 LEADERNAME leads COUNTRY , which is famous for it ' s FOOD . CAPITAL is the capital of COUNTRY and it ' s spoken language is Italian .
 MANAGER , manager of AFC Fylde , played for Stockport County F . C .
-American ASTRONAUT was born in BIRTHPLACE on January 20th , 1930 . During his lifetime he won AWARDS awards , was picked by NASA in WAS SELECTED BY NASA to crew WAS A CREW MEMBER OF and in WAS SELECTED BY NASA graduated from MIT with a Doctorate in Science .
+American ASTRONAUT was born in BIRTHPLACE on January 20th , 1930 . During his lifetime he won AWARDS awards , was picked by NASA in WAS_SELECTED_BY_NASA to crew WAS_A_CREW_MEMBER_OF and in WAS_SELECTED_BY_NASA graduated from MIT with a Doctorate in Science .
 LOCATIONIDENTIFIER is the location identifier of AIRPORT , which is located 973 metres above sea level .
 Covington is the county seat of Fountain County , Indiana .
 BUILDING is owned by OWNER and is located in LOCATION . The leader of the government in LOCATION is the LEADERTITLE .
@@ -5000,7 +5000,7 @@ The runway length of AIRPORT is RUNWAYLENGTH .
 The MONUMENT is located on the DISTRICT in LOCATION , which is also its nearest city .
 The UTC offset for CITY is UTCOFFSET .
 The editor of WRITTENWORK , abbreviated to AIP Adv , is EDITOR who lives in the U . S . and his alma mater is ALMAMATER .
-Built in YEAROFCONSTRUCTION and located in LOCATION , the BUILDING have the Romanesque Revival style of architecture . On ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES It was added to the National Register of Historic Places under the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+Built in YEAROFCONSTRUCTION and located in LOCATION , the BUILDING have the Romanesque Revival style of architecture . On ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES It was added to the National Register of Historic Places under the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 CITYSERVED is part of the state of Parana in ISPARTOF . It is lead by the LEADERNAME and served by Alfonso Pena International Airport .
 WRITTENWORK was published by PUBLISHER which is based in the COUNTRY . In addition , ETHNICGROUP are an ethnic group in the COUNTRY .
 FOOD is a food found in COUNTRY and ETHNICGROUP is one of the ethnic groups .
@@ -5019,7 +5019,7 @@ COUNTRY is the country FOOD comes from . The country ' s ethnic groups include E
 The BUILDING are located in ISPARTOF City , ISPARTOF , COUNTRY .
 The MONUMENT is found in the COUNTRY .
 Jorge Humberto Rodr í guez club is Alianza F . C .
-The HAS TO ITS WEST is to the west and HAS TO ITS NORTHEAST is northeast of the state of STATE where the UNIVERSITY is located . The Institute is affiliated to the AFFILIATION in the city of CITY .
+The HAS_TO_ITS_WEST is to the west and HAS_TO_ITS_NORTHEAST is northeast of the state of STATE where the UNIVERSITY is located . The Institute is affiliated to the AFFILIATION in the city of CITY .
 CITY has an area code of AREACODE .
 The MONUMENT , which is made from red granite and white marble , is found in LOCATION is known to Turks as Turk Sehitleri Aniti and is dedicated to the DEDICATEDTO .
 The runway length of AIRPORT is RUNWAYLENGTH .
@@ -5062,11 +5062,11 @@ The WRITTENWORK . abbreviated to Am . J . Math , is published by the PUBLISHER i
 BUILDING is in STATE .
 GROUND is the location of the home ground for AFC Fylde who have NUMBEROFMEMBERS members . . Their full name is " FULLNAME " and they played in SEASON .
 Arem arem contains banana leaf and originates from COUNTRY .
-Allan Bean , was one of the Americans hired by NASA in WAS SELECTED BY NASA to crew WAS A CREW MEMBER OF .
+Allan Bean , was one of the Americans hired by NASA in WAS_SELECTED_BY_NASA to crew WAS_A_CREW_MEMBER_OF .
 The BUILDING is 121 . 92 metres and has FLOORCOUNT floors .
 FOOD is made with MAININGREDIENTS . It is found all over Indonesia and more specific to Java . DISHVARIATION is a variation of that dish .
 The ground of SPORTSTEAM is located in GROUND , where the leader is Piero Grasso and Italian is the spoken language .
-ASTRONAUT was born on July 23 , 1927 in the US . He was a test pilot and began working for NASA in WAS SELECTED BY NASA . He died on Feb 28 , 1966 in DEATHPLACE .
+ASTRONAUT was born on July 23 , 1927 in the US . He was a test pilot and began working for NASA in WAS_SELECTED_BY_NASA . He died on Feb 28 , 1966 in DEATHPLACE .
 FOOD is from the Paisa region , COUNTRY , and one of the ingredients is lemon .
 AIRPORT is located in LOCATION and is operated by OPERATINGORGANISATION . The airport has a runway length of RUNWAYLENGTH and is situated 911 metres above sea level .
 Constructed in YEAROFCONSTRUCTION , the BUILDING are located at LOCATION .
@@ -5080,21 +5080,21 @@ WRITTENWORK , available in hardcover , has NUMBEROFPAGES pages . The ISBN # is :
 The WRITTENWORK ( abbr . Acta Palaeontol . Pol ) is published by the PUBLISHER . It ' s ISSN and LCCN numbers are ISSN_NUMBER and LCCN_NUMBER , respectively .
 UNIVERSITY is located in COUNTRY whose leader is Klaus Johannis .
 AIRPORT serves Laderney . Its runway has length of 722 . 0 and is made of asphalt .
-The BUILDING is located on Asilomar Blvd , Pacific Grove , California , was constructed in YEAROFCONSTRUCTION , added to the National Register of Historic Places on 27 February 1987 where is has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The BUILDING is located on Asilomar Blvd , Pacific Grove , California , was constructed in YEAROFCONSTRUCTION , added to the National Register of Historic Places on 27 February 1987 where is has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 BUILDING is styled as Tudor Revival and found in LOCATION .
 The company Populous were the architects who designed the BUILDING .
 AS Roma , whose ground is the GROUND play in the LEAGUE League of which Juventus FC are former champions .
 The MONUMENT is in Adams County , Gettysburg municipality , Pennsylvania in the COUNTRY . The Monument is categorized as a Contributing Property and was established in ESTABLISHED .
 SPORTSTEAM ' s ground is St . Vincent - St . Mary High School located in CITY , COUNTRY .
 Ballistic is a fictional comic superhero who is sometimes known as ALTERNATIVENAME .
-ASTRONAUT graduated from the ALMAMATER who are competing in the COMPETE IN . ASTRONAUT died in St . Louis on February 28 , 1966 .
+ASTRONAUT graduated from the ALMAMATER who are competing in the COMPETE_IN . ASTRONAUT died in St . Louis on February 28 , 1966 .
 Christian Panucci is in the CLUB club .
 ASTRONAUT , who was born in BIRTHPLACE and served as a test pilot , is deceased .
 The comic book character Blockbuster was created by CREATOR .
 AIRPORT is operated by the OPERATINGORGANISATION . That airbase has ATTACKAIRCRAFT missiles , TRANSPORTAIRCRAFT transport aircrafts and the AIRCRAFTFIGHTER aircraft . The USAF fought in BATTLES battle .
 Abilene Regional Airportis ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a 1st runway made of asphalt .
 ARCHITECT is the architect of BUILDING which is in LOCATION .
-ASTRONAUT was hired by NASA in WAS SELECTED BY NASA , was a crew member on WAS A CREW MEMBER OF and is retired .
+ASTRONAUT was hired by NASA in WAS_SELECTED_BY_NASA , was a crew member on WAS_A_CREW_MEMBER_OF and is retired .
 A . S . Roma of Rome Italy , has NUMBEROFMEMBERS members and plays in LEAGUE where Juventus F . C . are champions .
 FOOD is a dish from COUNTRY which is lead by LEADERNAME and uses the Standard chinese language .
 BUILDING is located in LOCATION , which is led by the parliament of the United Kingdom .
@@ -5133,7 +5133,7 @@ The inauguration date of the Atat ü rk Monument in Izmir is the 27th of July , 
 BUILDING is located in the LOCATION and has a floor count of FLOORCOUNT .
 COUNTRY , led by Narendra Modi and LEADERNAME , is the origin of FOOD . COUNTRY ' s currency is the rupee .
 WRITTENWORK ( written in English ) is from the COUNTRY , where ETHNICGROUP are an ethnic group .
-BUILDING was constructed in YEAROFCONSTRUCTION and is located on Asilomar Blvd , Pacific Grove , California . It was added to the National Register of Historic Places on February the 27nd 1987 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES . The Grounds have the architectural style of ARCHITECTURALSTYLE .
+BUILDING was constructed in YEAROFCONSTRUCTION and is located on Asilomar Blvd , Pacific Grove , California . It was added to the National Register of Historic Places on February the 27nd 1987 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES . The Grounds have the architectural style of ARCHITECTURALSTYLE .
 FOOD , made from gram flour , originates from COUNTRY .
 FOOD has almond as one of its ingredients , it originates from the REGION region of COUNTRY . Felipe VI of COUNTRY is the leader of the country .
 The SPORTSTEAM club is located in LOCATION where they speak Greek . The leader of LOCATION is LEADER .
@@ -5149,8 +5149,8 @@ ASTRONAUT ( born in Wheeler Texas ) served as a test pilot .
 AIRPORT , is in LOCATION which is part of ISPARTOF . The OPERATINGORGANISATION operates the Airport and their transport aircraft is the Boeing C - 17 Globemaster lll .
 ASTRONAUT graduated from UT Austin in 1955 with a Bachelor of Science degree .
 AS Roma ' s ground is located in GROUND and they have NUMBEROFMEMBERS members . They play in LEAGUE which has Juventus FC as former champions .
-In 1957 ASTRONAUT graduated from NWC with an M . A . and later became an WAS A CREW MEMBER OF crew member as chosen by OPERATOR before retiring on August 1st , 1974 .
-ASTRONAUT was born on July 23rd , 1927 in BIRTHPLACE , Texas . After graduating from the ALMAMATER , he was selected by NASA in WAS SELECTED BY NASA . He died in DEATHPLACE .
+In 1957 ASTRONAUT graduated from NWC with an M . A . and later became an WAS_A_CREW_MEMBER_OF crew member as chosen by OPERATOR before retiring on August 1st , 1974 .
+ASTRONAUT was born on July 23rd , 1927 in BIRTHPLACE , Texas . After graduating from the ALMAMATER , he was selected by NASA in WAS_SELECTED_BY_NASA . He died in DEATHPLACE .
 FOOD comes from the COUNTRY . The US president is LEADERNAME , and the capital is in CAPITAL English is the language of the US , and white Americans are a major ethnic group .
 LEADER leads the New Mexico House of representatives .
 The UNIVERSITY ' s campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakishnan Road , Hessarghatta Main Road , CITY , COUNTRY , 560090 . It was established inESTABLISHED and its president is PRESIDENT . It has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students and it is affiliated with the AFFILIATION .
@@ -5191,7 +5191,7 @@ WRITTENWORK , written by AUTHOR , has a OCLC number of OCLC_NUMBER and ISBN numb
 WRITTENWORK originates from the COUNTRY , where English is spoken ( as in SPOKENIN ) . The capital city of the COUNTRY is Washington D . C . , and ETHNICGROUP are one of the nation ' s ethnic groups .
 ASTRONAUT was born in BIRTHPLACE .
 ASTRONAUT ' s birth name was Edwin Eugene Aldrin Jr .
-ASTRONAUT was a US citizen who was born in BIRTHPLACE , He graduated from UT Austin in 1955 with a B . S . degree . He was a test pilot and he served as a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT was a US citizen who was born in BIRTHPLACE , He graduated from UT Austin in 1955 with a B . S . degree . He was a test pilot and he served as a crew member of WAS_A_CREW_MEMBER_OF .
 The COUNTRY Civil Aviation Authority is the operating organisation of the AIRPORT in Punjab , COUNTRY where LEADERNAME is the leader . The airport serves the city of CITYSERVED in COUNTRY .
 AD Isidro Metapan has NUMBEROFMEMBERS members .
 The current tenant of AC Hotel Bella Sky in CAPITAL , LOCATION is the TENANT Hotel . TENANT was founded in Washington DC . CAPITAL is the Danish capital and the country is lead by Margrethe II .
@@ -5212,10 +5212,10 @@ FOOD comes from COUNTRY but is made nationwide , and can also be found in Malays
 ARCHITECT was the architect of the BUILDING , which is located at the LOCATION .
 The UNIVERSITY in COUNTRY was established in ESTABLISHED and is affiliated with the AFFILIATION in HEADQUARTERS .
 A FOOD is a dish from the US where LEADERNAME is a political leader and the capital city is Washington DC .
-Edwin E . Aldrin Jr . ( more commonly known as Buzz ) was born on January 20th , 1930 . He graduated in 1963 from MIT with a Sc . D . befor becoming a fighter pilot and later a crew member of WAS A CREW MEMBER OF .
-HAS TO ITS NORTH is found north of Adams County which is the location of the MONUMENT established in ESTABLISHED in Gettysburg . The monument falls under the category of contributing property .
+Edwin E . Aldrin Jr . ( more commonly known as Buzz ) was born on January 20th , 1930 . He graduated in 1963 from MIT with a Sc . D . befor becoming a fighter pilot and later a crew member of WAS_A_CREW_MEMBER_OF .
+HAS_TO_ITS_NORTH is found north of Adams County which is the location of the MONUMENT established in ESTABLISHED in Gettysburg . The monument falls under the category of contributing property .
 The MONUMENT , USA , is categorised as a contributing property and was established in ESTABLISHED .
-ASTRONAUT was born in BIRTHPLACE . He was a test pilot and was a crew member aboard the OPERATOR operated WAS A CREW MEMBER OF , and retired on 1 August 1974 .
+ASTRONAUT was born in BIRTHPLACE . He was a test pilot and was a crew member aboard the OPERATOR operated WAS_A_CREW_MEMBER_OF , and retired on 1 August 1974 .
 Aarhus airport services the city of CITYSERVED and operated by Aarhus Lufthaven A / S . The airport is 25 meters above sea level and the RUNWAYNAME runway is RUNWAYLENGTH in length .
 STARRING , born in BIRTHPLACE , stars in COMICSCHARACTER .
 OPERATINGORGANISATION is the operation organization for AIRPORT , where the runway is named RUNWAYNAME , with a length of RUNWAYLENGTH .
@@ -5236,7 +5236,7 @@ COMICSCHARACTER starred Tim Brooke Taylor and was broadcast for the last time by
 WRITTENWORK is from the COUNTRY where LEADERNAME is the leader and ETHNICGROUP are one of the ethnic groups .
 MANAGER is attached to the club CLUB , and has also managed AC Chievo Verona .
 CREATOR is the creator of the comic character , Asterix , which is also known as ALTERNATIVENAME .
-ASTRONAUT , BACKUP PILOT , and COMMANDER all worked for OPERATOR , and they were all members of the WAS A CREW MEMBER OF team , which is operated by OPERATOR . William , who was born in BIRTHPLACE , was a test pilot . William retired on September 1 , 1969 . BACKUP PILOT was the backup pilot . William COMMANDER was the WAS A CREW MEMBER OF commander .
+ASTRONAUT , BACKUP_PILOT , and COMMANDER all worked for OPERATOR , and they were all members of the WAS_A_CREW_MEMBER_OF team , which is operated by OPERATOR . William , who was born in BIRTHPLACE , was a test pilot . William retired on September 1 , 1969 . BACKUP_PILOT was the backup pilot . William COMMANDER was the WAS_A_CREW_MEMBER_OF commander .
 A variation of bakewell pudding is bakewell tart which is made with shortcrust pastry and originates from the REGION region .
 LEADERNAME was the president of the COUNTRY . English is the main language there , but was originated in SPOKENIN . WRITTENWORK is a book from the US .
 MANAGER plays for CLUB . He also plays and manages SPORTSTEAM which is owned by OWNER .
@@ -5275,7 +5275,7 @@ A T Charlie Johnson lives in the RESIDENCE and his alma mater is ALMAMATER . He 
 BUILDING was designed by the architect , ARCHITECT who was born in BIRTHPLACE which is lead by The Labour Party .
 AIP ADv . is the abbreviation of WRITTENWORK , whose editor is EDITOR . His almaMater is ALMAMATER .
 The UNIVERSITY is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY , STATE , COUNTRY , 560090 . Its director is Dr G . P . Prabhukumar and it has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students . The Institute is affiliated to the AFFILIATION .
-The UNIVERSITY is located in COUNTRY , southwest of HAS TO ITS NORTHEAST . The country ' s leader is LEADERNAME .
+The UNIVERSITY is located in COUNTRY , southwest of HAS_TO_ITS_NORTHEAST . The country ' s leader is LEADERNAME .
 UNIVERSITY is located in STATE , COUNTRY . It was established in ESTABLISHED . It has Mahe , COUNTRY to its northwest .
 PUBLISHER is in CITY and is affiliated with the AFFILIATION . Their nickname is NICKNAME and they publish the WRITTENWORK .
 The UNIVERSITY in COUNTRY was established in ESTABLISHED and is affiliated with the AFFILIATION and has NUMBEROFSTUDENTS students .
@@ -5288,14 +5288,14 @@ BIRTHPLACE is the birthplace of Brandon Sanderson .
 INGREDIENT is an ingredient of FOOD which is a food found in REGION , in COUNTRY .
 Taylor County , Texas is in the US .
 The leader of Denmark is LEADERNAME .
-ASTRONAUT was hired by NASA in WAS SELECTED BY NASA , was a member of the WAS A CREW MEMBER OF crew and is retired .
+ASTRONAUT was hired by NASA in WAS_SELECTED_BY_NASA , was a member of the WAS_A_CREW_MEMBER_OF crew and is retired .
 The book WRITTENWORK is written in English and was followed by FOLLOWEDBY .
 The building at BUILDING was started to be erected in BUILDINGSTARTDATE .
 Angola International airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 Tamil is the language spoken in COUNTRY , whose capital is CAPITAL , Also in COUNTRY is Adisham hall which is located in LOCATION .
 CITY has a total area of 131 . 6 square kilometres .
 LEADERNAME is the leader of LOCATION which is part of Awadh and ISPARTOF . It is the location of AIRPORT at ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
-NATIONALITY test pilot ASTRONAUT was born in BIRTHPLACE . In 1955 , he graduated from UT Austin with a B . S . Chosen by NASA in WAS SELECTED BY NASA , he managed a total space time of 100305 . 0 minutes .
+NATIONALITY test pilot ASTRONAUT was born in BIRTHPLACE . In 1955 , he graduated from UT Austin with a B . S . Chosen by NASA in WAS_SELECTED_BY_NASA , he managed a total space time of 100305 . 0 minutes .
 FOOD soup includes : noodles , pork organs , vegetables , chicken , shrimp and beef .
 FOOD contains water and is from REGION .
 The footballer Stuart Parker is attached to Chesterfield football club .
@@ -5309,18 +5309,18 @@ WRITTENWORK was written in the COUNTRY where the main language is English ( orig
 The comic character Asterix is sometimes called " ALTERNATIVENAME " .
 INGREDIENT can be added to a bacon sandwich and its nicknames include bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece n bacon , bacon cob , bacon barm and bacon muffin .
 MANAGER manages the SPORTSTEAM but also plays for Torino F . C . and CLUB .
-The University of Texas at Austin is competing in the COMPETE IN .
+The University of Texas at Austin is competing in the COMPETE_IN .
 The REGION can be found in COUNTRY and is the regions where FOOD comes from . The avocado is a member of the FAMILY family and it is one of the main ingredients in Bandeja Paisa .
 ASTRONAUT was born on Mar 15 , 1932 , in BIRTHPLACE .
 OPERATINGORGANISATION operates AIRPORT , which is 25 metres above sea level , has a runway length of RUNWAYLENGTH and a runway name of RUNWAYNAME .
-BUILDING were constructed in YEAROFCONSTRUCTION in the Romanesque Revival style of architecture . They are located in LOCATION and were added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES with the reference number of REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING were constructed in YEAROFCONSTRUCTION in the Romanesque Revival style of architecture . They are located in LOCATION and were added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES with the reference number of REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 BUILDING ( located in LOCATION ) is in the architectural style " ARCHITECTURALSTYLE " , and was designed by BIRTHPLACE born architect , ARCHITECT .
 1634 : The Bavarian Crisis which was preceded by WRITTENWORK is written by AUTHOR .
 Contra Costa County is part of the San Francisco Bay area , in California .
 CITY covers 344 . 9 square kilometres .
 The city of CITY in COUNTRY , which is lead by Federal Chancellor LEADERNAME , is the location of the UNIVERSITY which was established in ESTABLISHED . The national anthem of the country is the ANTHEM .
 The dessert FOOD comes from REGION , COUNTRY . It includes banana and sago .
-ASTRONAUT was born in BIRTHPLACE on the 23rd July 1927 . He graduated from the ALMAMATER . He was a US national who was chosen by NASA in WAS SELECTED BY NASA . He died in St . Louis on DEATHDATE .
+ASTRONAUT was born in BIRTHPLACE on the 23rd July 1927 . He graduated from the ALMAMATER . He was a US national who was chosen by NASA in WAS_SELECTED_BY_NASA . He died in St . Louis on DEATHDATE .
 Greenville is in Grand Chute Wisconsin and is the location of AIRPORT . The airport serves the city of Appleton which is part of ISPARTOF .
 INGREDIENT is an ingredient used in the preparation of FOOD which is a Mexican food dish .
 The MONUMENT was established in ESTABLISHED .
@@ -5348,11 +5348,11 @@ FOOD comes from the region of REGION .
 Paracuellos de Jarama is in COUNTRY .
 INGREDIENT can be an ingredient of FOOD which comes from the COUNTRY .
 The manager of 1 . FC Koln is Peter Stoger who plays for the Austria national football team and is a member of the CLUB soccer club .
-The MONUMENT which was erected in ESTABLISHED and is categorised as a contributing property is found in the LOCATION , COUNTRY . To the north of Adams County lies Cumberland County also of Pennsylvania and to the southeast of Adams County lies HAS TO ITS SOUTHEAST .
+The MONUMENT which was erected in ESTABLISHED and is categorised as a contributing property is found in the LOCATION , COUNTRY . To the north of Adams County lies Cumberland County also of Pennsylvania and to the southeast of Adams County lies HAS_TO_ITS_SOUTHEAST .
 BUILDING is located in LOCATION , ISPARTOF in the COUNTRY .
 The OCLC number of the currently in print book " WRITTENWORK " is OCLC_NUMBER .
 AIRPORT is located in LOCATION which is part of the Central Denmark region .
-HAS TO ITS NORTHEAST is to the northeast of Aarhus .
+HAS_TO_ITS_NORTHEAST is to the northeast of Aarhus .
 The people of Greece are called DEMONYM .
 The area code in Atlantic City ( New Jersey ) is AREACODE .
 The CURRENTTENANTS are the current tenants of Alan B Miller Hall , designed by Robert A M Stern .
@@ -5386,7 +5386,7 @@ AFC GROUND ground is located in GROUND and they play in the English Football Lea
 The UNIVERSITY was established in ESTABLISHED .
 The book WRITTENWORK is followed by the book FOLLOWEDBY written by AUTHOR .
 UNIVERSITY is situated in the state of STATE , COUNTRY .
-ASTRONAUT was born in BIRTHPLACE and graduated from NWC with an M . A . in 1957 . He worked as a test pilot and was part of WAS A CREW MEMBER OF which was run by OPERATOR . Shepard retired on Aug 1 , 1974 and later died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE and graduated from NWC with an M . A . in 1957 . He worked as a test pilot and was part of WAS_A_CREW_MEMBER_OF which was run by OPERATOR . Shepard retired on Aug 1 , 1974 and later died in DEATHPLACE .
 The currency of Singapore is the CURRENCY .
 AIRPORT of Abilene Texas has a runway named RUNWAYNAME with a 1 , 121 length and it is ELEVATIONABOVETHESEALEVEL_(IN_METRES) above sea level .
 UNIVERSITY is located in COUNTRY , the leader of which is the Prime Minister and COUNTRY has Germans as an ethnic group .
@@ -5400,14 +5400,14 @@ Plantain is one of the ingredients in the dish FOOD , which comes from the REGIO
 ASTRONAUT date of retirement was 1971 / 07 / 01 .
 The SPORTSTEAM club is located in LOCATION which currently has Alexis Tsipras and LEADER as leaders . Here the currency used is the CURRENCY and the main language is Greek .
 " The capital of LOCATION is CAPITAL and Lars Lokke Rasmussen is LOCATION ' s leader . AC Hotel Bella Sky is in CAPITAL , LOCATION and the tenant of the BUILDING is TENANT which was founded in FOUNDATIONPLACE " .
-ASTRONAUT , who died in DEATHPLACE , was selected by the NASA in WAS SELECTED BY NASA .
+ASTRONAUT , who died in DEATHPLACE , was selected by the NASA in WAS_SELECTED_BY_NASA .
 Alan B Miller Hall , located in LOCATION , was completed June 1st , 2009 and is owned by The College of William and Mary .
 The people of LOCATION speak the LANGUAGE and are called Texans . Their capital is Austin . AIRPORT is located in LOCATION .
 ASTRONAUT was an American who was born on November 18th , 1923 .
 CITY has area codes 505 and 575 .
 The Ataturk Monument ( located in Izmir , LOCATION ) is made of MATERIAL . It was inaugurated on the 27th July , 1932 and it was designed by DESIGNER . LOCATION ' s leader is President Ahmet Davutoglu .
 The Atat ü rk Monument is in LOCATION which largest city is LARGESTCITY .
-Astronaut ASTRONAUT , who was part of the WAS A CREW MEMBER OF crew , retired in DATEOFRETIREMENT .
+Astronaut ASTRONAUT , who was part of the WAS_A_CREW_MEMBER_OF crew , retired in DATEOFRETIREMENT .
 BUILDING is located in the Eastern Province , COUNTRY , where LEADERNAME is the leader of the governing body , the GOVERNINGBODY .
 The BUILDING is where the CURRENTTENANTS is currently located and it ' s floor area covers FLOORAREA .
 PUBLISHER , in CITY , is the publisher of WRITTENWORK and is affiliated with the Association of Public and Land grant Universities .
@@ -5417,7 +5417,7 @@ BUILDING is situated in LOCATION , COUNTRY and is owned by the College of Willia
 INGREDIENT are an ingredient of DISHVARIATION ( also called FOOD ) and is popular in the REGION area .
 The leader of LOCATION is LEADERNAME , the capital city is CAPITAL and the legislature is the National Assembly . The city is the location of the CAPITAL Turkish Martyrs memorial designed by Huseyin Butuner and Hilmi Guner . It is dedicated to the soldiers of the Ottoman army killed in the Battle of CAPITAL and has the local name of Turk Sehitleri Aniti .
 The completion date of BUILDING is COMPLETIONDATE and was started in BUILDINGSTARTDATE and designed by ARCHITECT .
-Former NASA Astronaut ASTRONAUT has died in Saint Louis , The American was born in BIRTHPLACE and graduated from the University of Texas in Austin before being chosen by NASA in WAS SELECTED BY NASA .
+Former NASA Astronaut ASTRONAUT has died in Saint Louis , The American was born in BIRTHPLACE and graduated from the University of Texas in Austin before being chosen by NASA in WAS_SELECTED_BY_NASA .
 The BUILDING is located in Akita Prefecture , in Akita , COUNTRY , which has an ethnic group called Filipinos .
 Appleton International airport is located in Greenville , part of Ellington , Wisconsin , and serves the city of Appleton which is part of ISPARTOF .
 A key person at the BBC is Baron Hall of Birkenhead , Tony Hall .
@@ -5431,13 +5431,13 @@ AIRPORT is found in LOCATION and has a length of 3078 . 48m .
 CHAIRMAN is chairman of SPORTSTEAM .
 The runway name at AIRPORT is " RUNWAYNAME " .
 Leaders in COUNTRY are Malatu Teshome and LEADERNAME . BUILDING is in LOCATION , COUNTRY and the language spoken there is LANGUAGE .
-Archarya Institute of Technology is located in LOCATION , CITY . It is affiliated to the AFFILIATION and it was given the " Technical Campus " status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY .
+Archarya Institute of Technology is located in LOCATION , CITY . It is affiliated to the AFFILIATION and it was given the " Technical Campus " status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY .
 WRITTENWORK written by AUTHOR was produced in print has an OCLC number of 45344811 and an ISBN number of ISBN_NUMBER .
-BUILDING which are designed based on the architecture style of " ARCHITECTURE " and have the reference number in the the National Register of Historic Places of REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES , were constructed in YEAROFCONSTRUCTION at LOCATION .
+BUILDING which are designed based on the architecture style of " ARCHITECTURE " and have the reference number in the the National Register of Historic Places of REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES , were constructed in YEAROFCONSTRUCTION at LOCATION .
 A . E . Dimitra Efxeinoupolis has NUMBEROFMEMBERS members .
 INGREDIENT is an ingredient of FOOD which is an Indonesian dish .
 The BUILDING is located in LOCATION ( COUNTRY ) which is also where the LOCATION stadium can be found . The leader of Ethiopa is LEADERNAME .
-ASTRONAUT who is originally from BIRTHPLACE joined NASA in WAS SELECTED BY NASA and became a member of the WAS A CREW MEMBER OF crew . He later died in DEATHPLACE .
+ASTRONAUT who is originally from BIRTHPLACE joined NASA in WAS_SELECTED_BY_NASA and became a member of the WAS_A_CREW_MEMBER_OF crew . He later died in DEATHPLACE .
 The currency in Iraq is the CURRENCY .
 The comic character Bolt was created by Gary Cohn and Dan Mishkin .
 FOOD is a dish served as a dessert and is found in COUNTRY , where Enrique Pena Nieto is the leader . A variation on dessert is cake .
@@ -5447,9 +5447,9 @@ AIRPORT runway name is RUNWAYNAME .
 The architect ARCHITECT was born in BIRTHPLACE ( now led by the Labour Party ) and designed BUILDING .
 The nickname of Agremiacao Sportiva Arapiraquense is " Alvinegro " .
 The ETHNICGROUP are an ethnic group of Sumatra .
-NATIONALITY citizen ASTRONAUT was a member of OPERATOR ' s WAS A CREW MEMBER OF crew with his backup pilot BACKUP PILOT .
+NATIONALITY citizen ASTRONAUT was a member of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew with his backup pilot BACKUP_PILOT .
 FOOD is found in the country of COUNTRY .
-BUILDING in LOCATION , reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places , was constructed in YEAROFCONSTRUCTION .
+BUILDING in LOCATION , reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places , was constructed in YEAROFCONSTRUCTION .
 The Port Authority of REGIONSERVED and New Jersey serves REGIONSERVED .
 Rolando Maran is in the CLUB club .
 The academic discipline of the WRITTENWORK , abbreviated to Am . J . Math , is ACADEMICDISCIPLINE . It was first published in FIRSTPUBLICATIONYEAR and it ' s ISSN number is ISSN_NUMBER .
@@ -5466,13 +5466,13 @@ AIRPORT , which is operated by OPERATINGORGANISATION is located in Sao Jose dos 
 Susana Diaz is the leader of Andalusia .
 INGREDIENT is an ingredient of FOOD which is a dish from COUNTRY .
 BUILDING is located in the country of COUNTRY which is lead by LEADERNAME .
-ASTRONAUT was born on January 20 1930 in BIRTHPLACE . He joined NASA in WAS SELECTED BY NASA as a fighter pilot and became a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT was born on January 20 1930 in BIRTHPLACE . He joined NASA in WAS_SELECTED_BY_NASA as a fighter pilot and became a member of the WAS_A_CREW_MEMBER_OF crew .
 INGREDIENT is an ingredient in FOOD .
 ASTRONAUT ' s birth name was BIRTHNAME .
 LEADERNAME is the leader in REGION where Arem arem comes from .
 BUILDING in the LOCATION has FLOORCOUNT floors , a total area of 111484 square metres and was completed in COMPLETIONDATE .
 WRITTENWORK is published in the COUNTRY by PUBLISHER . The capital city of the COUNTRY is CAPITAL .
-ASTRONAUT was once a crew member of WAS A CREW MEMBER OF and he retired on September 1st , 1969 .
+ASTRONAUT was once a crew member of WAS_A_CREW_MEMBER_OF and he retired on September 1st , 1969 .
 Alan B Miller Hall ( located in LOCATION ) is owned by The College of William and Mary and was completed on June 1st 2009 .
 SPORTSTEAM play in the LEAGUE league from COUNTRY and have the nickname Alvinegro . The league champions are CHAMPIONS .
 INGREDIENT belongs to the genus GENUS and is an ingredient of FOOD .
@@ -5493,7 +5493,7 @@ DEMONYM are from COUNTRY where LEADERNAME is a leader and they speak Italian . T
 WRITTENWORK is published in the COUNTRY by PUBLISHER . The national language of the COUNTRY is English . One of the ethnic groups in the U . S . are ETHNICGROUP and many people from this background reside there .
 CHAMPIONS were past champions in the Greece Superleague in which AEK GROUND FC also compete . AEK GROUND home ground is in GROUND and they have NUMBEROFMEMBERS members .
 ARCHITECT was the architect of the building located at BUILDING . The building was completed in COMPLETIONDATE .
-US national ASTRONAUT was a crew member of WAS A CREW MEMBER OF , which was operated by OPERATOR . Among other crew members were CREWMEMBERS and backup pilot BACKUP PILOT .
+US national ASTRONAUT was a crew member of WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR . Among other crew members were CREWMEMBERS and backup pilot BACKUP_PILOT .
 MANAGER manages the A . D . Isidro Metapan .
 The leader of Chicago is LEADERNAME .
 DISHVARIATION is served as a dessert , as is bionico , which contains the ingredient of sour cream .
@@ -5509,7 +5509,7 @@ ASTRONAUT ' s birth place was BIRTHPLACE .
 The College of William and Mary is the owner of the BUILDING , that is situated in LOCATION and built in the ARCHITECTURALSTYLE style .
 ASTRONAUT , who graduated from the ALMAMATER , died in St Louis on 28 February 1966 .
 The population of CITY is POPULATIONTOTAL .
-The NATIONALITY test pilot ASTRONAUT was born in BIRTHPLACE on the 17th of October , 1933 . In WAS SELECTED BY NASA , he was chosen by NASA and became a crew member on WAS A CREW MEMBER OF .
+The NATIONALITY test pilot ASTRONAUT was born in BIRTHPLACE on the 17th of October , 1933 . In WAS_SELECTED_BY_NASA , he was chosen by NASA and became a crew member on WAS_A_CREW_MEMBER_OF .
 AUTHOR was born in Burbank California and is the author of WRITTENWORK , PRECEDEDBY and Grantville Gazette II .
 SPORTSTEAM is managed by MANAGER who played football for Genoa C . F . C .
 " Abh . Math . Semin . Univ . Hambg " is the abbreviation for WRITTENWORK and is concerned with the academic discipline of Pure Mathematics .
@@ -5547,7 +5547,7 @@ St Vincent - St Mary High School , Akron , LOCATION , COUNTRY is the ground of S
 The UNIVERSITY is located in COUNTRY . The Prime Minister is named Klaus Johannis and the national anthem is ANTHEM .
 Dane Whitman , a . k . a . Black Knight , was created by CREATOR in the comics genre .
 INGREDIENT is an ingredient in a bacon sandwich which is considered a variation of A BLT , which is itself considered to be variation of a club sandwich .
-ASTRONAUT was a crew member aboard WAS A CREW MEMBER OF .
+ASTRONAUT was a crew member aboard WAS_A_CREW_MEMBER_OF .
 When in COUNTRY , you ' ll want to know Spanish is their spoken language and FOOD is a food found there .
 Elliot was born on the 23rd of July 1927 .
 Arem arem originates from the Island of Java and can be found nationwide all around COUNTRY . The country ' s president is Joko Widodo and the spoken language is Indonesian .
@@ -5557,7 +5557,7 @@ MANAGER , former manager of SPORTSTEAM , now owned by OWNER , plays for AFC Ajax
 A FOOD is a dessert from the COUNTRY which has Native Americans as one of its ethnic groups of the country .
 Southeast of Carrol County , Maryland is Adams County STATE . This county is the location of the MONUMENT erected in ESTABLISHED in Gettysburg and which is categorised as a contributing property .
 UNIVERSITY has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students .
-ASTRONAUT worked for OPERATOR and became a crew member of WAS A CREW MEMBER OF with BACKUP PILOT as his back up pilot .
+ASTRONAUT worked for OPERATOR and became a crew member of WAS_A_CREW_MEMBER_OF with BACKUP_PILOT as his back up pilot .
 The BUILDING are located in ISPARTOF , LOCATION , COUNTRY .
 FOOD can be found in COUNTRY which has the capital city of CAPITAL and uses the LANGUAGE .
 AFC Fylde has NUMBEROFMEMBERS members .
@@ -5582,7 +5582,7 @@ WRITTENWORK , which was written by AUTHOR has the OCLC number OCLC_NUMBER and th
 PUBLISHER in the COUNTRY published WRITTENWORK which was followed by FOLLOWEDBY .
 WRITTENWORK is written in the LANGUAGE which is spoken in SPOKENIN . WRITTENWORK was published by PUBLISHER , located in the COUNTRY , and was followed by FOLLOWEDBY .
 FOOD is popular in the Indonesian region and also in the neighbouring Southeast Asian countries and it ' s ingredients are ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables and fried shallots .
-ASTRONAUT was born in Wheeler Texas and is from the NATIONALITY . He earned a BSc from the University of Texas at Austin in 1955 . He was a test pilot and a member of WAS A CREW MEMBER OF , which is operated by OPERATOR .
+ASTRONAUT was born in Wheeler Texas and is from the NATIONALITY . He earned a BSc from the University of Texas at Austin in 1955 . He was a test pilot and a member of WAS_A_CREW_MEMBER_OF , which is operated by OPERATOR .
 The fried chicken dish ayam penyet is found nationwide in COUNTRY , where the ETHNICGROUP are an ethnic group . The dish is also popular in Malaysia and Singapore .
 English is spoken in both SPOKENIN and the COUNTRY . Additionally , A severed Wasp is from the COUNTRY .
 Afonso Pena International airport is located 911 metres above sea level and operated by OPERATINGORGANISATION located in Brasilia .
@@ -5591,7 +5591,7 @@ AIRPORT serves the city of CITYSERVED and is located in Punjab COUNTRY where the
 FOOD is from the country of COUNTRY .
 FOOD is a food containing noodles ; it is found in COUNTRY where LEADERNAME is the leader .
 The motto of the UNIVERSITY is " MOTTO " .
-STATUS ASTRONAUT , a US national , was born in BIRTHPLACE on 17 / 10 / 1933 . He was a OCCUPATION and joined NASA in WAS SELECTED BY NASA . ASTRONAUT retired on the 1st of September 1969 .
+STATUS ASTRONAUT , a US national , was born in BIRTHPLACE on 17 / 10 / 1933 . He was a OCCUPATION and joined NASA in WAS_SELECTED_BY_NASA . ASTRONAUT retired on the 1st of September 1969 .
 Abilene Regional airport has a runway length of RUNWAYLENGTH and is named RUNWAYNAME . The airport serves Abilene in Texas , has the ICAO location identifier of ICAO_LOCATION_IDENTIFIER and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 Popular in the UK , a bacon sandwich includes the ingredient bacon and can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
 FOOD is a dish that is popular nationwide in both Indonesia and COUNTRY . The leader of COUNTRY is LEADERNAME and the country uses the LANGUAGE .
@@ -5608,7 +5608,7 @@ Located in LOCATION , theAIRPORT has a runway length of RUNWAYLENGTH .
 The Flemish Department of Mobility and Public Works are the operators of AIRPORT , which has a runway length of RUNWAYLENGTH .
 The runway length of Al - Taqaddum air base is RUNWAYLENGTH and it serves the city of CITYSERVED .
 The floor area of the BUILDING is 3746 . 66 square metres .
-ASTRONAUT , born in BIRTHPLACE , was on the crew of WAS A CREW MEMBER OF but has since retired .
+ASTRONAUT , born in BIRTHPLACE , was on the crew of WAS_A_CREW_MEMBER_OF but has since retired .
 STARRING , who starred in COMICSCHARACTER , was born in BIRTHPLACE and has a daughter called CHILD .
 The people of Texas are known as Texans .
 Akron Summit ( full name : FULLNAME ) is managed by MANAGER . The club played in the SEASON season and their ground has a capacity of NUMBEROFMEMBERS members .
@@ -5620,7 +5620,7 @@ The main ingredient of binignit is coconut milk . Sweet potatoes from the order 
 UNIVERSITY in CITY , COUNTRY is in the state of STATE which has Mahe to its northwest . The school was established in ESTABLISHED and employs ACADEMICSTAFFSIZE people in its academic department .
 The length of the 3rd runway at AIRPORT is 3RD_RUNWAY_LENGTHFEET feet .
 The 14th New Jersey Volunteer Infantry monument which has been provided by the OWNINGORGANISATION is located within the DISTRICT in LOCATION . It was established on 11 July 1907 .
-American ASTRONAUT ( born on October 17 , 1933 in BIRTHPLACE ) joined NASA in WAS SELECTED BY NASA as a OCCUPATION and as a crew member on WAS A CREW MEMBER OF .
+American ASTRONAUT ( born on October 17 , 1933 in BIRTHPLACE ) joined NASA in WAS_SELECTED_BY_NASA as a OCCUPATION and as a crew member on WAS_A_CREW_MEMBER_OF .
 INGREDIENT is one of the ingredients in FOOD .
 BUILDING is located in LOCATION and it has a floor count of FLOORCOUNT . LOCATION is part of ISPARTOF , COUNTRY .
 BUILDING is located Ahmedabad , LOCATION , in COUNTRY a country where one of the leaders is LEADERNAME .
@@ -5658,7 +5658,7 @@ The main ingredients of FOOD are MAININGREDIENTS . The dish is part of COUNTRY a
 BUILDING is located in REGION in the Easter Province of COUNTRY .
 The character Blockbuster was created by Gardner Fox and CREATOR .
 AIRPORT ' s runway length is RUNWAYLENGTH .
-ASTRONAUT ( now retired ) was born in BIRTHPLACE and graduated from AFIT in 1962 with an M . S . He was a test pilot , chosen by NASA in WAS SELECTED BY NASA and was a crew member on WAS A CREW MEMBER OF . He retired on September 1st , 1969 .
+ASTRONAUT ( now retired ) was born in BIRTHPLACE and graduated from AFIT in 1962 with an M . S . He was a test pilot , chosen by NASA in WAS_SELECTED_BY_NASA and was a crew member on WAS_A_CREW_MEMBER_OF . He retired on September 1st , 1969 .
 FOOD is a dish predominately from Java , but available nationwide in COUNTRY . Indonesian is the language spoken in this country and the leader is LEADERNAME .
 Ahmedabad is in COUNTRY .
 The CODEN code " CODEN_CODE " is for WRITTENWORK .
@@ -5671,7 +5671,7 @@ AIRPORT can be found in LOCATION , in COUNTRY . OPERATINGORGANISATION , in the c
 AIRPORT ' s runway length is RUNWAYLENGTH .
 AIRPORT has the runway name RUNWAYNAME and is located at LOCATION ( part of Atlantic County ) , in the COUNTRY .
 The runway name at Allama Iqbal International airport is RUNWAYNAME .
-ASTRONAUT was born in BIRTHPLACE and graduated from NWC with a MA in 1957 . He served on the OPERATOR operated WAS A CREW MEMBER OF as a crew member . He has died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE and graduated from NWC with a MA in 1957 . He served on the OPERATOR operated WAS_A_CREW_MEMBER_OF as a crew member . He has died in DEATHPLACE .
 WRITTENWORK is an Australian novel that was preceded by the novel Castle . Above the Veil is the sequel to WRITTENWORK and was followed by Into Battle and FOLLOWEDBY .
 WRITTENWORK originates from the COUNTRY where the capital city is Washington DC .
 The SPORTSTEAM ( nicknamed Asa Gigante ) has NUMBEROFMEMBERS members and play in SEASON .
@@ -5733,15 +5733,15 @@ UNIVERSITY was established in ESTABLISHED and has NUMBEROFSTUDENTS students .
 The area codes for CITY are 541 and 458 .
 WRITTENWORK was published in English ( language of SPOKENIN ) in the COUNTRY , where the capital is Washington D . C . and Native Americans are one ethnic group .
 India ' s Air Force has a helicopter known as the AIRCRAFTHELICOPTER and also operates AIRPORT .
-American ASTRONAUT was a test pilot who was born in BIRTHPLACE and in WAS SELECTED BY NASA was picked by NASA as part of the space program .
+American ASTRONAUT was a test pilot who was born in BIRTHPLACE and in WAS_SELECTED_BY_NASA was picked by NASA as part of the space program .
 Located at Sao Jose dos Pinhais , AIRPORT has a runway length of RUNWAYLENGTH metres .
 Located in LOCATION , AIRPORT has a runway length of 3 , 310 metres and a runway name RUNWAYNAME .
 CREATOR and Karl Kesel created the comic character Auron .
 PARENTCOMPANY is the parent company of PUBLISHER , which is the publisher of the journal Addiction .
 FOOD is found nationwide in COUNTRY , but is more specific to Java , and consists of MAININGREDIENTS .
-The UNIVERSITY in CITY is affiliated with the AFFILIATION and was given the ' TechnIcal Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY . The council is in LOCATION and the founder of CITY is Kempe Gowda l .
+The UNIVERSITY in CITY is affiliated with the AFFILIATION and was given the ' TechnIcal Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY . The council is in LOCATION and the founder of CITY is Kempe Gowda l .
 The Ataturk Monument was inaugurated on 27th July , 1932 .
-ASTRONAUT was born on 18 November 1923 in BIRTHPLACE . He was selected to serve with NASA in WAS SELECTED BY NASA and died in DEATHPLACE .
+ASTRONAUT was born on 18 November 1923 in BIRTHPLACE . He was selected to serve with NASA in WAS_SELECTED_BY_NASA and died in DEATHPLACE .
 Albany in Georgia , has a population density of 535 . 0 inhabitants per square kilometre .
 The UNIVERSITY is located in the city of CITY , STATE , COUNTRY . Established in ESTABLISHED , and affiliated with AFFILIATION , the current President is PRESIDENT , and the Director , DIRECTOR .
 WRITTENWORK is in print .
@@ -5769,18 +5769,18 @@ AIRPORT serves CITYSERVED , which is part of the State of Parana and led by the 
 Andrews County airport is located in LOCATION , COUNTRY , where the people are known as Texans and the capital city is Austin .
 The printed book , WRITTENWORK was written by AUTHOR and the OCLC number is OCLC_NUMBER .
 Albany is part of the U . S . State of Georgia .
-ASTRONAUT was hired by OPERATOR in WAS SELECTED BY NASA to take part in WAS A CREW MEMBER OF .
+ASTRONAUT was hired by OPERATOR in WAS_SELECTED_BY_NASA to take part in WAS_A_CREW_MEMBER_OF .
 English is spoken in SPOKENIN and the COUNTRY . A severed Wasp originates from the COUNTRY where there is an ethnic group called Native Americans .
-BACKUP PILOT was a backup pilot of Apollo 12 .
+BACKUP_PILOT was a backup pilot of Apollo 12 .
 ASTRONAUT ( born in BIRTHPLACE ) died in DEATHPLACE .
 AIRPORT serves the city of Lake Placid , and also Saranac Lake ( part of Harrietstown ) in New York , ISPARTOF .
 Some random facts about the COUNTRY : The language spoken there is mainly English , LEADERNAME was the previous president , and the book WRITTENWORK was written there .
-American , ASTRONAUT , who was a test pilot , was born on March 15 , 1932 in BIRTHPLACE . He went on to become a crew member of WAS A CREW MEMBER OF .
+American , ASTRONAUT , who was a test pilot , was born on March 15 , 1932 in BIRTHPLACE . He went on to become a crew member of WAS_A_CREW_MEMBER_OF .
 Peter Laird and CREATOR , created the character , April O ' Neal .
 Arros negre , which contains squid , comes from the region of the REGION .
 The WRITTENWORK was published by Johns Hopkins University based in the COUNTRY .
 FOOD is from COUNTRY where the language is Spanish and one of the ethnic groups are the ETHNICGROUP .
-STATE is located southwest of HAS TO ITS NORTHEAST and has the HAS TO ITS WEST to the west . The state is the location of the UNIVERSITY which is affiliated to the AFFILIATION in the city of CITY . The Institute offers the sport of tennis which has the International tennis Federation as it ' s governing body .
+STATE is located southwest of HAS_TO_ITS_NORTHEAST and has the HAS_TO_ITS_WEST to the west . The state is the location of the UNIVERSITY which is affiliated to the AFFILIATION in the city of CITY . The Institute offers the sport of tennis which has the International tennis Federation as it ' s governing body .
 BUILDING is located in LOCATION , ISPARTOF , COUNTRY .
 WRITTENWORK is written in English and was published in the COUNTRY . Additionally , Native Americans are an ethnic group in the U . S .
 The BUILDING are located in ISPARTOF , LOCATION , New York State , U . S .
@@ -5800,7 +5800,7 @@ STARRING starred as COMICSCHARACTER , which was broadcast by BROADCASTEDBY .
 Sheldon Moldoff is an American .
 The AIRPORT ' s runway length is 1982 .
 Frank G Jackson is a leader in Cleveland .
-ASTRONAUT served as a crew member of WAS A CREW MEMBER OF and as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN . He walked in space for 8820 minutes . BACKUP PILOT was the backup pilot and CREWMEMBERS a crew member . WAS A CREW MEMBER OF was operated by OPERATOR , .
+ASTRONAUT served as a crew member of WAS_A_CREW_MEMBER_OF and as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN . He walked in space for 8820 minutes . BACKUP_PILOT was the backup pilot and CREWMEMBERS a crew member . WAS_A_CREW_MEMBER_OF was operated by OPERATOR , .
 LEADERNAME is an Ethiopian leader . BUILDING is located in LOCATION in COUNTRY .
 The novel Into Battle is published by COUNTRY .
 The BUILDING , LOCATION , were constructed in YEAROFCONSTRUCTION and designed based on the architecture style of " ARCHITECTURE " .
@@ -5827,7 +5827,7 @@ The Prime Minister of COUNTRY leads the country which has CAPITAL as it ' s capi
 200 Public square is in LOCATION , USA .
 Indonesian FOOD contains rice cooked in a banana leaf , vegetables or minced meat . It is a variation of DISHVARIATION .
 AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and serves Lake Placid and Saranac Lake . It is located in LOCATION and has a runway length of RUNWAYLENGTH .
-ASTRONAUT is an American born in BIRTHPLACE . He was on the WAS A CREW MEMBER OF which was operated by OPERATOR after receiving a Bachelor of Science degree at the University of Texas at Austin in 1955 . Alan is now retired .
+ASTRONAUT is an American born in BIRTHPLACE . He was on the WAS_A_CREW_MEMBER_OF which was operated by OPERATOR after receiving a Bachelor of Science degree at the University of Texas at Austin in 1955 . Alan is now retired .
 Conrnell University , nicknamed Conrnell Big Red , is the publisher of the WRITTENWORK .
 FOOD is a food found in COUNTRY , where the language spoken bears the name of the country .
 AIRPORT is located in and serves the city of Appleton , Greenville , Grand Chute which is is part of Dale in the American state of Wisconsin .
@@ -5858,8 +5858,8 @@ The area of Attica Indiana is 4 . 14 SqKm .
 COUNTRY ' s leader is called LEADERNAME and the capital is CAPITAL . BUILDING is located in Haputale .
 AIRPORT , operated by OPERATINGORGANISATION , is located in Sao Jose dos Pinhais .
 GOVERNINGBODY governs the city of HOMETOWN which has the postcode area " B " . It is lead by the Conservative Party ( UK ) and is the hometown of ARCHITECT , the architect who designed BUILDING .
-ASTRONAUT was born in BIRTHPLACE on the 23rd July , 1927 . He attended the ALMAMATER , which is affiliated to the university of Texas system and is competing in the COMPETE IN . ASTRONAUT was a test pilot , who died in St Louis .
-The location of the 11th Mississippi Infantry monument is LOCATION . The County is northwest of HAS TO ITS SOUTHEAST north east of HAS TO ITS SOUTHWEST , and south of Cumberland County in Pennsylvania .
+ASTRONAUT was born in BIRTHPLACE on the 23rd July , 1927 . He attended the ALMAMATER , which is affiliated to the university of Texas system and is competing in the COMPETE_IN . ASTRONAUT was a test pilot , who died in St Louis .
+The location of the 11th Mississippi Infantry monument is LOCATION . The County is northwest of HAS_TO_ITS_SOUTHEAST north east of HAS_TO_ITS_SOUTHWEST , and south of Cumberland County in Pennsylvania .
 The Aids Journal was first published in FIRSTPUBLICATIONYEAR with the ISSN number ISSN_NUMBER , it ' s also comes under the academic discipline of HIV / AIDs .
 Al Asad air base is operated by the OPERATINGORGANISATION who were involved in the noted battles at the invasion of Grenada and the Korean war . The USAF deploy the ATTACKAIRCRAFT attack aircraft and the TRANSPORTAIRCRAFT transport aircraft .
 LEADERNAME is the leader of COUNTRY where the Allama Iqbal international Airport is located in Punjab . The airport serves the city of CITYSERVED and is governed by the COUNTRY Civil Aviation authority .
@@ -5870,7 +5870,7 @@ The U . S . House of Reps is located in Washington , D . C .
 SPORTSTEAM ' s ground is St . Vincent - St . Mary High School . Which is in the COUNTRY in Summit County , in CITY where LEADER is the leader .
 The BUILDING are located in LOCATION , COUNTRY . ISPARTOF is part of LOCATION , New York , and its leader is LEADERNAME .
 The BUILDING is situated in the region of REGION , in the Eastern Province state of COUNTRY , where LEADERNAME is a key leader .
-ASTRONAUT was a crew member aboard WAS A CREW MEMBER OF .
+ASTRONAUT was a crew member aboard WAS_A_CREW_MEMBER_OF .
 The LANGUAGE is spoken in Denmark .
 LEADER is the governor of CITY which has St . Vincent - St . Mary High School located in it , and inside the high school is the SPORTSTEAM organization .
 FOOD , which originates from the region of REGION , is eaten in the COUNTRY . The main ingredients are noodles , pork organs , vegetables , chicken , shrimp and beef .
@@ -5896,7 +5896,7 @@ COUNTRY , whose capital is CAPITAL , is home to BUILDING in LOCATION .
 GOVERNINGBODY governs LOCATION , ISPARTOF where BUILDING is located .
 ASTRONAUT , born in BIRTHPLACE on the 17th of October 1933 , retired on the 1st of September 1969 .
 Appleton International airport is located in LOCATION . The runway length is 2439 and the elevation is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
-NATIONALITY national ASTRONAUT was born in BIRTHPLACE . Now retired , he performed as a test pilot and was a crew member aboard WAS A CREW MEMBER OF . His total space time is 100305 minutes .
+NATIONALITY national ASTRONAUT was born in BIRTHPLACE . Now retired , he performed as a test pilot and was a crew member aboard WAS_A_CREW_MEMBER_OF . His total space time is 100305 minutes .
 The leader of London is called LEADERNAME .
 A dish from REGION , Malaysia and Indonesia called asam pedas is fish cooked in a sour and hot sauce .
 Bakewell tart comes from the REGION region .
@@ -5913,10 +5913,10 @@ FOOD comes from the countries of COUNTRY .
 The garlicy dish FOOD ( also known as ALTERNATIVENAME ) is from the REGION region of COUNTRY .
 The title of the leader in CITY is the LEADERTITLE .
 STARRING starred in the film Big Hero 6 .
-ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE and is American . He received a BSc . from U of Texas at Austin in 1955 . Anders was a test pilot and began working for NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE and is American . He received a BSc . from U of Texas at Austin in 1955 . Anders was a test pilot and began working for NASA in WAS_SELECTED_BY_NASA .
 Haider Al - Abadi is the leader of COUNTRY where the Al Taqaddum air base serves the city of CITYSERVED .
 WRITTENWORK , ISSN ISSN_NUMBER can be shortened to Abh . Math . Semin . Univ . Hambg .
-ASTRONAUT was both a fighter pilot and a flight member of WAS A CREW MEMBER OF who was born on January 20th , 1930 .
+ASTRONAUT was both a fighter pilot and a flight member of WAS_A_CREW_MEMBER_OF who was born on January 20th , 1930 .
 The name of the leader of COUNTRY is LEADERNAME . In mexico , mexicans eat FOOD .
 AIRPORT is operated by the OPERATINGORGANISATION . The USAF has fought in the Korean Wars and BATTLES . The TRANSPORTAIRCRAFT is a transport aircraft there and the Lockheed Ac - 130 can be found on these aircrafts .
 Bhaji is made from gram flour and vegetables and comes from COUNTRY .
@@ -5967,7 +5967,7 @@ The leader of the United States is LEADERNAME .
 The UNIVERSITY is located in CITY , COUNTRY . It was established in ESTABLISHED . It has 16 , 00 students and ACADEMICSTAFFSIZE academic staff . IT is affiliated to the AFFILIATION . Its leader is Lars Lokke Rasmussen .
 The WRITTENWORK was first published in FIRSTPUBLICATIONYEAR and is abbreviated to ABBREVIATION It has the ISSN number " ISSN_NUMBER " .
 BUILDING is located in COUNTRY , which is populated by Indian People .
-American ASTRONAUT was born on the 20th of January 1930 in BIRTHPLACE . He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science , was a fighter pilot and was a crew member of WAS A CREW MEMBER OF .
+American ASTRONAUT was born on the 20th of January 1930 in BIRTHPLACE . He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science , was a fighter pilot and was a crew member of WAS_A_CREW_MEMBER_OF .
 AS Roma play in the LEAGUE league and have a ground in GROUND .
 A FOSSIL is a fossil from California .
 An ingredient of bhajji is gram flour , bhajji is from COUNTRY and has the alternatives names of bhaji and bajji .
@@ -5980,7 +5980,7 @@ The largest city in Benton County Oregon is Corvallis .
 SPORTSTEAM , or SPORTSTEAM S . p . A . , has NUMBEROFMEMBERS members and played in the 2014 - 15 Serie A season .
 INGREDIENT is an ingredient of the Indonesian dish batagor , which should be served SERVINGTEMPERATURE .
 Sportpark De Toekomst is operated by SPORTSTEAM .
-ASTRONAUT is a US national born in BIRTHPLACE . He was a test pilot and crew member of theWAS A CREW MEMBER OF , and he spent a total of 100305 minutes in space .
+ASTRONAUT is a US national born in BIRTHPLACE . He was a test pilot and crew member of theWAS_A_CREW_MEMBER_OF , and he spent a total of 100305 minutes in space .
 The architect of BUILDING is ARCHITECT , who also designed the Palace Of Westminster .
 Ardmore Airport in New Zealand is 34 meters above sea level and has a runway length of 1411 . The airport ' s third runway surface type is 3RD_RUNWAY_SURFACETYPE .
 1ST_RUNWAY_SURFACETYPE , which is the surface of the 1st runway at Alderney airport , belongs to the division of flowering plants and is of the order poales and the class CLASS .
@@ -6059,19 +6059,19 @@ LEADERNAME is a leader of the LOCATION , which is also the location of BUILDING 
 AIRPORT is in LOCATION , ISPARTOF which is part of the Central ISPARTOF Region .
 Dick Dillian is from the NATIONALITY .
 The LANGUAGE is spoken in COUNTRY where Barny cakes are found and the leaders are Gerard Larcher and Claude Bartalone .
-Among the crew members of WAS A CREW MEMBER OF were ASTRONAUT and CREWMEMBERS .
-The Hong Kong born ASTRONAUT is a retired fighter pilot who joined NASA in WAS SELECTED BY NASA , and was a crew member on WAS A CREW MEMBER OF .
+Among the crew members of WAS_A_CREW_MEMBER_OF were ASTRONAUT and CREWMEMBERS .
+The Hong Kong born ASTRONAUT is a retired fighter pilot who joined NASA in WAS_SELECTED_BY_NASA , and was a crew member on WAS_A_CREW_MEMBER_OF .
 Spanish is the language of COUNTRY and the people are DEMONYM . FOOD , a food found in REGION ( whose leader is Susana Diaz ) originates from COUNTRY .
 The comic book character Dane Whitman , alter ego Black Knight , was created by CREATOR .
 John van den Brom plays for CLUB .
 The population density of CITY is 755 . 3 inhabitants per sq km .
 PUBLISHER ( affiliated with the AFFILIATION ) is the publisher of the WRITTENWORK . The president of PUBLISHER is PRESIDENT .
 Arros negre is from the region of REGION , COUNTRY , and one of its ingredients is INGREDIENT .
-ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He attended the U of Texas at Austin and graduated with a BSc . in 1955 . He worked as a test pilot and joined OPERATOR in WAS SELECTED BY NASA . Bean was a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He attended the U of Texas at Austin and graduated with a BSc . in 1955 . He worked as a test pilot and joined OPERATOR in WAS_SELECTED_BY_NASA . Bean was a crew member on WAS_A_CREW_MEMBER_OF .
 ABBREVIATION is the abbreviated version of the ABBREVIATION journal .
 The AIRPORT is operated by the OPERATINGORGANISATION which serves REGIONSERVED and is headquartered at the HEADQUARTER .
 In the COUNTRY , where English is the primary language , one of the ethnic groups is African American . In addition , WRITTENWORK is also from the COUNTRY .
-ASTRONAUT was born on July 23 , 1927 in BIRTHPLACE . He attended the U of Texas at Austin and worked as a test pilot . He joined NASA in WAS SELECTED BY NASA . See died in DEATHPLACE .
+ASTRONAUT was born on July 23 , 1927 in BIRTHPLACE . He attended the U of Texas at Austin and worked as a test pilot . He joined NASA in WAS_SELECTED_BY_NASA . See died in DEATHPLACE .
 COUNTRY is the country FOOD comes from .
 The architect of BUILDING was the company Populous , it is a 28 . 0 metres high concerts and events venue type building that was completed in COMPLETIONDATE .
 The MONUMENT is in LOCATION , a country which includes the ethnic group of ETHNICGROUPS , and has Cornish as one of its languages .
@@ -6100,7 +6100,7 @@ The runway length of AIRPORT is RUNWAYLENGTH .
 GROUND is the ground of SPORTSTEAM , it is in LOCATION .
 Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble . It is dedicated to the Ottoman Army soldiers who died in the battle of Baku .
 The capital of the COUNTRY is Washington DC and the language spoken is English , which is also the language of SPOKENIN . The book WRITTENWORK comes from the country where one of the ethnic groups are the ETHNICGROUP .
-HAS TO ITS NORTHEAST is northeast of CITY where the government is that of magistrate . The city is the location of the School of Business and Social Sciences at CITY University .
+HAS_TO_ITS_NORTHEAST is northeast of CITY where the government is that of magistrate . The city is the location of the School of Business and Social Sciences at CITY University .
 The ISBN number of the book WRITTENWORK is ISBN_NUMBER .
 The RUNWAYNAME runway of the Allama Iqbal International airport is located in Punjab Pakistan and has a length of 3RUNWAYLENGTH .
 Dan Mishkin and the Puerto Rican national Ernie Colon created the comic character of Bolt .
@@ -6174,8 +6174,8 @@ The location of Afonso Pena International airport is Sao Jose dos Pinhais , part
 FC Magedburg was in Regionalliga in 2014 .
 The Atat ü rk Monument is in LOCATION , where the currency is the lira .
 FOOD and tart are from the REGION and are made from shortcrust pastry .
-ASTRONAUT time as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN has prepared him well for his new position as TITLE .
-ASTRONAUT , now retired , was a fighter pilot and crewed WAS A CREW MEMBER OF . BACKUP PILOT was a backup pilot on the WAS A CREW MEMBER OF mission operated by OPERATOR and CREWMEMBERS was a crew member .
+ASTRONAUT time as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN has prepared him well for his new position as TITLE .
+ASTRONAUT , now retired , was a fighter pilot and crewed WAS_A_CREW_MEMBER_OF . BACKUP_PILOT was a backup pilot on the WAS_A_CREW_MEMBER_OF mission operated by OPERATOR and CREWMEMBERS was a crew member .
 The AIRPORT serves the city of CITYSERVED in COUNTRY . LEADERNAME is the leader of that country .
 The AIRPORT in LOCATION is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 BUILDING are in LOCATION , ISPARTOF .
@@ -6203,7 +6203,7 @@ Barny cakes are found in COUNTRY where the LANGUAGE is spoken and the leaders ar
 The MONUMENT ( established in ESTABLISHED ) is located in MUNICIPALITY , and falls under the category of CATEGORY .
 The WRITTENWORK was first published in FIRSTPUBLICATIONYEAR and belongs to the academic discipline of HIV . The journal has the ISSN number of ISSN_NUMBER .
 At 23 metres above sea level . AIRPORT is located at LOCATION , in the COUNTRY .
-UNIVERSITY is in the state of STATE which has HAS TO ITS NORTHEAST to its northeast and the HAS TO ITS WEST to the west . The school offers tennis which is governed by the SPORTSGOVERNINGBODY .
+UNIVERSITY is in the state of STATE which has HAS_TO_ITS_NORTHEAST to its northeast and the HAS_TO_ITS_WEST to the west . The school offers tennis which is governed by the SPORTSGOVERNINGBODY .
 WRITTENWORK is from the COUNTRY where the capital is Washington DC .
 WRITTENWORK is abbreviated to Admin . Sci . Q .
 LEADERNAME is the name of the leader of Greece .
@@ -6213,7 +6213,7 @@ The comic character Blockbuster was created by CREATOR .
 AIRPORT is operated by the Flemish government and is operated by the Flemish government .
 FOOD is a variation of a DISHVARIATION dish found in COUNTRY .
 The BUILDING is located in LOCATION , COUNTRY .
-Williams Anders ( born in BIRTHPLACE ) was a crew member of OPERATOR ' s WAS A CREW MEMBER OF with commander COMMANDER .
+Williams Anders ( born in BIRTHPLACE ) was a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF with commander COMMANDER .
 AIRPORT is in LOCATION where the leader is LEADERNAME .
 FOOD originated in COUNTRY , where French is a spoken language .
 The ISSN number of AIDS journal is ISSN_NUMBER .
@@ -6222,11 +6222,11 @@ The ground of SPORTSTEAM is located at St Vincent St Mary High School in the cit
 Michele Marcolini plays for Torino F . C .
 AC Cesena , who are in the LEAGUE league , have their grounds at the GROUND .
 The ISSN number of WRITTENWORK is ISSN_NUMBER .
-The UNIVERSITY is located in CITY and is affiliated with the AFFILIATION . It has been given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY which is based in LOCATION .
+The UNIVERSITY is located in CITY and is affiliated with the AFFILIATION . It has been given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY which is based in LOCATION .
 CITYSERVED is served by CITYSERVED airport which is located 88 metres above sea level and has a 1st runway surface made of poaceae . The runway name , which is RUNWAYLENGTH in length , is RUNWAYNAME .
 ARCHITECT was the architect of BUILDING which was completed in COMPLETIONDATE .
 AIRPORT serves Lake Placid , ISPARTOF , and also Saranac Lake which is part of Harrietstown , ISPARTOF .
-ASTRONAUT was selected by Nasa in WAS SELECTED BY NASA .
+ASTRONAUT was selected by Nasa in WAS_SELECTED_BY_NASA .
 FOOD is from the REGION region and is found in COUNTRY , it has chopped fruits , sour cream , condensed milk , granola , shredded coconut and raisins as ingredients .
 At an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , AIRPORT has a runway length is RUNWAYLENGTH and is located in the LOCATION .
 The OCLC number of WRITTENWORK is OCLC_NUMBER .
@@ -6239,8 +6239,8 @@ The avocado is a member of the ORDER plant order ( FAMILY family ) and is one of
 BUILDING , which has FLOORCOUNT floors and was completed in COMPLETIONDATE , is located in LOCATION .
 CITYSERVED International airport is located in LOCATION and serves the city of CITYSERVED . The runway length is RUNWAYLENGTH .
 The number of students at the UNIVERSITY which was established in ESTABLISHED , is NUMBEROFSTUDENTS .
-Buzz Aldrin is originally from Glen Ridge in New Jersey which is situated in the Essex County . Buzz Aldrin became a member of WAS A CREW MEMBER OF ' s crew along with ASTRONAUT as backup pilot .
-ASTRONAUT is a United Stated national born in BIRTHPLACE on the 15th of March , 1932 . He was a test pilot and served as a crew member aboard WAS A CREW MEMBER OF .
+Buzz Aldrin is originally from Glen Ridge in New Jersey which is situated in the Essex County . Buzz Aldrin became a member of WAS_A_CREW_MEMBER_OF ' s crew along with ASTRONAUT as backup pilot .
+ASTRONAUT is a United Stated national born in BIRTHPLACE on the 15th of March , 1932 . He was a test pilot and served as a crew member aboard WAS_A_CREW_MEMBER_OF .
 Maple Ridge Township , Alpena County , Michigan is located in the COUNTRY .
 The Flemish Government has its jurisdiction in JURISDICTION .
 The academic discipline of WRITTENWORK ( abbreviated as Admin . Sci . Q ) is ACADEMICDISCIPLINE .
@@ -6263,7 +6263,7 @@ CITY is in the U . S .
 The manager of SPORTSTEAM is MANAGER , who played for CLUB .
 The academic discipline of AIDS journal ( first published in FIRSTPUBLICATIONYEAR ) is ACADEMICDISCIPLINE . It has the ISSN number ISSN_NUMBER .
 INGREDIENT is an ingredient of FOOD .
-ASTRONAUT was a US national who served as a crew member of the OPERATOR operated WAS A CREW MEMBER OF .
+ASTRONAUT was a US national who served as a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF .
 FOOD is from the COUNTRY where the ETHNICGROUP are an ethnic group and the leader is called the President .
 The MONUMENT , established in ESTABLISHED was built at Seminary Ridge , Gettysburg STATE USA and is a contributing property .
 ALTERNATIVENAME is also known as FOOD .
@@ -6309,7 +6309,7 @@ The BUILDING is in the country of COUNTRY , where the currency is the Ethiopian 
 FOOD is a dish from the COUNTRY where one of the languages spoken is LANGUAGE and Filipino people live .
 ASTRONAUT who was born in BIRTHPLACE in 1923 was awarded a distinguished service medal by the United States Navy .
 CITY in COUNTRY is the location of the UNIVERSITY .
-American ASTRONAUT was born in BIRTHPLACE on January 20th , 1930 . In 1963 he graduated from MIT with a Sc . D then became a fighter pilot and later a member of the WAS A CREW MEMBER OF crew .
+American ASTRONAUT was born in BIRTHPLACE on January 20th , 1930 . In 1963 he graduated from MIT with a Sc . D then became a fighter pilot and later a member of the WAS_A_CREW_MEMBER_OF crew .
 WRITTENWORK is published in MEDIATYPE and has an OCLC number of OCLC_NUMBER .
 AFC Blackpool , with NUMBEROFMEMBERS members , has the full name " FULLNAME " , and its ground is called " The Mechanics " .
 The nationality of ASTRONAUT is NATIONALITY .
@@ -6326,7 +6326,7 @@ AIRPORT is located in the ISPARTOF in the LOCATION .
 Now dead , ASTRONAUT was a test pilot who was awarded the Distinguished Service Medal from the U . S . Navy , an award that is higher than the HIGHER .
 FOOD originates from the country of COUNTRY where the leader is Felipe VI of COUNTRY .
 The ground of SPORTSTEAM is located in GROUND . The leader of GROUND is Pietro Grasso and / or LEADER .
-BUILDING is located in Avenue A , Manhattan . They are in the architectural sytle of ARCHITECTURALSTYLE and were constructed in YEAROFCONSTRUCTION . The reference number is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places and was added on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING is located in Avenue A , Manhattan . They are in the architectural sytle of ARCHITECTURALSTYLE and were constructed in YEAROFCONSTRUCTION . The reference number is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places and was added on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 14th New Jersey Volunteer Infantry Memorial is in the COUNTRY .
 MANAGER is in the CLUB club and manages AEK Athens which competes in the Superleague of Greece . Previous winners of the league are Olympiacos FC .
 BUILDING is located in the LOCATION , where the LANGUAGE is spoken , and one of the ethnic groups is Asians . The LEADERTITLE is the most important leader , and LEADERNAME is also a leader .
@@ -6391,7 +6391,7 @@ WRITTENWORK is from The COUNTRY where LEADERNAME is the leader . It is written i
 The spanish dish arros negre is traditional .
 COMICSCHARACTER was created by CREATOR .
 CAPITAL is the capital of COUNTRY which is led by LEADERNAME . The UNIVERSITY is located in CITY , ISPARTOF .
-The leader in COUNTRY , Known as Monarchy of COUNTRY , is LEADERNAME . In this country we can found the UNIVERSITY , that is located in CITY city , which has to its northeast HAS TO ITS NORTHEAST .
+The leader in COUNTRY , Known as Monarchy of COUNTRY , is LEADERNAME . In this country we can found the UNIVERSITY , that is located in CITY city , which has to its northeast HAS_TO_ITS_NORTHEAST .
 AIRPORT has a runway length is RUNWAYLENGTH metres and is located in LOCATION , in the COUNTRY .
 FULLNAME Livorno Calcio is the fullname of A . S . Livorno Calcio .
 Auburn Alabama is in the COUNTRY .
@@ -6428,9 +6428,9 @@ The architect of Alan B Miller Hall is Robert A M Stern . The current tenants ar
 LEADERNAME is a leader in the Punjab , Pakistan .
 The 1 Decembrie 1981 University , in COUNTRY , is dedicated to the country ' s patron saint , PATRONSAINT .
 The Igorot people and the Chinese Filipinos are both ethnic groups in the COUNTRY where the spoken language is Spanish . The country is the origin of the dish known as FOOD .
-The reference number in the the National Register of Historic Places for BUILDING is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The reference number in the the National Register of Historic Places for BUILDING is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 The MONUMENT is located in LOCATION , a country led by the LEADERTITLE , LEADERNAME , and legislated by the National Assembly .
-Buzz Aldrin ( born on January 20 , 1930 in BIRTHPLACE ) was , before he retired , a OCCUPATION and a crew member of WAS A CREW MEMBER OF operated by OPERATOR . The backup pilot was ASTRONAUT .
+Buzz Aldrin ( born on January 20 , 1930 in BIRTHPLACE ) was , before he retired , a OCCUPATION and a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR . The backup pilot was ASTRONAUT .
 AC Chievo Verona competed in the SEASON season .
 MANAGER is at Colwyn Bay FC and is affiliated with Tranmere Rovers FC . He plays at Stockport County FC and manages AFC Fylde .
 The AIDS journal studiies ACADEMICDISCIPLINE .
@@ -6444,7 +6444,7 @@ WRITTENWORK is from the COUNTRY and was originally published in English .
 The tenant of the BUILDING is the TENANT Hotel which was founded in Washington , D . C .
 BUILDING was designed by the architect , ARCHITECT who was born in BIRTHPLACE which has the postcode area ' B ' and is where the LEADERNAME are the leaders .
 ASTRONAUT was awarded the Legion of Merit ribbon .
-ASTRONAUT attended the ALMAMATER where PRESIDENT is the President . The University is affiliated to the University of Texas system and they competed in the COMPETE IN in Austin . Elliot died in St Louis which is in France .
+ASTRONAUT attended the ALMAMATER where PRESIDENT is the President . The University is affiliated to the University of Texas system and they competed in the COMPETE_IN in Austin . Elliot died in St Louis which is in France .
 WRITTENWORK has a CODEN code of " CODEN_CODE " .
 WRITTENWORK , available in hardcover , has NUMBEROFPAGES pages in it and the ISBN number ISBN_NUMBER .
 Prime Minister LEADERNAME is the leader of LOCATION which has CAPITAL as it ' s capital city and the National Assembly is the official legislature . The country is the location of the CAPITAL Turkish Martyrs memorial which is known locally as Turk Sehitleri Aniti and was designed by Huseyin Butuner and Hilmi Guner .
@@ -6473,7 +6473,7 @@ The tenant of AC Hotel Bella Sky in LOCATION , which has FLOORCOUNT floors , is 
 WRITTENWORK publisher is PUBLISHER .
 William ANders was born on BIRTHDATE in BIRTHPLACE . He received a M . S . from his alma Mater , AFIT in 1962 . He was a fighter pilot and retired on September 1st . 1969 .
 ASTRONAUT was born in America in the city of BIRTHPLACE on the 23rd day of July in 1927 . Elliot was a student at the ALMAMATER . See died in DEATHPLACE on the 28th of February in 1966 .
-American ASTRONAUT was a fighter pilot and part of OPERATOR ' s WAS A CREW MEMBER OF mission where he spent 52 minutes in space . Aldrin was born in BIRTHPLACE and is now retired .
+American ASTRONAUT was a fighter pilot and part of OPERATOR ' s WAS_A_CREW_MEMBER_OF mission where he spent 52 minutes in space . Aldrin was born in BIRTHPLACE and is now retired .
 Ardmore Airport ( New Zeland ) ' s 3rd runway surface type is 3RD_RUNWAY_SURFACETYPE . 3RD_RUNWAY_SURFACETYPE belongs to the division of flowering plants , its class is CLASS . It is a member of the order of Poales and belongs to the order of ORDER .
 LOCATION is a country where Cornish is spoken in the Cornwall region , ETHNICGROUPS are an ethnic group and MONUMENT is found .
 COMICSCHARACTER is a character in the film Big Hero 6 , which starred STARRING .
@@ -6514,17 +6514,17 @@ AIRPORT serves CITYSERVED .
 A . S . Roma plays in the LEAGUE league in GROUND but the LEAGUE champions are Juventus F . C .
 Associazione Sportiva Roma S . p . A ( abbreviated to A . S . Roma ) have NUMBEROFMEMBERS members and there ground is GROUND . They played in the Serie A league in 2014 - 2015 .
 1634 The Ram Rebellion is a novel from the COUNTRY . The capital of the country is Washington D . C . it ' s population known as DEMONYM and the previous President was LEADERNAME . The original ethnic group of the country is Native American .
-BUILDING located on 23rd Street , Manhattan was added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES and has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING located on 23rd Street , Manhattan was added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES and has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 Elliot see was born on July 23 , 1927 in BIRTHPLACE . He attended the U of Texas at Austin , which is a part of the U of Texas system and part of the big 12 conference . He worked as a test pilot , and died in DEATHPLACE .
 PUBLISHER , headed by president PRESIDENT , is the publisher of WRITTENWORK .
 The tenant of the BUILDING is TENANT .
 A Glastonbuy Romance is published by PUBLISHER .
 The bacon sandwich goes by the names : Bacon butty , bacon sarnie , rasher , bacon sanger , piece ' n bacon , bacon cob , bacon barm , and bacon muffin . Condiments are included in a bacon sandwich .
 The BUILDING , located in LOCATION ( which is part of ISPARTOF ) , is owned by OWNER . LEADERNAME was Lord Mayor of LOCATION .
-American ASTRONAUT was born in BIRTHPLACE . He graduated in WAS SELECTED BY NASA from MIT with a Sc . D . He was selected by NASA in WAS SELECTED BY NASA , was a fighter pilot and a crew member of WAS A CREW MEMBER OF , spending 52 minutes in space .
+American ASTRONAUT was born in BIRTHPLACE . He graduated in WAS_SELECTED_BY_NASA from MIT with a Sc . D . He was selected by NASA in WAS_SELECTED_BY_NASA , was a fighter pilot and a crew member of WAS_A_CREW_MEMBER_OF , spending 52 minutes in space .
 The campus of the UNIVERSITY which is affiliated with the AFFILIATION is located at In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 , COUNTRY . The are NUMBEROFPOSTGRADUATESTUDENTS postgraduate students at the Institute .
 INGREDIENT is an ingredient of FOOD .
-The School of Business and Social Sciences at CITY University is in the city of CITY which has HAS TO ITS NORTHEAST to its northeast .
+The School of Business and Social Sciences at CITY University is in the city of CITY which has HAS_TO_ITS_NORTHEAST to its northeast .
 A Fortress of Grey Icewas originally published in English .
 WRITTENWORK can be found in hardcover .
 FOOD originates from the country of COUNTRY , where Spanish is spoken and the leader is Felipe VI of COUNTRY .
@@ -6556,8 +6556,8 @@ A Fortress of Grey is from the COUNTRY and published in English , which is also 
 UNIVERSITY has an outlook ranking of OUTLOOKRANKING .
 FOOD is found in the region of REGION , COUNTRY , whose leaders include LEADERNAME and Narendra Modi and people are called Indians .
 The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE which belongs to the division of flowering plants .
-ASTRONAUT was born October 17th 1933 and was a member of the WAS A CREW MEMBER OF crew operated by OPERATOR . The backup pilot was BACKUP PILOT . ASTRONAUT retired on September 1st 1969 .
-BUILDING ' reference number is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+ASTRONAUT was born October 17th 1933 and was a member of the WAS_A_CREW_MEMBER_OF crew operated by OPERATOR . The backup pilot was BACKUP_PILOT . ASTRONAUT retired on September 1st 1969 .
+BUILDING ' reference number is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 FOOD is a type of soup .
 The comic character Asterix , sometimes called ALTERNATIVENAME , was created by Rene Goscinny .
 AC Hotel Bella Sky is in Copenhagen , LOCATION , where the LANGUAGE is spoken . TENANT , founded in Washington , D . C , is currently the hotel ' s tenant , and KEYPERSON is a key leader in the organisation .
@@ -6575,7 +6575,7 @@ BUILDING designed by ARCHITECT is located in Adare in LOCATION and completed in 
 Angola International airport is located in Icolo e Bengo .
 The bacon sandwich , which originates in the UK , can also be called bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin and sometimes includes the ingredient ketchup .
 COUNTRY is led by LEADERNAME . Punjab , a major region , contains AIRPORT within the city of CITYSERVED .
-ASTRONAUT was on the crew of WAS A CREW MEMBER OF .
+ASTRONAUT was on the crew of WAS_A_CREW_MEMBER_OF .
 SPORTSTEAM , who have NUMBEROFMEMBERS members played in the SEASON season .
 WRITTENWORK , from the COUNTRY , was written in the LANGUAGE .
 Tim Brooke Taylor starred in COMICSCHARACTER which was created by CREATOR . It was broadcast by the BROADCASTEDBY and first aired on 3 October 1983 .
@@ -6587,10 +6587,10 @@ ASTRONAUT went to school at NWC and graduated with an MA in 1957 .
 The frangipane - based dessert FOOD ( or tart ) originates from the REGION where LEADERNAME is a leader .
 The Bavarian Crisis of 1634 , written by AUTHOR , occurred after Grantville Gazette III .
 WRITTENWORK is published by PUBLISHER in the U . S . The language spoken there is English , which was originated in SPOKENIN . One ethnic group of the U . S . is African American .
-ASTRONAUT graduated from ALMAMATER , and died in DEATHPLACE . LEADERNAME of DEATHPLACE competed in the COMPETE IN at ALMAMATER .
+ASTRONAUT graduated from ALMAMATER , and died in DEATHPLACE . LEADERNAME of DEATHPLACE competed in the COMPETE_IN at ALMAMATER .
 Abilene is a part of ISPARTOF .
 The AIRPORT ' s 3rd runway length in ft is 3RD_RUNWAY_LENGTHFEET .
-Buzz Aldrin was born in Glen Ridge in the Essex County in New Jersey and was a member of the WAS A CREW MEMBER OF crew operated by OPERATOR where ASTRONAUT was the backup pilot .
+Buzz Aldrin was born in Glen Ridge in the Essex County in New Jersey and was a member of the WAS_A_CREW_MEMBER_OF crew operated by OPERATOR where ASTRONAUT was the backup pilot .
 WRITTENWORK was written by AUTHOR .
 MONUMENT is in LOCATION ( capital : CAPITAL , religion : the Church of LOCATION ) and is dedicated to DEDICATEDTO . Cornish is a language spoken in the Cornwall region of LOCATION .
 Barney cakes can be found in COUNTRY where two of the leaders are Gerard Larcher and LEADERNAME .
@@ -6602,7 +6602,7 @@ The runway length of AIRPORT is RUNWAYLENGTH .
 The BUILDING is situated in Ampara district , the Eastern Province state of COUNTRY were LEADERNAME is the leader .
 The AIRPORT in LOCATION is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea leve .
 AIRPORT is located in LOCATION in the Central Region of COUNTRY . LEADERNAME is the leader of COUNTRY and Danish is the local language .
-ASTRONAUT was born in BIRTHPLACE and graduated in 1955 from UT Austin with a B . S . He performed as a test pilot and was chosen by NASA in WAS SELECTED BY NASA to be the crew of WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE and graduated in 1955 from UT Austin with a B . S . He performed as a test pilot and was chosen by NASA in WAS_SELECTED_BY_NASA to be the crew of WAS_A_CREW_MEMBER_OF .
 A variation of the bacon sandwich , that comes from the UK and has bread as an ingredient , is the DISHVARIATION . The DISHVARIATION is also a variation of the club sandwich .
 TENANT was founded in Washington , D . C by KEYPERSON , it is the tenant of the BUILDING , LOCATION .
 ASTRONAUT was born with the name Edwin Eugene Aldrin Jr .
@@ -6633,19 +6633,19 @@ WRITTENWORK ( abbr . Acta Palaeontol . Pol ) is published by the PUBLISHER . Cod
 FOOD is a dish from REGION , where English is spoken and LEADERNAME is the leader . FOOD can be found in COUNTRY , where the ETHNICGROUP are one of the ethnic groups .
 Appleton International airport is located in LOCATION and it serves the city of Appleton . The airport is elevated ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level . It ' s runway is named RUNWAYNAME and it measures a length of 2 , 439 .
 WRITTENWORK is from the COUNTRY where LEADERNAME is the leader and ETHNICGROUP are an ethnic group . Like in SPOKENIN , English is also spoken in the COUNTRY .
-ASTRONAUT is a US citizen born in BIRTHPLACE . He graduated from Massachusetts Institute of Technology , ScD in WAS SELECTED BY NASA and was selected by NASA in WAS SELECTED BY NASA , .
+ASTRONAUT is a US citizen born in BIRTHPLACE . He graduated from Massachusetts Institute of Technology , ScD in WAS_SELECTED_BY_NASA and was selected by NASA in WAS_SELECTED_BY_NASA , .
 ASTRONAUT is an American .
 Philippe of COUNTRY is the leader of COUNTRY where one of the languages is German . it is also where the city of CITYSERVED is , which is served by AIRPORT .
 SPORTSTEAM has NUMBEROFMEMBERS members and its ground is the GROUND .
-The MONUMENT is in LOCATION and is categorized as a contributing property . Adams county lies to the east of Franklin County and has Cumberland County to the north and HAS TO ITS SOUTHEAST to the south - east .
+The MONUMENT is in LOCATION and is categorized as a contributing property . Adams county lies to the east of Franklin County and has Cumberland County to the north and HAS_TO_ITS_SOUTHEAST to the south - east .
 BUILDING , with FLOORCOUNT floors , is located within the LOCATION where LEADERNAME is the monarch .
 LANGUAGE is spoken in Singapore .
 Vegetables are ingredients of FOOD which is eaten in the COUNTRY .
 OWNER is the owner of BUILDING .
 In ESTABLISHED the 11th Mississippi Infantry monument was erected in LOCATION . It is categorised as contributing property .
 MANAGER manages AS Roma and also plays for Udinese Calcio and CLUB .
-BUILDING was added to the National Register of Historic Places on 23rd April 1980 under reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES and is located on Avenue A , Manhattan .
-ASTRONAUT was a test pilot who served on the WAS A CREW MEMBER OF crew . He was born in BIRTHPLACE on November 18 , 1923 and died in DEATHPLACE .
+BUILDING was added to the National Register of Historic Places on 23rd April 1980 under reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES and is located on Avenue A , Manhattan .
+ASTRONAUT was a test pilot who served on the WAS_A_CREW_MEMBER_OF crew . He was born in BIRTHPLACE on November 18 , 1923 and died in DEATHPLACE .
 The CURRENTTENANTS is located in the COUNTRY and they are the current tenants of Alan B Miller Hall . Alan B Miller Hall was completed on the 1st June , 2009 and it is located at ADDRESS .
 A . D . Isidro Metapan play in the Salvadoran Primera Division at its ground at Metapan .
 Alexis Tsipras and LEADER are leaders in LOCATION , where CAPITAL is the capital , Greek is spoken and where SPORTSTEAM is located .
@@ -6657,7 +6657,7 @@ FOOD is a dish which originates from COUNTRY , the Capital of COUNTRY is CAPITAL
 WRITTENWORK is from The COUNTRY where one of the ethnic groups are the Native Americans and the LANGUAGE is spoken .
 AC Cesena are in the LEAGUE league .
 The ground of SPORTSTEAM is located in GROUND , which has the leader LEADER .
-STATUS American fighter pilot ASTRONAUT , born in Glen Ridge , NJ , spent 52 minutes in space as a crew member on WAS A CREW MEMBER OF .
+STATUS American fighter pilot ASTRONAUT , born in Glen Ridge , NJ , spent 52 minutes in space as a crew member on WAS_A_CREW_MEMBER_OF .
 The Aids Journal ' s discipline is ACADEMICDISCIPLINE .
 The UNIVERSITY , CITY , COUNTRY , has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students and is affiliated with AFFILIATION .
 DEAN is Dean of the UNIVERSITY which was established in ESTABLISHED .
@@ -6671,7 +6671,7 @@ FOOD and sandesh are both dessert .
 UNIVERSITY ' s director is DIRECTOR .
 FOOD comes from the COUNTRY where one of the ethnic groups are the Igorot and LANGUAGE is the spoken language .
 The MONUMENT is a Contributing Property located at the Seminary Ridge in Adams County in the municipality of MUNICIPALITY .
-ASTRONAUT served as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN .
+ASTRONAUT served as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN .
 LANGUAGE is a language in COUNTRY where the leader is Malatu Teshome . LOCATION is located in the country and is where BUILDING and ISPARTOF are located .
 WRITTENWORK is available in hardcover and has NUMBEROFPAGES pages .
 Agra airport is operated by the Indian air force and is located in LOCATION , part of Awadh and ISPARTOF .
@@ -6682,9 +6682,9 @@ WRITTENWORK ( abbreviated to ABBREVIATION ) has the ISSN number ISSN_NUMBER .
 BUILDING is located in the city of the same name in COUNTRY , a leader of which is LEADERNAME .
 The HEADQUARTER is the headquarters of the Port Authority of New York and ISPARTOF which operates AIRPORT . The airportis in Egg Harbor Township , part of ISPARTOF , in the COUNTRY .
 FOOD is a dish from REGION , COUNTRY . The Batak and ETHNICGROUP are both ethnic groups on the island .
-ASTRONAUT was born in BIRTHPLACE in 1932 and graduated with a B . S . in 1955 . ASTRONAUT then went on to join NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born in BIRTHPLACE in 1932 and graduated with a B . S . in 1955 . ASTRONAUT then went on to join NASA in WAS_SELECTED_BY_NASA .
 Cornell University is in CITY .
-ASTRONAUT was born in BIRTHPLACE . He was a test pilot and was chosen by OPERATOR in WAS SELECTED BY NASA . He was a crew member of OPERATOR operated Apollo 11 . Other crew members included BACKUP PILOT , who was a backup pilot .
+ASTRONAUT was born in BIRTHPLACE . He was a test pilot and was chosen by OPERATOR in WAS_SELECTED_BY_NASA . He was a crew member of OPERATOR operated Apollo 11 . Other crew members included BACKUP_PILOT , who was a backup pilot .
 AUTHOR was born in BIRTHPLACE . His notable work includes Porius A Romance of the Dark Ages and WRITTENWORK .
 CAMPUS is the location of the UNIVERSITY . The current President is B M Reddy and there are NUMBEROFPOSTGRADUATESTUDENTS postgraduate students . The Institute was established in COUNTRY in the year ESTABLISHED and is affiliated with the AFFILIATION .
 SIGNIFICANTBUILDING is one of the significant buildings designed by architect ARCHITECT , who also designed The BUILDING .
@@ -6721,7 +6721,7 @@ The Australian novel WRITTENWORK was preceded by the novel Castle and it ' s seq
 FOOD originates from the Paisa region , Columbia . The main ingredients are MAININGREDIENTS .
 The academic staff at the UNIVERSITY number ACADEMICSTAFFSIZE .
 The comic character Auron was created by both Karl Kesel and CREATOR .
-BUILDING is located on Asilomar Blvd , Pacific Grove , California . It was constructed in YEAROFCONSTRUCTION and has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+BUILDING is located on Asilomar Blvd , Pacific Grove , California . It was constructed in YEAROFCONSTRUCTION and has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 WRITTENWORK is written in English which is the language spoken in SPOKENIN .
 SPORTSTEAM ' s ground is at St . Vincent - St . Mary High School in Akron , LOCATION in the U . S . LEADER is the leader of CITY .
 The UNIVERSITY ' s campus is in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 , COUNTRY . It was established in ESTABLISHED and it is affiliated with the AFFILIATION in CITY .
@@ -6744,7 +6744,7 @@ The COUNTRY is the country of the FOOD . LEADERNAME is one of the leaders there 
 The UNIVERSITY is located in the Romanian city of CITY . The Germans of COUNTRY are one of the ethnic groups in the country which is lead by LEADERNAME and has CAPITAL as its capital city .
 The UNIVERSITY in Balgalore , COUNTRY was established in ESTABLISHED . The director is DIRECTOR and it ' s president is PRESIDENT .
 BUILDING is located in the LOCATION , the capital of which is CAPITAL which is lead via the European Parliment although the leader of the LOCATION is LEADERNAME .
-ASTRONAUT , a NATIONALITY national , was born in BIRTHPLACE on 20 / 01 / 1930 . He graduated in 1963 from MIT with a Sc . D . , then served as a OCCUPATION and later was a member of the WAS A CREW MEMBER OF crew . ASTRONAUT is now retired .
+ASTRONAUT , a NATIONALITY national , was born in BIRTHPLACE on 20 / 01 / 1930 . He graduated in 1963 from MIT with a Sc . D . , then served as a OCCUPATION and later was a member of the WAS_A_CREW_MEMBER_OF crew . ASTRONAUT is now retired .
 FOOD includes sausage and bacon .
 FOOD is from the REGION region in COUNTRY , the leaders of REGION are the LEADERNAME .
 FOOD is a popular COUNTRY , originating from the REGION region .
@@ -6754,7 +6754,7 @@ FOOD is a dish from the region of REGION in the Phillippines . It includes sweet
 PUBLISHER , CITY , is affiliated with the Association of Public and Land grant Universities , and the publisher of the WRITTENWORK .
 UNIVERSITY ' s campus is located at Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 , STATE , COUNTRY . The Institute was established in ESTABLISHED , has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students and is affiliated with AFFILIATION .
 The comic book character Amazing - Man was created by CREATOR .
-UNIVERSITY is located in STATE , east of the HAS TO ITS WEST and southeast of HAS TO ITS NORTHEAST . The Institute offers SPORTSOFFERED , governed by the SPORTSGOVERNINGBODY , as a sport .
+UNIVERSITY is located in STATE , east of the HAS_TO_ITS_WEST and southeast of HAS_TO_ITS_NORTHEAST . The Institute offers SPORTSOFFERED , governed by the SPORTSGOVERNINGBODY , as a sport .
 The UNIVERSITY was established in ESTABLISHED .
 WRITTENWORK is published by PUBLISHER . It has the abbreviation of Admin . Sci . Q , an ISSN number of 001 - 8392 and LLCN number of LCCN_NUMBER .
 FOOD is a variant of Siomay , which contains peanut sauce , and DISHVARIATION . It originates from LEADERNAME led COUNTRY .
@@ -6771,7 +6771,7 @@ BUILDING , built in YEAROFCONSTRUCTION , are located on LOCATION .
 WRITTENWORK has the OCLC number OCLC_NUMBER .
 The runway name of AIRPORT is RUNWAYNAME .
 AIRPORT is operated by OPERATINGORGANISATION which is located in Brasilia . the airport serves the city of CITYSERVED which is part of the State of Paran á located in the South Region of Brazil the country .
-ASTRONAUT is a national of the NATIONALITY . He was in born in BIRTHPLACE on BIRTHDATE . He was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT is a national of the NATIONALITY . He was in born in BIRTHPLACE on BIRTHDATE . He was a crew member of WAS_A_CREW_MEMBER_OF .
 The area code of CITY is AREACODE .
 The capital of the COUNTRY is Washington D . C . and ETHNICGROUP are one of the ethnic groups . It is home to the FOOD .
 PRECEDEDBY preceded WRITTENWORK which was published by Harcourt .
@@ -6796,8 +6796,8 @@ LOCATION is a city in COUNTRY , in which the Adolfo Suarez Maadrid - Barajas air
 Atlantic City , ISPARTOF is part of ISPARTOF .
 UNIVERSITY is located in the city of CITY , COUNTRY . The national anthem of this country is the ANTHEM . COUNTRY ' s leader ( the Federal Chancellor of COUNTRY ) is called LEADERNAME and the country is legislated over by the Federal Assembly ( COUNTRY ) .
 AIRPORT serves the city of CITYSERVED .
-The BUILDING built in YEAROFCONSTRUCTION are located in Asser Levy Place , East 23rd Street . They were added to the National Register of Historic Places on " ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES " .
-ASTRONAUT was born in BIRTHPLACE on 07 / 23 / 1927 . He attended the ALMAMATER after that he was chosen by NASA in WAS SELECTED BY NASA . He died in St Louis on 28 February , 1966 .
+The BUILDING built in YEAROFCONSTRUCTION are located in Asser Levy Place , East 23rd Street . They were added to the National Register of Historic Places on " ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES " .
+ASTRONAUT was born in BIRTHPLACE on 07 / 23 / 1927 . He attended the ALMAMATER after that he was chosen by NASA in WAS_SELECTED_BY_NASA . He died in St Louis on 28 February , 1966 .
 AIRPORT is located in LOCATION . Although LARGESTCITY is the largest city , Austin , is the capital . Inhabitants of LOCATION have the demonym DEMONYM and Spanish is spoken .
 The architect Alfred Giles was born in BIRTHPLACE and he died in PLACEOFDEATH . He was the architect of BUILDING .
 The MONUMENT belongs to the category of Historic districts and is located in COUNTRY .
@@ -6909,24 +6909,24 @@ MONUMENT is in the COUNTRY .
 The MONUMENT is located in LOCATION , of which the capital city is CAPITAL . Cornish is a language spoken in LOCATION and one of the ethnic groups are The ETHNICGROUPS .
 CREATOR and the American Karl Kesel are the creators of the comic book character Auron , whose full name is FULLNAME .
 AIRPORT in LOCATION is operated by the OPERATINGORGANISATION and has the ICAO location identifier of ICAO_LOCATION_IDENTIFIER . The airport ' s runway is named RUNWAYNAME and it has a length of 3 , 990 .
-ASTRONAUT has died in St Louis . He was born in BIRTHPLACE on 23 July 1927 . After attending the ALMAMATER he became a test pilot and was selected by NASA in WAS SELECTED BY NASA .
-ASTRONAUT and CREWMEMBERS were crew members of OPERATOR ' s WAS A CREW MEMBER OF .
+ASTRONAUT has died in St Louis . He was born in BIRTHPLACE on 23 July 1927 . After attending the ALMAMATER he became a test pilot and was selected by NASA in WAS_SELECTED_BY_NASA .
+ASTRONAUT and CREWMEMBERS were crew members of OPERATOR ' s WAS_A_CREW_MEMBER_OF .
 FOOD is a dish containing noodles , from COUNTRY .
 WRITTENWORK ( written in English - also spoken in SPOKENIN ) was published by the COUNTRY ' PUBLISHER . The COUNTRY has the Asian American ethnic group .
 BUILDING is in COUNTRY , LOCATION .
-ASTRONAUT , a US national , was born in BIRTHPLACE and graduated from the ALMAMATER . He flew as a test pilot and was selected by NASA in WAS SELECTED BY NASA . He died on 28 February 1966 in St Louis .
+ASTRONAUT , a US national , was born in BIRTHPLACE and graduated from the ALMAMATER . He flew as a test pilot and was selected by NASA in WAS_SELECTED_BY_NASA . He died on 28 February 1966 in St Louis .
 SPORTSTEAM has NUMBEROFMEMBERS members and played in the SEASON season .
 The MONUMENT was erected in ESTABLISHED in LOCATION and is categorized as a Contributing Property .
 WRITTENWORK was published by PUBLISHER .
 The UNIVERSITY is located in CITY , STATE , COUNTRY . STATE has Mahe , COUNTRY to its northwest . The RIVER is a river in COUNTRY and LARGESTCITY is its largest city .
 With a floor count of FLOORCOUNT , BUILDING is located in LOCATION in the COUNTRY .
-To the north of Adams County , Pennsylvania is HAS TO ITS NORTH .
+To the north of Adams County , Pennsylvania is HAS_TO_ITS_NORTH .
 The California State Senate is located in the LOCATION .
-The location of BUILDING which were constructed in YEAROFCONSTRUCTION is LOCATION . They were added to the National Register of Historic Places on 27 February 1987 with the reference number " REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES " , and were built in the Arts and Crafts Movement architectural style .
+The location of BUILDING which were constructed in YEAROFCONSTRUCTION is LOCATION . They were added to the National Register of Historic Places on 27 February 1987 with the reference number " REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES " , and were built in the Arts and Crafts Movement architectural style .
 The UNIVERSITY ' s campus in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY - 560090 , COUNTRY has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students . Its president is PRESIDENT .
 The RESIDENCE is the residence of A T Charlie Johnson .
 COMICSCHARACTER , starring STARRING , is broadcast by the BROADCASTEDBY and first aired on 3rd October 1983 .
-ASTRONAUT who was born in 1932 worked for OPERATOR and became a crew member of WAS A CREW MEMBER OF is now currently retired .
+ASTRONAUT who was born in 1932 worked for OPERATOR and became a crew member of WAS_A_CREW_MEMBER_OF is now currently retired .
 The country of Anderson Township , Madison County , Indiana , is COUNTRY .
 CITYSERVED is served by CITYSERVED Airport Schuphol which is at an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) from sea level . It has a runway length of RUNWAYLENGTH metres and it has the runway name , 04 / 22 Oostbaan .
 The Port Authority of HEADQUARTER and New Jersey is the operating organisation of Atlantic City International airport with its headquarters in HEADQUARTER .
@@ -6935,15 +6935,15 @@ AIRPORT is owned by the OWNER .
 Johns Hopkins University Press is based in the COUNTRY .
 UNIVERSITY is in the state of STATE which has to its northwest Mah é , COUNTRY . The largest city in COUNTRY is LARGESTCITY .
 FOOD is a nationwide dish in Indonesia and , LEADERNAME led , COUNTRY ( where LANGUAGE is spoken ) .
-ASTRONAUT ( born in BIRTHPLACE ) was a crew member of WAS A CREW MEMBER OF with CREWMEMBERS and retired on DATEOFRETIREMENT .
+ASTRONAUT ( born in BIRTHPLACE ) was a crew member of WAS_A_CREW_MEMBER_OF with CREWMEMBERS and retired on DATEOFRETIREMENT .
 ASTRONAUT , now deceased , was born in BIRTHPLACE and became a test pilot . He studied at University of Texas in Austin which is affiliated to the University of Texas system and is competing in the Big 12 conference .
 AIRPORT serves the city of Saranac Lake which is part of Harrietstown , New York , in the ISPARTOF .
 SPORTSTEAM play in the LEAGUE league , The CHAMPIONS were champions at the league .
-ASTRONAUT who was born in BIRTHPLACE and died in St Louis , graduated from the ALMAMATER and was selected by NASA in WAS SELECTED BY NASA , .
+ASTRONAUT who was born in BIRTHPLACE and died in St Louis , graduated from the ALMAMATER and was selected by NASA in WAS_SELECTED_BY_NASA , .
 The AIRPORT fourth runway is made of asphalt .
 INGREDIENT is an ingredient in beef kway teow which is served in the region of REGION and is a popular dish in COUNTRY .
 BUILDING is an art museum in the city of Akita , and is part of ISPARTOF .
-ASTRONAUT is a US national who was born in Glen Ridge New Jersey on AWARDS January 1930 . He obtained an ScD from MIT in 19963 and served as a crew member on the OPERATOR operated WAS A CREW MEMBER OF . He was the recipient of AWARDS awards during his career .
+ASTRONAUT is a US national who was born in Glen Ridge New Jersey on AWARDS January 1930 . He obtained an ScD from MIT in 19963 and served as a crew member on the OPERATOR operated WAS_A_CREW_MEMBER_OF . He was the recipient of AWARDS awards during his career .
 Barny cakes can be found in COUNTRY where the leaders are Gerard Larcher and LEADERNAME . Barny cakes were created by CREATOR which was founded in FOUNDATIONPLACE .
 MONUMENT is a rock formation found in LOCATION where the established religion is The Church of LOCATION .
 Chopped Fruits , sour cream , condensed milk , granola , shredded coconut and raisins are the main ingredients in bionico .
@@ -6964,7 +6964,7 @@ Agremiacao Sportiva Arapiraquense play in SEASON .
 WRITTENWORK was published by PUBLISHER in the state of STATE .
 LEADERNAME . is the leader of the PUBLISHER which published WRITTENWORK .
 The Atat ü rk Monument located in İ zmir , LOCATION was inaugurated on 27th July , 1932 . The capital of LOCATION is CAPITAL and LARGESTCITY is the largest city . LEADERNAME is the leader of LOCATION .
-ASTRONAUT , retired , was born in BIRTHPLACE and served as a test pilot and crew member of WAS A CREW MEMBER OF .
+ASTRONAUT , retired , was born in BIRTHPLACE and served as a test pilot and crew member of WAS_A_CREW_MEMBER_OF .
 SPORTSTEAM is in the LEAGUE league .
 FOOD is from COUNTRY where the leader is Gerard Larcher and the currency is the CURRENCY .
 Alexandria is part of ISPARTOF .
@@ -7003,7 +7003,7 @@ A variation of pakora can be achieved by adding paneer , pakora is related to bh
 The dish of ajoblanco contains water it originates in COUNTRY .
 Auron was created by both Marv Wolfman and CREATOR .
 UNIVERSITY in LOCATION has a staff of ACADEMICSTAFFSIZE and NUMBEROFSTUDENTS students .
-ASTRONAUT , crew member of WAS A CREW MEMBER OF retired as of DATEOFRETIREMENT .
+ASTRONAUT , crew member of WAS_A_CREW_MEMBER_OF retired as of DATEOFRETIREMENT .
 The capital of the U . S . is Washington , D . C .
 INGREDIENT is one of the ingredients of FOOD .
 A member of the CLASS class , as well as being in the division of flowering plants and belonging to the ORDER order , 2ND_RUNWAY_SURFACETYPE is the surface type of the second runway of Ardmore Airport , New Zealand .
@@ -7015,7 +7015,7 @@ American CREATOR created the COMICSCHARACTER who is sometimes known as ALTERNATI
 SPORTSTEAM Mechanics ground holds NUMBEROFMEMBERS fans . The club ' s full name is FULLNAME and in the season 2014 - 2015 they played in the North West Counties Football League .
 FOOD , which contains celery , comes from COUNTRY but is popular all over COUNTRY and Southeastern Asian countries .
 AIRPORT is found in Punjab , COUNTRY . It serves the city of CITYSERVED . The leader of Punjab is LEADERNAME .
-LOCATION , is the location of the 11th Mississippi Infantry monument which was established in the year ESTABLISHED . Adams County is south of Cumberland County , and northwest of Carrol County in Maryland and northeast of HAS TO ITS SOUTHWEST .
+LOCATION , is the location of the 11th Mississippi Infantry monument which was established in the year ESTABLISHED . Adams County is south of Cumberland County , and northwest of Carrol County in Maryland and northeast of HAS_TO_ITS_SOUTHWEST .
 FOOD comes from the REGION region of COUNTRY . It has the components : INGREDIENT , tomato , cheese and olive oil .
 Celery is of the GENUS genus .
 The state of STATE in COUNTRY is northwest of Mahe , COUNTRY and is lead by LEADERNAME . It is the location of the UNIVERSITY in the city of CITY which has ACADEMICSTAFFSIZE academic staff .
@@ -7027,7 +7027,7 @@ ASTRONAUT was born on the 17th of October 1933 and graduated from AFIT in 1962 w
 The founder of The Bodley Head is FOUNDER .
 The 3rd runway at AIRPORT is made of 3RD_RUNWAY_SURFACETYPE and has a length of RUNWAYLENGTH .
 The MONUMENT is located in the state of STATE .
-ASTRONAUT was an American fighter pilot who was born in BIRTHPLACE . In WAS SELECTED BY NASA , he was selected as part of NASA ' s WAS A CREW MEMBER OF crew . He has retired .
+ASTRONAUT was an American fighter pilot who was born in BIRTHPLACE . In WAS_SELECTED_BY_NASA , he was selected as part of NASA ' s WAS_A_CREW_MEMBER_OF crew . He has retired .
 AUTHOR was born in BIRTHPLACE , he is the author of 1634 : The Ram Rebellion .
 BUILDING , which has FLOORCOUNT floors is located in LOCATION , Cuyahoga County , ISPARTOF , COUNTRY .
 Appleton , Wisconsin is part of little chute , Wisconsin .
@@ -7041,19 +7041,19 @@ DISHVARIATION is a dessert , as is FOOD which contains raisins .
 The UNIVERSITY is affiliated with the AFFILIATION .
 FOOD is a traditional dish from REGION .
 Tomatoes are one of the ingredients of FOOD . It is part of the flowering plant division and member of the ORDER ( FAMILY ) order .
-BUILDING is located in LOCATION and was built in YEAROFCONSTRUCTION . The House was added to the National Register of Historic Places on 22nd November 1988 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING is located in LOCATION and was built in YEAROFCONSTRUCTION . The House was added to the National Register of Historic Places on 22nd November 1988 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 CITY is the largest city in Travis County , Texas .
 The Acta Palaeontologica Polinica , abbreviated to ABBREVIATION , comes under the academic discipline of ACADEMICDISCIPLINE .
 The AIRPORT serves the city of CITYSERVED which is a city in COUNTRY .
 Austin is part of Williamson County , in Texas .
 LEADERNAME is a leader of the REGION ( COUNTRY ) where Arros negre comes from .
-Buzz Aldrin , whose birth name is BIRTHNAME , has won AWARDS awards . He was a crew member of the WAS A CREW MEMBER OF that had ASTRONAUT as backup pilot . The WAS A CREW MEMBER OF program was organized by OPERATOR .
+Buzz Aldrin , whose birth name is BIRTHNAME , has won AWARDS awards . He was a crew member of the WAS_A_CREW_MEMBER_OF that had ASTRONAUT as backup pilot . The WAS_A_CREW_MEMBER_OF program was organized by OPERATOR .
 The Archarya Institute of Technology in COUNTRY has NUMBEROFUNDERGRADUATESTUDENTS undergraduate students .
-Edwin E Aldrin Jr ( more usually known as Buzz ) was born on 20 January 1930 . He graduated from MIT ScD in 1963 . Following this he served as a fighter pilot and as a crew member of WAS A CREW MEMBER OF .
+Edwin E Aldrin Jr ( more usually known as Buzz ) was born on 20 January 1930 . He graduated from MIT ScD in 1963 . Following this he served as a fighter pilot and as a crew member of WAS_A_CREW_MEMBER_OF .
 1634 : The Bavarian Crisis , preceded by AUTHOR ' s 1634 : The Baltic war , is the sequel to PRECEDEDBY .
 The city of Aarhus is governed by Magistrates .
-ASTRONAUT graduated from ALMAMATER and was a crew member of WAS A CREW MEMBER OF before retiring on DATEOFRETIREMENT .
-The UNIVERSITY which is affiliated with the Visesvaraya Technological Univerrsity is located in the city of CITY in STATE state . This state has the HAS TO ITS WEST to the west .
+ASTRONAUT graduated from ALMAMATER and was a crew member of WAS_A_CREW_MEMBER_OF before retiring on DATEOFRETIREMENT .
+The UNIVERSITY which is affiliated with the Visesvaraya Technological Univerrsity is located in the city of CITY in STATE state . This state has the HAS_TO_ITS_WEST to the west .
 WRITTENWORK is an American novel , where English ( the language of SPOKENIN ) is spoken . The previous president was LEADERNAME who is African American .
 The School of Business and Social Sciences at Aarhus University takes NUMBEROFSTUDENTS students and is affiliated to the AFFILIATION .
 UNIVERSITY ( motto MOTTO ) is located at Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 , STATE , COUNTRY and is affiliated with AFFILIATION .
@@ -7066,7 +7066,7 @@ Angola International airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres abo
 The currency of Turkey is Turkish Lira .
 The Purple Finch is a New Hampshire bird .
 AEK Athens FC played in the SEASON season .
-OPERATOR operated the WAS A CREW MEMBER OF , which had BACKUP PILOT as backup pilot . CREWMEMBERS served as a crew member along with ASTRONAUT , who was born in BIRTHPLACE .
+OPERATOR operated the WAS_A_CREW_MEMBER_OF , which had BACKUP_PILOT as backup pilot . CREWMEMBERS served as a crew member along with ASTRONAUT , who was born in BIRTHPLACE .
 A . D . Isidro Metapan , full name Asociacion Deportiva , plays at its ground at Metapan . Their manager is Jorge Humberto Rodriguez and they have NUMBEROFMEMBERS members .
 MAININGREDIENTS is a main ingredient of FOOD but it also uses bacon .
 Pennsylvania ' s Franklin Country is west of Adams County which has Carrol County Maryland to its southeast . To the North of Adams County is Cumberland County with Frederick County to the southeast . The municipality for the MONUMENT is Gettysburg which is located in Adams County .
@@ -7074,7 +7074,7 @@ FULLNAME is abbreviated to SPORTSTEAM .
 Allama Iqbal International airport is located in LOCATION . Its runway name is RUNWAYNAME and it is 2900 long .
 The manager of FC Magdeburg is MANAGER who is part of the CLUB club .
 The MONUMENT is found in STATE .
-ASTRONAUT was born on Mar 15 , 1932 in BIRTHPLACE where he performed as a test pilot and was on the crew of WAS A CREW MEMBER OF . He is retired .
+ASTRONAUT was born on Mar 15 , 1932 in BIRTHPLACE where he performed as a test pilot and was on the crew of WAS_A_CREW_MEMBER_OF . He is retired .
 The runway at AIRPORT is named RUNWAYNAME .
 SPORTSTEAM ' s ground is GROUND , with TENANT as tenant .
 FOOD is a food found in Spanish speaking COUNTRY , a country led by LEADERNAME .
@@ -7088,7 +7088,7 @@ RUNWAYNAME is the runway name of AIRPORT .
 ARCHITECT was the architect of BUILDING in LOCATION .
 INGREDIENT is an ingredient in FOOD which is from COUNTRY .
 UNIVERSITY is located in CITY , STATE state in COUNTRY . The largest city in COUNTRY is LARGESTCITY and the most important river is the RIVER . STATE has to its northwest Mah é , COUNTRY .
-ASTRONAUT was a student of the University of Texas in Austin , the same school that has PRESIDENT as its president , is affiliated with the University of Texas system and competes in the COMPETE IN . See died in DEATHPLACE which was once part of the ISPARTOF .
+ASTRONAUT was a student of the University of Texas in Austin , the same school that has PRESIDENT as its president , is affiliated with the University of Texas system and competes in the COMPETE_IN . See died in DEATHPLACE which was once part of the ISPARTOF .
 In Wisconsin ( COUNTRY ) , is AIRPORT , in Greenville ( part of Ellington ) . It serves the city of Appleton which is part of ISPARTOF .
 AIRPORT , located in LOCATION , serves Lake Placid , NY and Saranac Lake , NY . The length of the runway at this airport is RUNWAYLENGTH and it lies ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 FOOD is a dish popular nationwide in COUNTRY . The main ingredients for Beef Kway Teow are : MAININGREDIENTS .
@@ -7100,9 +7100,9 @@ Agremiacao Sportiva Arapiraquense has NUMBEROFMEMBERS members and play in the Ca
 Amarillo Texas has a population density of 746 . 0 inhabitants per square kilometre .
 CAPITAL is the capital of Denmark .
 WRITTENWORK is published by PUBLISHER , located in the U . S . It is written in English , which is also spoken in SPOKENIN .
-Located in LOCATION , BUILDING were added to the National Register of Historic Places on 23rd April 1980 and has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+Located in LOCATION , BUILDING were added to the National Register of Historic Places on 23rd April 1980 and has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 ASTRONAUT ' s time in space is 13017 minutes .
-ASTRONAUT joined Nasa in WAS SELECTED BY NASA as a test pilot . He then went on to become a member of WAS A CREW MEMBER OF ' s crew along with BACKUP PILOT as backup pilot and COMMANDER as commander .
+ASTRONAUT joined Nasa in WAS_SELECTED_BY_NASA as a test pilot . He then went on to become a member of WAS_A_CREW_MEMBER_OF ' s crew along with BACKUP_PILOT as backup pilot and COMMANDER as commander .
 AIRPORT , which serves the city of CITYSERVED and is governed by the LOCATION Civil Authority , is located in LOCATION . The name of the airport ' s runway is RUNWAYNAME and it is 3 , 310 long .
 The UNIVERSITY was established in ESTABLISHED .
 LEADERNAME is the leader of COUNTRY where the LANGUAGE is spoken . FOOD is a food which originates in the country and is still found there .
@@ -7121,9 +7121,9 @@ The tomato belongs to the genus GENUS , is part of the family of FAMILY and is a
 The ground of SPORTSTEAM is located in GROUND , where the leader is LEADER .
 When lettuce is added to a bacon sandwich it is known as a DISHVARIATION .
 Adolfo Su á rez Madrid Barajas Airport is located in LOCATION in COUNTRY at 610 metres above sea level .
-ASTRONAUT was born on the 15th March 1932 in BIRTHPLACE . He was a test pilot and he was chosen by NASA in WAS SELECTED BY NASA . He served as a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born on the 15th March 1932 in BIRTHPLACE . He was a test pilot and he was chosen by NASA in WAS_SELECTED_BY_NASA . He served as a crew member on WAS_A_CREW_MEMBER_OF .
 The CURRENCY is the currency in COUNTRY and the leader is Felipe VI . FOOD is a traditional dish from COUNTRY in the REGION region where the leaders are the LEADERNAME .
-ASTRONAUT was born in BIRTHPLACE in 1927 . He graduated from the ALMAMATER and joined NASA in WAS SELECTED BY NASA where he performed as a test pilot . He died in St Louis .
+ASTRONAUT was born in BIRTHPLACE in 1927 . He graduated from the ALMAMATER and joined NASA in WAS_SELECTED_BY_NASA where he performed as a test pilot . He died in St Louis .
 Greece ' s leader is LEADER .
 AIRPORT is located in Andrews , LOCATION . The airport is located 973 meters above sea level and has a 1 . 773 km long runway .
 OWNER is the owner of BUILDING in LOCATION , COUNTRY where the leader of the government is the LEADERTITLE .
@@ -7138,10 +7138,10 @@ The Vietnamese are an ethnic group in COUNTRY where Taro Aso is the leader . The
 BUILDING is located in LOCATION , COUNTRY .
 Lohore is a city in COUNTRY . it is served by Allama Iqbal international airport , located in Punjab COUNTRY and the leader of Punjab is LEADERNAME .
 The RESIDENCE is the residence of A T Charlie Johnson who edited WRITTENWORK . His alma mater was ALMAMATER and his doctoral advisor was DOCTORALADVISOR .
-Adams County Pennsylvania is East of HAS TO ITS WEST and has Carrol County , Maryland to its southeast and HAS TO ITS NORTH to its north . The MONUMENT is located in Adams County and falls under the category of CATEGORY . The MONUMENT was established in ESTABLISHED .
+Adams County Pennsylvania is East of HAS_TO_ITS_WEST and has Carrol County , Maryland to its southeast and HAS_TO_ITS_NORTH to its north . The MONUMENT is located in Adams County and falls under the category of CATEGORY . The MONUMENT was established in ESTABLISHED .
 The book " WRITTENWORK " is printed with NUMBEROFPAGES pages and has an ISBN number of ISBN_NUMBER .
 WRITTENWORK is from the COUNTRY where the Native Americans are an ethnic group .
-American ASTRONAUT was born in BIRTHPLACE on January 20th , 1930 . In 1963 he graduated from MIT with a Sc . D . . was chosen to crew WAS A CREW MEMBER OF by OPERATOR and had AWARDS awards to his credit .
+American ASTRONAUT was born in BIRTHPLACE on January 20th , 1930 . In 1963 he graduated from MIT with a Sc . D . . was chosen to crew WAS_A_CREW_MEMBER_OF by OPERATOR and had AWARDS awards to his credit .
 Beefkway teow is popular in COUNTRY and originates in REGION where LEADERNAME is a leader and the LANGUAGE is spoken .
 AUTHOR is the author of WRITTENWORK , which was put in print and has NUMBEROFPAGES pages .
 The COUNTRY is led by LEADERNAME . Among popular sandwiches in the U . K . are bacon sandwiches , which has brown sauce as one of its ingredients . The DISHVARIATION is one type of a bacon club sandwich .
@@ -7152,11 +7152,11 @@ CAPITAL is the capital of GROUND , where leaders include , Pietro Grasso and LEA
 Peter Stoger , manager of 1 . FC Koln , is also in the SK Vorwarts Steyr club .
 AUTHOR are the authors of 1634 : The Bavarian crisis which is the sequel to PRECEDEDBY .
 Written in English , FOLLOWEDBY followed the book WRITTENWORK which has the ISBN number ISBN_NUMBER .
-ASTRONAUT was a crew member of OPERATOR operated WAS A CREW MEMBER OF who died in DEATHPLACE which is represented by SENATORS .
+ASTRONAUT was a crew member of OPERATOR operated WAS_A_CREW_MEMBER_OF who died in DEATHPLACE which is represented by SENATORS .
 The UNIVERSITY is in COUNTRY . The country ' s leader is the Federal Chancellor LEADERNAME who heads the Federal Assembly , and the national anthem is the ANTHEM .
 The leader of Catalonia is LEADERNAME .
 LOCATION ( led by LEADERNAME ) is located in ISPARTOF , COUNTRY and is the location of BUILDING ( which has FLOORCOUNT floors ) .
-ASTRONAUT joined OPERATOR in WAS SELECTED BY NASA where he became a member of the WAS A CREW MEMBER OF mission along with BACKUP PILOT as back up pilot and COMMANDER as commander .
+ASTRONAUT joined OPERATOR in WAS_SELECTED_BY_NASA where he became a member of the WAS_A_CREW_MEMBER_OF mission along with BACKUP_PILOT as back up pilot and COMMANDER as commander .
 The Native Americans are an ethnic group in the U . S . where the capital city is Washington DC and 1634 The Ram Rebellion was written .
 ASTRONAUT died DEATHDATE .
 ASTRONAUT died in DEATHPLACE , which has as its gemstone , GEMSTONE .
@@ -7229,7 +7229,7 @@ CITY has postal codes 94509 and 94531 .
 Ardmore Airport ( New Zealand ) ' s 3rd runway is surfaced with 3RD_RUNWAY_SURFACETYPE ( division of flowering plants ) . 3RD_RUNWAY_SURFACETYPE is placed in the order of ORDER and classified as CLASS .
 WRITTENWORK was first published in FIRSTPUBLICATIONYEAR .
 LOCATION is in the ISPARTOF . The AIRPORT is located there .
-Adams County in Pennsylvania is located to the south of Cumberland County and northwest of HAS TO ITS SOUTHEAST . It is the location of the 11th Mississippi Infantry monument .
+Adams County in Pennsylvania is located to the south of Cumberland County and northwest of HAS_TO_ITS_SOUTHEAST . It is the location of the 11th Mississippi Infantry monument .
 The UNIVERSITY is located in STATE lulia , STATE . Its nickname is NICKNAME .
 The runway length of AIRPORT is RUNWAYLENGTH .
 COUNTRY is the country FOOD comes from , it includes the ingredient pork .
@@ -7240,7 +7240,7 @@ The book WRITTENWORK has NUMBEROFPAGES pages .
 Established in ESTABLISHED , the UNIVERSITY in CITY , STATE , southeast of Mahe , COUNTRY . It currently has ACADEMICSTAFFSIZE staff .
 The MONUMENT is found in LOCATION , where the largest city is LARGESTCITY , and the leader - the LEADERTITLE - is called Ahmet Davutoglu .
 The length of the runway at AIRPORT is 1773 metres .
-ASTRONAUT served as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN and had a title as the TITLE .
+ASTRONAUT served as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN and had a title as the TITLE .
 Administrative Society Quarterly , abbreviated to Admin . Sci . Q , is published by PUBLISHER . Their ISSN number is ISSN_NUMBER and the LLCN number is LCCN_NUMBER .
 WRITTENWORK is NUMBEROFPAGES pages long and has the ISBN number ISBN_NUMBER .
 BUILDING , LOCATION , has FLOORCOUNT floors covering an area of 30843 . 8 square metres , and had a building start date of January 2014 .
@@ -7262,11 +7262,11 @@ WRITTENWORK is published in MEDIATYPE and the OCLC number OCLC_NUMBER .
 FOLLOWEDBY followed the book WRITTENWORK published by PUBLISHER . WRITTENWORK comes from COUNTRY where an ethnic group is white people .
 The printed book WRITTENWORK , was written by AUTHOR and has NUMBEROFPAGES pages .
 A . S . Roma ' s ground in GROUND holds NUMBEROFMEMBERS fans . The club play in LEAGUE , the champions of which are Juventus F . C .
-ASTRONAUT was born on the 15th of March 1932 . He joined OPERATOR in WAS SELECTED BY NASA and became a crew member on the WAS A CREW MEMBER OF flight mission along with BACKUP PILOT as backup pilot and COMMANDER as commander .
+ASTRONAUT was born on the 15th of March 1932 . He joined OPERATOR in WAS_SELECTED_BY_NASA and became a crew member on the WAS_A_CREW_MEMBER_OF flight mission along with BACKUP_PILOT as backup pilot and COMMANDER as commander .
 The ISSN number of Addiction journal is ISSN_NUMBER .
 The ETHNICGROUP are an ethnic group in the Philippines .
 WRITTENWORK was published in hardback and has NUMBEROFPAGES pages .
-Adams County in STATE is located south of Cumberland County . HAS TO ITS SOUTHWEST is to the southwest and Carrol County , Maryland is to the southeast . The County is the location of the 11th Mississippi Infantry monument which was established in ESTABLISHED and is categorised as a contributing property .
+Adams County in STATE is located south of Cumberland County . HAS_TO_ITS_SOUTHWEST is to the southwest and Carrol County , Maryland is to the southeast . The County is the location of the 11th Mississippi Infantry monument which was established in ESTABLISHED and is categorised as a contributing property .
 DEMONYM inhabit the U . S whose capital is Washington D . C . and whose leader is LEADERNAME .
 The comic character , Ballistic , has the alternative name , ALTERNATIVENAME .
 AIRPORT serves the city of CITYSERVED which is part of ISPARTOF .
@@ -7286,18 +7286,18 @@ FOOD is a dish from the COUNTRY , where the leader is LEADERNAME and ETHNICGROUP
 LEADERNAME is the leader of COUNTRY where Allama Iqbal International airport , serving the city of CITYSERVED is situated in Punjab .
 FOOD comes from the REGION region and can be found in the COUNTRY . A main ingredient is sago and it also contains banana .
 PUBLISHER in the city of CITY , is the publisher of WRITTENWORK .
-BUILDING are located on LOCATION . It has the Romanesque Revival style of architecture and were contructed in YEAROFCONSTRUCTION . The Reference Number in the National Register of Historic Places is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES and was added on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING are located on LOCATION . It has the Romanesque Revival style of architecture and were contructed in YEAROFCONSTRUCTION . The Reference Number in the National Register of Historic Places is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES and was added on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 Tirstrup is in COUNTRY .
 The UNIVERSITY is affiliated with Visvesvaraya Technologial University .
 Peter St ö ger is at the CLUB club .
-ASTRONAUT was born in BIRTHPLACE county , Texas and attended UT at Austin ( which is affiliated to the university of Texas system ) . PRESIDENT is the President of UT , which competed in the COMPETE IN in Austin . Hook ' em is the mascot for the UT .
+ASTRONAUT was born in BIRTHPLACE county , Texas and attended UT at Austin ( which is affiliated to the university of Texas system ) . PRESIDENT is the President of UT , which competed in the COMPETE_IN in Austin . Hook ' em is the mascot for the UT .
 The academic discipline of WRITTENWORK ( which can be abbreviated to ABBREVIATION ) is ACADEMICDISCIPLINE . It has the LLCN number LCCN_NUMBER .
 INGREDIENT is an ingredient in FOOD .
 ARCHITECT born in BIRTHPLACE was the architect of the grounds of Asilomar Conference . One of the significant buildings designed by ARCHITECT is the SIGNIFICANTBUILDING .
 UNIVERSITY is located in COUNTRY . The country ' s leader is LEADERNAME and their national anthem is the ANTHEM .
 Appleton International airport serving Appleton , is located in LOCATION , USA , which is part of ISPARTOF . Appleton is also part of Kimberly in that state of Wisconsin .
 UNIVERSITY has a staff size of ACADEMICSTAFFSIZE and is located in COUNTRY .
-ASTRONAUT is a national of the NATIONALITY . He was born in BIRTHPLACE . He was a test pilot and was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT is a national of the NATIONALITY . He was born in BIRTHPLACE . He was a test pilot and was selected by NASA in WAS_SELECTED_BY_NASA .
 The journal Addiction has the ISSN number ISSN_NUMBER .
 BUILDING is located in the country of COUNTRY .
 BATTLES was a battle involving the United States Air Force .
@@ -7313,7 +7313,7 @@ The company Populous were the architects of the BUILDING on LOCATION which was c
 The operating organisation for Al Asad airbase is the OPERATINGORGANISATION . They were involved in the battle at the invasion of Panama and use the TRANSPORTAIRCRAFT transport aircraft , the AIRCRAFTFIGHTER fighter aircraft , and the ATTACKAIRCRAFT on their aircraft carriers .
 BUILDING , with FLOORCOUNT floors covering 111484 square metres , is located in LOCATION and was completed in COMPLETIONDATE .
 Vegetables are included in the dishes Bhaji and Bajji .
-ASTRONAUT was born in BIRTHPLACE and attended the ALMAMATER which is an affiliate of the University of Texas system and competes in the COMPETE IN . He later became a test pilot .
+ASTRONAUT was born in BIRTHPLACE and attended the ALMAMATER which is an affiliate of the University of Texas system and competes in the COMPETE_IN . He later became a test pilot .
 The CURRENCY is the currency in COUNTRY where the leaders are T . S . Thakur and LEADERNAME . FOOD comes from the REGION region in COUNTRY .
 The WRITTENWORK ( abbrv . Admin . Sci . Q , ISSN : ISSN_NUMBER , LCCN : LCCN_NUMBER ) comes under the academic discipline of ACADEMICDISCIPLINE .
 The manager of FC Magdeburg is MANAGER , he played for FC Lokomotive Leipzig , for SV Germania Schoneiche , and has represented the club CLUB .
@@ -7324,7 +7324,7 @@ AIRPORT , which serves the city of CITYSERVED , is 88 metres above sea level . I
 ASTRONAUT was born on BIRTHDATE .
 INGREDIENT is an ingredient in Arem arem .
 The company Populous is the architect of BUILDING which is located at LOCATION . and completed in COMPLETIONDATE .
-Alan Shephard was born in BIRTHPLACE . He was selected by NASA in WAS SELECTED BY NASA and became a member of the WAS A CREW MEMBER OF crew . He died in DEATHPLACE .
+Alan Shephard was born in BIRTHPLACE . He was selected by NASA in WAS_SELECTED_BY_NASA and became a member of the WAS_A_CREW_MEMBER_OF crew . He died in DEATHPLACE .
 Wilson Township ( Alpena County ) , Michigan , U . S . A . , is home to the AIRPORT , whose runway length is 1 , 533 . and is located ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 BUILDING which has FLOORCOUNT floors is owned by Redefine Properties .
 COUNTRY ' s capital city is CAPITAL and among the country ' s ethnic groups can be found the Malay people and the Malaysian Indians . Asam Pedas is a dish of the region and can be found throughout the Malaysian peninsula .
@@ -7337,10 +7337,10 @@ WRITTENWORK was originally published in English which is spoken in SPOKENIN .
 LEADERNAME is the leader of COUNTRY where one of the local foods is asam pedas .
 WRITTENWORK was written in English by AUTHOR . The book was preceded by 1634 The Ram Rebellion .
 HOMETOWN is lead by the GOVERNINGBODY and the LEADERNAME . The town ( which has the B postcode ) is the birthplace of the architect ARCHITECT who designed BUILDING .
-ASTRONAUT was born in BIRTHPLACE . Now retired , he was selected by NASA in WAS SELECTED BY NASA , and was a crew member of the WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE . Now retired , he was selected by NASA in WAS_SELECTED_BY_NASA , and was a crew member of the WAS_A_CREW_MEMBER_OF .
 Jack Kirby and CREATOR , created the comic character Balder .
 The AIDS journal belongs to the academic discipline , ACADEMICDISCIPLINE and has the ISSN number ISSN_NUMBER .
-ASTRONAUT was born in BIRTHPLACE and graduated from MIT with a SC . D . in WAS SELECTED BY NASA . Shortly after his graduation he was selected by NASA and served both as a fighter pilot and a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE and graduated from MIT with a SC . D . in WAS_SELECTED_BY_NASA . Shortly after his graduation he was selected by NASA and served both as a fighter pilot and a crew member on WAS_A_CREW_MEMBER_OF .
 BUILDING , which has FLOORCOUNT floors , is located in LOCATION .
 BUILDING is located in Asherton , a part of ISPARTOF .
 United States ' s Ambassador to Norway is ASTRONAUT .
@@ -7362,11 +7362,11 @@ The UNIVERSITY offers sports including tennis .
 The BUILDING is in LOCATION , part of the ISPARTOF in COUNTRY . Akhito is the Emperor of COUNTRY whose ethnic groups include the Vietnamese .
 ASTRONAUT was a test pilot .
 WRITTENWORK is from The COUNTRY where the capital is Washington DC . The population of the US includes the ETHNICGROUP and the language spoken is English ( which is also spoken in SPOKENIN ) .
-In ESTABLISHED the 11th Mississippi Infantry monument was established in LOCATION . This County is south of Cumberland County and to the northwest of HAS TO ITS SOUTHEAST .
+In ESTABLISHED the 11th Mississippi Infantry monument was established in LOCATION . This County is south of Cumberland County and to the northwest of HAS_TO_ITS_SOUTHEAST .
 CITY has a water area of 0 , 54 square kilometres .
 Populous were architects that designed the BUILDING that is in LOCATION .
 UNIVERSITY is in CITY which is part of ISPARTOF in COUNTRY . COUNTRY ' s capital is CAPITAL and its ethnic group is the Germans of COUNTRY . The country is led by LEADERNAME .
-ASTRONAUT was born in BIRTHPLACE on the 23rd of July , 1927 . In WAS SELECTED BY NASA , he was chosen by NASA . ASTRONAUT passed away in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE on the 23rd of July , 1927 . In WAS_SELECTED_BY_NASA , he was chosen by NASA . ASTRONAUT passed away in DEATHPLACE .
 The runway name of AIRPORT is 18R / 36L Polderbaan .
 UNIVERSITY is in COUNTRY where the RIVER River can be found .
 Located in LOCATIONCITY , the BROADCASTEDBY , broadcast COMICSCHARACTER .
@@ -7450,7 +7450,7 @@ Adolfo Suarez LOCATIONCITY - Barajas airport is located at LOCATIONCITY , Paracu
 WRITTENWORK is published by PUBLISHER , that is based in COUNTRY , where there is an ethnic group called ETHNICGROUP .
 Abilene , Texas is part of Taylor County , Texas .
 BUILDING in LOCATION was designed by Rafael Vinoly . A leader of LOCATION is LEADERNAME along with the LEADERTITLE .
-The 11th Mississippi Infantry monument is categorised as contributing property and located in LOCATION . This county is south of Cumberland County and northwest of HAS TO ITS SOUTHEAST .
+The 11th Mississippi Infantry monument is categorised as contributing property and located in LOCATION . This county is south of Cumberland County and northwest of HAS_TO_ITS_SOUTHEAST .
 ASTRONAUT was awarded the ' Legion of Merit ' ribbon .
 OPERATINGORGANISATION is the operation organisation of AIRPORT which is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above the sea level . It has a runway length of RUNWAYLENGTH and a runway with the name RUNWAYNAME .
 1634 ; The Bavarian Crisis was the sequel to PRECEDEDBY and written by AUTHOR .
@@ -7463,7 +7463,7 @@ LEADERNAME is the name of the leader of Iraq .
 AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) m . above sea level , a runway length of RUNWAYLENGTH ( RUNWAYNAME ) and serves CITYSERVED .
 The chairman of SPORTSTEAM is CHAIRMAN .
 AIRPORT is operated by OPERATINGORGANISATION who have their headquarters in HEADQUARTER and their hub airport at HUBAIRPORT .
-UNIVERSITY , which is in the state of STATE , is affiliated with AFFILIATION in Belgium . The school was given its Technical Campus status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION . To the west of STATE is the HAS TO ITS WEST .
+UNIVERSITY , which is in the state of STATE , is affiliated with AFFILIATION in Belgium . The school was given its Technical Campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION . To the west of STATE is the HAS_TO_ITS_WEST .
 The SPORTSTEAM club is located in LOCATION where the LANGUAGE is spoken . LEADER heads LOCATION which has the capital city of CAPITAL .
 The runway length of AIRPORT is 1 , 982 .
 LEADERNAME is the leader of COUNTRY where FOOD is a traditional sauce .
@@ -7471,7 +7471,7 @@ Blockbuster is a comic character with the alternative name of ALTERNATIVENAME an
 FOOD comes from COUNTRY where French is the national language and the leader is Gerard Larcher .
 SPORTSTEAM are managed by MANAGER who played for the Italy national football team and CLUB .
 AIRPORT is in LOCATION which is part of ISPARTOF and is COUNTRY .
-ASTRONAUT was a member of WAS A CREW MEMBER OF ' s crew .
+ASTRONAUT was a member of WAS_A_CREW_MEMBER_OF ' s crew .
 operated by the OPERATINGORGANISATION , AIRPORT ' s 3rd runway surface type is 3RD_RUNWAY_SURFACETYPE . It is elevated ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , RUNWAYNAME is the runway name and the runway length is RUNWAYLENGTH .
 WRITTENWORK , written by AUTHOR , was produced in print with the ISBN number ISBN_NUMBER .
 The UNIVERSITY is located in the state of CITY , STATE . It was established in ESTABLISHED . STATE has a leader called LEADERNAME .
@@ -7518,14 +7518,14 @@ Adolfo Suarez LOCATIONCITY - Barajas Airport , located in : LOCATIONCITY ( COUNT
 FOOD is a dessert created in CREATOR . It is made of ground almond , jam , butter and eggs and can be served warm ( freshly baked ) or cold .
 CITY is at a height of ELEVATIONABOVETHESEALEVEL above sea level .
 SPORTSTEAM ' s ground is in GROUND .
-American ASTRONAUT attended the University of Texas in Austin , the school that is part of the University of Texas system and competes in the COMPETE IN . He was born in BIRTHPLACE on July 23rd , 1927 .
+American ASTRONAUT attended the University of Texas in Austin , the school that is part of the University of Texas system and competes in the COMPETE_IN . He was born in BIRTHPLACE on July 23rd , 1927 .
 English is the both spoken in SPOKENIN and the language of the United states where " WRITTENWORK " is also published .
 FOOD is a food containing olive oil from REGION in COUNTRY .
 AIRPORT serves the city of CITYSERVED .
 FOOD is eaten in the COUNTRY where LANGUAGE is the language and one of the ethnic groups is the ETHNICGROUP .
 Glen Ridge is located in the Essex County in New Jersey .
 The OPERATINGORGANISATION operate AIRPORT which is in LOCATION . It has several identifiers such as its ICAO location identifier which is ICAO_LOCATION_IDENTIFIER , or the IATA I . D . which isIATA_LOCATION_IDENTIFIER .
-American ASTRONAUT was born in BIRTHPLACE on March 15th , 1932 and was a member of WAS A CREW MEMBER OF .
+American ASTRONAUT was born in BIRTHPLACE on March 15th , 1932 and was a member of WAS_A_CREW_MEMBER_OF .
 LEADERNAME leads Singapore .
 WRITTENWORK has NUMBEROFPAGES pages .
 ASTRONAUT was born in BIRTHPLACE on the 23rd July 1927 . He was an American test pilot who died in DEATHPLACE .
@@ -7593,10 +7593,10 @@ Manhattan is part of LOCATION , which was part of ISPARTOF , and is the location
 George Winkler is from the COUNTRY of America .
 LEADERNAME is the leader of Guarat , COUNTRY , home to Amadavad ni Gufa .
 INGREDIENT in an ingredient in bacon explosion , originating from the REGION .
-The UNIVERSITY in STATE was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION and it is affiliated with the AFFILIATION . STATE is east of the HAS TO ITS WEST .
+The UNIVERSITY in STATE was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION and it is affiliated with the AFFILIATION . STATE is east of the HAS_TO_ITS_WEST .
 The bacon explosion is from the Kansas city metropolitan area of the COUNTRY . The main ingredients are bacon and sausage .
 Noodles , pork organs , vegetables , chicken , shrimp and beef are main ingredients of FOOD which is found in REGION .
-The UNIVERSITY is located is the city of CITY and has strong connections with the AFFILIATION . One of sports offered is SPORTSOFFERED with the SPORTSGOVERNINGBODY being the governing body . The Institute was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY which is based in LOCATION .
+The UNIVERSITY is located is the city of CITY and has strong connections with the AFFILIATION . One of sports offered is SPORTSOFFERED with the SPORTSGOVERNINGBODY being the governing body . The Institute was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY which is based in LOCATION .
 FOOD should be served " SERVINGTEMPERATURE " .
 The MONUMENT is placed in the municipality of Gettysburg in Pennsylvania and erected in ESTABLISHED .
 WRITTENWORK was published by PUBLISHER , who have the parent company PUBLISHER is PARENTCOMPANY . The journal is from the COUNTRY where the language spoken is English .
@@ -7611,10 +7611,10 @@ UNIVERSITY is located in STATE , COUNTRY . STATE has Mahe , COUNTRY to its north
 INGREDIENT is an ingredient of FOOD which is a dish found in the US .
 HIV belongs to the family FAMILY .
 LEADER is the leader of GROUND where AC Lumezzane ' s ground is located . The country is inhabited by DEMONYM who speak the LANGUAGE .
-ASTRONAUT joined NASA in WAS SELECTED BY NASA .
+ASTRONAUT joined NASA in WAS_SELECTED_BY_NASA .
 Alabama is in the COUNTRY .
 The Asociacion Deportiva is now known as A . D . Isidro Metapan and has NUMBEROFMEMBERS members and plays in Metapan .
-ASTRONAUT , who was born in BIRTHPLACE and flew as a test pilot , was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT , who was born in BIRTHPLACE and flew as a test pilot , was selected by NASA in WAS_SELECTED_BY_NASA .
 BUILDING is in LOCATION , U . S . and CURRENTTENANTS are tenants there .
 Affiliated with CLUB , MANAGER , manages SPORTSTEAM .
 FOOD and cookies are considered desserts . FOOD originates from Gerard Larcher led COUNTRY .
@@ -7627,11 +7627,11 @@ SPORTSTEAM ' s ground is St . Vincent - St . Mary High School which is located i
 Shitake is an ingredient of Shumai , a variation of which is DISHVARIATION . FOOD comes from COUNTRY .
 WRITTENWORK was written in English ( language of Great Britian ) and is from the COUNTRY . The previous president of the country was LEADERNAME who is African American .
 WRITTENWORK is available in print .
-Franklin County is west of LOCATION and southwest to HAS TO ITS SOUTHWEST . You can find the MONUMENT in Adams County which is in the municipality of Gettysburg .
+Franklin County is west of LOCATION and southwest to HAS_TO_ITS_SOUTHWEST . You can find the MONUMENT in Adams County which is in the municipality of Gettysburg .
 Afonsa Pena International airport serves the city of CITYSERVED which is part of Parana State and led by the Democratic Labour Party of Brazil .
 The Atat ü rk Monument is located in İ zmir , LOCATION , where the leader is LEADERNAME and the currency is the lira .
 The UNIVERSITY was established in ESTABLISHED and is located in the country of COUNTRY . The dean is called DEAN and it has NUMBEROFSTUDENTS students .
-ASTRONAUT , born in BIRTHPLACE , is a retired astronaut who was a member of the crew of WAS A CREW MEMBER OF .
+ASTRONAUT , born in BIRTHPLACE , is a retired astronaut who was a member of the crew of WAS_A_CREW_MEMBER_OF .
 FOOD is a dish served as a soup course .
 Barny cakes can be found in COUNTRY where the leader is LEADERNAME .
 The Acharya Institute of Techology in CITY , COUNTRY is affiliated to the AFFILIATION . Its director is Dr G . O . Prabhukumar and its motto is " MOTTO " .
@@ -7661,7 +7661,7 @@ The full name of SPORTSTEAM is FULLNAME and their hone ground is the GROUND . Th
 FOOD is a dish from the country of COUNTRY , where CAPITAL is the capital .
 1634 : Th Bavarian Crisis is available in hardcover .
 The book WRITTENWORK is written in English and comes from the COUNTRY where ETHNICGROUP are an ethnic group .
-ASTRONAUT , born March 15 , 1932 , spent over 69 days ( or 100305 minutes ! ) in space as a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT , born March 15 , 1932 , spent over 69 days ( or 100305 minutes ! ) in space as a member of the WAS_A_CREW_MEMBER_OF crew .
 BUILDING is in the architectural style of " Tudor and Jacobean " .
 The Apollo 11 program was organized by OPERATOR .
 INGREDIENT is a main ingredient of a Bakewell tart .
@@ -7680,7 +7680,7 @@ A DISHVARIATION is a type of bacon sandwich ( which includes ketchup ) and can b
 CITY is located at ELEVATIONABOVETHESEALEVEL above sea level .
 FOOD comes from COUNTRY where LEADERNAME is a leader and the capital is CAPITAL .
 SPORTSTEAM , are managed by MANAGER , who has played for Chelsea FC .
-ASTRONAUT , born in BIRTHPLACE , was a member of OPERATOR ' s WAS A CREW MEMBER OF crew .
+ASTRONAUT , born in BIRTHPLACE , was a member of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew .
 Barny cakes can be found in COUNTRY where the leader is LEADERNAME .
 INGREDIENT is an ingredient in the Chinese dish FOOD .
 INGREDIENT is an ingredient in FOOD which is found in REGION and originates from COUNTRY .
@@ -7690,7 +7690,7 @@ The leader of the LOCATION is titled President and the language spoken is Englis
 WRITTENWORK was published in print .
 Barney cakes is created by CREATOR , which was founded in FOUNDATIONPLACE . Barney cakes are now produced in COUNTRY , a nation led by LEADERNAME and Gerard Larcher .
 WRITTENWORK written by AUTHOR is available in paperback with the ISBN number ISBN_NUMBER .
-ASTRONAUT has retired , having been born in BIRTHPLACE and serving on the crew of WAS A CREW MEMBER OF .
+ASTRONAUT has retired , having been born in BIRTHPLACE and serving on the crew of WAS_A_CREW_MEMBER_OF .
 Margrethe II is Queen of COUNTRY where Aarhus airport is located in LOCATION which is part of the Central COUNTRY region .
 The AIDS journal is published by PUBLISHER in the COUNTRY , in the LANGUAGE .
 LEADERNAME is the leader of Catalonia .
@@ -7722,7 +7722,7 @@ LANGUAGE is a language found in Ethiopia .
 WRITTENWORK is from the COUNTRY where english is spoken as it is in SPOKENIN .
 DISHVARIATION is a variation of Arem arem , which if found nationwide in Indonesia but is more specific to Java . Its main ingredients are compressed rice , which is cooked in banana leaf with vegetables or minced meat fillings .
 CHAMPIONS have been champions of LEAGUE . league in COUNTRY . SPORTSTEAM , who have NUMBEROFMEMBERS members , also play in the league and have their home ground at GROUND .
-The late ASTRONAUT , born in BIRTHPLACE , was hired by NASA in WAS SELECTED BY NASA . He was awarded the Distinguished Service Medal by the US Navy , which ranks higher than HIGHER .
+The late ASTRONAUT , born in BIRTHPLACE , was hired by NASA in WAS_SELECTED_BY_NASA . He was awarded the Distinguished Service Medal by the US Navy , which ranks higher than HIGHER .
 A > C GROUND ground is in GROUND , the team is in the LEAGUE league .
 AIRPORT , located in LOCATION , has a runway length of RUNWAYLENGTH and is named RUNWAYNAME .
 LOCATION is the location of the 11th Mississippi Infantry monument . To the west is Franklin County and to the north is Cumberland County . Carrol County , Maryland is located to the southeast .
@@ -7736,11 +7736,11 @@ Felipe VI is the leader of COUNTRY , a country where the people are called DEMON
 LANGUAGE is spoken in the COUNTRY . People of Moro ethnicity are from that country . FOOD comes from the COUNTRY .
 Operated by OPERATINGORGANISATION , LOCATION is the location of AIRPORT . This airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , has a runway length of RUNWAYLENGTH and RUNWAYNAME is the runway name .
 Available in hardcover , WRITTENWORK is NUMBEROFPAGES pages long and has the ISBN number ISBN_NUMBER .
-BUILDING , constructed in YEAROFCONSTRUCTION in the Arts and Crafts Movement architectural style and located at LOCATION , was added to the National Register of Historic Places on February 27 , 1987 , has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING , constructed in YEAROFCONSTRUCTION in the Arts and Crafts Movement architectural style and located at LOCATION , was added to the National Register of Historic Places on February 27 , 1987 , has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 MANAGER played football for Genoa F . C . and CLUB . Today he manages SPORTSTEAM .
 The LEADERPARTY are the leading party in Gubbio .
 The MONUMENT is made with rock .
-UNIVERSITY was given Technical Campus status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY which is based in LOCATION . The Acharya Institute is located in the state of Karanataka which has to its west the HAS TO ITS WEST .
+UNIVERSITY was given Technical Campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY which is based in LOCATION . The Acharya Institute is located in the state of Karanataka which has to its west the HAS_TO_ITS_WEST .
 The 11th Mississippi Infantry is found in MUNICIPALITY .
 There is an ethnic group from COUNTRY , a region of REGION , called the ETHNICGROUP . FOOD is a dish from the region . The leader , LEADERNAME , a leader , is from REGION .
 The Antioquia Department is found in COUNTRY .
@@ -7752,9 +7752,9 @@ COUNTRY , led by LEADERNAME , is the home to Malay and Malaysian Chinese people 
 The country that bacon sandwich comes from is the COUNTRY and ingredients include bread , bacon and a condiment , often ketchup or brown sauce . It ' s various names include Bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin .
 ASTRONAUT retired DATEOFRETIREMENT .
 Afonsa Pena International Airport located at Sao Jose dos Pinhais ( part of Parana ) and serves the city of CITYSERVED and is operated by OPERATINGORGANISATION .
-LOCATION which lies east of Franklin County , south of Cumberland County , northwest of HAS TO ITS SOUTHEAST and northeast of Frederick County , is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the COUNTRY .
+LOCATION which lies east of Franklin County , south of Cumberland County , northwest of HAS_TO_ITS_SOUTHEAST and northeast of Frederick County , is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the COUNTRY .
 Arros negre is found in the REGION region of Carles Puigdemont and Felipe VI led , Spanish speaking , COUNTRY .
-ASTRONAUT is an American test pilot who was born in BIRTHPLACE . He was part of the WAS A CREW MEMBER OF crew and spent 100305 minutes in space . He is now retired .
+ASTRONAUT is an American test pilot who was born in BIRTHPLACE . He was part of the WAS_A_CREW_MEMBER_OF crew and spent 100305 minutes in space . He is now retired .
 MANAGER plays for AFC Ajax and CLUB . He is also the manager of SPORTSTEAM .
 BUILDING located in LOCATION ( COUNTRY ) , that used to be part ISPARTOF .
 1 FC Magdeburg is in the 3 Liga league .
@@ -7785,9 +7785,9 @@ Bolt , a comic character AKA ALTERNATIVENAME , was created by Paris Cullins and 
 BUILDING is located in LOCATION , COUNTRY . The leader of LOCATION is Anandiben Patel and T . S . Thakur was an Indian leader .
 ASTRONAUT ( born in BIRTHPLACE of the NATIONALITY ) retired on DATEOFRETIREMENT and died in DEATHPLACE .
 The AIRPORT , which is owned by the OWNER , is operated by the OPERATINGORGANISATION .
-BUILDING is located at LOCATION having been constructed in YEAROFCONSTRUCTION . It was added to the National Register of Historic Places on February the 27nd 1987 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING is located at LOCATION having been constructed in YEAROFCONSTRUCTION . It was added to the National Register of Historic Places on February the 27nd 1987 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 INGREDIENT can be added to a bacon sandwich .
-ASTRONAUT was born in BIRTHPLACE , home of the purple finch . He served as a crew member of the WAS A CREW MEMBER OF , a OPERATOR operated mission . The US Navy awarded ASTRONAUT the Distinguished Service Medal , which ranks higher than HIGHER .
+ASTRONAUT was born in BIRTHPLACE , home of the purple finch . He served as a crew member of the WAS_A_CREW_MEMBER_OF , a OPERATOR operated mission . The US Navy awarded ASTRONAUT the Distinguished Service Medal , which ranks higher than HIGHER .
 The LANGUAGE is spoken in Michigan .
 ASTRONAUT ( born in BIRTHPLACE ) served as a OCCUPATION .
 The UNIVERSITY is situated in the city of CITY in the state of STATE , COUNTRY . The president of the institute is PRESIDENT and director DIRECTOR . Acharya Institute also has strong connections with the AFFILIATION .
@@ -7795,9 +7795,9 @@ ETHNICGROUP is an ethnic group found in Sumatra .
 LOCATION , or DEMONYM , is the location of AIRPORT , with the capital in Austin .
 WRITTENWORK is the sequel to PRECEDEDBY .
 COUNTRY International airport is located in Icolo e Bengo , CITYSERVED Province , COUNTRY . The airport is situated ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level and serves the city of CITYSERVED .
-ASTRONAUT was born in BIRTHPLACE , graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science , his occupation was a fighter pilot and is now retired . ASTRONAUT was a crew member of WAS A CREW MEMBER OF which was operated by OPERATOR , .
+ASTRONAUT was born in BIRTHPLACE , graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science , his occupation was a fighter pilot and is now retired . ASTRONAUT was a crew member of WAS_A_CREW_MEMBER_OF which was operated by OPERATOR , .
 MANAGER has been manager of AC Lumezzane which is located in GROUND . He played for CLUB , SPORTSTEAM . An Italian leader is LEADER .
-Now retired , ASTRONAUT was born on Mar 15 , 1932 and hired by NASA in WAS SELECTED BY NASA .
+Now retired , ASTRONAUT was born on Mar 15 , 1932 and hired by NASA in WAS_SELECTED_BY_NASA .
 CITYSERVED is serves by AIRPORT which is in LOCATION . The airport is 280m above sea level , the length of the runway is 1982m and is known as runway RUNWAYNAME .
 CAPITAL is the capital of COUNTRY where FOOD is one of the foods .
 The COUNTRY , led by Edna Kenny and home to the Irish , where the currency is the euro , is home to BUILDING .
@@ -7826,10 +7826,10 @@ ETHNICGROUP are a group in the COUNTRY where FOOD is eaten .
 Ampara Hopsital is in the STATE .
 The BUILDING FLOORCOUNT floors .
 AUTHOR authored WRITTENWORK which was published in print .
-American ASTRONAUT was a test pilot who was hired by NASA in WAS SELECTED BY NASA to be part of the WAS A CREW MEMBER OF program . He was born in BIRTHPLACE , graduated from NWC with an MA in 1957 and died in DEATHPLACE .
-ASTRONAUT of BIRTHPLACE was a test pilot who joined NASA in WAS SELECTED BY NASA to help crew WAS A CREW MEMBER OF . He was born on October 17th , 1933 and retired from service on September 1st , 1969 .
+American ASTRONAUT was a test pilot who was hired by NASA in WAS_SELECTED_BY_NASA to be part of the WAS_A_CREW_MEMBER_OF program . He was born in BIRTHPLACE , graduated from NWC with an MA in 1957 and died in DEATHPLACE .
+ASTRONAUT of BIRTHPLACE was a test pilot who joined NASA in WAS_SELECTED_BY_NASA to help crew WAS_A_CREW_MEMBER_OF . He was born on October 17th , 1933 and retired from service on September 1st , 1969 .
 Paulo Sousa plays for SPORTSTEAM .
-In YEAROFCONSTRUCTION the BUILDING were constructed at Asser Levy Place , East 23rd Street in the Romanesque Revival style of architecture . The Baths were added to the National Register of Historic Places on 23 April 1980 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+In YEAROFCONSTRUCTION the BUILDING were constructed at Asser Levy Place , East 23rd Street in the Romanesque Revival style of architecture . The Baths were added to the National Register of Historic Places on 23 April 1980 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 WRITTENWORK was published in MEDIATYPE .
 AIRPORT is operated by the OPERATINGORGANISATION who deploy the General Dynamics F16 Fighting Falcon aircraft fighter and fought battles in the Korean war .
 GROUND is the ground of SPORTSTEAM who play in the LEAGUE .
@@ -7839,7 +7839,7 @@ Affiliated with AFFILIATION , the UNIVERSITY is located in CITY , STATE in COUNT
 BUILDING is located in LOCATION , Gujarat , COUNTRY . LEADERNAME was the leader of Gujarat which is lead by a Legislative Assembly .
 Chicago is part of ISPARTOF .
 BUILDING was completed in COMPLETIONDATE , and was designed by ARCHITECT .
-ASTRONAUT was chosen by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was chosen by NASA in WAS_SELECTED_BY_NASA .
 An ingredient of FOOD is INGREDIENT which is part of the order of ORDER .
 INGREDIENT is an ingredient of Bandeja pais which originates from the Paisa region of Colombia .
 American ASTRONAUT was a test pilot who graduated from NWC with a M . A . in 1957 . Shepard was born in BIRTHPLACE and died in DEATHPLACE and along the way he won the Distinguished Service Medal from the U . S . Navy which is an award higher than the HIGHER .
@@ -7857,12 +7857,12 @@ FOOD is a dish from the region of REGION and is also found in COUNTRY where the 
 FOOD is from COUNTRY .
 COUNTRY , which is home to UNIVERSITY , is led by LEADERNAME .
 A cookie is a dessert .
-ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He graduated from NWC , M . A . in 1957 , was a test pilot and crew member of the WAS A CREW MEMBER OF , which was operated by OPERATOR .
+ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He graduated from NWC , M . A . in 1957 , was a test pilot and crew member of the WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR .
 FOOD ( which is a variation of Sioay ) and shumai are variations on the same dish .
 AIRPORT is operated by the OPERATINGORGANISATION which fought in BATTLES . This Airforce has a number of aircraft , including aircarft fighter , the AIRCRAFTFIGHTER and transport aircraft , the Boeing C - 17 Globemaster II . Also the ATTACKAIRCRAFT can be found on USAF aircraft carriers .
-The BUILDING constructed in YEAROFCONSTRUCTION and located on Asilomar Blvd , Pacific Grove , California , has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the the National Register of Historic Places .
+The BUILDING constructed in YEAROFCONSTRUCTION and located on Asilomar Blvd , Pacific Grove , California , has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the the National Register of Historic Places .
 CITY has the area code of AREACODE .
-ASTRONAUT was an American test pilot who was a member of the WAS A CREW MEMBER OF crew . He was born on March 15 , 1932 in Wheeler Texas and attended ALMAMATER . He retired in DATEOFRETIREMENT .
+ASTRONAUT was an American test pilot who was a member of the WAS_A_CREW_MEMBER_OF crew . He was born on March 15 , 1932 in Wheeler Texas and attended ALMAMATER . He retired in DATEOFRETIREMENT .
 In the United States one of the ethnic groups is African American .
 The bronze Atat ü rk momument is in LOCATION , where the leader is LEADERNAME .
 COMICSCHARACTER which first aired on October 3rd , 1983 on the BROADCASTEDBY , starred STARRING .
@@ -7881,7 +7881,7 @@ FOOD is a traditional sauce from COUNTRY , where italian people are from , rome 
 FOOD is found in LANGUAGE and Arabic speaking COUNTRY . The COUNTRY is home to the llocano and ETHNICGROUP .
 MANAGER manages the AZ Alkmaair .
 SPORTSTEAM has NUMBEROFMEMBERS members .
-BUILDING , is located on Asilomar Blvd , in Pacific Grove , California . They were constructed in the ARCHITECTURALSTYLE style in YEAROFCONSTRUCTION , and has been added to the National Register of Historic Places on 27 February , 1987 ( reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES ) .
+BUILDING , is located on Asilomar Blvd , in Pacific Grove , California . They were constructed in the ARCHITECTURALSTYLE style in YEAROFCONSTRUCTION , and has been added to the National Register of Historic Places on 27 February , 1987 ( reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES ) .
 A > C GROUND ground is in GROUND .
 BUILDING is in LOCATION , which is lead by LEADERNAME .
 ASTRONAUT was born in BIRTHPLACE and went on to attend the ALMAMATER .
@@ -7900,14 +7900,14 @@ LEADERNAME is the leader of LOCATION , part of Awadh and ISPARTOF , where AIRPOR
 AIRPORT is located in LOCATION , Madrid , COUNTRY . It is 610 metres above sea level and has a runway length of 3 , 500 .
 SPORTSTEAM ' s ground is located at St Vincent - St Mary High School , CITY , LOCATION .
 Massimo Drag has been the manager of A C Cesena , is attached to the club Vigor Lamexia and his club was CLUB .
-ASTRONAUT was born in November 18th 1923 in BIRTHPLACE . He was awarded the Distinguished Service Medal in the United States Navy which is higher than the HIGHER . Alan was on the crew of WAS A CREW MEMBER OF before he died in DEATHPLACE .
-ASTRONAUT , who graduated with an M . S . , from AFIT in 1962 , served as a crew member on WAS A CREW MEMBER OF alongside CREWMEMBERS .
+ASTRONAUT was born in November 18th 1923 in BIRTHPLACE . He was awarded the Distinguished Service Medal in the United States Navy which is higher than the HIGHER . Alan was on the crew of WAS_A_CREW_MEMBER_OF before he died in DEATHPLACE .
+ASTRONAUT , who graduated with an M . S . , from AFIT in 1962 , served as a crew member on WAS_A_CREW_MEMBER_OF alongside CREWMEMBERS .
 FOOD is from the REGION region of COUNTRY , and it contains condensed milk .
 The BUILDING is located in LOCATION , which is part of ISPARTOF , COUNTRY . One of the ethnic groups in COUNTRY is the Filipinos .
 The SPORTSTEAM club is located in LOCATION whose leader is LEADER . CAPITAL is the capital of LOCATION whose currency is the euro . Another leader there is Alexis Tsipras .
-UNIVERSITY , in STATE , an affiliation of AFFILIATION in CITY , was given the ' Technical Campus ' status by WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY . Acharya Institute is in STATE , which is east of the HAS TO ITS WEST .
+UNIVERSITY , in STATE , an affiliation of AFFILIATION in CITY , was given the ' Technical Campus ' status by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY . Acharya Institute is in STATE , which is east of the HAS_TO_ITS_WEST .
 STATUS American ASTRONAUT was born in Glen Ridge , NJ .
-BUILDING , located in Avenue A , Manhattan , is in the Romanesque Revival architectural style , was constructed in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 04 / 23 / 1980 with reference number : REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING , located in Avenue A , Manhattan , is in the Romanesque Revival architectural style , was constructed in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 04 / 23 / 1980 with reference number : REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 ASTRONAUT was born in BIRTHPLACE and served as a fighter pilot after graduating from AFIT , M . S . in 1962 . He retired on 1 September 1969 .
 The AIRPORT is run by the OPERATINGORGANISATION and is 23 m above sea level .
 FOOD , which has hogao in it , is typical COUNTRY .
@@ -7964,9 +7964,9 @@ The full name of AC Chievo Verona is " FULLNAME " and they played n the SEASON s
 INGREDIENT is an ingredient in FOOD .
 FOOD is eaten in the COUNTRY where LANGUAGE and Arabic are spoken . It is also where the ETHNICGROUP and Ilocano people are two of the ethnic groups .
 AS Roma ' s manager is Luciano Spallett , who plays for CLUB .
-ASTRONAUT , a US National , was born in BIRTHPLACE on 15 March 1932 . He became a test pilot and was selected by OPERATOR in WAS SELECTED BY NASA as a crew member on WAS A CREW MEMBER OF .
-ASTRONAUT was born in BIRTHPLACE on November 18th 1923 . Having worked as a test pilot , he was selected by NASA in WAS SELECTED BY NASA . Shepard later died in DEATHPLACE .
-ASTRONAUT was part of OPERATOR ' s WAS A CREW MEMBER OF crew which has BACKUP PILOT as its backup pilot and was commanded by COMMANDER . Bean graduated from the University of Texas in Austin in 1955 .
+ASTRONAUT , a US National , was born in BIRTHPLACE on 15 March 1932 . He became a test pilot and was selected by OPERATOR in WAS_SELECTED_BY_NASA as a crew member on WAS_A_CREW_MEMBER_OF .
+ASTRONAUT was born in BIRTHPLACE on November 18th 1923 . Having worked as a test pilot , he was selected by NASA in WAS_SELECTED_BY_NASA . Shepard later died in DEATHPLACE .
+ASTRONAUT was part of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew which has BACKUP_PILOT as its backup pilot and was commanded by COMMANDER . Bean graduated from the University of Texas in Austin in 1955 .
 FOOD ( or tart ) originates from the REGION . Some main ingredients in FOOD are ground almonds , jam , butter and eggs and it can be served warm or cold .
 Adolfo Suarez Madrid - Barejas airport is located at LOCATION and is elevated 610 metres above sea level .
 BUILDING is located in LOCATION , CAPITAL and white South Africans are called " ETHNICGROUP " people .
@@ -7987,15 +7987,15 @@ The Olympic Stadium is in LOCATION .
 FOOD comes from COUNTRY , a country led by LEADERNAME and whose capital is CAPITAL .
 MANAGER manages SPORTSTEAM and is attached to the club CLUB .
 AUTHOR was born in BIRTHPLACE and was influenced by Robert A Heinlein . He wrote WRITTENWORK which was preceded by PRECEDEDBY .
-ASTRONAUT who was born in WAS SELECTED BY NASA in BIRTHPLACE , graduated in 1955 and went on to become a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT who was born in WAS_SELECTED_BY_NASA in BIRTHPLACE , graduated in 1955 and went on to become a crew member of WAS_A_CREW_MEMBER_OF .
 OPERATINGORGANISATION is the operating organisation for AIRPORT where the runway length is RUNWAYLENGTH and the runway name is RUNWAYNAME .
 The leader of COUNTRY is LEADERNAME and the city of CAPITAL is the capitol , it ' s also where the dish asam pedas is found .
 BUILDING in LOCATION was completed in COMPLETIONDATE and has FLOORCOUNT floors .
 PUBLISHER in CITY is affiliated with the Association of Public and Land grant Universities . and the AFFILIATION . The university publishes the WRITTENWORK .
-BUILDING , constructed in YEAROFCONSTRUCTION , is located in LOCATION , and was added to the National Register of Historic Places on " ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES " with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING , constructed in YEAROFCONSTRUCTION , is located in LOCATION , and was added to the National Register of Historic Places on " ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES " with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 Appletone International Airport city served CITYSERVED .
 BUILDING was designed by the architect ARCHITECT .
-The MONUMENT ( location LOCATION , COUNTRY ) was completed in the year ESTABLISHED and falls under the category of CATEGORY . To the north of Adams County lies Cumberland County , also Pennsylvania and to the southeast lies HAS TO ITS SOUTHEAST .
+The MONUMENT ( location LOCATION , COUNTRY ) was completed in the year ESTABLISHED and falls under the category of CATEGORY . To the north of Adams County lies Cumberland County , also Pennsylvania and to the southeast lies HAS_TO_ITS_SOUTHEAST .
 SPORTSTEAM ( managed by MANAGER ) , has NUMBEROFMEMBERS members and was in the SEASON season .
 Lemons are classified in the order sapindales and are an ingredient in bandeja paisa .
 CREATOROFDISH has resulted in the creation of the dish FOOD .
@@ -8036,7 +8036,7 @@ The chairman of the A . S . Roma is CHAIRMAN .
 Dane Whitman , a . k . a . Black Knight , was created by CREATOR ( Amercian ) and considered to be in the comics genre .
 The location of BUILDING is LOCATION .
 1634 The Ram Rebellion was written in the U . S .
-ASTRONAUT ( born in BIRTHPLACE ) was a part of WAS A CREW MEMBER OF and served as fighter pilot .
+ASTRONAUT ( born in BIRTHPLACE ) was a part of WAS_A_CREW_MEMBER_OF and served as fighter pilot .
 FOOD is a dessert that can be served warm ( freshly baked ) or cold .
 FOOD is eaten in the COUNTRY where the ETHNICGROUP are an ethnic group .
 Estadio Municipal Coaracy da Mata Fonseca is located in LOCATION .
@@ -8059,7 +8059,7 @@ AIRPORT has an elevation above the sea level ( in feet ) of ELEVATIONABOVETHESEA
 The leader of Punjab , Pakistan is LEADERNAME .
 Peter St ö ger ' s club is the CLUB .
 The LOCATION Civil Aviation Authority is the operating organisation of the AIRPORT located in LOCATION and serving the city of CITYSERVED . The airport has a runway length of RUNWAYLENGTH .
-ASTRONAUT , who is now retired , was selected by NASA in WAS SELECTED BY NASA and served as a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT , who is now retired , was selected by NASA in WAS_SELECTED_BY_NASA and served as a crew member of WAS_A_CREW_MEMBER_OF .
 PARENTCOMPANY owns Tor Books .
 FOOD originates from Italian speaking COUNTRY , capital : CAPITAL . COUNTRY is led by Pietro Grasso and LEADERNAME .
 SPORTSTEAM which has NUMBEROFMEMBERS members plays at their home ground at the GROUND . They are in the Superleague of Greece and played in the SEASON season .
@@ -8097,14 +8097,14 @@ English is the language of the COUNTRY the country where the book WRITTENWORK wa
 SPORTSTEAM has NUMBEROFMEMBERS members .
 The OPERATINGORGANISATION ( USAF ) was involved in The Korean War and Invasion of Panama . The USAF operates AIRPORT , where The ATTACKAIRCRAFT attack aircraft is situated .
 WRITTENWORK originates from the COUNTRY , where there are many ETHNICGROUP . The book is published in English , which is the language spoken in SPOKENIN .
-ASTRONAUT was born on the 20th of January , 1930 and was named ALTERNATIVENAMES He graduated from Massachusetts Institute of Technology , Sc . D . in 1963 , and later served as a fighter pilot and crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born on the 20th of January , 1930 and was named ALTERNATIVENAMES He graduated from Massachusetts Institute of Technology , Sc . D . in 1963 , and later served as a fighter pilot and crew member on WAS_A_CREW_MEMBER_OF .
 The UNIVERSITY at Arhus was established in ESTABLISHED . Arhus has a GOVERNMENTTYPE government .
 LEADERNAME is a leader of the LOCATION which uses the pound sterling as currency . The UK is also the location of BUILDING .
 COUNTRY is led by the Prime Minister ; its ethnic group are Germans of COUNTRY and its university is called the UNIVERSITY .
 Al Taqaddum Air Base located in LOCATION , serves the city of CITYSERVED . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . Its runway is 4 , 019 long .
 FOOD originates from COUNTRY where the currency is the CURRENCY and the leaders are Narendra Modi and LEADERNAME .
 FOOD is a food found in COUNTRY where the capital is CAPITAL .
-The American Alan Shephard , was born on the 18th November 1923 in BIRTHPLACE . He graduated from NWC in 1957 with an MA . He was a test pilot , who was selected by NASA in WAS SELECTED BY NASA . He died in DEATHPLACE .
+The American Alan Shephard , was born on the 18th November 1923 in BIRTHPLACE . He graduated from NWC in 1957 with an MA . He was a test pilot , who was selected by NASA in WAS_SELECTED_BY_NASA . He died in DEATHPLACE .
 AIRPORT is in LOCATION , COUNTRY , which is in the Central COUNTRY region . Th language of COUNTRY is German .
 The creators of the comic character , Bolt , were Paris Cullins and CREATOR .
 Part of the Superleague of Greece , AEK GROUND FC played the 2014 - 2015 season , in the Football League , in Greece . SPORTSTEAM has NUMBEROFMEMBERS members , and their ground is in GROUND .
@@ -8117,7 +8117,7 @@ Alcatraz Versus the Scrivener ' s Bone , written after WRITTENWORK was written b
 beef is an ingredient in batchoy .
 BUILDING was added to the National Register of Historic Places on 23rd April 1980 .
 ' WRITTENWORK ' which was written by AUTHOR , has the OCLC number OCLC_NUMBER .
-UNIVERSITY was given the Technical Campus status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY .
+UNIVERSITY was given the Technical Campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY .
 The leader of COUNTRY is LEADERNAME and they speak LANGUAGE . CITYSERVED which is located in COUNTRY is served by the Al - Taqaddum air base .
 The Olympic Stadium in LOCATION is the home of AEK LOCATION FC . The football club ' s manager used to be MANAGER , who played for CLUB in the past .
 BUILDING was completed in COMPLETIONDATE and has FLOORCOUNT floors which cover an area of 62145 . 3 square metres .
@@ -8143,7 +8143,7 @@ FOOD hails from REGION , COUNTRY .
 LEADERNAME is the leader of COUNTRY where the UNIVERSITY was established in ESTABLISHED in the city of CITY .
 WRITTENWORK was written by AUTHOR and was followed by FOLLOWEDBY .
 BUILDING is located in LOCATION .
-ASTRONAUT was born in BIRTHPLACE and served as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN , being awarded the American Defense Service ribbon .
+ASTRONAUT was born in BIRTHPLACE and served as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN , being awarded the American Defense Service ribbon .
 Felipe VI of COUNTRY is the leader of COUNTRY , which is where the food FOOD , is found , in REGION .
 ASTRONAUT , who was born in BIRTHPLACE on 20 January 1930 served as a fighter pilot .
 FOOD is a food found in COUNTRY and it contains fried chicken . The dish comes from REGION , where ETHNICGROUP is an ethnic group .
@@ -8182,12 +8182,12 @@ St . Vincent - St . Mary High School , Akron ( a summit county in Ohio ) - is ho
 A . C . ChievoVerona played in the SEASON season .
 The GROUND is the home ground of SPORTSTEAM whose manager is MANAGER . His club is CLUB .
 AIRPORT has a 3rd runway made of poaceae and is 34 metres above sea level . The runway name is RUNWAYNAME and has a length of RUNWAYLENGTH .
-WAS A CREW MEMBER OF had three crew members in the form of backup pilot BACKUP PILOT , CREWMEMBERS and ASTRONAUT . Anders was born in BIRTHPLACE where REPRESENTATIVE served as a representative .
+WAS_A_CREW_MEMBER_OF had three crew members in the form of backup pilot BACKUP_PILOT , CREWMEMBERS and ASTRONAUT . Anders was born in BIRTHPLACE where REPRESENTATIVE served as a representative .
 The comic book character Ballistic was created by CREATOR and Doug Moench .
 WRITTENWORK is published by PUBLISHER and has the abbreviation Admin . Sci . Q . . The ISSN number is " ISSN_NUMBER " and the LCCN number is LCCN_NUMBER .
 FOOD is a dessert found in COUNTRY and can include cottage cheese . The name of the leader in COUNTRY is LEADERNAME .
 Agremiacao Sportiva Arapiraquense ' s ground is the Estadio Minicipal Coaracy da Mata Fonseca .
-ASTRONAUT was born in BIRTHPLACE on October 17th , 1933 and in WAS SELECTED BY NASA after a stint as a test pilot , NASA picked him to be part of the space program .
+ASTRONAUT was born in BIRTHPLACE on October 17th , 1933 and in WAS_SELECTED_BY_NASA after a stint as a test pilot , NASA picked him to be part of the space program .
 The BUILDING are located at LOCATION and they were constructed in YEAROFCONSTRUCTION . Its architecture is " Arts and Crafts Movement and American Craftsman Bungalows " and it was added to the National Register of Historic Places on the 27th February 1987 .
 The Journal Addiction was published by Wiley - Blackwell ( parent company PARENTCOMPANY ) and has the ISSN number ISSN_NUMBER .
 BUILDING is located in LOCATION , ISPARTOF , COUNTRY . The LANGUAGE is spoken in ISPARTOF which has the capital city of Springfield .
@@ -8198,13 +8198,13 @@ The runway length of AIRPORT is RUNWAYLENGTH .
 AIRPORT which serves the city of Alpena has a runway length of RUNWAYLENGTH and is located at ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level in LOCATION , COUNTRY .
 The Est á dio Municipal Coaracy da Mata Fonseca is located in LOCATION .
 The literary genre of Alcatrz Versus the Evil Librarians is fantasy literature .
-ASTRONAUT was US national who was born in BIRTHPLACE . He graduated from MIT , Sc . D . in WAS SELECTED BY NASA . He was a fighter pilot who was selected by OPERATOR in WAS SELECTED BY NASA . He was a crew member of the OPERATOR operated WAS A CREW MEMBER OF .
+ASTRONAUT was US national who was born in BIRTHPLACE . He graduated from MIT , Sc . D . in WAS_SELECTED_BY_NASA . He was a fighter pilot who was selected by OPERATOR in WAS_SELECTED_BY_NASA . He was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF .
 WRITTENWORK is academically focused on ACADEMICDISCIPLINE and has the abbreviated name of ABBREVIATION . It has the LCCN number of LCCN_NUMBER and the ISSN number is ISSN_NUMBER .
 1634 The Ram Rebellion was written in the U . S where the ETHNICGROUP are an ethnic group .
 The ethnic group of the ETHNICGROUP are from the COUNTRY where LANGUAGE is spoken and batchoy is eaten .
 PARENTCOMPANY is the parent company of PUBLISHER which publishes WRITTENWORK in the UK . The capital city of the UK is CAPITAL and one of the leaders is LEADERNAME .
 The currency in Turkey is the Turkish Lira .
-ASTRONAUT was a US astronaut . born in BIRTHPLACE in WAS SELECTED BY NASA . He graduated from NWC with a M . A . in 1957 . In WAS SELECTED BY NASA he was selected by NASA . ASTRONAUT died in DEATHPLACE .
+ASTRONAUT was a US astronaut . born in BIRTHPLACE in WAS_SELECTED_BY_NASA . He graduated from NWC with a M . A . in 1957 . In WAS_SELECTED_BY_NASA he was selected by NASA . ASTRONAUT died in DEATHPLACE .
 The UNIVERSITY in Balgalore , COUNTRY is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 . It is affilaited with the AFFILIATION and has NUMBEROFPOSTGRADUATESTUDENTS post - graduate students .
 An ingredient of arrabbiata sauce , which can be found in COUNTRY , is garlic .
 BUILDING is located in LOCATION , ISPARTOF , COUNTRY and the governing body of LOCATION is GOVERNINGBODY .
@@ -8214,7 +8214,7 @@ BUILDING is located in Cleveland Ohio 44114 .
 As well as having an aircraft - capable helicopter known as the AIRCRAFTHELICOPTER , the OPERATINGORGANISATION , operate Agra Airpori . This airport is in LOCATION which is part of ISPARTOF .
 ASTRONAUT was an American born on July 23 , 1927 in BIRTHPLACE . He attended the U of Texas at Austin which is part of the U of Texas system and the big 12 Conference . He has since passed away .
 The paperback WRITTENWORK has a total of NUMBEROFPAGES pages and was written by AUTHOR .
-ASTRONAUT , a US national , was selected by Nasa in WAS SELECTED BY NASA and served as a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT , a US national , was selected by Nasa in WAS_SELECTED_BY_NASA and served as a crew member of WAS_A_CREW_MEMBER_OF .
 SPORTSTEAM ( Amateurs ) competed in the SEASON season .
 B M Reddy is the President of the UNIVERSITY , CITY , STATE , COUNTRY . The Institute is affiliated to the AFFILIATION .
 AIRPORT is operated by OPERATINGORGANISATION whose hub airport is HUBAIRPORT .
@@ -8223,7 +8223,7 @@ The comic character , Auron ' s full name is FULLNAME .
 ASTRONAUT was a US citizen , who was born in BIRTHPLACE . He was a test pilot . He died in DEATHPLACE .
 CREATOR is the creator of the comic book character COMICSCHARACTER .
 INGREDIENT in an ingredient in bacon explosion , which is from the COUNTRY and is considered a main course .
-ASTRONAUT , who graduated from AFIT , M . S . in 1962 and crewed WAS A CREW MEMBER OF , retired on September 1 , 1969 .
+ASTRONAUT , who graduated from AFIT , M . S . in 1962 and crewed WAS_A_CREW_MEMBER_OF , retired on September 1 , 1969 .
 The book WRITTENWORK comes from the COUNTRY where the ETHNICGROUP are an ethnic group .
 AIRPORT is in LOCATION and run by the Airports Authority of LOCATION . It has the IATA Location Identifier of IATA_LOCATION_IDENTIFIER and the ICAO Location Identifier of ICAO_LOCATION_IDENTIFIER .
 Operated by the OPERATINGORGANISATION , AIRPORT is in LOCATION which is part of both Awadh and ISPARTOF .
@@ -8243,20 +8243,20 @@ AS Roma , in the LEAGUE league , has its grounds in GROUND .
 AIRPORT runway name is 04 / 22 Ooostbaan .
 DISHVARIATION is a dish that can be served as a dessert .
 VOICE provides the voice for COMICSCHARACTER who was created by Steven T Seagle and the American , Duncan Rouleau .
-American ASTRONAUT was born in BIRTHPLACE . He graduated from NWC , M . A . in 1957 and served as a OCCUPATION . He was on the crew of WAS A CREW MEMBER OF . He is deceased and died in DEATHPLACE .
+American ASTRONAUT was born in BIRTHPLACE . He graduated from NWC , M . A . in 1957 and served as a OCCUPATION . He was on the crew of WAS_A_CREW_MEMBER_OF . He is deceased and died in DEATHPLACE .
 BUILDING was built in BUILDINGSTARTDATE .
 108 St . Georges Terrace is located in LOCATION , COUNTRY .
 French is the official language of Belgium .
 LEADER is the leader of Akron , Ohio .
-Frederick County Maryland is to the south west of LOCATION . To the south of Adams County is Cumberland County and to the northwest HAS TO ITS SOUTHEAST . Adams County is the location of the 11th Mississippi Infantry monument which was established in ESTABLISHED and categorised as a contributing property within the United States .
+Frederick County Maryland is to the south west of LOCATION . To the south of Adams County is Cumberland County and to the northwest HAS_TO_ITS_SOUTHEAST . Adams County is the location of the 11th Mississippi Infantry monument which was established in ESTABLISHED and categorised as a contributing property within the United States .
 FULLNAME , abbreviated to SPORTSTEAM , has NUMBEROFMEMBERS members and has the ground GROUND .
 FOOD is a dessert found in COUNTRY . Enrique Pena Nieto is the leader of COUNTRY . Another type of dessert is an ice cream .
 FOOD is eaten in the COUNTRY where the language spoken is LANGUAGE . One of the ethnic groups are the Ilocano people and ETHNICGROUP are also present in the country .
 REGION is led by the LEADERNAME and is the region that Arros negre is from .
 Austin is part of ISPARTOF .
-CITY in COUNTRY , which lies southwest of HAS TO ITS NORTHEAST is the location of the UNIVERSITY . The leader of COUNTRY is Lars Lokke Rasmussen .
+CITY in COUNTRY , which lies southwest of HAS_TO_ITS_NORTHEAST is the location of the UNIVERSITY . The leader of COUNTRY is Lars Lokke Rasmussen .
 INGREDIENT explosion is a main course dish that includes the ingredients sausage and bacon .
-Buzz Aldrin who is originally from BIRTHPLACE joined OPERATOR and became a member of the WAS A CREW MEMBER OF crew along with ASTRONAUT as a back up pilot .
+Buzz Aldrin who is originally from BIRTHPLACE joined OPERATOR and became a member of the WAS_A_CREW_MEMBER_OF crew along with ASTRONAUT as a back up pilot .
 John Buscema won the AWARD .
 The HEADQUARTER is the headquarters of the OPERATINGORGANISATION . who operate AIRPORT . The airport is located Egg Harbor Township , ISPARTOF , COUNTRY .
 INGREDIENT is one of the ingredients of ayam penyet , which can be found in COUNTRY , where the ETHNICGROUP are an ethnic group . The dish comes from the region of REGION .
@@ -8291,7 +8291,7 @@ FOOD comes from the region of REGION .
 The Accadmia di Architettura di Mendrisio in COUNTRY was established in ESTABLISHED . It dean is DEAN . It has ACADEMICSTAFFSIZE academic staff and NUMBEROFSTUDENTS students .
 ALTERNATIVENAME is known as the comic character Airman , which was created by CREATOR .
 WRITTENWORK was published in the COUNTRY where many ETHNICGROUP live . The language of the COUNTRY and SPOKENIN is English .
-ASTRONAUT was born in Glen Ridge New Jersey situated in the Essex County , he was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT was born in Glen Ridge New Jersey situated in the Essex County , he was a crew member of WAS_A_CREW_MEMBER_OF .
 The People ' s Party is the lead party of San Sebastian de los Reyes ( COUNTRY ) which is part of the ISPARTOF and is where AIRPORT is found .
 WRITTENWORK is devoted to the study of physics .
 1634 : The Bavarian Crisis was preceded by WRITTENWORK .
@@ -8317,14 +8317,14 @@ PUBLISHER ( of STATE ) is the publisher of WRITTENWORK and is also affiliated wi
 ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He went to school at NWC and graduated with an MA in 1957 , served as a OCCUPATION and was a crew member of the Apollo 14 , which was operated by NASA . The United States Navy awarded the Distinguished Service Medal to ASTRONAUT , which ranks higher than HIGHER .
 The length of the runway at AIRPORT is RUNWAYLENGTH metres .
 In Egg Harbor Township , ISPARTOF , U . S . A lies AIRPORT . It serves the citizen of Atlantic city ISPARTOF , which is led by LEADERNAME / .
-ASTRONAUT is a national of the NATIONALITY . He was born in Wheeler Texas on BIRTHDATE . He was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT is a national of the NATIONALITY . He was born in Wheeler Texas on BIRTHDATE . He was a crew member of WAS_A_CREW_MEMBER_OF .
 The UNIVERSITY is located in Banglaore , COUNTRY . It is associated with the AFFILIATION .
 Born in PLACEOFBIRTH , MANAGER is attached to the club Calcio Catania . He also has managed AC Chievo Verona , and plays for CLUB .
 The SPORTSTEAM club is located in LOCATION where they speak Greek and the leader is LEADER .
 Arros negre is traditional in the REGION region of COUNTRY . It includes : squid / cuttlefish , cephalopod ink , cubanelle peppers and white rice .
 FOOD is a dish from REGION and COUNTRY . The ETHNICGROUP are an ethnic group of COUNTRY and the leader of REGION is LEADERNAME .
 Rolando Moran manages A . C . Chievo and is in CLUB club .
-ASTRONAUT is now retired . He is a US national who was born on 17 October 1933 in BIRTHPLACE . After graduating from AFIT with an MS in 1962 he served as a fighter pilot and as a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT is now retired . He is a US national who was born on 17 October 1933 in BIRTHPLACE . After graduating from AFIT with an MS in 1962 he served as a fighter pilot and as a crew member on WAS_A_CREW_MEMBER_OF .
 Peter St ö ger is in the CLUB club .
 BUILDING is located in LOCATION , ISPARTOF , COUNTRY and the leader of LOCATION is LEADERNAME .
 The OPERATINGORGANISATION runs Allam Iqbal International Airport in Punjab Pakistan which is led by the LEADERTITLE .
@@ -8349,7 +8349,7 @@ The CURRENTTENANTS is located in the COUNTRY and are the current tenants of Alan
 UNIVERSITY is in STATE , COUNTRY . The leader of STATE is LEADERNAME . The RIVER is a river in COUNTRY .
 The Ataturk monument ( Izmir ) which was designed by DESIGNER is located in LOCATION . The country ' s leader is Ahmet Davutoglu and the capital is CAPITAL . The monument was inaugurated on 27 July 1932 .
 The UNIVERSITY is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY - 560090 . It is affiliated with the AFFILIATION .
-ASTRONAUT served as a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT served as a crew member on WAS_A_CREW_MEMBER_OF .
 MONUMENT has been established in ESTABLISHED and is categorised as a contributing property . It is located in LOCATION ( COUNTRY ) . Carrol County Maryland is southeast of Adams county STATE and STATE ' s Cumberland County is to the north of the Adams County .
 ETHNICGROUP are an ethnic group within the United States .
 CAPITAL , COUNTRY is where FOOD originates .
@@ -8359,7 +8359,7 @@ FOOD is a Mexican food which is served as a dessert . Sandesh can also be served
 GROUND is located in the city of CITY , USA . The school is the ground of SPORTSTEAM . The city is part of ISPARTOF . It is led by LEADER .
 COUNTRY uses the LANGUAGE and is the location of AIRPORT in LOCATION in the Central COUNTRY region .
 FOOD is eaten in the COUNTRY and the main ingredients are noodles , pork organs , vegetables , chicken , shrimp , and beef .
-BUILDING which was constructed in YEAROFCONSTRUCTION is located on 23rd Street , Manhattan . It was added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING which was constructed in YEAROFCONSTRUCTION is located on 23rd Street , Manhattan . It was added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 BUILDING is located in COUNTRY , whose currency is the CURRENCY .
 LEADERNAME ( title : President ) is the leader of the COUNTRY , where the capital is Washington DC . The book 1634 The Ram Rebellion comes from the US , where there is an ethnic group called ETHNICGROUP .
 Carrol County Maryland is southeast of LOCATION . With Franklin County to the west , Cumberland County to the north and Frederick County to the southwest , Adams County is the location of the 11th Mississippi Infantry monument which was established in ESTABLISHED .
@@ -8386,7 +8386,7 @@ The leader of LOCATION is LEADERNAME . The country is the location of the Baku T
 Lemon is part of genus GENUS .
 The dish of asam pedas is from REGION in COUNTRY .
 CAPITAL is the capital of the COUNTRY which is the country where AIDS journal is from .
-ASTRONAUT was born in the U . S . on March 15th in 1932 in BIRTHPLACE . He was selected by OPERATOR in WAS SELECTED BY NASA , and served as a test pilot on WAS A CREW MEMBER OF , which was operated by OPERATOR .
+ASTRONAUT was born in the U . S . on March 15th in 1932 in BIRTHPLACE . He was selected by OPERATOR in WAS_SELECTED_BY_NASA , and served as a test pilot on WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR .
 MAININGREDIENTS is a main ingredient in the dish ' FOOD ' , which also contains bacon .
 ACADEMICDISCIPLINE is the academic discipine of WRITTENWORK ( abbreviated to Acta Palaeontol . Pol ) which has the ISSN number ISSN_NUMBER .
 MONUMENT was established in ESTABLISHED in STATE .
@@ -8401,7 +8401,7 @@ The CURRENTTENANTS are the current tenants of Alan B Miller Hall which was compl
 The Baku Turkish Martyrs Memorial , which is dedicated to the DEDICATEDTO , is made from red granite and white marble , is found in LOCATION and is known locally as Turk Sehitleri Aniti . .
 Located in LOCATION , with an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level , is AIRPORT . It serves the city of CITYSERVED and has a runway that is 3800 long .
 BUILDING is in the Eastern Province , COUNTRY . The capital of the country is CAPITAL and the leader of the country is LEADERNAME .
-ASTRONAUT , who was born in BIRTHPLACE , graduated from AFIT , M . S . in 1962 . The following year , he was selected by NASA and served as a fighter pilot and a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT , who was born in BIRTHPLACE , graduated from AFIT , M . S . in 1962 . The following year , he was selected by NASA and served as a fighter pilot and a crew member on WAS_A_CREW_MEMBER_OF .
 FOOD comes from COUNTRY where French is the language spoken .
 FOOD ( also known as a FOOD ) originates from the REGION where LEADERNAME is the leader . INGREDIENT is a main ingredient .
 The UNIVERSITY , with NUMBEROFSTUDENTS students , is located in CITY , COUNTRY . DEAN is the Dean of the Accademia . Johann Schneider Ammann is the Swiss leader .
@@ -8427,7 +8427,7 @@ The location of Afonso Pena International ( ICAO code ICAO_LOCATION_IDENTIFIER )
 The address of BUILDING is ADDRESS , LOCATION .
 The OPERATINGORGANISATION operate Al Asad airbase in LOCATION . The airport has a runway length of RUNWAYLENGTH which is named RUNWAYNAME .
 ASTRONAUT was born on November 18 , 1923 .
-ASTRONAUT , a US national born in Texas , was educated at the ALMAMATER ( which is affiliated to the university of texas system ) . The ALMAMATER is competing in the COMPETE IN .
+ASTRONAUT , a US national born in Texas , was educated at the ALMAMATER ( which is affiliated to the university of texas system ) . The ALMAMATER is competing in the COMPETE_IN .
 The Acharya Institute of Techology in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 , COUNTRY was established in ESTABLISHED . Its president is PRESIDENT . It is associated with the AFFILIATION in CITY .
 AIRPORT is located in LOCATION , in COUNTRY , where the leader is Margrethe II of COUNTRY .
 Afonso Pena International airport is located 911 metres above sea level .
@@ -8459,10 +8459,10 @@ The kidney bean is an ingredient in FOOD , which is a dish from Colombia .
 The comic character Asterix , also know as ALTERNATIVENAME , was created by the Frenchman CREATOR .
 The country that bacon sandwich comes from is the COUNTRY where they speak English . Variations on the sandwich include the BLT and club sandwich .
 The comic book character Blockbuster , also known as ALTERNATIVENAME , was created by Roger Stern and CREATOR .
-BUILDING , constructed in YEAROFCONSTRUCTION , is located at LOCATION and was added to the National Register of Historic Places on February the 27nd 1987 with the reference number " REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES " .
+BUILDING , constructed in YEAROFCONSTRUCTION , is located at LOCATION and was added to the National Register of Historic Places on February the 27nd 1987 with the reference number " REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES " .
 2ND_RUNWAY_SURFACETYPE , which belongs to the division of flowering plants , is the surface type of the second runway of Ardmore Airport , New Zealand . 2ND_RUNWAY_SURFACETYPE is in the class CLASS and belongs to the order Poales and Commelinds .
 BUILDING is in the Eastern Province , COUNTRY . Its leader is LEADERNAME and its capital is CAPITAL .
-ASTRONAUT , who was picked by NASA in WAS SELECTED BY NASA for the space program , was in space for a total of 100 , 305 minutes .
+ASTRONAUT , who was picked by NASA in WAS_SELECTED_BY_NASA for the space program , was in space for a total of 100 , 305 minutes .
 WRITTENWORK ' s ISBN number is ISBN_NUMBER .
 The native name of AIRPORT is NATIVENAME .
 AIRPORT is owned by the OWNER and serves the city of CITYSERVED .
@@ -8494,9 +8494,9 @@ Into Battle ( novel ) was preceded by WRITTENWORK .
 ASTRONAUT was a NATIONALITY citizen who was born in BIRTHPLACE . He graduated from AFIT , MS in 1962 and retired 1969 . 09 . 01 .
 FOOD can be found in COUNTRY where the capital is CAPITAL and the leaders include Sergio Mattarella and LEADERNAME .
 TENANT , located in the COUNTRY , is a tenant of the BUILDING , that is situated in LOCATION .
-ASTRONAUT died in St Louis on 28 February , 1966 and was a test pilot . He graduated from the ALMAMATER , which is affiliated to the University Of Texas system and will compete in the COMPETE IN .
+ASTRONAUT died in St Louis on 28 February , 1966 and was a test pilot . He graduated from the ALMAMATER , which is affiliated to the University Of Texas system and will compete in the COMPETE_IN .
 FOOD uses the ingredient banana leaf .
-ASTRONAUT served as a fighter pilot and was a member of WAS A CREW MEMBER OF ' s crew . He is now retired . CREWMEMBERS was also a crew member of the OPERATOR operated WAS A CREW MEMBER OF . BACKUP PILOT was a back up pilot for WAS A CREW MEMBER OF .
+ASTRONAUT served as a fighter pilot and was a member of WAS_A_CREW_MEMBER_OF ' s crew . He is now retired . CREWMEMBERS was also a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF . BACKUP_PILOT was a back up pilot for WAS_A_CREW_MEMBER_OF .
 BUILDING , LOCATION , was completed in COMPLETIONDATE .
 A . S . Gubbio has NUMBEROFMEMBERS members and played in SEASON .
 The total population density of CITY is 429 . 9 inhabitants per sq km .
@@ -8507,8 +8507,8 @@ ETHNICGROUP are a group in the Philippines .
 The AIDS journal is published by Lippincott , Williams & Wilkins , parented by the PARENTCOMPANY company .
 The runway length of AIRPORT , in LOCATION , is 4 , 349 .
 The desert FOOD , can be varied using cottage cheese .
-Adams County Pennsylvania is the location of the 11th Mississippi Infantry monument . HAS TO ITS SOUTHWEST is to the southwest and Carrol County to the southeast .
-ASTRONAUT ( aka Edwin E . Aldrin , Jr ) was born on January 20th , 1930 . He graduated from MIT with a Sc . D in WAS SELECTED BY NASA . He served as a fighter pilot . He was selected by NASA in WAS SELECTED BY NASA and became part of the WAS A CREW MEMBER OF crew . H is now retired .
+Adams County Pennsylvania is the location of the 11th Mississippi Infantry monument . HAS_TO_ITS_SOUTHWEST is to the southwest and Carrol County to the southeast .
+ASTRONAUT ( aka Edwin E . Aldrin , Jr ) was born on January 20th , 1930 . He graduated from MIT with a Sc . D in WAS_SELECTED_BY_NASA . He served as a fighter pilot . He was selected by NASA in WAS_SELECTED_BY_NASA and became part of the WAS_A_CREW_MEMBER_OF crew . H is now retired .
 The construction of BUILDING , LOCATION , was completed in COMPLETIONDATE .
 Part of Columbian cuisine , the dish FOOD , is found in in the REGION . One of the ingredients in it , is avocado which has the genus GENUS and is part of the FAMILY family .
 The abbreviation " ABBREVIATION " is for WRITTENWORK , which has the ISSN number ISSN_NUMBER and the LCCN number LCCN_NUMBER .
@@ -8559,7 +8559,7 @@ WRITTENWORK is a book from The COUNTRY , where English ( the language of SPOKENI
 Fylde played in the LEAGUE league .
 FOOD which contains sponge cake is found in the U . S .
 The area of water with CITY , is . 88 sq . km .
-ASTRONAUT , who served as a crew member of WAS A CREW MEMBER OF , retired on September 1st , 1969 .
+ASTRONAUT , who served as a crew member of WAS_A_CREW_MEMBER_OF , retired on September 1st , 1969 .
 Adolfo Suarez Madrid - Barajas airport is operated by OPERATINGORGANISATION and located 610 metres above sea level at LOCATION . The runway name is RUNWAYNAME and it has a length of 3500 .
 The city of CITYSERVED is served by Allama Iqbal International airport , which is located in COUNTRY and led by LEADERNAME .
 The hardback book WRITTENWORK has an OCLC number OCLC_NUMBER and an ISBN number ISBN_NUMBER .
@@ -8589,7 +8589,7 @@ AIRPORT , operated by OPERATINGORGANISATION , has a runway length of RUNWAYLENGT
 WRITTENWORK originates from the COUNTRY . In this country and SPOKENIN English is the language spoken .
 The OPERATINGORGANISATION is the operating organisation for Al Asad airbase in LOCATION . The ICAO Location Identifier of AIRPORT is ICAO_LOCATION_IDENTIFIER and has a 3 , 992 . 88 meters long airway called RUNWAYNAME .
 Dave Challinor plays at the Stockport County F . C .
-BUILDING has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+BUILDING has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 FOOD ( or ALTERNATIVENAME ) contains water and is found in COUNTRY .
 AIRPORT , with the ICAO identifier of ICAO_LOCATION_IDENTIFIER , located in LOCATION is operated by airports authority of India .
 The UNIVERSITY was founded in the year ESTABLISHED . The campus address is Radhakrishnan Road , Hessarghatta Main Road , Bangalore 560090 . The city of Bangalore is in the state of STATE in COUNTRY .
@@ -8618,7 +8618,7 @@ Juventus FC have been champions of LEAGUE in which AS Roma also play . AS Roma '
 ASTRONAUT who was born on the 18th of November 1923 in BIRTHPLACE graduated with an M . A . at NWC in 1957 . Mr Shepard died in DEATHPLACE .
 INGREDIENT is an ingredient in FOOD which is made in China .
 The College of William and Mary is the owner of the Georgian styled BUILDING in Virginia .
-BUILDING , constructed in YEAROFCONSTRUCTION in a Romanesque Revival style , are located on LOCATION . The Baths were added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES , with reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING , constructed in YEAROFCONSTRUCTION in a Romanesque Revival style , are located on LOCATION . The Baths were added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES , with reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 Found in LOCATION , is AIRPORT . This airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH metres .
 Fylde played in the LEAGUE league of which Barrow AFC are the champions .
 FOOD , containing INGREDIENT , is part of Columbian cuisine .
@@ -8629,7 +8629,7 @@ The BUILDING are located in LOCATION , a part of which is Brooklyn . LOCATION wa
 The BUILDING , designed by the architectural company Populous , is located at " LOCATION " .
 WRITTENWORK has the abbreviation of ACM Trans . Inf . Syst .
 FOOD is served at the dessert course , which variation is a cake . It is a food found in COUNTRY , which leader is LEADERNAME and LANGUAGE is the language .
-The Alma Mater of ASTRONAUT is ALMAMATER . He performed as a test pilot . , was hired by OPERATOR in WAS SELECTED BY NASA as the crew of WAS A CREW MEMBER OF . The WAS A CREW MEMBER OF mission was operated by OPERATOR , backup piloted by BACKUP PILOT with COMMANDER as the commander .
+The Alma Mater of ASTRONAUT is ALMAMATER . He performed as a test pilot . , was hired by OPERATOR in WAS_SELECTED_BY_NASA as the crew of WAS_A_CREW_MEMBER_OF . The WAS_A_CREW_MEMBER_OF mission was operated by OPERATOR , backup piloted by BACKUP_PILOT with COMMANDER as the commander .
 Ranil Wickremesinghe is a leader of COUNTRY where the currency is the CURRENCY . The country is the location of BUILDING in Eastern Province which is lead by LEADERNAME .
 FOOD is from the REGION .
 AIRPORT serves the city of Saranac Lake in ISPARTOF .
@@ -8651,10 +8651,10 @@ The BUILDING is located in Akita Prefecture in LOCATION COUNTRY . An ethnic grou
 FOOD comes from REGION and its commonly found in COUNTRY . LANGUAGE is spoken in REGION , where the leader is LEADERNAME .
 Amatriciana is a sauce from REGION , COUNTRY . It includes tomatoes , guanciale , cheese and olive oil .
 FOOD contains granola and is found in REGION , COUNTRY .
-ASTRONAUT was a US national , being born in BIRTHPLACE and was a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT was a US national , being born in BIRTHPLACE and was a member of the WAS_A_CREW_MEMBER_OF crew .
 CITYSERVED is part of Essex County , NY and it is served by the AIRPORT .
 FOOD is served in the region of REGION and is from France , the U . S . or China . Its main ingredients are meringue , ice cream , sponge cake or Christmas pudding .
-ASTRONAUT was born in BIRTHPLACE , graduated from AFIT in 1962 , and joined NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born in BIRTHPLACE , graduated from AFIT in 1962 , and joined NASA in WAS_SELECTED_BY_NASA .
 Ernie Col ó n and Gary Cohn are some of the creators of the comic character Bolt .
 Shumai is a variation of DISHVARIATION and they are both types of the same dish . FOOD is found in COUNTRY and has peanut sauce as an ingredient .
 The leader of the COUNTRY is LEADERNAME and the capital city is Washington DC . The country is the origin of the FOOD and contains the ethnic group of ETHNICGROUP .
@@ -8672,7 +8672,7 @@ The MONUMENT is in the municipality of Gettysburg Pennsylvania .
 BUILDING in LOCATION , Cuyahoga County , ISPARTOF , COUNTRY was designed by the architectural firm HOK .
 ASTRONAUT spent 100305 minutes in space .
 The MONUMENT is located in LOCATION in the COUNTRY , and falls under the category of CATEGORY .
-ASTRONAUT was born in BIRTHPLACE on the 23rd of July 1927 . He attended the ALMAMATER who are competing in the COMPETE IN .
+ASTRONAUT was born in BIRTHPLACE on the 23rd of July 1927 . He attended the ALMAMATER who are competing in the COMPETE_IN .
 WRITTENWORK was edited by A . t . Charlie Johnson who resides in the RESIDENCE and where ALMAMATER was his almaMater .
 AIRPORT is 25 meters above sea level with a runway length of 2777 and named RUNWAYNAME . It is operated by OPERATINGORGANISATION .
 Poaceae is of the order ORDER .
@@ -8704,7 +8704,7 @@ BUILDING , with FLOORCOUNT floors , is located in LOCATION .
 LEADERNAME is the name of Jalisco ' s leader .
 The runway length of AIRPORT is RUNWAYLENGTH .
 ARCHITECT from HOMETOWN was the architect of BUILDING .
-ASTRONAUT was born in BIRTHPLACE on July 23 , 1927 . He graduated from ALMAMATER , and competed in the COMPETE IN .
+ASTRONAUT was born in BIRTHPLACE on July 23 , 1927 . He graduated from ALMAMATER , and competed in the COMPETE_IN .
 AIRPORT is operated by the OPERATINGORGANISATION whose aircraft carriers transport the ATTACKAIRCRAFT .
 CAPITAL , the UK capital is lead via the LEADERTITLE along with LEADERNAME . It is the location of BUILDING .
 ABBREVIATION ( Journal ) has the CODEN Code CODEN_CODE and is abbreviated to ABBREVIATION .
@@ -8727,23 +8727,23 @@ Duncan Rouleau is American .
 The leader of the Albuquerque City Council is LEADER .
 WRITTENWORK , the sequel to PRECEDEDBY was written by AUTHOR who was from Shirley Derbyshire .
 SPORTSTEAM played in season SEASON . They have NUMBEROFMEMBERS members and their ground is located in the town of GROUND .
-ASTRONAUT ( born in BIRTHPLACE ) graduated from NWC with a M . A . in 1957 . Alan was a crew member of WAS A CREW MEMBER OF where he served as a OCCUPATION at the WAS A CREW MEMBER OF . Alan died in DEATHPLACE .
+ASTRONAUT ( born in BIRTHPLACE ) graduated from NWC with a M . A . in 1957 . Alan was a crew member of WAS_A_CREW_MEMBER_OF where he served as a OCCUPATION at the WAS_A_CREW_MEMBER_OF . Alan died in DEATHPLACE .
 The BUILDING , constructed in YEAROFCONSTRUCTION , is located at LOCATION .
 AIRPORT is 25 metres above sea level .
 The UNIVERSITY is found in the city of CITY which has GOVERNMENTTYPE as its government type .
 The Atat ü rk Monument is located in Izmir , LOCATION .
 The AIDS journal is published in the COUNTRY by Lippincott , Williams & Wilkins .
 There are 992 . 6 people per square kilometres in CITY .
-ASTRONAUT , who was a member of WAS A CREW MEMBER OF , died July 21st , 1998 in DEATHPLACE well after being picked by OPERATOR as part of the space program .
+ASTRONAUT , who was a member of WAS_A_CREW_MEMBER_OF , died July 21st , 1998 in DEATHPLACE well after being picked by OPERATOR as part of the space program .
 AIRPORT serves the city of CITYSERVED .
 The capital of Malaysia is CAPITAL .
 Adolfo Suarez Madrid - Barajas airport is located at LOCATION . It is run by OPERATINGORGANISATION and its runway is 4349 m long and the airport 610 m above sea level . The airport ' s name is RUNWAYNAME .
 The UNIVERSITY is in CITY , STATE . STATE is led by LEADERNAME .
-ASTRONAUT was a US National born in BIRTHPLACE in 1933 . He was selected by NASA in WAS SELECTED BY NASA where he crewed WAS A CREW MEMBER OF as a OCCUPATION . He retired in 1969 .
+ASTRONAUT was a US National born in BIRTHPLACE in 1933 . He was selected by NASA in WAS_SELECTED_BY_NASA where he crewed WAS_A_CREW_MEMBER_OF as a OCCUPATION . He retired in 1969 .
 The starring of Big Hero 6 ( film ) is STARRING .
 The printed book , A severed Wasp has NUMBEROFPAGES pages and the OCLC number is OCLC_NUMBER .
 WRITTENWORK originates from the COUNTRY , and is written in English , also spoken in SPOKENIN . The US includes many ETHNICGROUP , and its leader is LEADERNAME .
-BUILDING are located in LOCATION , was constructed in YEAROFCONSTRUCTION , has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places and architecturally is of the " Arts and Crafts Movement and American Craftsman Bungalows " .
+BUILDING are located in LOCATION , was constructed in YEAROFCONSTRUCTION , has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places and architecturally is of the " Arts and Crafts Movement and American Craftsman Bungalows " .
 BUILDING can be found in LOCATION , Gujurat , COUNTRY . The leader of Gujarat is called the LEADERTITLE , where one such leader was LEADERNAME .
 Located in LOCATION , AIRPORT has an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . It has a runway length of 1 , 982 and RUNWAYNAME is the runway name .
 The UNIVERSITY was established in the state of STATE , COUNTRY , in ESTABLISHED .
@@ -8801,7 +8801,7 @@ LEADERNAME is a leader of Karnatka .
 BUILDING is located in the REGION , in the Eastern Province of COUNTRY . The hospital ' s bed count is BEDCOUNT .
 The UNIVERSITY is located in Karnatka . It is affiliated with the AFFILIATION in CITY and its director is DIRECTOR .
 The MONUMENT is located in STATE state .
-ASTRONAUT has died in DEATHPLACE . He was born on 18 November 1923 in BIRTHPLACE and served as crew on the WAS A CREW MEMBER OF mission . Prior to his retirement on 1 August 1974 he had been awarded the Distinguished Service Medal by the US Navy , an award higher than the Department of Commerce gold medal .
+ASTRONAUT has died in DEATHPLACE . He was born on 18 November 1923 in BIRTHPLACE and served as crew on the WAS_A_CREW_MEMBER_OF mission . Prior to his retirement on 1 August 1974 he had been awarded the Distinguished Service Medal by the US Navy , an award higher than the Department of Commerce gold medal .
 FOOD is from the region of REGION in COUNTRY . The leader of COUNTRY is Felipe VI .
 LEADERTITLE is the leader title in CITY .
 The UNIVERSITY is affiliated to the AFFILIATION and the campus is located in COUNTRY at Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
@@ -8814,7 +8814,7 @@ The MONUMENT is in CAPITAL , LOCATION .
 FOOD originates from the REGION region of the COUNTRY . Its main ingredients are sweet potato and banana .
 FOOD is a dish from America , where there is a leader called LEADERNAME and where ETHNICGROUP are an ethnic group . Washington DC is the capital of the US and the leader of the country has the title of President .
 FOOD comes from the Paisa region of Colombia and is typical of the country ' s cuisine . It contains lemons which are members of the rutaceae family of plants .
-WAS A CREW MEMBER OF was operated by OPERATOR , and its crew members included CREWMEMBERS and ASTRONAUT , who was born in BIRTHPLACE . Chris Ratten served as a representative of BIRTHPLACE .
+WAS_A_CREW_MEMBER_OF was operated by OPERATOR , and its crew members included CREWMEMBERS and ASTRONAUT , who was born in BIRTHPLACE . Chris Ratten served as a representative of BIRTHPLACE .
 The hub airport for Turkmenistan airlines is Ashgabat International airport .
 BUILDING is in the LOCATION which is lead by the President . LEADERNAME and Joe Biden are leaders in the country .
 INGREDIENT is contained in FOOD .
@@ -8834,10 +8834,10 @@ Agra airport is located in LOCATION , which is owned and operated by the Indian 
 MANAGER is at Colwyn Bay FC and is the manager of AFC Fylde .
 The leader of COUNTRY is called T S Thakur and another leader there is LEADERNAME . BUILDING is located in LOCATION in COUNTRY .
 AIRPORT in LOCATION is operated by OPERATINGORGANISATION . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH .
-OPERATOR ' s WAS A CREW MEMBER OF had three crew members who included CREWMEMBERS , BACKUP PILOT as the backup pilot and ASTRONAUT . Anders was born in BIRTHPLACE which has REPRESENTATIVE as its representative .
+OPERATOR ' s WAS_A_CREW_MEMBER_OF had three crew members who included CREWMEMBERS , BACKUP_PILOT as the backup pilot and ASTRONAUT . Anders was born in BIRTHPLACE which has REPRESENTATIVE as its representative .
 FOOD is a traditional Italian sauce .
 FOOD is a dish similar to pakora and other fritters made from whet or corn flour .
-ASTRONAUT , NASA employee from WAS SELECTED BY NASA , was born on 23rd July 1927 in BIRTHPLACE and died in St Louis .
+ASTRONAUT , NASA employee from WAS_SELECTED_BY_NASA , was born on 23rd July 1927 in BIRTHPLACE and died in St Louis .
 CAPITAL is the capital city of the COUNTRY where David Cameron is a leader along with LEADERNAME . The WRITTENWORK is published in the UK by PUBLISHER .
 Orange County , is part of the greater Los Angeles area , in California .
 The creator of Asterix , the comics character also known as ALTERNATIVENAME , is CREATOR .
@@ -8850,9 +8850,9 @@ The BUILDING is located in LOCATION in COUNTRY .
 STARRING starred in the film Big Hero 6 .
 Politician Carrie Lam is the leader of Hong Kong .
 The location identifier of AIRPORT is LOCATIONIDENTIFIER .
-ASTRONAUT who was born on Nov 18 , 1923 in BIRTHPLACE was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT who was born on Nov 18 , 1923 in BIRTHPLACE was selected by NASA in WAS_SELECTED_BY_NASA .
 Created by CREATOR ( founded in FOUNDATIONPLACE ) , FOOD come from COUNTRY where they speak French and the leader is Francois Hollande .
-ASTRONAUT was born in BIRTHPLACE and is a NATIONALITY national . He was selected in WAS SELECTED BY NASA by NASA as a member of the WAS A CREW MEMBER OF crew . He has now retired , .
+ASTRONAUT was born in BIRTHPLACE and is a NATIONALITY national . He was selected in WAS_SELECTED_BY_NASA by NASA as a member of the WAS_A_CREW_MEMBER_OF crew . He has now retired , .
 The BUILDING was completed in 1984 . It is located at LOCATION ; it has a floor count of FLOORCOUNT and a floor area of 111 , 484 square metres .
 COMICSCHARACTER is the full name of FULLNAME created by CREATOR and the American , Jerry Ordway .
 FOOD is found in COUNTRY , it is a variation on the dish Siomay / DISHVARIATION and includes peanut sauce .
@@ -8874,12 +8874,12 @@ WRITTENWORK by AUTHOR , is preceded by PRECEDEDBY .
 AFC GROUND , whose ground is located in GROUND , plays in the LEAGUE .
 In the season 2014 - 2015 AFC Blackpool , who have NUMBEROFMEMBERS members , played in the North West Counties Football League . They have the full name " FULLNAME " and their home ground is The Mechanics .
 The ground of SPORTSTEAM is located in GROUND , who ' s leader is LEADER and where they speak Italian .
-ASTRONAUT was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was selected by NASA in WAS_SELECTED_BY_NASA .
 BUILDING is a FLOORCOUNT floor ARCHITECT building , completed in COMPLETIONDATE and owned by Redefine Properties Ltd .
 RUNWAYNAME is the runway name of AIRPORT .
 Cumberland County Pennsylvania lies to the north of Adams County which is the location of the 11th Mississippi Infantry monument which was established in the year ESTABLISHED . The County is located to the east of Franklin County Pennsylvania and Carrol County Maryland can be found to the southeast .
 The ground of SPORTSTEAM is located in GROUND , where DEMONYM live . The capital is CAPITAL and two of the leaders are Pietro Grasso , and LEADER .
-ASTRONAUT , who was a crew member on WAS A CREW MEMBER OF , was born 1932 . 03 . 15 in Wheeler Texas has now retired .
+ASTRONAUT , who was a crew member on WAS_A_CREW_MEMBER_OF , was born 1932 . 03 . 15 in Wheeler Texas has now retired .
 WRITTENWORK by AUTHOR was published in print and has the ISBN number ISBN_NUMBER .
 Stuart Parker once played for Runcorn FC Halton , is attached to Irlam Town Football Club and is now a manager of SPORTSTEAM .
 The BROADCASTEDBY , based in LOCATIONCITY , London , showed the TV series COMICSCHARACTER . This show starred BIRTHPLACE born STARRING .
@@ -8891,7 +8891,7 @@ LOCATIONCITY is part of the community of LOCATIONCITY in COUNTRY . OPERATINGORGA
 The American Journal of Medicine ( Am . J . Math ) is a bimonthly publication with an academic discipline in ACADEMICDISCIPLINE . The ISSN # is : ISSN_NUMBER . .
 Pietro Grasso and LEADERNAME are the leaders of COUNTRY . The capital is CAPITAL and FOOD is a traditional Italian sauce .
 The Federal Chancellor of COUNTRY is called LEADERNAME . The UNIVERSITY is located in COUNTRY .
-ASTRONAUT is a US national , who was born in BIRTHPLACE . He received a B . S . degree at UT at Austin in 1955 . He was a test pilot and crewed the OPERATOR operated WAS A CREW MEMBER OF . He is now retired .
+ASTRONAUT is a US national , who was born in BIRTHPLACE . He received a B . S . degree at UT at Austin in 1955 . He was a test pilot and crewed the OPERATOR operated WAS_A_CREW_MEMBER_OF . He is now retired .
 The 2nd runway at AIRPORT is made of 2ND_RUNWAY_SURFACETYPE .
 FOOD is a food found in REGION ; led by LEADERNAME and is LANGUAGE speaking . It is also found in COUNTRY , home to the ethnic ETHNICGROUP .
 RUNWAYNAME is the name of the runway at COUNTRY International airport in Icolo e Bengo , COUNTRY .
@@ -8915,11 +8915,11 @@ The governing body of HOMETOWN is the City Council along with the British politi
 STARRING , born in BIRTHPLACE , starred in COMICSCHARACTER .
 ASTRONAUT spent a total of 52 . 0 minutes in space .
 LEADERNAME is the name of Denmark ' s leader .
-UNIVERSITY is located in the city of CITY in the state of STATE and is affiliated with AFFILIATION . STATE has to its west the HAS TO ITS WEST .
+UNIVERSITY is located in the city of CITY in the state of STATE and is affiliated with AFFILIATION . STATE has to its west the HAS_TO_ITS_WEST .
 The AIRPORT is located in Greenville , Wisconsin which is part of Ellington , Wisconsin in the COUNTRY . The airport serves Appleton which is part of Grand Chute , Wisconsin .
 AIRPORT has a runway length of RUNWAYLENGTH and is located in LOCATION .
 The 27th July , 1932 was the inauguration date of the Ataturk Monument in Izmir , LOCATION ; which was designed by DESIGNER . Ahmet Davutoglu is Turkeys leader and their national currency is the lira .
-ASTRONAUT was born in BIRTHPLACE for which REPRESENTATIVE is a British representative . He served as a crew member on WAS A CREW MEMBER OF along with commander COMMANDER and backup pilot BACKUP PILOT , .
+ASTRONAUT was born in BIRTHPLACE for which REPRESENTATIVE is a British representative . He served as a crew member on WAS_A_CREW_MEMBER_OF along with commander COMMANDER and backup pilot BACKUP_PILOT , .
 The runway name of AIRPORT is RUNWAYNAME .
 BIRTHPLACE born test pilot Elloit See ( born 23rd of July 1927 ) attended the ALMAMATER . He died in St Louis on 28th of February 1966 .
 Adolfo Suarez Madrid - Barajas Airport is operated by OPERATINGORGANISATION .
@@ -8957,7 +8957,7 @@ LEADERNAME and Jusuf Kalla are both leaders in COUNTRY , a country whose capital
 The capital city of the United States is Washington D . C .
 The established religion of LOCATION , where the capital is CAPITAL , is The Church of LOCATION . Located within the country is MONUMENT which is dedicated to Aethelwald , Ealdorman of East Anglia . One of the ethnic groups in the country are the ETHNICGROUPS .
 The leader , of Albuquerque ( New Mexico ) , is LEADER .
-ASTRONAUT retired on the 1st of September 1969 , was a member of the WAS A CREW MEMBER OF crew and in 1962 received a M . S . from his alma Mater , AFIT .
+ASTRONAUT retired on the 1st of September 1969 , was a member of the WAS_A_CREW_MEMBER_OF crew and in 1962 received a M . S . from his alma Mater , AFIT .
 ASTRONAUT was an American born on July 23 , 1927 in BIRTHPLACE . He graduated from U of Texas at Austin which is a part of the U of Texas system . See died on Feb 28 , 1966 in DEATHPLACE .
 BUILDING is located in LOCATION , ISPARTOF in the COUNTRY , where English is the official language . LEADERNAME is a leader in LOCATION .
 AIRPORT is in Egg Harbor Township , which is a part of Atlantic County , located in New Jersey , in the COUNTRY . The airport is operated by the OPERATINGORGANISATION , which has its headquarters at HEADQUARTER .
@@ -8969,7 +8969,7 @@ The leader of Manhattan is LEADERNAME .
 The largest city of Williamson County , Texas is Round Rock .
 The runway length of AIRPORT , which serves the city of CITYSERVED , is RUNWAYLENGTH .
 PUBLISHER published WRITTENWORK which comes from COUNTRY where an ethnic group is white people .
-ASTRONAUT is an American born in BIRTHPLACE on Jan 20 , 1930 . He was a fighter pilot and a member of WAS A CREW MEMBER OF , where he spent 52 minutes in space . Aldrin is now retired .
+ASTRONAUT is an American born in BIRTHPLACE on Jan 20 , 1930 . He was a fighter pilot and a member of WAS_A_CREW_MEMBER_OF , where he spent 52 minutes in space . Aldrin is now retired .
 Enrique Pena Nieto is a leader in Mexico .
 English is the language of the LOCATION which is lead by a President and has the ethnic group of ETHNICGROUP . The country is the location of BUILDING and has LEADERNAME as one of it ' s leaders .
 School of Business and Social Sciences was established in ESTABLISHED and is affiliated with the AFFILIATION . Thr school has 16 , 000 students and an academic staff of ACADEMICSTAFFSIZE .
@@ -8982,7 +8982,7 @@ The country FOOD comes from is the COUNTRY where LEADERNAME was once the leader 
 Bakwell tart is a dish from the REGION region where LEADERNAME is a leader . It is a variation of FOOD and includes frangipane among its ingredients .
 AIRPORT is located ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 The ethnic group for Spain is ETHNICGROUP .
-BUILDING , constructed in YEAROFCONSTRUCTION is located in LOCATION and has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the the National Register of Historic Places .
+BUILDING , constructed in YEAROFCONSTRUCTION is located in LOCATION and has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the the National Register of Historic Places .
 The UNIVERSITY in CITY , COUNTRY is affiliated with the AFFILIATION . It was created in ESTABLISHED and its dean today is DEAN . It has 16 , 000 students and ACADEMICSTAFFSIZE employees .
 The UNIVERSITY in the city of CITY , STATE , COUNTRY is affiliated to the AFFILIATION and has B M Reddy as President . The campus is located at In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 .
 AIRPORT serves the city of CITYSERVED .
@@ -9020,7 +9020,7 @@ The comic book character Arion , aka ALTERNATIVENAME , was created by Jan Duurse
 PUBLISHER is affiliated with the AFFILIATION and publishes Adninistrative Science Quarterly . The University is located in CITY and has the nickname NICKNAME .
 WRITTENWORK is published by PUBLISHER in the COUNTRY . The COUNTRY has an ethnic group called ETHNICGROUP .
 CHAMPIONS are champions of LEAGUE . in which AS Gubbio 1910 also play . The latter club have their home ground located in GROUND which is lead by LEADER and uses the LANGUAGE .
-The BUILDING built in YEAROFCONSTRUCTION is located at LOCATION and was built in the architectural style of the " ARCHITECTURE " . " REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES " is the reference number in the National Register of Historic Places .
+The BUILDING built in YEAROFCONSTRUCTION is located at LOCATION and was built in the architectural style of the " ARCHITECTURE " . " REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES " is the reference number in the National Register of Historic Places .
 WRITTENWORK was published by PUBLISHER located in the U . S . The language of the COUNTRY is English and one of US ethnic groups is Native Americans .
 WRITTENWORK comes from COUNTRY and was published by PUBLISHER who have the parent company PARENTCOMPANY .
 INGREDIENT is an ingredient of FOOD , a dish served as an alternative to DISHVARIATION for dessert .
@@ -9042,7 +9042,7 @@ AIRPORT is owned by OWNER .
 INGREDIENT is an ingredient in the dish Ayam Penyet which is from COUNTRY .
 ASTRONAUT , a US test pilot was born on the 15th of March 1932 in BIRTHPLACE . After graduating in 1955 from UT Austin with a B . S . , he became a test pilot .
 The CHAMPIONS were champions at the Campeonato Brasileiro S é rie C .
-WAS A CREW MEMBER OF crew member ASTRONAUT was awarded the Distinguished Service Medal by the U . S . Navy , an award that ranks higher than the HIGHER . Shepard was born in BIRTHPLACE , graduated from N . W . C . with an M . A . in 1957 and in 1974 on August 1st , he retired .
+WAS_A_CREW_MEMBER_OF crew member ASTRONAUT was awarded the Distinguished Service Medal by the U . S . Navy , an award that ranks higher than the HIGHER . Shepard was born in BIRTHPLACE , graduated from N . W . C . with an M . A . in 1957 and in 1974 on August 1st , he retired .
 The ABBREVIATION journal ( abbr . ABBREVIATION ) is published by PUBLISHER . The ISSN # is : ISSN_NUMBER and LCCN : LCCN_NUMBER .
 The manager of SPORTSTEAM is MANAGER who played for both Chesterfield FC and Bury FC .
 SPORTSTEAM played the 2014 - 15 season in Serie A .
@@ -9068,7 +9068,7 @@ Dane Whitman Black Knight is a comic character created by CREATOR .
 Abilene regional airport serves Abilene , ISPARTOF in the COUNTRY and has a runway length of RUNWAYLENGTH .
 BUILDING has FLOORCOUNT floors and a floor area of 62145 . 3 square metres , constructionof it began in BUILDINGSTARTDATE and was completed in COMPLETIONDATE .
 WRITTENWORK , ISBN number ISBN_NUMBER has NUMBEROFPAGES pages .
-ASTRONAUT has died in St Louis on 28 February 1966 . A US national , he was born in BIRTHPLACE and became a test pilot before being selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT has died in St Louis on 28 February 1966 . A US national , he was born in BIRTHPLACE and became a test pilot before being selected by NASA in WAS_SELECTED_BY_NASA .
 DEMONYM inhabit Italy .
 AIRPORT serves the city of CITYSERVED in COUNTRY . The LANGUAGE are spoken in COUNTRY , where there are leaders called Haider Al - Abadi and LEADERNAME .
 AIRPORT is located at 23 metres above sea level in Egg Harbor Township , ISPARTOF , COUNTRY .
@@ -9113,7 +9113,7 @@ From the REGION region , FOOD was created in 1820 at the Rutland Arms , Bakewell
 FOOD is a food found in REGION , in the Philipppines and is made from the main ingredients noodles , pork organs , vegetables , chicken , shrimp and beef .
 The Federal Assembly legislates in Switzerland .
 The MONUMENT is based in the US .
-The MONUMENT is contained within the category of CATEGORY and is located in LOCATION . Adams County is south of HAS TO ITS NORTH .
+The MONUMENT is contained within the category of CATEGORY and is located in LOCATION . Adams County is south of HAS_TO_ITS_NORTH .
 The WRITTENWORK ISSN ISSN_NUMBER is often abbreviated as AM . J . Math .
 The Ardmore Airport in New Zealand , located 34 meters above sea level , has a runway length of RUNWAYLENGTH and the third runway is made of 3RD_RUNWAY_SURFACETYPE .
 ASTRONAUT was born on October 17th , 1933 and his Alma Mater was AFIT , M . S . which he attended in 1962 .
@@ -9146,13 +9146,13 @@ RUNWAYNAME is the runway name of AIRPORT .
 BUILDING is located in LOCATION , COUNTRY .
 SPORTSTEAM has got NUMBEROFMEMBERS members and the chairman is CHAIRMAN .
 UNIVERSITY in CITY , COUNTRY has an academic staff of ACADEMICSTAFFSIZE providing educational services to NUMBEROFSTUDENTS students .
-Buzz Aldrin served as a crew member on the OPERATOR organised WAS A CREW MEMBER OF program , where ASTRONAUT was a backup pilot .
+Buzz Aldrin served as a crew member on the OPERATOR organised WAS_A_CREW_MEMBER_OF program , where ASTRONAUT was a backup pilot .
 ASTRONAUT , a fighter pilot from BIRTHPLACE , retired on September 1 , 1969 .
 BUILDING was completed in COMPLETIONDATE .
 AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 The OPERATINGORGANISATION , which operates AIRPORT , was involved in the Invasion of Panama . It has an aircraft fighter called the AIRCRAFTFIGHTER and an attack aircraft called the ATTACKAIRCRAFT .
 The construction of BUILDING began in January 2014 , worth COST that has FLOORAREA , and a floor count of FLOORCOUNT .
-ASTRONAUT who is American was born in BIRTHPLACE in March 15th 1932 . He served as a test pilot on WAS A CREW MEMBER OF before retiring in June in 1981 .
+ASTRONAUT who is American was born in BIRTHPLACE in March 15th 1932 . He served as a test pilot on WAS_A_CREW_MEMBER_OF before retiring in June in 1981 .
 AUTHOR is the author of WRITTENWORK which is published by PUBLISHER .
 The governing body of Birmingham is GOVERNINGBODY .
 In France the currency is the CURRENCY .
@@ -9183,7 +9183,7 @@ The CITYSERVED Airport , whose runway is 3800 feet , serves CITYSERVED .
 BUILDING is located in the LOCATION . A country where the leader is known as LEADERTITLE . LEADERNAME is the President in this English speaking country where one of the ethnic groups is ETHNICGROUP .
 Julian Morgan , born in BIRTHPLACE , designed the significant SIGNIFICANTBUILDING and the BUILDING .
 The leader of France is LEADERNAME .
-Born on October 17 , 1933 , ASTRONAUT was selected by NASA in WAS SELECTED BY NASA .
+Born on October 17 , 1933 , ASTRONAUT was selected by NASA in WAS_SELECTED_BY_NASA .
 PARENTCOMPANY Press in the COUNTRY is the parent company of PARENTCOMPANY who publish WRITTENWORK . The Journal comes under the academic discipline of Math .
 MUNICIPALITY is the location of the 11th Mississippi Infantry monument which falls under the category of contributing property .
 The Republic of Ireland ' s currency is the CURRENCY .
@@ -9196,13 +9196,13 @@ The UNIVERSITY , established in ESTABLISHED , is located in the city of CITY in 
 LEADERNAME leads COUNTRY where Al Taqaddum air base serves the city of CITYSERVED .
 Area codes for CITY are : 682 , 817 , 214 , 469 and 972 .
 Turkmenistan airlines are the operating organisation for AIRPORT located ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level in LOCATION . The airport runway has a length of RUNWAYLENGTH and is named RUNWAYNAME , .
-ASTRONAUT ( born in BIRTHPLACE ) was a crew member of WAS A CREW MEMBER OF and spent 13017 . 0 ( minutes ) in space .
+ASTRONAUT ( born in BIRTHPLACE ) was a crew member of WAS_A_CREW_MEMBER_OF and spent 13017 . 0 ( minutes ) in space .
 Arros negre comes from the region of the REGION , COUNTRY . The main ingredients of FOOD are white rice , cuttlefish or squid , cephalopod ink , cubanelle peppers .
 BUILDING is located in LOCATION .
 TENANT , with KEYPERSON as a key leader , is the tenant of AC Hotel Bella Sky in LOCATION .
 Adolfo Suarez Madrid - Barajas airport is located in LOCATION , Madrid . The leading party is the People Party ( Spain ) .
 FOOD comes from the region of REGION and is a food found in COUNTRY , where there is a ethnic group called ETHNICGROUP .
-ASTRONAUT , deceased , competed in the COMPETE IN , and graduated from ALMAMATER , which is affiliated with AFFILIATIONS .
+ASTRONAUT , deceased , competed in the COMPETE_IN , and graduated from ALMAMATER , which is affiliated with AFFILIATIONS .
 BUILDING are located in Pacific Grove , a part of ISPARTOF .
 The operating organisation of Al Asad airbase in LOCATION is the OPERATINGORGANISATION . The runway length is 3993 . 88 and has the name RUNWAYNAME .
 Ahmet Davutoglu is the leader of LOCATION , where the capital is CAPITAL , but the largest city is LARGESTCITY ; the currency of LOCATION is Turkish Lira and in Izmir , LOCATION the Ataturk Monument stands , inaugurated on July 27 , 1932 .
@@ -9248,7 +9248,7 @@ FOOD , whose ingredients include ground almonds , jam , butter and eggs , was cr
 The UNIVERSITY in CITY , STATE was established in ESTABLISHED and it has ACADEMICSTAFFSIZE academic staff . The leader of STATE is LEADERNAME .
 DEMONYM and Arros negre come from COUNTRY .
 The character of COMICSCHARACTER , whose full name is FULLNAME , was created by CREATOR and the comic bookwriter , Roger Mckenzie .
-ASTRONAUT was born in BIRTHPLACE and is an American . He was chosen by NASA in WAS SELECTED BY NASA and was a fighter pilot as well as a member of WAS A CREW MEMBER OF . He retired on Sept 1 1969 .
+ASTRONAUT was born in BIRTHPLACE and is an American . He was chosen by NASA in WAS_SELECTED_BY_NASA and was a fighter pilot as well as a member of WAS_A_CREW_MEMBER_OF . He retired on Sept 1 1969 .
 AIRPORT , with a runway length of 1800 . 00 , is located in Sao Jose dos Pinhais .
 The runway name of Amsterdam ' s Schiphol Airport is 18C / 36C Zwanenburgbaan .
 In COUNTRY ; LEADERNAME is the leader , Indonesian is the language , and FOOD is commonly served .
@@ -9281,7 +9281,7 @@ Hok Sve designed the BUILDING completed in COMPLETIONDATE and located at LOCATIO
 BUILDING is located in LOCATION , ISPARTOF ( the capital being Springfield ) in the COUNTRY . LEADERNAME is a leader in LOCATION .
 AIRPORT ' s 3rd runway surface type is 3RD_RUNWAY_SURFACETYPE .
 The tomato is of the order ORDER .
-ASTRONAUT who is originally from BIRTHPLACE graduated from Massachusetts Institute of Technology in WAS SELECTED BY NASA . He joined NASA in WAS SELECTED BY NASA as a fighter pilot and became a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT who is originally from BIRTHPLACE graduated from Massachusetts Institute of Technology in WAS_SELECTED_BY_NASA . He joined NASA in WAS_SELECTED_BY_NASA as a fighter pilot and became a member of the WAS_A_CREW_MEMBER_OF crew .
 DISHVARIATION ( which contains shiitake ) is a variation of batagor , which itself is a variation of the Siomay dish .
 BUILDING has FLOORCOUNT floors and cost 120 million Australian dollars .
 PeterSt ö ger , manager of FC Kolin plays for both SK Rapid Wien and CLUB .
@@ -9311,15 +9311,15 @@ LEADERNAME is the leader of COUNTRY where AIRPORT which is found in Punjab and s
 The runway length at Antwerp International airport is RUNWAYLENGTH .
 Auburn forms part of ISPARTOF .
 AIRPORT is 973 metres above sea level and is located in LOCATIONIDENTIFIER .
-ASTRONAUT is a US national who was born in BIRTHPLACE . He is now retired but was a crew member hired by NASA in WAS SELECTED BY NASA for the WAS A CREW MEMBER OF mission .
+ASTRONAUT is a US national who was born in BIRTHPLACE . He is now retired but was a crew member hired by NASA in WAS_SELECTED_BY_NASA for the WAS_A_CREW_MEMBER_OF mission .
 The alternative name of Airman ( comics character ) is " ALTERNATIVENAME " .
 MANAGER , the manager of FC Kolin is also a part of the SK Vorw ä rts Steyr club , the SK Rapid Wien Club and CLUB .
 Jorge Humberto Rodr í guez is in CLUB .
-ASTRONAUT , a crew member of WAS A CREW MEMBER OF , was born in BIRTHPLACE , and was selected by NASA in WAS SELECTED BY NASA . He retired September 1 , 1969 .
+ASTRONAUT , a crew member of WAS_A_CREW_MEMBER_OF , was born in BIRTHPLACE , and was selected by NASA in WAS_SELECTED_BY_NASA . He retired September 1 , 1969 .
 The ETHNICGROUP are an ethnic group in the COUNTRY where LEADERNAME is a leader and FOOD originated .
 The MONUMENT is located in MUNICIPALITY .
 In the COUNTRY , the language is English , ETHNICGROUP are an ethnic group and the book Alcatraz Verses the Evil Librarians was written .
-The state of STATE , the location of the UNIVERSITY has HAS TO ITS NORTHEAST to the northeast and the HAS TO ITS WEST to the west .
+The state of STATE , the location of the UNIVERSITY has HAS_TO_ITS_NORTHEAST to the northeast and the HAS_TO_ITS_WEST to the west .
 BUILDING is in COUNTRY where the leader is LEADERNAME .
 FOOD , originating from the country of COUNTRY , has almonds as one of its ingredients .
 Attica , Indiana is part of the ISPARTOF .
@@ -9328,7 +9328,7 @@ BUILDING is located in Asherton , ISPARTOF .
 The building at BUILDING was completed in COMPLETIONDATE .
 AIRPORT has a 3rd runway made of poaceae and a runway length of 1411 . It is 34 metres above sea level and a runway name of RUNWAYNAME .
 The USA is both the home to the book 1634 The Ram Rebellion and the African American ethnic groups .
-STATUS American test pilot ASTRONAUT was born in BIRTHPLACE on March 15 , 1932 . He was a crew member on WAS A CREW MEMBER OF and retired in June of 1981 .
+STATUS American test pilot ASTRONAUT was born in BIRTHPLACE on March 15 , 1932 . He was a crew member on WAS_A_CREW_MEMBER_OF and retired in June of 1981 .
 The Atat ü rk Monument ( inaugurated on 27th July , 1932 ) in Izmir was designed by DESIGNER and is made of bronze . The Monument is located in İ zmir , LOCATION whose capital city is CAPITAL .
 The UNIVERSITY in COUNTRY , CITY has a student count of NUMBEROFSTUDENTS .
 The WRITTENWORK ISSN number is " ISSN_NUMBER " and the LCCN number LCCN_NUMBER . It has the CODEN code of " CODEN_CODE " and the abbreviation of ABBREVIATION .
@@ -9371,7 +9371,7 @@ The NUMBEROFPAGES - page " WRITTENWORK , " has the ISBN number of ISBN_NUMBER .
 FOOD is a traditional sauce in COUNTRY ( the capital of which is CAPITAL ) , where two of the country ' s leaders are Matteo Renzi and LEADERNAME .
 Albuquerque , in New Mexico , has a total are of 490 . 9 square kilometres .
 BUILDING is the seat of Local Government .
-ASTRONAUT was born on Mar 15 , 1932 . He was on the crew of WAS A CREW MEMBER OF , which was operated by OPERATOR . He performed as a test , but is now retired . COMMANDER was the Commander of WAS A CREW MEMBER OF , and BACKUP PILOT was the backup pilot .
+ASTRONAUT was born on Mar 15 , 1932 . He was on the crew of WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR . He performed as a test , but is now retired . COMMANDER was the Commander of WAS_A_CREW_MEMBER_OF , and BACKUP_PILOT was the backup pilot .
 AIRPORT is located at LOCATION , part of ISPARTOF .
 BUILDING , which has a floor count of FLOORCOUNT , was completed in COMPLETIONDATE .
 In the year ESTABLISHED the UNIVERSITY was established in the state of STATE , COUNTRY . The current campus address is " CAMPUS " The Director is Dr G P Prabhukumar and it is affiliated with the AFFILIATION .
@@ -9386,7 +9386,7 @@ Associazione Sportiva Gubbio Srl ( abbreviated to A . S . Gubbio ) has NUMBEROFM
 WRITTENWORK was published in COUNTRY , where white people live , by PUBLISHER , parented by PARENTCOMPANY , who subsequently published FOLLOWEDBY .
 The area code of CITY is AREACODE .
 Stuart Parker is a member of Irlam Town FC and manages AFC GROUND which is based in the city of GROUND whose leaders are the Conservative Party UK .
-ASTRONAUT served as a crew member of WAS A CREW MEMBER OF ( operated by OPERATOR ) and as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN . His time in space is 8820 . 0 minutes . CREWMEMBERS was also a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT served as a crew member of WAS_A_CREW_MEMBER_OF ( operated by OPERATOR ) and as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN . His time in space is 8820 . 0 minutes . CREWMEMBERS was also a crew member of WAS_A_CREW_MEMBER_OF .
 CREATOR and AWARD winning Jan Duursema are the creators of the comic book character Arion , also know as ALTERNATIVENAME .
 WRITTENWORK was written in English and published in the COUNTRY . The COUNTRY is led by LEADERNAME and has ETHNICGROUP as one of its ethnic groups .
 Frenchman , Rene Goscinny created Asterix , the comic character who is sometimes called " ALTERNATIVENAME " .
@@ -9430,7 +9430,7 @@ AIRPORT , which is in LOCATION , has a runway named RUNWAYNAME and is 4 , 100 lo
 FOOD is popular in the Indonesian region and also in the neighbouring Southeast Asian countries .
 The manager of A . S . Roma is MANAGER .
 BUILDING and ISPARTOF are located in LOCATION , COUNTRY . The leader of COUNTRY is Malatu Teshome and the language used in the country is LANGUAGE .
-The BUILDING constructed in YEAROFCONSTRUCTION are located in LOCATION and were added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The BUILDING constructed in YEAROFCONSTRUCTION are located in LOCATION and were added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 FULLNAME , is the full name of SPORTSTEAM which is in GROUND . AC Chievo Verona competed in the SEASON season and has NUMBEROFMEMBERS members .
 The MONUMENT was established ESTABLISHED .
 WRITTENWORK , written by AUTHOR is available in hardcover and has the ISBN number ISBN_NUMBER .
@@ -9452,18 +9452,18 @@ FOOD is a dish from the COUNTRY .
 The bacon sandwich has different names including : INGREDIENT butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin . The dish comes from the COUNTRY and the main ingredients include bread and bacon with ketchup or brown sauce as a condiment .
 FOOD is a dish from COUNTRY where the leaders are Tony Tan and LEADERNAME .
 Infraero is located in Brasilia .
-ASTRONAUT , who was born in BIRTHPLACE , was part of WAS A CREW MEMBER OF as chosen by OPERATOR , and is now retired .
+ASTRONAUT , who was born in BIRTHPLACE , was part of WAS_A_CREW_MEMBER_OF as chosen by OPERATOR , and is now retired .
 The length of the runway at Adolfo Suarez Madrid Barajas Airport is RUNWAYLENGTH .
-ASTRONAUT ( born in BIRTHPLACE ) served as a fighter pilot and was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT ( born in BIRTHPLACE ) served as a fighter pilot and was a crew member of WAS_A_CREW_MEMBER_OF .
 FOOD includes Almonds which are part of the FAMILY family and of the ORDER and Rosales orders .
 Akita , COUNTRY holds the BUILDING and is part of the ISPARTOF . COUNTRY ' s leader is Shinzo Abe and it homes various ethnic groups one of which is the Filipinos .
 SPORTSTEAM play in LEAGUE .
 CITY has an area of water 1 . 0 sq km .
 Albany is part of ISPARTOF .
-ASTRONAUT was born in BIRTHPLACE on the 23rd of July 1927 . Elliot graduated from the ALMAMATER and was selected by NASA in WAS SELECTED BY NASA where she flew as a test pilot . Elliot died in DEATHPLACE .
-ASTRONAUT was an American who studied at the University of Texas in Austin and was selected by NASA in WAS SELECTED BY NASA . He was born in BIRTHPLACE and died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE on the 23rd of July 1927 . Elliot graduated from the ALMAMATER and was selected by NASA in WAS_SELECTED_BY_NASA where she flew as a test pilot . Elliot died in DEATHPLACE .
+ASTRONAUT was an American who studied at the University of Texas in Austin and was selected by NASA in WAS_SELECTED_BY_NASA . He was born in BIRTHPLACE and died in DEATHPLACE .
 FOOD contains : INGREDIENT ( sponge cake ) , ice cream and meringue . It has origins in either France , China ( REGION ) or the United States .
-HAS TO ITS NORTHEAST is situated to the northeast of CITY where the School of Business and Social Sciences at CITY University is located .
+HAS_TO_ITS_NORTHEAST is situated to the northeast of CITY where the School of Business and Social Sciences at CITY University is located .
 Barny cakes contain 4 . 8g of fat .
 Leader of Turkey is Ahmet Davutoglu .
 The league that SPORTSTEAM play in is LEAGUE .
@@ -9483,7 +9483,7 @@ The full name of SPORTSTEAM is FULLNAME .
 ASTRONAUT was born in BIRTHPLACE in the NATIONALITY and died in St Louis .
 AIRPORT is located in Punjab , COUNTRY and serves the city of CITYSERVED . COUNTRY is home to Punjab and is led by LEADERNAME .
 The MONUMENT , dedicated to DEDICATEDTO , is located in LOCATION , where one of the languages spoken is Cornish ( in the Cornwall region ) .
-ASTRONAUT joined OPERATOR in WAS SELECTED BY NASA and served as a fighter pilot . He was a member of OPERATOR ' s WAS A CREW MEMBER OF crew where BACKUP PILOT was a backup pilot and CREWMEMBERS a crew member .
+ASTRONAUT joined OPERATOR in WAS_SELECTED_BY_NASA and served as a fighter pilot . He was a member of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew where BACKUP_PILOT was a backup pilot and CREWMEMBERS a crew member .
 ASTRONAUT spent 13017 minutes in space .
 The MONUMENT in the Historic District of the DISTRICT was established on July 11th , 1907 .
 A DISHVARIATION is a dessert along with FOOD which contains the ingredient of coconut milk .
@@ -9517,7 +9517,7 @@ The tomato belongs to the family of FAMILY and is an ingredient in FOOD .
 FOOD includes tomatoes which are part of the flowering plant division and solanaceae family , order of ORDER .
 Apollo 8 crew members included CREWMEMBERS .
 The OPERATINGORGANISATION who are the operating organisation for Al Asad airbase fought in the Korean war and at the invasion of Panama .
-Adams County , Pennsylvania has HAS TO ITS NORTH to its north .
+Adams County , Pennsylvania has HAS_TO_ITS_NORTH to its north .
 SPORTSTEAM is in the league , EPSTH 2nd GROUP .
 DISHVARIATION is a variation of FOOD which has INGREDIENT as an ingredient .
 Saranac Lake , New York is located in the COUNTRY .
@@ -9536,9 +9536,9 @@ Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in re
 CREATOR was the creator of Bibbo Bibowski .
 WRITTENWORK is from the COUNTRY .
 AIRPORT is located in Sao Jose dos Pinhais . The runway RUNWAYNAME is RUNWAYLENGTH in length and has an elevation of 911 meters above sea level .
-ASTRONAUT , born in BIRTHPLACE , which is in PART , graduated from the University of Texas in Austin . The Austin University with it ' s mascot Hook ' em is affiliated to the Texas University system and is competing in the COMPETE IN .
-ASTRONAUT graduated with a M . S . in 1962 from AFIT , became a member of the WAS A CREW MEMBER OF team and retired on September 1st , 1969 .
-The OPERATOR - operated WAS A CREW MEMBER OF mission was commanded by COMMANDER . Its crew included the BIRTHPLACE - born American , ASTRONAUT . BACKUP PILOT was a backup pilot for the mission .
+ASTRONAUT , born in BIRTHPLACE , which is in PART , graduated from the University of Texas in Austin . The Austin University with it ' s mascot Hook ' em is affiliated to the Texas University system and is competing in the COMPETE_IN .
+ASTRONAUT graduated with a M . S . in 1962 from AFIT , became a member of the WAS_A_CREW_MEMBER_OF team and retired on September 1st , 1969 .
+The OPERATOR - operated WAS_A_CREW_MEMBER_OF mission was commanded by COMMANDER . Its crew included the BIRTHPLACE - born American , ASTRONAUT . BACKUP_PILOT was a backup pilot for the mission .
 One of the languages spoken in England is the LANGUAGES .
 American was the nationality of John Buscema .
 COMICSCHARACTER , a character in Big Hero 6 , was created by Duncan Rouleeau and CREATOR .
@@ -9558,21 +9558,21 @@ The BUILDING is a concerts and events venue type building .
 FOOD originates from the COUNTRY where the capital city is Washington DC and the leader is LEADERNAME .
 HEADQUARTER is where the Association for Computing machinery headquarters is located .
 The tomato is from the family of solanaceae and the genus GENUS , and is a key ingredient in FOOD .
-ASTRONAUT was born in BIRTHPLACE and graduated from the ALMAMATER . Elliot was selected by NASA IN WAS SELECTED BY NASA to serve as a test pilot . Elliot died on 28th February in 1966 .
+ASTRONAUT was born in BIRTHPLACE and graduated from the ALMAMATER . Elliot was selected by NASA IN WAS_SELECTED_BY_NASA to serve as a test pilot . Elliot died on 28th February in 1966 .
 ETHNICGROUP is an ethnic group from Malaysia .
 BUILDING is located in LOCATION , COUNTRY . T S Thakur is a leader of COUNTRY .
 FOOD is a food found in COUNTRY , where LEADERNAME is a leader and where the ETHNICGROUP are an ethnic group .
-Buzz Aldrin was born Jan 20 , 1930 . He was a member of WAS A CREW MEMBER OF operated by OPERATOR , where ASTRONAUT was a backup pilot . Aldren served as a fighter pilot and is now retired .
-The MONUMENT which was established in the year ESTABLISHED is in the municipality of Gettysburg , LOCATION . Adams County has Carrol County , Maryland to its southeast and to its north , HAS TO ITS NORTH .
+Buzz Aldrin was born Jan 20 , 1930 . He was a member of WAS_A_CREW_MEMBER_OF operated by OPERATOR , where ASTRONAUT was a backup pilot . Aldren served as a fighter pilot and is now retired .
+The MONUMENT which was established in the year ESTABLISHED is in the municipality of Gettysburg , LOCATION . Adams County has Carrol County , Maryland to its southeast and to its north , HAS_TO_ITS_NORTH .
 WRITTENWORK , authored by AUTHOR has a OCLC number of OCLC_NUMBER and a ISBN number of ISBN_NUMBER .
 INGREDIENT is an ingredient in the Catalonian dish of Arros negre .
-ASTRONAUT is a NATIONALITY National born in BIRTHPLACE . He obtained a Sc . D in WAS SELECTED BY NASA from the Massachusetts Institute of Technology . He was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT is a NATIONALITY National born in BIRTHPLACE . He obtained a Sc . D in WAS_SELECTED_BY_NASA from the Massachusetts Institute of Technology . He was selected by NASA in WAS_SELECTED_BY_NASA .
 Lewis Cottingham is the architect of BUILDING .
 BUILDING is in LOCATION and has the TENANT as a tenant . The Marriott was founded in Washington D . C . German is one language spoken in LOCATION .
 FOOD comes from the REGION region of COUNTRY , the country where Felipe VI is the leader and ETHNICGROUP are the ethnic group .
 The College of William and Mary is the owner of the BUILDING , ADDRESS , LOCATION . Robert A . M . Stern was the architect for the Hall , which was completed on June 1st , 2009 .
-ASTRONAUT was selected by NASA in WAS SELECTED BY NASA .
-ASTRONAUT was born in BIRTHPLACE and is from the U . S . He graduated in 1955 from UT Austin with a B . S . He worked as a test pilot and for NASA in WAS SELECTED BY NASA . He spent 100305 minutes in space and is now retired .
+ASTRONAUT was selected by NASA in WAS_SELECTED_BY_NASA .
+ASTRONAUT was born in BIRTHPLACE and is from the U . S . He graduated in 1955 from UT Austin with a B . S . He worked as a test pilot and for NASA in WAS_SELECTED_BY_NASA . He spent 100305 minutes in space and is now retired .
 BUILDING is located in LOCATION , part of Cuyahoga County in ISPARTOF .
 The Vietnamese are an ethnic group within COUNTRY which is lead by Shinzo Abe . COUNTRY ' s BUILDING is located in Akita , ISPARTOF .
 The biggest river of COUNTRY is the RIVER . The UNIVERSITY is also located in COUNTRY .
@@ -9597,7 +9597,7 @@ The address of BUILDING is ADDRESS LOCATION , COUNTRY .
 The CURRENCY is the currency in COUNTRY , where FOOD is a traditional dish and LEADERNAME and Narendra Modi are leaders .
 Ayam Penyet is a food found in COUNTRY where an ethnic group is ETHNICGROUP .
 DESIGNER is the designer of the MONUMENT in LOCATION , where the capital is CAPITAL .
-BUILDING , constructed in YEAROFCONSTRUCTION and designed in the Romanesque Revival style , is located in Avenue A , Manhattan . The site was added to the National Register of Historic Places on 23rd April 1980 , with Reference Number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING , constructed in YEAROFCONSTRUCTION and designed in the Romanesque Revival style , is located in Avenue A , Manhattan . The site was added to the National Register of Historic Places on 23rd April 1980 , with Reference Number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 SPORTSTEAM ' s ground is at St . Vincent - St . Mary High School in CITY , COUNTRY . Akron is lead by LEADER .
 ASTRONAUT was awarded the american defence service ribbon .
 The COUNTRY architect ARCHITECT designed the BUILDING completed in COMPLETIONDATE .
@@ -9632,7 +9632,7 @@ The FOOD comes from the COUNTRY where the capital is Washington D . C . and the 
 SPORTSTEAM ' s ground is the GROUND and it has NUMBEROFMEMBERS members .
 Rolando Maran plays for Varese Calcio S . S . D .
 AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
-American Buzz Aldrin was part of WAS A CREW MEMBER OF along with ASTRONAUT as chosen by OPERATOR .
+American Buzz Aldrin was part of WAS_A_CREW_MEMBER_OF along with ASTRONAUT as chosen by OPERATOR .
 DISTRIBUTOR is the distributor of the film , Big Hero 6 .
 WRITTENWORK is from the COUNTRY . Here and in SPOKENIN the language spoken is English .
 A . D . Isidro Metapan ' s manager is Jorge Humberto Rodriguez who plays for FC Dallas and the CLUB .
@@ -9726,7 +9726,7 @@ The location of Afonso Pena International airport is Sao Jose dos Pinhais . It h
 one of the ingredients of FOOD is almond . it is from COUNTRY , which leader is Felipe VI of COUNTRY , and from Andalucia regions , which leader is Susana Diaz .
 The Apollo 12 mission was operated by OPERATOR .
 ARCHITECT , born in BIRTHPLACE , designed the California landmark Los Angeles Herald examiner building and The BUILDING .
-The UNIVERSITY is in the state of STATE . It was awarded the status of Technical Campus by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY which is based in LOCATION . STATE has the HAS TO ITS WEST to its west and HAS TO ITS NORTHEAST to the north east .
+The UNIVERSITY is in the state of STATE . It was awarded the status of Technical Campus by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY which is based in LOCATION . STATE has the HAS_TO_ITS_WEST to its west and HAS_TO_ITS_NORTHEAST to the north east .
 With the LCCN number LCCN_NUMBER , WRITTENWORK has the abbreviation Abh . Math . Semin . Univ . Hambg .
 With an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , AIRPORT is located in LOCATION , in COUNTRY .
 Written in English FOLLOWEDBY is the sequel to 1634 : The Bavarian Crisis ( by AUTHOR ) which was preceded by WRITTENWORK .
@@ -9739,16 +9739,16 @@ The LANGUAGE is spoken in Alderney .
 AIRPORT can be found in Greenville , ISPARTOF , COUNTRY .
 The footballer Stuart Parker is attached to Chesterfield football club and has been manager at AFC Blackpool .
 Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial from red granite and white marble . The native name for this memorial is Turk Sehitleri Aniti .
-ASTRONAUT was a member of WAS A CREW MEMBER OF , which is operated by OPERATOR . He was awarded the distinguished service medal in the US Navy , which ranks higher than the Dept of Commerce Gold Medal . He died in DEATHPLACE , where SENATORS is a senator .
+ASTRONAUT was a member of WAS_A_CREW_MEMBER_OF , which is operated by OPERATOR . He was awarded the distinguished service medal in the US Navy , which ranks higher than the Dept of Commerce Gold Medal . He died in DEATHPLACE , where SENATORS is a senator .
 BUILDING is located in LOCATION in the ISPARTOF .
 Turkey ' s capital is CAPITAL .
 FOOD is a dish found in COUNTRY . It is a variant of Siomay or DISHVARIATION and includes peanut sauce . LEADERNAME is the leader of COUNTRY .
-ASTRONAUT , who received a Bachelor of Science degree at the University of Texas at Austin in 1955 and was a crew member on the WAS A CREW MEMBER OF flight mission , retired in DATEOFRETIREMENT .
+ASTRONAUT , who received a Bachelor of Science degree at the University of Texas at Austin in 1955 and was a crew member on the WAS_A_CREW_MEMBER_OF flight mission , retired in DATEOFRETIREMENT .
 AS Gubbio ' s home ground is in GROUND which is lead by LEADER . The inhabitants of the country are known as DEMONYM and their capital city is CAPITAL .
 BUILDING is located in the LOCATION , the capital of which is Washington D . C . and where LEADERNAME is a leader .
 AIRPORT , located in LOCATION , is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above the sea level .
 The architect of BUILDING was ARCHITECT but she has two other important buildings on her resume : the SIGNIFICANTBUILDING and the Riverside Art Musuem . , She was born in BIRTHPLACE and also worked on SIGNIFICANTPROJECT .
-BUILDING is located in LOCATION , which was was built in YEAROFCONSTRUCTION and has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places . .
+BUILDING is located in LOCATION , which was was built in YEAROFCONSTRUCTION and has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places . .
 The runway name of AIRPORT is RUNWAYNAME .
 Harrietstown is part of ISPARTOF .
 Natives of the UK are known as British and the currency is the pound sterling . The UK is the location of BUILDING .
@@ -9756,7 +9756,7 @@ FOOD and pakora are related and cauliflower can be used as a variation in pakora
 UNIVERSITY was established in ESTABLISHED , has NUMBEROFSTUDENTS students and is in COUNTRY . COUNTRY ' s Federal Chancellor is LEADERNAME and the country ' s anthem is ANTHEM .
 MANAGER plays for CLUB Manages SPORTSTEAM and is a member of Chesterfield F . C .
 FOOD is found in COUNTRY .
-ASTRONAUT retired on 1 September 1969 . He was a fighter pilot who was born on 17 October 1933 in BIRTHPLACE . In WAS SELECTED BY NASA he was chosen by NASA to serve as a member of the crew on WAS A CREW MEMBER OF .
+ASTRONAUT retired on 1 September 1969 . He was a fighter pilot who was born on 17 October 1933 in BIRTHPLACE . In WAS_SELECTED_BY_NASA he was chosen by NASA to serve as a member of the crew on WAS_A_CREW_MEMBER_OF .
 Rolando Maran is attached to the club CLUB .
 FOOD come from COUNTRY where the leaders are Narendra Modi and LEADERNAME .
 BUILDING is located in Adare , ISPARTOF , LOCATION .
@@ -9804,24 +9804,24 @@ Tim Brooke Taylor was born in BIRTHPLACE and starred in COMICSCHARACTER .
 Sheldon Moldoff won the AWARD .
 The Marriott International is located in Bethseda , Maryland .
 The architect of BUILDING is HOK .
-In SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN the Chief of the Astronaut office was ASTRONAUT .
+In SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN the Chief of the Astronaut office was ASTRONAUT .
 ASTRONAUT of the NATIONALITY , was born in BIRTHPLACE and retired on August 1 , 1974 . He died in DEATHPLACE .
 Accademia di Architettura in COUNTRY has ACADEMICSTAFFSIZE academic staff . COUNTRY ' s leader is LEADERNAME .
-OPERATOR operated the WAS A CREW MEMBER OF mission , whose commander was COMMANDER . BACKUP PILOT was the backup pilot , and ASTRONAUT , who was born in Wheeer , Texas , served as a crew member .
+OPERATOR operated the WAS_A_CREW_MEMBER_OF mission , whose commander was COMMANDER . BACKUP_PILOT was the backup pilot , and ASTRONAUT , who was born in Wheeer , Texas , served as a crew member .
 FOOD , containing olive oil , comes from the region of REGION .
 BUILDING is in Birmingham , England .
-ASTRONAUT was born on Mar 15 , 1932 in BIRTHPLACE and is American . He worked as a test pilot before joining NASA in WAS SELECTED BY NASA . He spent over 69 days in space , or 100305 minutes . Bean is retired .
+ASTRONAUT was born on Mar 15 , 1932 in BIRTHPLACE and is American . He worked as a test pilot before joining NASA in WAS_SELECTED_BY_NASA . He spent over 69 days in space , or 100305 minutes . Bean is retired .
 WRITTENWORK , written by AUTHOR , is available in paperback and is NUMBEROFPAGES pages long .
-The MONUMENT ' s location is LOCATION . To the north of Adams County lies , HAS TO ITS NORTH . Close to Adams County lie two Maryland counties - Carrol County to the southeast and Frederick County to the southwest .
+The MONUMENT ' s location is LOCATION . To the north of Adams County lies , HAS_TO_ITS_NORTH . Close to Adams County lie two Maryland counties - Carrol County to the southeast and Frederick County to the southwest .
 LEADERNAME is one of the leaders from the COUNTRY , where FOOD comes from .
 BUILDING is located in LOCATION , US .
-ASTRONAUT was born on 15 March 1932 in Wheeler Texas . He was a test pilot who was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born on 15 March 1932 in Wheeler Texas . He was a test pilot who was selected by NASA in WAS_SELECTED_BY_NASA .
 LEADERNAME is a leader in the ISPARTOF community of ISPARTOF Dales . The short crust pastry bakewall pudding tart is popular in this area .
 AUTHOR was born in BIRTHPLACE and wrote WRITTENWORK . It was preceded by the DeMarce short stories in the Grantville Gazettes including Grantville Gazette II .
-The UNIVERSITY is affiliated with the AFFILIATION , its headquarters being in HEADQUARTERS . The School is found in CITY , COUNTRY . CITY is found to the southwest of HAS TO ITS NORTHEAST , and COUNTRY ' s leader is LEADERNAME .
+The UNIVERSITY is affiliated with the AFFILIATION , its headquarters being in HEADQUARTERS . The School is found in CITY , COUNTRY . CITY is found to the southwest of HAS_TO_ITS_NORTHEAST , and COUNTRY ' s leader is LEADERNAME .
 The Adolfo Suarez LOCATION - Barajas airport is located in LOCATION and has a runway length of 3500 .
 ASTRONAUT was born on March 15 , 1932 .
-ASTRONAUT is a NATIONALITY National and was born in Glen Ridge New Jersey . He was a fighter pilot and was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT is a NATIONALITY National and was born in Glen Ridge New Jersey . He was a fighter pilot and was a crew member of WAS_A_CREW_MEMBER_OF .
 The operating organisation of Antwerp International airport is the Flemish government who have jurisdiction of the JURISDICTION .
 WRITTENWORK was preceded by PRECEDEDBY .
 Blockbuster ( also known as ALTERNATIVENAME ) is a comic book character created by CREATOR and Gardner Fox .
@@ -9840,7 +9840,7 @@ A bacon sandwich , which contains kethup , can also be known as a bacon butty , 
 The Aarhus University School of Business and Social Sciences is affiliated with the AFFILIATION .
 UNIVERSITY is in the state of STATE , COUNTRY .
 Pecorino romano is an ingredient of FOOD , which comes from COUNTRY .
-STATUS NASA test pilot chosen WAS SELECTED BY NASA . ASTRONAUT was a student at ALMAMATER .
+STATUS NASA test pilot chosen WAS_SELECTED_BY_NASA . ASTRONAUT was a student at ALMAMATER .
 FOOD , containing condensed milk , is a dish served for dessert .
 Amsterdam Airport Schipol runway name is 09 / 27 Buitenvelderbaan .
 A . S GROUND Calcio ground is in GROUND and has NUMBEROFMEMBERS members .
@@ -9859,7 +9859,7 @@ The demonym for people living in the COUNTRY is DEMONYM , African DEMONYM are an
 AIRPORT 1st runway is Number 1ST_RUNWAY_NUMBER .
 BUILDING , completed in COMPLETIONDATE , is located in LOCATION , COUNTRY .
 The length of the runway at AIRPORT is RUNWAYLENGTH .
-The University of Texas , Austin , will compete in the COMPETE IN .
+The University of Texas , Austin , will compete in the COMPETE_IN .
 SPORTSTEAM play in LEAGUE where Juventus FC have been champions .
 ARCHITECT was born in BIRTHPLACE and was the architect of significant buildings in Chinatown , BIRTHPLACE and of the BUILDING .
 ALTERNATIVENAME , is the alternative name for the comic character , Amazing - Man .
@@ -9890,7 +9890,7 @@ STARRING starred in COMICSCHARACTER which was created by CREATOR . It was first 
 A T Charlie Johnson , an American , is the editor of WRITTENWORK and is doctoral advisor to DOCTORALADVISOR .
 An ingredient in the dish bandeja paisa is chorizo , the dish comes from the antioquia department and is typical Columbian cuisine .
 The MONUMENT , a historical district in the United States , is located in the district of the Monocracy National Battlefield in LOCATION .
-The Archarya Institute of Technology is located in Karnatka . Karnatka has HAS TO ITS NORTHEAST to its northeast and the HAS TO ITS WEST to its west .
+The Archarya Institute of Technology is located in Karnatka . Karnatka has HAS_TO_ITS_NORTHEAST to its northeast and the HAS_TO_ITS_WEST to its west .
 LEADER was a representative of the United States .
 The official language of Belgium is French .
 The UNIVERSITY , established in ESTABLISHED , has ACADEMICSTAFFSIZE academic staff and 16 , 000 students . It is in CITY , COUNTRY and affiliated with the AFFILIATION . Its Latin name is LATINNAME .
@@ -9964,7 +9964,7 @@ RUNWAYNAME is the runway name of AIRPORT which is is 973 metres above sea level 
 The location of AIRPORT is LOCATION , COUNTRY . LOCATION is part of the Central COUNTRY region and the country is lead by LEADERNAME . Greenlandic is spoken in that country .
 The comic character Arion , also known as ALTERNATIVENAME , was created by CREATOR .
 Asherton is part of ISPARTOF .
-ASTRONAUT was a crew member of WAS A CREW MEMBER OF , which was operated by nasa .
+ASTRONAUT was a crew member of WAS_A_CREW_MEMBER_OF , which was operated by nasa .
 The full name of AC Chievo GROUND , which has NUMBEROFMEMBERS members and plays at its ground in GROUND , is " FULLNAME " . The team played in the SEASON season .
 New Zealand ' s Ardmore Airport has a runway named RUNWAYNAME and its 3rd runway has a 3RD_RUNWAY_SURFACETYPE surface .
 AC Lumezzane ' s ground is in GROUND and their manager is MANAGER who plays for SPORTSTEAM and is in the CLUB Club . The leader of GROUND is LEADER .
@@ -9972,7 +9972,7 @@ AS Roma has NUMBEROFMEMBERS members .
 BUILDING is located in the LOCATION , which are lead by LEADERNAME and whose capital is Washington D . C .
 ASTRONAUT served as a OCCUPATION .
 The CODEN code for WRITTENWORK is CODEN_CODE .
-The UNIVERSITY , located in CITY , offers SPORTSOFFERED as a sport , which is governed by the SPORTSGOVERNINGBODY . This Institute is affiliated with AFFILIATION , and was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY , located in LOCATION .
+The UNIVERSITY , located in CITY , offers SPORTSOFFERED as a sport , which is governed by the SPORTSGOVERNINGBODY . This Institute is affiliated with AFFILIATION , and was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY , located in LOCATION .
 FOOD is a food found in COUNTRY and REGION . The ETHNICGROUP and chinese are ethnic groups from COUNTRY .
 AIRPORT , ICAO Location Identifier ICAO_LOCATION_IDENTIFIER , is operated by the OPERATINGORGANISATION . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . The runway , named RUNWAYNAME , is RUNWAYLENGTH metres long .
 Ahmet_Davuto ğ lu is LOCATION ' s leader and his title is The President . Atat ü rk Monument is located in İ zmir , LOCATION ( capital CAPITAL ) and was inaugurated on 27th of July , 1932 .
@@ -10001,7 +10001,7 @@ FOOD is classed as a COURSE and can be served warm ( freshly baked ) or cold .
 The PUBLISHER , based in REGIONSERVED , is the publisher of WRITTENWORK .
 The character COMICSCHARACTER is voiced by VOICE , who was born in BIRTHPLACE .
 AIRPORT is in LOCATION .
-BUILDING is located in Asherton Texas and has a reference number of REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+BUILDING is located in Asherton Texas and has a reference number of REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 The COUNTRY is home to the bacon sandwich , which sometimes contains ketchup and is a variation of the DISHVARIATION . Other names for the bacon sandwich include : bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
 The binignit dish can be found in the REGION region , COUNTRY . It includes sago and coconut milk .
 WRITTENWORK , ABBREVIATION , is in ACADEMICDISCIPLINE and has the CODEN code CODEN_CODE .
@@ -10046,7 +10046,7 @@ UNIVERSITY in CITY , COUNTRY was created in ESTABLISHED and has NUMBEROFPOSTGRAD
 AIRPORT has the runway name RUNWAYNAME .
 ASTRONAUT was awarded the distinguished service medal from the United States Navy . He died in DEATHPLACE .
 Created by CREATOR , the comic character Arion is also known as ALTERNATIVENAME .
-BUILDING built in YEAROFCONSTRUCTION is located at LOCATION and has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+BUILDING built in YEAROFCONSTRUCTION is located at LOCATION and has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 Stuart Parker the football player is part of the CLUB club .
 The ETHNICGROUP are one of the ethnic groups in the COUNTRY where WRITTENWORK was published . The book was written in English which is spoken in SPOKENIN .
 INGREDIENT is used to make FOOD which come from the REGION region of COUNTRY .
@@ -10070,7 +10070,7 @@ FOOD is from the REGION , COUNTRY , and one of its ingredients is INGREDIENT .
 ASTRONAUT was an American astronaut , born on November 18th , 1923 , in BIRTHPLACE . Alan went to school at NWC and graduated with an MA in 1957 . He died in DEATHPLACE .
 The UNIVERSITY is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 , STATE , COUNTRY . It is affilaited with the AFFILIATION in CITY .
 FOOD comes from COUNTRY , it includes peanut sauce and is a variation on Shumai / DISHVARIATION .
-ASTRONAUT , who was chosen by NASA in WAS SELECTED BY NASA , has died in St Louis . He was born on July 23rd 1927 in BIRTHPLACE .
+ASTRONAUT , who was chosen by NASA in WAS_SELECTED_BY_NASA , has died in St Louis . He was born on July 23rd 1927 in BIRTHPLACE .
 GROUND is the ground of SPORTSTEAM and it is operated by OPERATOR .
 SPORTSTEAM is owned by OWNER .
 In the Philippines , the spoken language is LANGUAGE .
@@ -10088,19 +10088,19 @@ BUILDING which is located in LOCATION has the architectural style of Tudor and J
 WRITTENWORK was written in COUNTRY and published by PUBLISHER . This book was followed by FOLLOWEDBY and was written in English , the language used in SPOKENIN .
 FOOD is typical COUNTRY from the REGION region and contains lemon as an ingredient .
 The OPERATINGORGANISATION is the operating organisation for Al Asad airbase in LOCATION . The runway name is RUNWAYNAME and it has a length of RUNWAYLENGTH .
-ASTRONAUT was hired by OPERATOR in WAS SELECTED BY NASA for the WAS A CREW MEMBER OF mission .
+ASTRONAUT was hired by OPERATOR in WAS_SELECTED_BY_NASA for the WAS_A_CREW_MEMBER_OF mission .
 BUILDING which is located in LOCATION ( the leader of which is LEADERNAME ) has FLOORCOUNT floors .
 Saranac Lake , New York , is part of ISPARTOF .
 The book WRITTENWORK is in print and has the ISBN number ISBN_NUMBER as well as the OCLC number of 7877110 .
 The currency of the United Kingdom is the CURRENCY .
 BUILDING is located in LOCATION , COUNTRY , a country which has the leaders T S Thakur and LEADERNAME .
-The UNIVERSITY is in STATE . It is affiliated with the AFFILIATION in CITY . HAS TO ITS NORTHEAST is to the northeast of STATE .
+The UNIVERSITY is in STATE . It is affiliated with the AFFILIATION in CITY . HAS_TO_ITS_NORTHEAST is to the northeast of STATE .
 Abilene , Texas is part of ISPARTOF .
 The main ingredients of FOOD are bacon and sausage . It is served as a main course and comes from the REGION .
 The comic book character Blockbuster was created by Gardner Fox and CREATOR .
 Ayam peyney is a popular dish from REGION , and COUNTRY where the ETHNICGROUP are an ethnic group .
 INGREDIENT is an ingredient in beef kway teow .
-Gettysburg is located in LOCATION which lies to the south of Cumberland County , east of Franklin County and to the northwest of HAS TO ITS SOUTHEAST . It is the location of the 11th Mississippi Infantry monument which was established in ESTABLISHED and categorised as a contributing property within the United States .
+Gettysburg is located in LOCATION which lies to the south of Cumberland County , east of Franklin County and to the northwest of HAS_TO_ITS_SOUTHEAST . It is the location of the 11th Mississippi Infantry monument which was established in ESTABLISHED and categorised as a contributing property within the United States .
 Ardmore Airport in New Zealand is 34 metres above sea level and has a 3rd runway made of poaceae . The name of the runway is RUNWAYNAME and has a length of RUNWAYLENGTH .
 The film , Big Hero 6 , starred STARRING .
 BUILDING was designed by architect Alfred Giles , who was born in BIRTHPLACE .
@@ -10114,7 +10114,7 @@ The AIDS journal , which studies ACADEMICDISCIPLINE , has the ISSN number ISSN_N
 WRITTENWORK is of the media type E book .
 INGREDIENT is an ingredient of FOOD which comes from the REGION region .
 The OPERATINGORGANISATION is the operating authority of the AIRPORT , which is located in LOCATION .
-ASTRONAUT was born in BIRTHPLACE and served as a OCCUPATION crew member on WAS A CREW MEMBER OF , where BACKUP PILOT was a backup pilot . CREWMEMBERS was a crewman aboard WAS A CREW MEMBER OF operated by OPERATOR .
+ASTRONAUT was born in BIRTHPLACE and served as a OCCUPATION crew member on WAS_A_CREW_MEMBER_OF , where BACKUP_PILOT was a backup pilot . CREWMEMBERS was a crewman aboard WAS_A_CREW_MEMBER_OF operated by OPERATOR .
 Amsterdam Schiphols Airport ' s 5th runway has the number 5TH_RUNWAY_NUMBER .
 Austin is in ISPARTOF .
 The UNIVERSITY is located in the city of CITY in the the state of STATE , COUNTRY . The largest city in COUNTRY is LARGESTCITY .
@@ -10127,7 +10127,7 @@ BUILDING is located in LOCATION , COUNTRY where LEADERNAME is the leader .
 PRECEDEDBY was followed by WRITTENWORK and FOLLOWEDBY .
 CITYSERVED , part of Kimberly Wisconsin , is served by AIRPORT and part of the Grand Chute Wisconsin .
 The manager of FC Magdeburg is MANAGER , who has represented the club CLUB .
-ASTRONAUT is from the US . He was born in BIRTHPLACE on October 17th , 1933 . He was selected by NASA in WAS SELECTED BY NASA . He was a fighter pilot , who retired on September 1st 1969 .
+ASTRONAUT is from the US . He was born in BIRTHPLACE on October 17th , 1933 . He was selected by NASA in WAS_SELECTED_BY_NASA . He was a fighter pilot , who retired on September 1st 1969 .
 BUILDING which has FLOORCOUNT floors was completed in LOCATION in COMPLETIONDATE .
 The ISBN number of WRITTENWORK is ISBN_NUMBER .
 FOOD is a dish from REGION and COUNTRY . LANGUAGE is spoken in COUNTRY and the leader is LEADERNAME .
@@ -10137,7 +10137,7 @@ WRITTENWORK was published by PUBLISHER , in the COUNTRY , where some Native Amer
 Lars Lokke Rasmussen is the leader of COUNTRY and has the title of Monarchy of COUNTRY . The country is the location of the UNIVERSITY .
 The LANGUAGE is spoken in Illinois .
 The ground of SPORTSTEAM is located in GROUND where LEADER is the leader .
-ASTRONAUT served as a fighter pilot , and in WAS SELECTED BY NASA he was selected as a crew member on the WAS A CREW MEMBER OF operated by OPERATOR . The commander of the WAS A CREW MEMBER OF was COMMANDER , and BACKUP PILOT served as backup pilot for the mission .
+ASTRONAUT served as a fighter pilot , and in WAS_SELECTED_BY_NASA he was selected as a crew member on the WAS_A_CREW_MEMBER_OF operated by OPERATOR . The commander of the WAS_A_CREW_MEMBER_OF was COMMANDER , and BACKUP_PILOT served as backup pilot for the mission .
 The total area of CITY , is 16 . 55 square kilometres .
 The UNIVERSITY in COUNTRY was established ESTABLISHED . The leader of the country is the Federal Chancellor LEADERNAME .
 The FOOD comes from the COUNTRY where the leader is LEADERNAME and the capital city is Washington DC .
@@ -10149,7 +10149,7 @@ AIRPORT runway name is RUNWAYNAME .
 FOOD , which contains olive oil , is a food found in REGION .
 FOOD ( which contains raisins ) and ice cream are both served as a dessert .
 Adisham Halls , constructed from BUILDINGSTARTDATE to COMPLETIONDATE , is located in LOCATION and has architectural style ` ARCHITECTURALSTYLE .
-The location of BUILDING ( constructed YEAROFCONSTRUCTION ) is LOCATION and it holds the Reference Number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the the National Register of Historic Places .
+The location of BUILDING ( constructed YEAROFCONSTRUCTION ) is LOCATION and it holds the Reference Number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the the National Register of Historic Places .
 The Polish Academy of Sciences is headquartered in HEADQUARTER .
 FOOD includes tomatoes , and originates from the region of REGION .
 The author , AUTHOR , wrote WRITTENWORK and followed this with 1634 : The Bavarian Crisis . AUTHOR was born in BIRTHPLACE .
@@ -10170,7 +10170,7 @@ WRITTENWORK was written by AUTHOR and printed with the OCLC number OCLC_NUMBER .
 FOOD is a Mexican dish from the REGION region , where Aristoteles Sandoval is a leader . FOOD is a dessert dish and a variation on dessert is cake .
 The PUBLISHER publishes WRITTENWORK which is edited by A T Charlie Johnson . He is the doctoral adviser for DOCTORALADVISOR and his alma mater is ALMAMATER .
 EDITOR who lives in the U . S . and attended ALMAMATER is the editor of AlP Advances . His doctoral advisor at that university was DOCTORALADVISOR .
-ASTRONAUT , formerly a crew member of WAS A CREW MEMBER OF retired in DATEOFRETIREMENT .
+ASTRONAUT , formerly a crew member of WAS_A_CREW_MEMBER_OF retired in DATEOFRETIREMENT .
 ASTRONAUT died in DEATHPLACE on DEATHDATE .
 The operating organization for AIRPORT is the OPERATINGORGANISATION .
 The LOCATION is lead by the LEADERTITLE . One of the leaders is LEADERNAME , and BUILDING is located in the country .
@@ -10199,8 +10199,8 @@ LEADERNAME is the leader of LOCATION ( ISPARTOF ) , where BUILDING is located .
 Albuquerque City Council is led by LEADER .
 INGREDIENT is included in the bacon sandwich , also referred to as a DISHVARIATION .
 FOOD is also known as Bhaji or bajji and contains gram flour .
-Buzz Aldrin originally from BIRTHPLACE worked for OPERATOR and became a crew member of WAS A CREW MEMBER OF with ASTRONAUT as his back up pilot .
-The test pilot ASTRONAUT , born BIRTHDATE in BIRTHPLACE , was selected by NASA in WAS SELECTED BY NASA .
+Buzz Aldrin originally from BIRTHPLACE worked for OPERATOR and became a crew member of WAS_A_CREW_MEMBER_OF with ASTRONAUT as his back up pilot .
+The test pilot ASTRONAUT , born BIRTHDATE in BIRTHPLACE , was selected by NASA in WAS_SELECTED_BY_NASA .
 Little Chute is part of Appleton which is served by AIRPORT . Appleton is part of ISPARTOF .
 " WRITTENWORK " can be found in hardcover and as the OCLC number OCLC_NUMBER .
 The UNIVERSITY was established in CITY , COUNTRY in ESTABLISHED . The School is affiliated with the AFFILIATION and has ACADEMICSTAFFSIZE academic staff .
@@ -10211,7 +10211,7 @@ UNIVERSITY ' s ranking is OUTLOOKRANKING and its school colors are OFFICIALSCHOO
 UNIVERSITY | in CITY , COUNTRY is located in LOCATION . It was created in ESTABLISHED , has NUMBEROFSTUDENTS students and its dean is DEAN . The country is led by a Federal Chancellor .
 INGREDIENT is an ingredient used in FOOD , which comes from COUNTRY .
 SPORTSTEAM has the fullname SPORTSTEAM . It is located in the town of GROUND , played in the SEASON season and has NUMBEROFMEMBERS members .
-Wiliam Anders was born in BIRTHPLACE and graduated from AFIT with an M . S . in 1962 . In WAS SELECTED BY NASA , he was selected by NASA and served as a test pilot and WAS A CREW MEMBER OF crew member .
+Wiliam Anders was born in BIRTHPLACE and graduated from AFIT with an M . S . in 1962 . In WAS_SELECTED_BY_NASA , he was selected by NASA and served as a test pilot and WAS_A_CREW_MEMBER_OF crew member .
 The runway length of AIRPORT is RUNWAYLENGTH .
 AIRPORT , which serves the city of CITYSERVED in COUNTRY , is operated by COUNTRY Civil Aviation Authority . The airport is located in Punjab , COUNTRY . The leader of COUNTRY is LEADERNAME .
 DISHVARIATION is a variation of FOOD .
@@ -10227,7 +10227,7 @@ The BBC location city is LOCATIONCITY .
 The printed book A severed Wasp has NUMBEROFPAGES pages , an OCLC number of OCLC_NUMBER and an ISBN number of ISBN_NUMBER .
 BUILDING , which is owned by The College of William and Mary , is situated in LOCATION and was designed by Robert A . M . Stern .
 St . Vincent - St . Mary High School ( COUNTRY ) is the home ground of SPORTSTEAM . They play in the LEAGUE which hails CHAMPIONS as champions .
-Buzz Aldrin began work for OPERATOR in WAS SELECTED BY NASA and became a crew member of WAS A CREW MEMBER OF with ASTRONAUT as his back up pilot .
+Buzz Aldrin began work for OPERATOR in WAS_SELECTED_BY_NASA and became a crew member of WAS_A_CREW_MEMBER_OF with ASTRONAUT as his back up pilot .
 FOOD come from the REGION region .
 FOOD is a dessert dish from the REGION region of the COUNTRY and the ingredients include banana and sago .
 The first club Jens Hartel played for was F . C Lokomotive Leipzig , he is part of the CLUB club and , manages FC Magdeburg .
@@ -10255,7 +10255,7 @@ HOMETOWN on the POSTALCODE is governed by the HOMETOWN council of which Khalid M
 The country that bacon sandwich comes from is the COUNTRY . Variations include the DISHVARIATION ( which includes lettuce ) and the club sandwich .
 FOOD is a dish from REGION and it has fried chicken in it .
 INGREDIENT is an ingredient of FOOD , sometimes known as Bhaji or bajji . FOOD are found in the REGION region of COUNTRY .
-BACKUP PILOT was a backup pilot on the OPERATOR operated WAS A CREW MEMBER OF where ASTRONAUT served as a crew member .
+BACKUP_PILOT was a backup pilot on the OPERATOR operated WAS_A_CREW_MEMBER_OF where ASTRONAUT served as a crew member .
 WRITTENWORK was published in English by PUBLISHER . The company published the book in the COUNTRY where the Native Americans are an ethnic group .
 The order of ORDER contains sweet potato which , along with sago , is an ingredient in binignit .
 FOOD is made with INGREDIENT and comes from COUNTRY and REGION .
@@ -10270,7 +10270,7 @@ FOOD is from the region of REGION in COUNTRY . It includes tomatoes , red chili 
 The language spoken in Ethiopia is LANGUAGE .
 Greenlandic is the language spoken in Denmark .
 FOOD is found in COUNTRY ( Malaysian Chinese ) and REGION ( ethnic Malays ) .
-ASTRONAUT was born in BIRTHPLACE in March 15th 1932 . Alan graduated from UT Austin in 1955 with a B . S . and performed as a test pilot on WAS A CREW MEMBER OF . OPERATOR operated WAS A CREW MEMBER OF where Alan was hired in WAS SELECTED BY NASA .
+ASTRONAUT was born in BIRTHPLACE in March 15th 1932 . Alan graduated from UT Austin in 1955 with a B . S . and performed as a test pilot on WAS_A_CREW_MEMBER_OF . OPERATOR operated WAS_A_CREW_MEMBER_OF where Alan was hired in WAS_SELECTED_BY_NASA .
 COMICSCHARACTER , which was first broadcast by the BROADCASTEDBY on 3rd October 1983 , was created by CREATOR and starred STARRING .
 AIRPORT is located in LOCATION , who ' s inhabitants are called DEMONYM .
 LEADERNAME is a leader in COUNTRY which is where batagor comes from . Siomay and DISHVARIATION are variations of the same dish and peanut sauce is one of the ingredients used .
@@ -10288,7 +10288,7 @@ The AIRPORT , which is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea le
 Egg Harbor Township is located in New Jersey , in the COUNTRY .
 FOOD are found in the region of REGION ; it originates from COUNTRY . TS Thakur is the leader of COUNTRY and LEADERNAME is also a leader .
 Sweet potato are part of the order of ORDER .
-ASTRONAUT was born in BIRTHPLACE and served as fighter pilot on WAS A CREW MEMBER OF with BACKUP PILOT as a backup pilot . WAS A CREW MEMBER OF was operated by OPERATOR .
+ASTRONAUT was born in BIRTHPLACE and served as fighter pilot on WAS_A_CREW_MEMBER_OF with BACKUP_PILOT as a backup pilot . WAS_A_CREW_MEMBER_OF was operated by OPERATOR .
 Sweet potatoes are a main ingredient of binignit and taro is also an ingredient .
 OCCUPATION ASTRONAUT was born on the 23rd of July , 1927 in BIRTHPLACE , USA . He was a student at the ALMAMATER . ASTRONAUT passed away in DEATHPLACE , on the 28th of February , 1966 .
 Paula Sousa , manager of ACF Florentina , is attached to club CLUB .
@@ -10323,14 +10323,14 @@ WRITTENWORK ' s abbreviated name is ABBREVIATION The book comes under the academ
 FOOD is a type of dessert from COUNTRY , a country where LEADERNAME is a leader . Cookies are also a type of dessert .
 WRITTENWORK is a novel from the COUNTRY , where English is spoken ( as in SPOKENIN ) . The capital of the US is Washington D . C . and ETHNICGROUP are one of the ethnic groups there .
 FOOD is from the COUNTRY , is is a traditional dish throughout the whole of Indonesia and is popular in neighbouring Southeast Asian countries too and one of its ingredients is INGREDIENT .
-The WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY was proud to give the Technical Campus status to the UNIVERSITY .
-ASTRONAUT received an MS from his alma Mater , AFIT , in 1962 and served as a crew member of WAS A CREW MEMBER OF along with CREWMEMBERS , .
+The WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY was proud to give the Technical Campus status to the UNIVERSITY .
+ASTRONAUT received an MS from his alma Mater , AFIT , in 1962 and served as a crew member of WAS_A_CREW_MEMBER_OF along with CREWMEMBERS , .
 SPORTSTEAM ' s ground is St . Vincent - St . Mary High School , CITY , COUNTRY . The team play in the LEAGUE , which has previously been won by CHAMPIONS .
 To the northeast of Karnataka is Telagana .
 A Fortress of Grey is written in English which is the language spoken in SPOKENIN . It originates from the COUNTRY where the capital is Washington DC .
 The book titled WRITTENWORK is a hardcover .
 Jufus Kalla is the leader of COUNTRY , where the dish batagor can be found . Siomay ( which contains peanut sauce ) and DISHVARIATION are similar dishes from this area .
-Both ASTRONAUT and CREWMEMBERS were crew members aboard WAS A CREW MEMBER OF .
+Both ASTRONAUT and CREWMEMBERS were crew members aboard WAS_A_CREW_MEMBER_OF .
 LEADERNAME is a leader of LOCATION , which is located in LOCATION , ISPARTOF in the COUNTRY and is the location of BUILDING .
 FOOD comes from the REGION region of the COUNTRY . Its main ingredients are sweet potato and coconut milk .
 CAPITAL , the capital of the UK , is lead by the LEADERTITLE along with Boris Johnson . LEADERNAME is leader of the LOCATION which is the location of BUILDING .
@@ -10350,7 +10350,7 @@ COMICSCHARACTER , the Big Hero 6 character created by Steve T Seagle and Duncan 
 Abilene Regional airport serves the city of Abilene , part of Taylor County and ISPARTOF , COUNTRY .
 The architect of BUILDING , LOCATION is ARCHITECT .
 OWNER has its county seat in COUNTYSEAT and owns the airport with the same name .
-ASTRONAUT was born in BIRTHPLACE ( whose bird is the purple finch ) . He was a crew member of OPERATOR ' s WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE ( whose bird is the purple finch ) . He was a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF .
 The governing body of HOMETOWN , which has the B postcode , is the City Council along with labour politician John Clancy . It is the home town of architect ARCHITECT who designed BUILDING .
 SPORTSTEAM has its grounds at St . Vincent - St . Mary High School which is in CITY , part of ISPARTOF .
 1634 The Ram Rebellion was written in the U . S . where LEADERNAME is the leader , also known as President LEADERNAME , and where an ethnic group , Native Americans , reside .
@@ -10421,7 +10421,7 @@ The bacon explosion originates from the US where LEADERNAME is a political leade
 SPORTSTEAM are managed by MANAGER who has played for Chelsea FC and is attached to the club Genoa CFC .
 The comic character Bolt , was created by CREATOR .
 AIRPORT is 3 . 3528 below sea level and its fourth runway is made from asphalt .
-ASTRONAUT , a crew member of WAS A CREW MEMBER OF , retired 1969 / 09 / 01 .
+ASTRONAUT , a crew member of WAS_A_CREW_MEMBER_OF , retired 1969 / 09 / 01 .
 PARENTCOMPANY is the parent company of PARENTCOMPANY Press in the US who publish the WRITTENWORK .
 FOOD is a popular dish in indonesia , but it ' s from REGION , where the Acehnese and Malays are both ethnic groups .
 BUILDING in LOCATION was completed in COMPLETIONDATE with FLOORCOUNT floors and was designed by the architect ARCHITECT .
@@ -10527,9 +10527,9 @@ The Columbian cuisine dish of bandeja paisa which includes rice can be found in 
 BUILDING has a floor area of 111484 square metres . It is in LOCATION which is part of Cuyahoga County , ISPARTOF , in the COUNTRY .
 MANAGER is manager of SPORTSTEAM which has NUMBEROFMEMBERS members and participated in the SEASON season .
 English is spoken in SPOKENIN .
-ASTRONAUT ( born on the 15th of March 1932 ) was a member of the WAS A CREW MEMBER OF crew as a test pilot . COMMANDER commanded the WAS A CREW MEMBER OF which BACKUP PILOT was the backup pilot . Alan bean is now retired .
+ASTRONAUT ( born on the 15th of March 1932 ) was a member of the WAS_A_CREW_MEMBER_OF crew as a test pilot . COMMANDER commanded the WAS_A_CREW_MEMBER_OF which BACKUP_PILOT was the backup pilot . Alan bean is now retired .
 The OPERATINGORGANISATION is the operating organisation for Al Asad airbase , and using AIRCRAFTFIGHTER aircraft fighters , and fought the battles during " The BATTLES " .
-The WAS A CREW MEMBER OF mission was operated by OPERATOR . ASTRONAUT , who graduated from UT Austin , was a crew member and is now retired . COMMANDER commanded the mission and the backup pilot was BACKUP PILOT .
+The WAS_A_CREW_MEMBER_OF mission was operated by OPERATOR . ASTRONAUT , who graduated from UT Austin , was a crew member and is now retired . COMMANDER commanded the mission and the backup pilot was BACKUP_PILOT .
 WRITTENWORK is followed by FOLLOWEDBY .
 BUILDING is in Birmingham , England , it was completed in COMPLETIONDATE and has FLOORCOUNT floors .
 The architectural style of the Alan B Miller Hall is Georgian .
@@ -10567,7 +10567,7 @@ one of the ethnic groups of Malaysia is ETHNICGROUP .
 English is the language of the COUNTRY . the country where one of the ethnic groups is Native Americans . It is also where PUBLISHER , which published WRITTENWORK , is based .
 FOOD is commonly found in COUNTRY . MAININGREDIENTS are the main ingredients of FOOD .
 A . D . Isidro Metapan play in the Salvadoran Primera Division and their ground is in GROUND .
-In WAS SELECTED BY NASA NASA chose ASTRONAUT to become a member of the WAS A CREW MEMBER OF crew . Anders was a test pilot before that who was born in BIRTHPLACE on October 17th , 1933 and retired on September 1st , 1969 .
+In WAS_SELECTED_BY_NASA NASA chose ASTRONAUT to become a member of the WAS_A_CREW_MEMBER_OF crew . Anders was a test pilot before that who was born in BIRTHPLACE on October 17th , 1933 and retired on September 1st , 1969 .
 The OPERATINGORGANISATION is the operating organisation for Ardmore Airport , New Zealand which is located 34 metres above sea level and has a 3rd runway made of poaceae . The runway at the airport is named RUNWAYNAME and is RUNWAYLENGTH in length .
 ASTRONAUT was a US national , who was born in BIRTHPLACE . He was a student at the ALMAMATER ( affiliated to the university of Texas system ) . He was a test pilot who died in DEATHPLACE .
 WRITTENWORK is from the COUNTRY where the ETHNICGROUP are an ethnic group . It was published in English which is the language spoken in SPOKENIN .
@@ -10595,16 +10595,16 @@ WRITTENWORK is part of the academic Discipline of Computer Science .
 Located in LOCATION , COUNTRY , AIRPORT has a runway name RUNWAYNAME .
 BUILDING is located in LOCATION , ISPARTOF , COUNTRY . The city leader is LEADERNAME .
 SPORTSTEAM is located in LOCATION where the leaders are Nikos Voutsis and Prokopis Pavloopoulos . The country ' s capital is CAPITAL and their currency is the euro .
-ASTRONAUT was born in BIRTHPLACE and became a test pilot who was chosen by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born in BIRTHPLACE and became a test pilot who was chosen by NASA in WAS_SELECTED_BY_NASA .
 The American comic book writer Roger McKenzie and CREATOR created the character COMICSCHARACTER , who has the full name FULLNAME .
 The BUILDING is located at " LOCATION . " .
 FOOD comes from the REGION region of COUNTRY . T . S . Thakur and LEADERNAME are both leaders of COUNTRY , a country where the people are known as Indians .
 The DISHVARIATION dish has variations including FOOD and Shumai .
-BUILDING is located in LOCATION and was added to the National Register of Historic Places on 23rd April 1980 with the Reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
-ASTRONAUT who is originally from BIRTHPLACE graduated with a M . A . from NWC in 1957 . He then went on to become a member of the WAS A CREW MEMBER OF mission and earned a distinguished service medal from the United States Navy . ASTRONAUT retired in 1974 .
+BUILDING is located in LOCATION and was added to the National Register of Historic Places on 23rd April 1980 with the Reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
+ASTRONAUT who is originally from BIRTHPLACE graduated with a M . A . from NWC in 1957 . He then went on to become a member of the WAS_A_CREW_MEMBER_OF mission and earned a distinguished service medal from the United States Navy . ASTRONAUT retired in 1974 .
 Published by PUBLISHER , the novel WRITTENWORK was followed by FOLLOWEDBY .
 Felipe VI is the leader of COUNTRY , but Susana Diaz is the leader of REGION . They use the CURRENCY as currency . Ajobkanci , found in REGION is a food that originated in COUNTRY .
-ASTRONAUT ( born in BIRTHPLACE ) was selected by NASA in WAS SELECTED BY NASA and passed away in DEATHPLACE .
+ASTRONAUT ( born in BIRTHPLACE ) was selected by NASA in WAS_SELECTED_BY_NASA and passed away in DEATHPLACE .
 Chicago ' s leader is called LEADERNAME .
 COUNTRY has the leader Nawaz Shiraf and is the country where you will find the city of CITYSERVED , which is served by AIRPORT , which is located in Punjab .
 OPERATINGORGANISATION is the operating organisation for AIRPORT which is 25 metres above sea level . The runway name is RUNWAYNAME and has a length of RUNWAYLENGTH .
@@ -10620,7 +10620,7 @@ Arem arem , a main course , has the components : rice cooked in a banana leaf an
 With an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , AIRPORT is located in LOCATION which is part of ISPARTOF .
 SPORTSTEAM , with full name " FULLNAME " , played in the Topklasse in the 2014 - 2015 season .
 WRITTENWORK was written by AUTHOR , has an OCLC number of OCLC_NUMBER and an ISBN number of ISBN_NUMBER .
-UNIVERSITY in CITY was awarded Technical Campus status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY based in LOCATION . The Institute is affiliated to the AFFILIATION .
+UNIVERSITY in CITY was awarded Technical Campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY based in LOCATION . The Institute is affiliated to the AFFILIATION .
 FOOD comes from the COUNTRY and includes the main ingredients of bacon and sausage .
 REPRESENTATIVE represented British Hong Kong .
 The OPERATINGORGANISATION operates the AIRPORT in LOCATION whose IATA location ID is IATA_LOCATION_IDENTIFIER and ICAO location ID is ICAO_LOCATION_IDENTIFIER .
@@ -10659,7 +10659,7 @@ FOOD originates from COUNTRY where the currency is the CURRENCY . T . S . Thakur
 The FULLNAME is now known as SPORTSTEAM and has NUMBEROFMEMBERS members and has played in the 2014 - 15 Topklasse season .
 FOOD can be served freshly baked ( warm ) or served cold .
 The UNIVERSITY is located in the city of CITY in the Indian state of STATE which is southeast of Mahe , COUNTRY . COUNTRY ' s capital city is LARGESTCITY and one of the rivers in the country is the RIVER .
-Buzz Aldrin was an American born in Glen Ridge , ISPARTOF . He was a member of WAS A CREW MEMBER OF ' s crew . ASTRONAUT was an WAS A CREW MEMBER OF backup pilot . LEADERNAME is a US leader .
+Buzz Aldrin was an American born in Glen Ridge , ISPARTOF . He was a member of WAS_A_CREW_MEMBER_OF ' s crew . ASTRONAUT was an WAS_A_CREW_MEMBER_OF backup pilot . LEADERNAME is a US leader .
 The leader of the Association for Computing Machinery is LEADERNAME .
 FULLNAME ( abbreviated to A . S . Roma ) has NUMBEROFMEMBERS members and its ground is GROUND .
 UNIVERSITY was established in ESTABLISHED in CITY , COUNTRY .
@@ -10710,7 +10710,7 @@ UNIVERSITY in Aarus , COUNTRY is affiliated with the AFFILIATION headquartered i
 The address , BUILDING is located in LOCATION where White South Africans are one of the ethnic groups .
 UNIVERSITY in CITY , COUNTRY has NUMBEROFSTUDENTS students and ACADEMICSTAFFSIZE staff .
 Joe Biden and LEADERNAME are leaders of the LOCATION which is lead by a President . The country is the location of BUILDING .
-ASTRONAUT ( born in BIRTHPLACE was selected by NASA in WAS SELECTED BY NASA and was a crew member for WAS A CREW MEMBER OF and is now retired .
+ASTRONAUT ( born in BIRTHPLACE was selected by NASA in WAS_SELECTED_BY_NASA and was a crew member for WAS_A_CREW_MEMBER_OF and is now retired .
 ASTRONAUT time in space is 8820 . 0 minutes .
 FOOD is made from wheat or corn flour and also includes vegetables .
 The novel WRITTENWORK was written in COUNTRY and was followed by FOLLOWEDBY which is published by PUBLISHER .
@@ -10726,7 +10726,7 @@ AIRPORT is operated by the OPERATINGORGANISATION . The US Air Force was involved
 BUILDING is located in LOCATION , which is part of ISPARTOF in COUNTRY . One of the ethnic groups in COUNTRY is the Filipinos and the leader of the country is LEADERNAME .
 The home ground of A S Livorno Calcio ( full name FULLNAME ) , which has NUMBEROFMEMBERS members , is the GROUND .
 The Acharya Institute of Techology in STATE , CITY , COUNTRY was established in ESTABLISHED . It is affiliated to the AFFILIATION .
-ASTRONAUT was an American test pilot selected by NASA to part of the WAS A CREW MEMBER OF crew in WAS SELECTED BY NASA . His Alma Mater is UT Austin , where he received as B . S . in 1955 .
+ASTRONAUT was an American test pilot selected by NASA to part of the WAS_A_CREW_MEMBER_OF crew in WAS_SELECTED_BY_NASA . His Alma Mater is UT Austin , where he received as B . S . in 1955 .
 AIRPORT ' s runway length is RUNWAYLENGTH .
 ASTRONAUT walked in space 52 . 0 minutes .
 The 3rd runway at AIRPORT is 3RD_RUNWAY_LENGTHFEET feet and it is 973 m above sea level .
@@ -10745,7 +10745,7 @@ SPORTSTEAM have NUMBEROFMEMBERS members and played in the LEAGUE in 2014 - 15 . 
 The book WRITTENWORK was written in COUNTRY and the second book in the series is FOLLOWEDBY .
 Japan has an ethnic group of Koreans .
 FULLNAME is abbreviated to SPORTSTEAM . Its home ground is the GROUND it played in season SEASON and has NUMBEROFMEMBERS members .
-ASTRONAUT , a NATIONALITY citizen , was a crew member on the OPERATOR operated WAS A CREW MEMBER OF along with CREWMEMBERS .
+ASTRONAUT , a NATIONALITY citizen , was a crew member on the OPERATOR operated WAS_A_CREW_MEMBER_OF along with CREWMEMBERS .
 AIRPORT is located in the LOCATION . It is operated by the OPERATINGORGANISATION whose headquarters are in the HEADQUARTER .
 The order of ORDER contains sweet potato which are an ingredient in binignit recipes . The main ingredient of binignit is banana .
 President Ahmet Davutoglu is the leader of LOCATION which has the capital city of CAPITAL . The country is the location of the bronze Ataturk monument inaugurated on 27 July 1932 in Izmir .
@@ -10776,11 +10776,11 @@ AIRPORT serves the city of Saranac Lake , which is part of Harrietstown in ISPAR
 Elliot see was born in BIRTHPLACE , Texas . He attended the ALMAMATER which is affiliated with the University of Texas system . The school is part of the big 12 conference and the president of the school is PRESIDENT .
 Found nationwide bit more specific to Java is the dish FOOD . The main ingredients of which are ; MAININGREDIENTS .
 ASTRONAUT was born in BIRTHPLACE , and graduated from the ALMAMATER where Hook ' em is the mascot .
-American ASTRONAUT was born in BIRTHPLACE on January 20th , 1930 and was part of WAS A CREW MEMBER OF .
+American ASTRONAUT was born in BIRTHPLACE on January 20th , 1930 and was part of WAS_A_CREW_MEMBER_OF .
 COMICSCHARACTER is a character in the film Big Hero 6 , which was distributed by DISTRIBUTOR and starred STARRING .
 FOOD and the ethnic group The Moro People come from the COUNTRY .
 MANAGER manages the SPORTSTEAM team and plays for CLUB .
-ASTRONAUT was born in BIRTHPLACE , then served as a OCCUPATION when he was chosen by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born in BIRTHPLACE , then served as a OCCUPATION when he was chosen by NASA in WAS_SELECTED_BY_NASA .
 AUTHOR is the author of WRITTENWORK which is a hardcover book . It has NUMBEROFPAGES pages and the ISBN number is ISBN_NUMBER .
 The order ORDER features almonds which are an ingredient in ajobanco .
 INGREDIENT is an ingredient in FOOD which comes from the COUNTRY .
@@ -10827,14 +10827,14 @@ ASTRONAUT was an American born in BIRTHPLACE and attended the ALMAMATER . He was
 UNIVERSITY in CITY , COUNTRY is affiliated with AFFILIATION and was established in ESTABLISHED . The school is in the state of STATE . Its president is B . M . Reddy and its director is DIRECTOR .
 UNIVERSITY located in LOCATION , COUNTRY , was created in ESTABLISHED , has NUMBEROFSTUDENTS students and ACADEMICSTAFFSIZE employees . It ' s leader is Federal Chancellor LEADERNAME .
 BUILDING has FLOORCOUNT floors and was designed by ARCHITECT .
-ASTRONAUT has now retired . He was born on 15 March 1932 . He was a crew member of the OPERATOR operated WAS A CREW MEMBER OF which was commanded by COMMANDER .
+ASTRONAUT has now retired . He was born on 15 March 1932 . He was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF which was commanded by COMMANDER .
 WRITTENWORK was published by PUBLISHER in the COUNTRY where African American is an ethnic group and like in SPOKENIN , English is spoken .
 The OCLC number of WRITTENWORK is OCLC_NUMBER and the ISBN number is ISBN_NUMBER and is available in MEDIATYPE format .
 FOOD is a main course dish served nationwide in COUNTRY , but is more specific to Java . The main ingredients are MAININGREDIENTS .
 FOOD and Sandesh are both desserts .
 PRECEDEDBY preceded WRITTENWORK .
 The comic character Blockbuster is also known as ALTERNATIVENAME , the character was created by Carmine Infantino and CREATOR .
-ASTRONAUT was born on the 15th of March , 1932 . He became a crew member of OPERATOR operated WAS A CREW MEMBER OF , where he served under Commander COMMANDER . ASTRONAUT is retired .
+ASTRONAUT was born on the 15th of March , 1932 . He became a crew member of OPERATOR operated WAS_A_CREW_MEMBER_OF , where he served under Commander COMMANDER . ASTRONAUT is retired .
 SPORTSTEAM ( home ground GROUND ) has 19 , 238 members .
 Arros negre comes from the region of the REGION in COUNTRY . The leader of COUNTRY is Felipe VI .
 Alcobendas is part of ISPARTOF .
@@ -10889,7 +10889,7 @@ INGREDIENT is an ingredient in FOOD , which comes from COUNTRY .
 The UNIVERSITY is in CITY , COUNTRY . It ' s affiliated with the AFFILIATION .
 FOOD is a dish found in COUNTRY where the LANGUAGE is spoken and the leader is LEADERNAME .
 St . Vincent - St Mary High School in CITY is where SPORTSTEAM is located .
-ASTRONAUT retired the 1st of August in 1969 . He was a crew member of the WAS A CREW MEMBER OF .
+ASTRONAUT retired the 1st of August in 1969 . He was a crew member of the WAS_A_CREW_MEMBER_OF .
 The book , written by AUTHOR , WRITTENWORK , is in print with an OCLC number of OCLC_NUMBER and an ISBN of ISBN_NUMBER .
 FOOD originates from COUNTRY , where T . S . Thakur and LEADERNAME are leaders .
 The nearest city to Monocacy National Battlefield is NEARESTCITY .
@@ -10932,7 +10932,7 @@ The UNIVERSITY is located in CITY , COUNTRY . There are ACADEMICSTAFFSIZE academ
 BUILDING , designed by the architect B V Doshi , was completed in COMPLETIONDATE in LOCATION , Gujarat , COUNTRY .
 WRITTENWORK has the ISBN number ISBN_NUMBER .
 Produced in print , WRITTENWORK has an OCLC number of OCLC_NUMBER , an ISBN of ISBN_NUMBER and is NUMBEROFPAGES pages long .
-ASTRONAUT was born on Nov 18 , 1923 in BIRTHPLACE . He graduated from NWC with an M . A . in 1957 and was hired by NASA in WAS SELECTED BY NASA . He was awarded the Distinguished Service Medal by the US Navy , which ranks higher than the Dept of Commerce Gold Medal . Shepard died in DEATHPLACE .
+ASTRONAUT was born on Nov 18 , 1923 in BIRTHPLACE . He graduated from NWC with an M . A . in 1957 and was hired by NASA in WAS_SELECTED_BY_NASA . He was awarded the Distinguished Service Medal by the US Navy , which ranks higher than the Dept of Commerce Gold Medal . Shepard died in DEATHPLACE .
 Johann Schneider Ammann is the name of the leader of Switzerland .
 MANAGER plays for CLUB and manages AZ Alkmaair .
 Monroe Township , Madison County is in ISPARTOF .
@@ -10944,7 +10944,7 @@ FOOD is a dessert as is sandesh . It is found in the U . S . , one of whose nati
 FOOD is eaten in the COUNTRY where some people speak LANGUAGE and ethnic groups include the Ilocano and ETHNICGROUP people .
 FOOD is a popular dish in COUNTRY and available nationwide in Indonesia as well . The main ingredients of the dish are : MAININGREDIENTS .
 ASTRONAUT was born in BIRTHPLACE , located in the Collin County in Texas .
-The University of Texas , Austin , in BIRTHPLACE , Collin County , is an affiliate of the University of Texas system . Its sporting teams compete in the COMPETE IN and their mascot is Hook ' em . A notable alumni of the university is BIRTHPLACE - born ASTRONAUT .
+The University of Texas , Austin , in BIRTHPLACE , Collin County , is an affiliate of the University of Texas system . Its sporting teams compete in the COMPETE_IN and their mascot is Hook ' em . A notable alumni of the university is BIRTHPLACE - born ASTRONAUT .
 BUILDING is located on ADDRESS .
 CREATOR is the American national who created the character COMICSCHARACTER .
 The UNIVERSITY was established in ESTABLISHED . Aarus is governed by a magistrate .
@@ -10955,7 +10955,7 @@ With a runway length of RUNWAYLENGTH , Abilene regional airport serves Abilene p
 LOCATION ' s capital is CAPITAL and the country ' s leader is Ahmet Davutoglu . The currency of LOCATION is the CURRENCY and LARGESTCITY is it ' s largest city . The Atat ü rk Monument is located in Izmi and was inaugurated on the 27th of July , 1932 .
 Pietro Grasso and LEADER are Italian leaders in GROUND . The ground of SPORTSTEAM is located in GROUND where CAPITAL is the capital .
 The bacon sandwich . which is found in the UK , has different names including : Bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin . INGREDIENT is an ingredient of this sandwich , which is a variation on a DISHVARIATION .
-ASTRONAUT was born in BIRTHPLACE on November 18th 1923 . He graduated in 1957 with an MA from NWC and later went on to become a crew member for the WAS A CREW MEMBER OF mission . ASTRONAUT later died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE on November 18th 1923 . He graduated in 1957 with an MA from NWC and later went on to become a crew member for the WAS_A_CREW_MEMBER_OF mission . ASTRONAUT later died in DEATHPLACE .
 COUNTRY is home to the Asam Pedas which are from the REGION region .
 UNIVERSITY ' s motto is MOTTO .
 The UNIVERSITY of COUNTRY has NUMBEROFSTUDENTS students . LEADERNAME is the leader of the country and the legislature comes under the Federal Assembly ( COUNTRY ) .
@@ -10969,7 +10969,7 @@ FOOD is a popular dish in COUNTRY , which leader is LEADERNAME and English is th
 Arem arem comes from REGION where LEADERNAME is a leader .
 FOOD is a dish popular in the COUNTRY and the main ingredients are bacon and sausage .
 The leader of COUNTRY is Lars Lokke Rasmussen and the country is the location of the UNIVERSITY in the city of CITY . The School is affiliated to the AFFILIATION headquartered in HEADQUARTERS .
-NATIONALITY national ASTRONAUT was a student of ALMAMATER before he was chosen by NASA in WAS SELECTED BY NASA and became a test pilot . He passed away in DEATHPLACE on the 28th of February , 1966 .
+NATIONALITY national ASTRONAUT was a student of ALMAMATER before he was chosen by NASA in WAS_SELECTED_BY_NASA and became a test pilot . He passed away in DEATHPLACE on the 28th of February , 1966 .
 The MONUMENT ( known as Turk Sehitleri Aniti in the local language ) is a red granite and white marble monument , designed by Huseyin Butuner and Hilmi Guner , and dedicated to DEDICATEDTO . It is located in LOCATION , a country led by the LEADERTITLE , LEADER .
 he OPERATINGORGANISATION is the operating organisation for Al Asad airbase . The USAF fought in the Grenada Invasion . Weapons and aircraft located at that base are the ATTACKAIRCRAFT , the TRANSPORTAIRCRAFT and the AIRCRAFTFIGHTER .
 BUILDING has a floor count of FLOORCOUNT and is located in Buffalo New York .
@@ -10990,11 +10990,11 @@ FOOD is made in China , contains noodles and is also found in a region in REGION
 AIRPORT is operated by the Flemish department of mobility and public works and owned by the OWNER . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 FOOD contain celery , which is from the genus apium .
 BUILDING is in COUNTRY where the leader is LEADERNAME and the currency is the CURRENCY .
-ASTRONAUT joined NASA in WAS SELECTED BY NASA , is an American and was born in BIRTHPLACE .
+ASTRONAUT joined NASA in WAS_SELECTED_BY_NASA , is an American and was born in BIRTHPLACE .
 The leader of COUNTRY is Federal Chancellor LEADERNAME . The country is the location of the UNIVERSITY which was established in the city of CITY in ESTABLISHED . The Accademia is lead by Dean DEAN and there are NUMBEROFSTUDENTS students .
 SPORTSTEAM club has NUMBEROFMEMBERS members and are managed by MANAGER .
 The UNIVERSITY is located in COUNTRY . The country ' s leader LEADERNAME is officially known as the Federal Chancellor .
-American ASTRONAUT , who was born in BIRTHPLACE , was part of WAS A CREW MEMBER OF and earlier in time , a fighter pilot .
+American ASTRONAUT , who was born in BIRTHPLACE , was part of WAS_A_CREW_MEMBER_OF and earlier in time , a fighter pilot .
 PUBLISHER in STATE is the publisher of the WRITTENWORK .
 The operating organisation of Antwerp International airport is the Flemish government which has jurisdiction in JURISDICTION .
 FOOD is found in the countries of REGION and Singapore . Kway teow , beef tender loin , gula Melaka , sliced , dried black beans , garlic , dark soy sauce , palm sugar , lengkuas , oyster sauce , soya sauce , chilli and sesame oil are main ingredients in beef kway teow .
@@ -11018,7 +11018,7 @@ Gettysburg , LOCATION is the location of the MONUMENT which is categorised as co
 BUILDING is located in LOCATION , COUNTRY , where LEADERNAME is a leader .
 The book WRITTENWORK comes from the U . S . , where LEADERNAME is a leader and ETHNICGROUP are one of its ethnic groups .
 BUILDING is located in LOCATION , Ahmedabad , COUNTRY . LOCATION ' s leader is known as the LEADERTITLE and the leader in COUNTRY is LEADERNAME .
-ASTRONAUT , a US national , was born in BIRTHPLACE on AWARDS January 1930 . He graduated from MIT with a ScD in WAS SELECTED BY NASA and was chosen by NASA in the same year to serve as a crew member of WAS A CREW MEMBER OF . During his career he was the recipient of AWARDS awards .
+ASTRONAUT , a US national , was born in BIRTHPLACE on AWARDS January 1930 . He graduated from MIT with a ScD in WAS_SELECTED_BY_NASA and was chosen by NASA in the same year to serve as a crew member of WAS_A_CREW_MEMBER_OF . During his career he was the recipient of AWARDS awards .
 The ground of SPORTSTEAM is located in GROUND , the country which is inhabited by DEMONYM , where the language spoken is Italian and the leader is LEADER .
 BUILDING is in COUNTRY , whose leader is LEADERNAME .
 The length of the runway at AIRPORT , which serves the city of CITYSERVED , is RUNWAYLENGTH .
@@ -11028,12 +11028,12 @@ The CURRENTTENANTS is the current tenants of the Addis Ababa city hall .
 The dessert dish bionico requires granola as one of it ' s ingredients and can be varied using cottage cheese .
 The discipline of the AIDS Journal , ISSN number ISSN_NUMBER , is ACADEMICDISCIPLINE .
 ASTRONAUT was born on 23rd July 1927 in BIRTHPLACE and served as a test pilot . The nationality of ASTRONAUT is NATIONALITY and he died in DEATHPLACE .
-ASTRONAUT was hired by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was hired by NASA in WAS_SELECTED_BY_NASA .
 The UNIVERSITY is located in CITY , COUNTRY . It was established in ESTABLISHED , and it has ACADEMICSTAFFSIZE academic staff and 16 , 000 students . Its Latin name is " LATINNAME " and it is affiliated with the AFFILIATION .
 Ayam Penyet is a dish from REGION and found in COUNTRY . The main ingredients of FOOD are " squeezed " or " smashed " chicken served with sambal and also fried chicken .
 ASTRONAUT has retired .
 Pennsylvania ' s Franklin County is found to the west of Adams County .
-ASTRONAUT died in St Louis on 28 February 1966 . He was born in BIRTHPLACE and attended the ALMAMATER which will compete in the COMPETE IN . He later became a test pilot .
+ASTRONAUT died in St Louis on 28 February 1966 . He was born in BIRTHPLACE and attended the ALMAMATER which will compete in the COMPETE_IN . He later became a test pilot .
 The MONUMENT is a rock formation in LOCATION dedicated to Aethelwald , Ealdorman of East Anglia . One of the ethnic groups to be found in LOCATION is that of the ETHNICGROUPS .
 FOOD is a dessert from COUNTRY . The leader of the country is Gerard Larcher and fun fact ; Sandesh is also a dessert !
 Juventus FC are champions of LEAGUE in which AS Roma also play . Their full name is " FULLNAME " and they have a ground in GROUND .
@@ -11062,8 +11062,8 @@ ASTRONAUT was born November 18th , 1923 .
 WRITTENWORK is written by AUTHOR and produced in print .
 The BROADCASTEDBY , which is located in LOCATIONCITY , showed the TV series COMICSCHARACTER . It starred STARRING who was born in BIRTHPLACE .
 In ISPARTOF we have Abilene which is usually served by the Abilene regional airport , located in the united states .
-ASTRONAUT , born BIRTHDATE , joined NASA in WAS SELECTED BY NASA to serve as a crew member on WAS A CREW MEMBER OF .
-The 11th Mississippi Infantry monument , established in ESTABLISHED , is categorised as a contributing property and located in LOCATION which is north of Cumberland County . The County is northwest of Maryland ' s Carrol County and northeast of HAS TO ITS SOUTHWEST .
+ASTRONAUT , born BIRTHDATE , joined NASA in WAS_SELECTED_BY_NASA to serve as a crew member on WAS_A_CREW_MEMBER_OF .
+The 11th Mississippi Infantry monument , established in ESTABLISHED , is categorised as a contributing property and located in LOCATION which is north of Cumberland County . The County is northwest of Maryland ' s Carrol County and northeast of HAS_TO_ITS_SOUTHWEST .
 The Ataturk Monument in LOCATION was designed in bronze by DESIGNER , It was inaugurated July 27th , 1932 . The capital city of LOCATION is CAPITAL .
 ARCHITECT , born in BIRTHPLACE , was the architect of the grounds of Asilomar Conference and the SIGNIFICANTBUILDING .
 The AIRCRAFTFIGHTER is an aircraft fighter in the U . S . Air Force who are the operating organisation for Al Asad airbase .
@@ -11078,7 +11078,7 @@ The " CHAIRMANTITLE " is the chairman title of the SPORTSTEAM .
 Arros negre comes from the region of the Valencian community , is a traditional dish from COUNTRY and has INGREDIENT as an ingredient .
 The alternative name of the Baku Turkish Martyrs memorial is Turk Sehitleri Aniti . It is located in LOCATION which is led by LEADERNAME . The memorial is made of red granite and white marble and dedicated to the soldiers of the Ottoman army killed in the Battle of Baku .
 LOCATION , USA where one can find BUILDING , is part of ISPARTOF and contains cities such as Brooklyn .
-The UNIVERSITY is in CITY , STATE . It was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION and is affiliated with the AFFILIATION . STATE has HAS TO ITS NORTHEAST to its northeast . STATE has the HAS TO ITS WEST to its west .
+The UNIVERSITY is in CITY , STATE . It was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION and is affiliated with the AFFILIATION . STATE has HAS_TO_ITS_NORTHEAST to its northeast . STATE has the HAS_TO_ITS_WEST to its west .
 WRITTENWORK was written by AUTHOR .
 WRITTENWORK is a paperback and was written by AUTHOR .
 AIRPORT which is located in LOCATION serves CITYSERVED . It is situated ELEVATIONABOVETHESEALEVEL_(IN_METRES) below sea level . It runway - which is called RUNWAYNAME , measures 8 meters long .
@@ -11114,7 +11114,7 @@ The FOOD originates from the REGION region of COUNTRY . The country ' s leaders 
 UNIVERSITY is located in COUNTRY and the leader is LEADERNAME .
 The leader of the United States has the title LEADERTITLE .
 A . S . Roma play in LEAGUE and their ground is the GROUND .
-ASTRONAUT , also called Edwin E . Aldrin Jr . , was born on January 20 , 1930 . He graduated from Massachusetts Institute of Technology in WAS SELECTED BY NASA with a doctorate in Science and was selected by NASA in WAS SELECTED BY NASA as a fighter pilot . He was a crew member of WAS A CREW MEMBER OF and is now retired .
+ASTRONAUT , also called Edwin E . Aldrin Jr . , was born on January 20 , 1930 . He graduated from Massachusetts Institute of Technology in WAS_SELECTED_BY_NASA with a doctorate in Science and was selected by NASA in WAS_SELECTED_BY_NASA as a fighter pilot . He was a crew member of WAS_A_CREW_MEMBER_OF and is now retired .
 CITYSERVED is served by CITYSERVED airport which is 88 metres above sea level and has a 1st runway made from asphalt which is RUNWAYLENGTH in length .
 HEADQUARTER Airlines headquarter located in HEADQUARTER and operates the Ashgabat Airport and its hub airport the Turkmenabat .
 WRITTENWORK is published in the COUNTRY where the ETHNICGROUP are one of the ethnic groups . The book is written in English which is spoken in SPOKENIN .
@@ -11123,13 +11123,13 @@ Randall County is located in Texas , COUNTRY .
 COMICSCHARACTER ' s full name is FULLNAME and he was created by Goerge Brenner .
 The motto of the UNIVERSITY is " MOTTO " and there is an academic staff of 500 .
 The language used in the Philippines is LANGUAGE .
-ASTRONAUT , who was born on the 17th of October , 1933 , joined NASA in WAS SELECTED BY NASA and served as a member of the crew of WAS A CREW MEMBER OF .
+ASTRONAUT , who was born on the 17th of October , 1933 , joined NASA in WAS_SELECTED_BY_NASA and served as a member of the crew of WAS_A_CREW_MEMBER_OF .
 BUILDING is in the Eastern Province of COUNTRY , where LEADERNAME is the leader , and they use the CURRENCY .
 AUTHOR , influenced by Robert A . Heinlin , ( Burbank , Ca . ) wrote WRITTENWORK . The Bavarian Crisis was preceded by PRECEDEDBY .
 DISHVARIATION is a variation of Siomay and FOOD .
 The UNIVERSITY is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 , COUNTRY . The director is DIRECTOR and the University is affiliated with the AFFILIATION .
 The WRITTENWORK , abbreviated to ABBREVIATION , comes under the academic discipline of paleontology and has a LCCN number of LCCN_NUMBER .
-ASTRONAUT was an American who graduated from the University of Texas in Austin . The university is affiliated to the university of Texas system and is competing in the Big 12 conference . Elliot worked for NASA from WAS SELECTED BY NASA and he died in St Louis .
+ASTRONAUT was an American who graduated from the University of Texas in Austin . The university is affiliated to the university of Texas system and is competing in the Big 12 conference . Elliot worked for NASA from WAS_SELECTED_BY_NASA and he died in St Louis .
 The leader of COUNTRY is Gerard Larcher and the country is home to the dish known as Barny cakes .
 The nickname of SPORTSTEAM , or " FULLNAME " , is NICKNAME . SPORTSTEAM played in the 2014 - 15 Topklasse season and have NUMBEROFMEMBERS members .
 Italy ' s leader is LEADER .
@@ -11210,8 +11210,8 @@ A bacon sandwich is also known as a bacon butty , bacon sarnie , rasher sandwich
 DESIGNER designed the Ataturk monument in Izmir which was inaugurated in LOCATION on 27 July 1932 . The Turkish currency is the lira and the leader is Ahmet Davutoglu .
 AIRPORT runway length is RUNWAYLENGTH .
 The leader of CITY is the CITY City Council .
-The UNIVERSITY which is affiliated with the AFFILIATION was given Technical campus status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION . It is located in CITY , a city founded by Kempe Gowda .
-ASTRONAUT was an American who was born in Glen Ridge ( Essex County ) New Jersey . He was a crew member on the OPERATOR WAS A CREW MEMBER OF program .
+The UNIVERSITY which is affiliated with the AFFILIATION was given Technical campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION . It is located in CITY , a city founded by Kempe Gowda .
+ASTRONAUT was an American who was born in Glen Ridge ( Essex County ) New Jersey . He was a crew member on the OPERATOR WAS_A_CREW_MEMBER_OF program .
 One of the significant buildings designed by Julia Morgan is the SIGNIFICANTBUILDING .
 BUILDING whose architect was ARCHITECT is owned by OWNER .
 A . C Lumezzane play in the LEAGUE 20 - 14 season . They have NUMBEROFMEMBERS members .
@@ -11237,12 +11237,12 @@ The headquarters of HEADQUARTER Airlines are located in HEADQUARTER .
 BUILDING is located in LOCATION , COUNTRY , which is led by LEADERNAME .
 BUILDING is in LOCATION , ISPARTOF , COUNTRY ( local leader Frank G Jackson ) .
 AIRPORT serves the city of Lake Placid which is in and is a part of ISPARTOF .
-ASTRONAUT ( whose Alma Mater is ALMAMATER ) was born in BIRTHPLACE . He served as a test pilot before joining NASA in WAS SELECTED BY NASA and ultimately becoming part of the crew for the WAS A CREW MEMBER OF mission .
+ASTRONAUT ( whose Alma Mater is ALMAMATER ) was born in BIRTHPLACE . He served as a test pilot before joining NASA in WAS_SELECTED_BY_NASA and ultimately becoming part of the crew for the WAS_A_CREW_MEMBER_OF mission .
 The leader of COUNTRY , which has the ANTHEM as its national anthem , is Johan Schneider - Ammann . The country is the location of the UNIVERSITY in the city of CITY .
 Akron in Ohio has . 88 square kilometres of water .
 WRITTENWORK is published in the COUNTRY , where the language is English .
 AIRPORT is found in LOCATION .
-ASTRONAUT was born in BIRTHPLACE on the 15th of March in 1932 . He was hired by NASA in WAS SELECTED BY NASA where he performed as a test pilot . He spent 100305 . 0 minutes in space and is now retired .
+ASTRONAUT was born in BIRTHPLACE on the 15th of March in 1932 . He was hired by NASA in WAS_SELECTED_BY_NASA where he performed as a test pilot . He spent 100305 . 0 minutes in space and is now retired .
 FOOD comes from Colombia , from the REGION region and it ' s made with rice .
 1634 The Ram Rebellion was written in the U . S where LEADERNAME is President .
 AIRPORT serves the city of CITYSERVED . It is situated 88 meters above sea level . The 1st runway has an asphalt surface . It measures a length of RUNWAYLENGTH and is known as RUNWAYNAME .
@@ -11274,7 +11274,7 @@ The BUILDING is located in LOCATION , which is owned by OWNER .
 ASTRONAUT was born in BIRTHPLACE and spent 13017 . 0 minutes in space .
 AIRPORT is located in LOCATION , ISPARTOF which is oprated by OPERATINGORGANISATION who uses Hal Light Combat Helicopers .
 LEADERNAME is the leader of COUNTRY where the currency is the rupee and the FOOD orginated .
-ASTRONAUT , who was born in BIRTHPLACE and was the Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN , was awarded with the American Defense Service ribbon .
+ASTRONAUT , who was born in BIRTHPLACE and was the Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN , was awarded with the American Defense Service ribbon .
 BUILDING was completed in COMPLETIONDATE in LOCATION , COUNTRY . It has a total of FLOORCOUNT floors and cost 120m Australian dollars .
 CHAMPIONS are the champions of the LEAGUE in which SPORTSTEAM also competed in 2014 - 15 . SPORTSTEAM have NUMBEROFMEMBERS memberrs and play their home matches at the GROUND .
 WRITTENWORK is published by PUBLISHER .
@@ -11286,7 +11286,7 @@ FOOD is a food that can be found nationwide , in COUNTRY and also in Malaysia an
 sausage is a main ingredient in bacon explosion .
 Addis Ababa is located in COUNTRY .
 INGREDIENT are an ingredient in DISHVARIATION ( also known as FOOD ) which comes from the REGION region .
-ASTRONAUT was born in BIRTHPLACE . He was selected by OPERATOR in WAS SELECTED BY NASA and he performed as a test pilot . He was a crew member on the OPERATOR operated WAS A CREW MEMBER OF , which was commanded by COMMANDER . BACKUP PILOT was the backup pilot of WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE . He was selected by OPERATOR in WAS_SELECTED_BY_NASA and he performed as a test pilot . He was a crew member on the OPERATOR operated WAS_A_CREW_MEMBER_OF , which was commanded by COMMANDER . BACKUP_PILOT was the backup pilot of WAS_A_CREW_MEMBER_OF .
 The country of COUNTRY commonly serves FOOD .
 BUILDING is located in LOCATION in ISPARTOF .
 FOOD is a dish of fish in a sour and hot sauce found in REGION , COUNTRY .
@@ -11315,12 +11315,12 @@ FOOD , also known as ALTERNATIVENAME , is a dish made in REGION , coming from th
 The first club MANAGER played for was FC Lokomotive Leipzig . He also played for CLUB and was the manager of 1 FC Magdeburg .
 SPORTSTEAM play in the SEASON .
 BUILDING is located in LOCATION .
-ASTRONAUT , who was hired by NASA in WAS SELECTED BY NASA , was born in BIRTHPLACE and died in DEATHPLACE . The U . S . Navy awarded him the Distinguished Service Medal , a medal that is ranked higher than the HIGHER .
+ASTRONAUT , who was hired by NASA in WAS_SELECTED_BY_NASA , was born in BIRTHPLACE and died in DEATHPLACE . The U . S . Navy awarded him the Distinguished Service Medal , a medal that is ranked higher than the HIGHER .
 LEADERNAME is one of the leaders of the United States .
 WRITTENWORK is published in the COUNTRY where one of the ethnic groups is African American .
-BUILDING , located on 23rd Street Manhattan , was added to the National Register of Historic Places April 23 , 1980 and has reference number : REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING , located on 23rd Street Manhattan , was added to the National Register of Historic Places April 23 , 1980 and has reference number : REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 AIRPORT serves the city of CITYSERVED in COUNTRY .
-ASTRONAUT was born in BIRTHPLACE , NATIONALITY . Alan graduated from NWC with a M . A . in 1957 and went onto be a test pilot on WAS A CREW MEMBER OF . Alan later died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE , NATIONALITY . Alan graduated from NWC with a M . A . in 1957 and went onto be a test pilot on WAS_A_CREW_MEMBER_OF . Alan later died in DEATHPLACE .
 FOOD is a food found in COUNTRY , where the capital is CAPITAL and where LEADERNAME is the leader .
 Ardmore airport ( New Zealand ) has a 3rd runway surfaced with poaceae which is a member of the order of poales and commelinids and belongs to the division of flowering plants .
 The manager of SPORTSTEAM is Stuart Parker who is a member of the Irlam Town F . C and was a player for Runcorn FC Halton .
@@ -11348,13 +11348,13 @@ INGREDIENT is an ingredient of batagor which is a variation of Shumai or DISHVAR
 SPORTSTEAM ' s full name is " SPORTSTEAM " .
 The CURRENCY is the currency in COUNTRY where ajoblanco is originated from and they speak Spanish there . Felipe VI is the leader and the main ethnic group are ETHNICGROUP .
 BUILDING is in LOCATION in ISPARTOF .
-ASTRONAUT was born in BIRTHPLACE , Texas . He was a student at the ALMAMATER , where Gregory L . Fenvas was appointed as the president . They will be competing in the COMPETE IN .
+ASTRONAUT was born in BIRTHPLACE , Texas . He was a student at the ALMAMATER , where Gregory L . Fenvas was appointed as the president . They will be competing in the COMPETE_IN .
 The UNIVERSITY is affiliated with the AFFILIATION and was established in the year ESTABLISHED in COUNTRY . Its president is PRESIDENT . The University itself is in CITY .
 The MONUMENT is located in LOCATION , which has Franklin County to its west , Carroll County Maryland to its southeast , and Cumberland County Pennsylvania to its north .
 The Adolfo Suarez Madrid - Barajas airport is located at Madrid , Paracuellos de Jarama , San Sebasti á n de los Reyes and Alcobenda . It is run by OPERATINGORGANISATION and its runway name is RUNWAYNAME It is 3500 meters long .
 The nickname of the UNIVERSITY in CITY , STATE , is NICKNAME .
 The runway length at AIRPORT is RUNWAYLENGTH meters .
-ASTRONAUT was born in BIRTHPLACE and obtained a MA in 1957 from NWC . he was selected by NASA in WAS SELECTED BY NASA and became a test pilot .
+ASTRONAUT was born in BIRTHPLACE and obtained a MA in 1957 from NWC . he was selected by NASA in WAS_SELECTED_BY_NASA and became a test pilot .
 UNIVERSITY is in LARGESTCITY , COUNTRY in the state of STATE . LARGESTCITY is the largest city in the country and to the northeast of STATE is Mahe .
 J . P . McManus is the owner of BUILDING .
 ISPARTOF and BUILDING are located in LOCATION , COUNTRY . The leader in COUNTRY is Malatu Teshome .
@@ -11367,7 +11367,7 @@ MANAGER is the manager of SPORTSTEAM and plays for AFC Ajax and CLUB .
 Julie Morgan designed significant buildings in SIGNIFICANTBUILDING .
 1634 : The Bavarian Crisis is preceded by WRITTENWORK .
 An ingredient in batchoy are noodles and they originate from the COUNTRY .
-ASTRONAUT was born in BIRTHPLACE . He is a retired fighter pilot who served on the OPERATOR operated WAS A CREW MEMBER OF . CREWMEMBERS was also a crew member of WAS A CREW MEMBER OF and BACKUP PILOT was a backup pilot .
+ASTRONAUT was born in BIRTHPLACE . He is a retired fighter pilot who served on the OPERATOR operated WAS_A_CREW_MEMBER_OF . CREWMEMBERS was also a crew member of WAS_A_CREW_MEMBER_OF and BACKUP_PILOT was a backup pilot .
 AIRPORT is located in Egg Harbor Township which is in New Jersey .
 New Zealand ' s Ardmore Airport has a third type of runway surface , 3RD_RUNWAY_SURFACETYPE which belongs to the division of flowering plants .
 The ground of SPORTSTEAM is located in GROUND , where the leader is LEADER and CAPITAL is the capital . SPORTSTEAM play in LEAGUE , of which CHAMPIONS are champions .
@@ -11377,14 +11377,14 @@ You can serve a FOOD warm or cold .
 The Civil Aviation Authority of New Zealand is in LOCATION .
 Len Wein is an AWARD winner .
 Attica is part of ISPARTOF .
-American fighter pilot ASTRONAUT , who was born January 20 1930 in Glen Ridge , NJ , graduated from ALMAMATER and became a crew member of WAS A CREW MEMBER OF .
+American fighter pilot ASTRONAUT , who was born January 20 1930 in Glen Ridge , NJ , graduated from ALMAMATER and became a crew member of WAS_A_CREW_MEMBER_OF .
 The official leader of LOCATION is called the President . It ' s capital is located in CAPITAL and its largest city is LARGESTCITY . It has a monument called the Ataturk . The Ataturk Monument was designed by DESIGNER and was founded on July 27 , 1982 . It is made of bronze .
 The OPERATINGORGANISATION is the operating organisation for Al Asad airbase in LOCATION which has the ICAO location identifier of ICAO_LOCATION_IDENTIFIER . The runway name at the airbase is RUNWAYNAME and it has a length of 3 , 992 . 88 .
 Adolfo Su á rez Madrid - Barajas Airport ( in LOCATION ) , has a runway named RUNWAYNAME and a runway that is 3500 metres long .
 LEADERNAME is the leader of COUNTRY , a country where Indonesian is the language spoken and CAPITAL is the capital city . FOOD is a traditional food throughout COUNTRY and is also popular in neighbouring Southeast Asian countries .
 The currency in Mexico is the CURRENCY .
 The UNIVERSITY ' s campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY , STATE , COUNTRY , 560090 . It was established in ESTABLISHED and its motto is " MOTTO " . It is affiliated to the AFFILIATION .
-American test pilot ASTRONAUT from BIRTHPLACE , received a Bachelor of Science degree at the University of Texas at Austin in 1955 and went on to become a crew member on the WAS A CREW MEMBER OF flight mission .
+American test pilot ASTRONAUT from BIRTHPLACE , received a Bachelor of Science degree at the University of Texas at Austin in 1955 and went on to become a crew member on the WAS_A_CREW_MEMBER_OF flight mission .
 LOCATION , whose currency is the Turkish Lira , is led by LEADER from the capital CAPITAL . The MONUMENT is in LOCATION .
 MANAGER is the manager of the SPORTSTEAM . He plays for Maccabi Tel Aviv F . C . and is also a member of the Portugal National Football Team .
 Afonso Pena International airport is located in Sao Jose dos Pinhais and is operated by OPERATINGORGANISATION . It is 911 metres above sea level .
@@ -11396,7 +11396,7 @@ INGREDIENT is an ingredient of FOOD which comes from the COUNTRY .
 FOOD , a variation of the club sandwich , is a dish from the COUNTRY . One of its ingredients is tomato . LEADERNAME is a leader in the UK .
 The OPERATINGORGANISATION , which is the operating organisation for Al Asad airbase , fought battles in the Korean war and deploy the McDonnell Douglas F15 Eagle fighter aircraft .
 1634 : The Galileo Affair is written in the LANGUAGE .
-ASTRONAUT was born in BIRTHPLACE , which was represented by REPRESENTATIVE . He served as a crew member on WAS A CREW MEMBER OF , along with the commander COMMANDER and the backup pilot BACKUP PILOT .
+ASTRONAUT was born in BIRTHPLACE , which was represented by REPRESENTATIVE . He served as a crew member on WAS_A_CREW_MEMBER_OF , along with the commander COMMANDER and the backup pilot BACKUP_PILOT .
 The COUNTRY is home to the bacon sandwich which has the main ingredients bread and bacon and a condiment , often ketchup or brown sauce . A variation of the bacon sandwich , which is also known as bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin is the DISHVARIATION .
 The first runway of AIRPORT is made in asphalt .
 The novel 1634 The Ram Rebellion is NUMBEROFPAGES pages long .
@@ -11421,7 +11421,7 @@ The UNIVERSITY is located in the city of CITY .
 The College of William and Mary is the owner of the BUILDING in LOCATION which has the Georgian architectural style .
 Authored by AUTHOR , ' 1634 : The Bavarian Crisis ' is preceded by ' WRITTENWORK ' which is written in English .
 Fountain County is in Indiana , in the COUNTRY .
-The state of STATE is located to the southwest of HAS TO ITS NORTHEAST , and east of the HAS TO ITS WEST . Located in the city of CITY in STATE is the Archarya Institute of Technology , which was granted the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY , located in LOCATION . The Archarya Institute of Technology is affiliated with the AFFILIATION .
+The state of STATE is located to the southwest of HAS_TO_ITS_NORTHEAST , and east of the HAS_TO_ITS_WEST . Located in the city of CITY in STATE is the Archarya Institute of Technology , which was granted the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY , located in LOCATION . The Archarya Institute of Technology is affiliated with the AFFILIATION .
 LOCATION , led by Nikos Voutisis , who ' s capital is CAPITAL , is the location of club A . E . Dimitra Efxeinoupolis .
 The MONUMENT in STATE was completed in ESTABLISHED and is categorized as a contributing property .
 WRITTENWORK has the ISSN number ISSN_NUMBER and the abbreviation " ABBREVIATION " .
@@ -11432,7 +11432,7 @@ The SPORTSTEAM club is located in LOCATION where the leader is LEADER and the ca
 UNIVERSITY is located in CITY city , STATE state . This state has to its northwest Mahe India . The staff size of the UNIVERSITY is ACADEMICSTAFFSIZE .
 FOOD come from COUNTRY where LEADERNAME leads the DEMONYM .
 AFC Fylde ' s manager is MANAGER who plays at the Stockport County F . C .
-ASTRONAUT ( born in BIRTHPLACE on BIRTHDATE ) went to the ALMAMATER who competed in the COMPETE IN .
+ASTRONAUT ( born in BIRTHPLACE on BIRTHDATE ) went to the ALMAMATER who competed in the COMPETE_IN .
 Robert A . M . Stern is the architect for BUILDING .
 SPORTSTEAM is playing in it ' s ground at GROUND and has NUMBEROFMEMBERS members .
 The Ardmore Airport in New Zealand is 34 meters above sea level .
@@ -11452,7 +11452,7 @@ FOOD is a dessert served fresh and warm , or cold . It contains : ground almonds
 WRITTENWORK is published in the UK where LEADERNAME is the leader .
 Enrique Pena Nieto is a leader in COUNTRY , which is home to the dish FOOD . The dish comes from the REGION region and is served as a dessert . A variation on dessert is cake .
 AIRPORT is located in Punjab , COUNTRY and serves the city of CITYSERVED . COUNTRY ' s leader is LEADERNAME .
-ASTRONAUT was a crew member on the OPERATOR operated WAS A CREW MEMBER OF mission under commander COMMANDER . Bean , whose Alma Mater is ALMAMATER , was selected for OPERATOR service in WAS SELECTED BY NASA .
+ASTRONAUT was a crew member on the OPERATOR operated WAS_A_CREW_MEMBER_OF mission under commander COMMANDER . Bean , whose Alma Mater is ALMAMATER , was selected for OPERATOR service in WAS_SELECTED_BY_NASA .
 The LANGUAGE is spoken in SPOKENIN but WRITTENWORK is written in it even though it comes from the COUNTRY where ETHNICGROUP are an ethnic group .
 ALTERNATIVENAME is the alternative name for the comic character , ALTERNATIVENAME Black Knight .
 The novel WRITTENWORK was followed by FOLLOWEDBY .
@@ -11462,11 +11462,11 @@ The OPERATINGORGANISATION is the operating organisation of Atlantic City Interna
 The ethnic group of Ireland is ETHNICGROUP .
 The runway length of AIRPORT is RUNWAYLENGTH .
 INGREDIENT is an ingredient in FOOD which can be found in COUNTRY .
-American ASTRONAUT ( born on 07 / 23 / 1927 ) attended the ALMAMATER who were affiliated to the AFFILIATIONS and who also competed in the COMPETE IN in Austin .
+American ASTRONAUT ( born on 07 / 23 / 1927 ) attended the ALMAMATER who were affiliated to the AFFILIATIONS and who also competed in the COMPETE_IN in Austin .
 The WRITTENWORK is published by PUBLISHER , CITY . PUBLISHER is affiliated with the Association of Public and Land Grant Universities and the AFFILIATION .
 French is a language in New York .
 BUILDING is an art museum in the city of LOCATION , a part of ISPARTOF in COUNTRY . The leader of the country is LEADERNAME , and Vietnamese people are an ethnic group from COUNTRY .
-ASTRONAUT was born in BIRTHPLACE on 20 January 1930 . He graduated from MIT ScD in 1963 and was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE on 20 January 1930 . He graduated from MIT ScD in 1963 and was a crew member of WAS_A_CREW_MEMBER_OF .
 The MONUMENT falls under the category of CATEGORY and is in the COUNTRY .
 The area of water , in Anaheim ( California ) , is 25 . 2 square kilometres .
 Amapara Hospital has BEDCOUNT beds and is located in REGION , an Eastern Province state of COUNTRY .
@@ -11538,9 +11538,9 @@ The author AUTHOR was born in Burbank California . He wrote WRITTENWORK which is
 Sandesh is a dish that can be served as dessert , as is FOOD which contains sponge cake .
 The UNIVERSITY is located in the city of CITY in COUNTRY and currently has ACADEMICSTAFFSIZE members of staff . The school is affiliated with the AFFILIATION which has it ' s headquarters in HEADQUARTERS .
 SPORTSTEAM play in italy .
-ASTRONAUT , who was born on November 18th 1923 in BIRTHPLACE has died in DEATHPLACE . One of his great achievements in life was being chosen by NASA in WAS SELECTED BY NASA .
+ASTRONAUT , who was born on November 18th 1923 in BIRTHPLACE has died in DEATHPLACE . One of his great achievements in life was being chosen by NASA in WAS_SELECTED_BY_NASA .
 LEADERNAME is the leader of REGION where you will find Arem arem .
-ASTRONAUT , born in BIRTHPLACE , was part of the crew of WAS A CREW MEMBER OF where BACKUP PILOT served as backup pilot .
+ASTRONAUT , born in BIRTHPLACE , was part of the crew of WAS_A_CREW_MEMBER_OF where BACKUP_PILOT served as backup pilot .
 ASTRONAUT was awarded the " Legion of Merit " ribbon .
 FOOD is a fried chicken dish from REGION in COUNTRY . The chicken is smashed and served hot with sambal .
 AIRPORT serves the city of Abilene which is in ISPARTOF , in the COUNTRY .
@@ -11550,7 +11550,7 @@ Two types of deserts that can be served are FOOD and Sandesh .
 FOOD is a traditional dish from COUNTRY , country of DEMONYM and the LANGUAGE . The leader is Felipe VI .
 FOOD is a dessert that contains sponge cake . Sandesh is also a dessert .
 Lahore is located in COUNTRY .
-ASTRONAUT was a fighter pilot born on Oct 17 , 1933 in BIRTHPLACE . He graduated from AFIT in 1962 with an M . S . and joined NASA in WAS SELECTED BY NASA . He was also part of WAS A CREW MEMBER OF . Anders retired on Sept 1 , 1969 .
+ASTRONAUT was a fighter pilot born on Oct 17 , 1933 in BIRTHPLACE . He graduated from AFIT in 1962 with an M . S . and joined NASA in WAS_SELECTED_BY_NASA . He was also part of WAS_A_CREW_MEMBER_OF . Anders retired on Sept 1 , 1969 .
 INGREDIENT is one ingredient in FOOD .
 The LEADERNAME leads and has jurisdiction of the Flemish region . The Flemish region is in the country of COUNTRY where Philippe of COUNTRY is the leader and the city of CITYSERVED is served by AIRPORT .
 FOOD is a dish from the region of REGION . It is also found in COUNTRY where the ETHNICGROUP are an ethnic group .
@@ -11569,7 +11569,7 @@ Appleton International airport serves the city of Appleton in LOCATION . Both El
 The ground of SPORTSTEAM is located in GROUND , where CAPITAL is the capital , Italian is the official language and where there are leaders called Pietro Grasso and LEADER .
 A . D . Isidro Metapan play at the Estadio Jorge Calero Suarez in the Salvadoran Primera Division league .
 UNIVERSITY is located at campus in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 , in CITY city , COUNTRY . Its president is PRESIDENT and the director is DIRECTOR . It has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students .
-HAS TO ITS SOUTHWEST is to the southwest of Adams County , Pennsylvania .
+HAS_TO_ITS_SOUTHWEST is to the southwest of Adams County , Pennsylvania .
 634 The Bavarian Crisis available in print is written by AUTHOR .
 WRITTENWORK ( or ABBREVIATION ) Has an ISSN number of " ISSN_NUMBER " and LCCN number of LCCN_NUMBER .
 The red granite and white marble Baku Turkish Martyrs memorial , the native name being Turk Sehitleri Aniti , is found in LOCATION .
@@ -11586,13 +11586,13 @@ FOOD is a dish from the REGION region in COUNTRY also Chicharron is a dish from 
 The character Balder created by Jack Kirby and CREATOR .
 CITYSERVED is a popular tourist destination in COUNTRY the local language is Dutch and it ' s leader is LEADERNAME , the airport in CITYSERVED is CITYSERVED International airport .
 The impact factor of WRITTENWORK is IMPACTFACTOR .
-The American test pilot ASTRONAUT was born in BIRTHPLACE , and attended the UT Austin , gaining a BS in 1955 . He was chosen by NASA in WAS SELECTED BY NASA and spent 100305 minutes in space as a crew member of WAS A CREW MEMBER OF .
+The American test pilot ASTRONAUT was born in BIRTHPLACE , and attended the UT Austin , gaining a BS in 1955 . He was chosen by NASA in WAS_SELECTED_BY_NASA and spent 100305 minutes in space as a crew member of WAS_A_CREW_MEMBER_OF .
 The BUILDING is in the COUNTRY , where English and Irish are the main languages spoken by the Irish inhabitants . The currency of the COUNTRY is the euro .
 The distributor of the film Big Hero 6 , which stars STARRING , is DISTRIBUTOR . The character COMICSCHARACTER appears in this film .
 ASTRONAUT is an American citizen who was born in BIRTHPLACE .
 Bacon Sandwich , a variation of DISHVARIATION , where the main ingredients are bread , bacon and a condiment , comes from the COUNTRY , and has different names including bacon butty , bacon sarnie , rasher sandwich , bacong sanger , piece ' n bacon , bacon cob bacon barm and bacon muffin .
 Alan Shepherd was born in BIRTHPLACE , graduated from NWC in 1957 , and died in DEATHPLACE .
-ASTRONAUT was the Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN .
+ASTRONAUT was the Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN .
 The leader ' s name of Alderney is LEADERNAME .
 FOOD comes from COUNTRY , a country where Manuel Valls and LEADERNAME are leaders . It also comes from the region of REGION where LANGUAGE is one of the languages spoken .
 AIRPORT is in Egg Harbor Township , which is in ISPARTOF , in the COUNTRY . The airport is operated by the Port Authority of New York and ISPARTOF , the headquarters of which are at the HEADQUARTER .
@@ -11600,8 +11600,8 @@ The BUILDING is located at LOCATION in the COUNTRY .
 The country that bacon sandwich comes from is the COUNTRY . Variations include the DISHVARIATION and the club sandwich .
 BUILDING , with a floor area of 140000 , 0 square metres , was completed in COMPLETIONDATE .
 Asser Levy Public baths are located in ISPARTOF , LOCATION , COUNTRY .
-ASTRONAUT , born in BIRTHPLACE , retired on 1 September 1969 . During his career he served as a fighter pilot and as a crew member of the WAS A CREW MEMBER OF mission alongside commander COMMANDER and backup pilot BACKUP PILOT .
-ASTRONAUT was a NATIONALITY test pilot and member of WAS A CREW MEMBER OF . He was born in BIRTHPLACE . He was selected by NASA in WAS SELECTED BY NASA and is now retired .
+ASTRONAUT , born in BIRTHPLACE , retired on 1 September 1969 . During his career he served as a fighter pilot and as a crew member of the WAS_A_CREW_MEMBER_OF mission alongside commander COMMANDER and backup pilot BACKUP_PILOT .
+ASTRONAUT was a NATIONALITY test pilot and member of WAS_A_CREW_MEMBER_OF . He was born in BIRTHPLACE . He was selected by NASA in WAS_SELECTED_BY_NASA and is now retired .
 The MONUMENT was designed by Huseyin Butuner and Hilmi Guner .
 The location identifier of Alpena County Regional airport is LOCATIONIDENTIFIER .
 WRITTENWORK has the CODEN code CODEN_CODE .
@@ -11632,7 +11632,7 @@ The inhabitants of Texas have the demonym of DEMONYM .
 The creators of the comic book character Airman were Harry Sahle and CREATOR .
 LEADERNAME is France ' s leader .
 The BLT is a variation on the club sandwich . One of the ingredients of the BLT Sandwich is INGREDIENT and FOOD is a variation of it . This one is popular in the UK , which head of state is LEADERNAME .
-ASTRONAUT ( retired DATEOFRETIREMENT ) was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT ( retired DATEOFRETIREMENT ) was a crew member of WAS_A_CREW_MEMBER_OF .
 WRITTENWORK is published by PUBLISHER in the US where ETHNICGROUP are an ethnic group .
 BUILDING is located within the LOCATION whose natives are called DEMONYM and whose currency is CURRENCY .
 The comic character Bolt was created by Ernie Colon .
@@ -11674,7 +11674,7 @@ The UNIVERSITY is located in CITY and it was established in ESTABLISHED . It has
 The BUILDING is in LOCATION ( part of ISPARTOF ) in COUNTRY . The leader of COUNTRY is Shinzo Abe and an ethnic group there is called Vietnamese .
 The Acta Palaeontological Polonica is abbreviated as Acta Palaeontol . Pol and is part of the academic discipline of paleontology with the ISSN number ISSN_NUMBER .
 BUILDING is in LOCATION , ISPARTOF in the U . S . LEADERNAME leads LOCATION . English is spoken in ISPARTOF .
-American ASTRONAUT was born in BIRTHPLACE and graduated from UT Austin in 1955 with a B . S . He was hired by NASA in WAS SELECTED BY NASA as a test pilot . Alan was a crew member aboard WAS A CREW MEMBER OF spending in space 100305 minutes .
+American ASTRONAUT was born in BIRTHPLACE and graduated from UT Austin in 1955 with a B . S . He was hired by NASA in WAS_SELECTED_BY_NASA as a test pilot . Alan was a crew member aboard WAS_A_CREW_MEMBER_OF spending in space 100305 minutes .
 The UNIVERSITY is located in COUNTRY and it has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students . It is affiliated with the AFFILIATION in CITY .
 BIRTHPLACE ' s governing body is the City Council and Khalid Mahmood , a British politician is one of the leaders . The city is the birthplace of ARCHITECT , the architect who designed BUILDING , and has the " B " postcode .
 LEADERNAME is the leader of LOCATION . The capital is CAPITAL where the Turkish martyrs memorial is located .
@@ -11692,7 +11692,7 @@ January 2014 is the building start date of BUILDING .
 FOOD is a dish from COUNTRY that contains olive oil .
 Akron , Ohio is a part of ISPARTOF .
 REGION is in the country of COUNTRY where the leader is LEADERNAME . A variation on dessert is cake and bionico is an example of this which can be found in REGION .
-ASTRONAUT was originally from BIRTHPLACE and graduated from UT Austin in 1955 with a B . S . He went on to work as a test pilot and became a crew member of the WAS A CREW MEMBER OF mission before he retired .
+ASTRONAUT was originally from BIRTHPLACE and graduated from UT Austin in 1955 with a B . S . He went on to work as a test pilot and became a crew member of the WAS_A_CREW_MEMBER_OF mission before he retired .
 The BUILDING is located in LOCATION .
 FOOD is a traditional dish from COUNTRY , where the leaders are LEADERNAME and Matteo Renzi , the capital is CAPITAL and the people that live there are called DEMONYM .
 The AIRPORT in LOCATION is operated by OPERATINGORGANISATION and is found in LOCATIONCITY , COUNTRY .
@@ -11707,7 +11707,7 @@ FOOD is a food found in COUNTRY , which leader is LEADERNAME and the language is
 AEK GROUND FC ground is in GROUND and they compete in the LEAGUE . It has has NUMBEROFMEMBERS members . Olympiacos FC are previous champions of the LEAGUE .
 Ahmet_Davuto ğ lu is Turkey ' s leader .
 BUILDING is located in the LOCATION , with LEADERNAME being the LEADERTITLE .
-ASTRONAUT is American and was a part of the crew of WAS A CREW MEMBER OF operated by OPERATOR . COMMANDER was the commander of WAS A CREW MEMBER OF and BACKUP PILOT was the backup pilot .
+ASTRONAUT is American and was a part of the crew of WAS_A_CREW_MEMBER_OF operated by OPERATOR . COMMANDER was the commander of WAS_A_CREW_MEMBER_OF and BACKUP_PILOT was the backup pilot .
 SPORTSTEAM has NUMBEROFMEMBERS members and the ground is in GROUND .
 ENAIRE is located in LOCATIONCITY .
 Dave Challinor is at the A . F . C . Flyde club .
@@ -11719,10 +11719,10 @@ The Ataturk monument ( Izmir ) is made out of bronze . It was inaugurated on 27 
 AIRPORT serves the city of Abilene in Texas . Its runway is 2194 feet and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) m above sea level .
 The UNIVERSITY was established in ESTABLISHED , and is affiliated with the AFFILIATION based in CITY .
 MANAGER plays for U . S Castrovillari Calcio and manages SPORTSTEAM .
-To the west Karnataka borders on the HAS TO ITS WEST .
+To the west Karnataka borders on the HAS_TO_ITS_WEST .
 Italian born MANAGER is the manager of AC Lumezzane . He also played for CLUB and owns Torino FC .
 WRITTENWORK has NUMBEROFPAGES pages and can be found in hardcover with the OCLC nuber OCLC_NUMBER and the ISBN number ISBN_NUMBER .
-ASTRONAUT was born on January 20 , 1930 in BIRTHPLACE , NATIONALITY . He was a member of the WAS A CREW MEMBER OF , which was operated by OPERATOR . He was also a fighter pilot .
+ASTRONAUT was born on January 20 , 1930 in BIRTHPLACE , NATIONALITY . He was a member of the WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR . He was also a fighter pilot .
 Labour politician , John Clancy is the leader of Birmingham .
 UNIVERSITY in Mendriso , COUNTRY was established in ESTABLISHED . It ' s dean is DEAN . COUNTRY is led by Federal Chancellor Johann Schneider Ammann .
 FOOD is from REGION and includes olive oil .
@@ -11737,7 +11737,7 @@ The building of the BUILDING was started in BUILDINGSTARTDATE and was completed 
 Madrid is part of the community of Madrid .
 AIRPORT is located in LOCATION and its IATA I . D . is IATA_LOCATION_IDENTIFIER . LOCATION is part of Awadh and ISPARTOF and is lead by LEADERNAME .
 FOOD is a dish from COUNTRY and contains kidney beans .
-Alan bean was born in BIRTHPLACE . After graduation from UT Austin in 1955 with a B . S . , he was chosen by OPERATOR in WAS SELECTED BY NASA to serve as a crew member of the WAS A CREW MEMBER OF , commanded by COMMANDER .
+Alan bean was born in BIRTHPLACE . After graduation from UT Austin in 1955 with a B . S . , he was chosen by OPERATOR in WAS_SELECTED_BY_NASA to serve as a crew member of the WAS_A_CREW_MEMBER_OF , commanded by COMMANDER .
 BUILDING constructed in YEAROFCONSTRUCTION is located in LOCATION . It was added to the National Register of Historic Places on April 23 , 1980 .
 Located in the state of STATE , UNIVERSITY is an affiliate of AFFILIATION .
 The ETHNICGROUP are an ethnic group of COUNTRY . REGION ' s leader is LEADERNAME . FOOD is a dish from COUNTRY , REGION .
@@ -11756,7 +11756,7 @@ SPORTSTEAM play in COUNTRY ' s LEAGUE league and are managed by MANAGER .
 The architect ARCHITECT was born in BIRTHPLACE and designed the significant building of the SIGNIFICANTBUILDING . He also designed BUILDING in LOCATION , ISPARTOF .
 PARENTCOMPANY is the parent company of PUBLISHER which in turn is the publisher of the journal addiction which has the LCCN number LCCN_NUMBER .
 The MONUMENT , which is made from red granite and white marble , is in LOCATION which has CAPITAL as its capital and has the National Assembly as its legislature .
-The Reference Number in the National Register of Historic Places for BUILDING in LOCATION , is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The Reference Number in the National Register of Historic Places for BUILDING in LOCATION , is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 Edwin E . Aldrin who was born on 20th January 1930 , went on to be known as ASTRONAUT .
 Part of COUNTRY , FOOD is a dish from the REGION region . One of the ingredients in this dish is INGREDIENT .
 A Glastonbury Romane was written by AUTHOR and is followed by FOLLOWEDBY and Maiden Castle .
@@ -11765,18 +11765,18 @@ ASTRONAUT died July 21st , 1998 .
 The name of St Louis ' leader is LEADERNAME .
 The AIRPORT serves CITYSERVED with an asphalt surfaced runway of 497m .
 The Monocacy National Battlefield is located in LOCATION .
-The UNIVERSITY is in the GOVERNMENTTYPE of Aarus , southwest of HAS TO ITS NORTHEAST in COUNTRY . The country ' s leader is the Monarch of COUNTRY , LEADERNAME and the national relgiion is the Church of COUNTRY .
+The UNIVERSITY is in the GOVERNMENTTYPE of Aarus , southwest of HAS_TO_ITS_NORTHEAST in COUNTRY . The country ' s leader is the Monarch of COUNTRY , LEADERNAME and the national relgiion is the Church of COUNTRY .
 The LEGISLATURE is the source of legislature in LOCATION , where the MONUMENT is located .
 The Polish Academy of Sciences serves REGIONSERVED .
 The construction of BUILDING began in BUILDINGSTARTDATE and was completed in COMPLETIONDATE . The manor was designed by ARCHITECT .
 FOOD , which contains granola , is a dessert found in COUNTRY and is from the region of REGION .
 BUILDING is located in Gujarat , LOCATION , COUNTRY .
-The UNIVERSITY is in STATE , which is southwest of HAS TO ITS NORTHEAST and east of the HAS TO ITS WEST . It is affiliated with the AFFILIATION and was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION .
+The UNIVERSITY is in STATE , which is southwest of HAS_TO_ITS_NORTHEAST and east of the HAS_TO_ITS_WEST . It is affiliated with the AFFILIATION and was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION .
 The runway length of Ardmore Airport in New Zealand is 1 , 411 .
 ASTRONAUT , now retired , is a US national , being born in BIRTHPLACE .
 Irish and English are languages used in the COUNTRY by the DEMONYM . The Republic is lead by LEADERNAME and is the location of BUILDING .
 WRITTENWORK was published in the COUNTRY , where English is spoken ( as in SPOKENIN ) . The US includes many ETHNICGROUP , and its capital city is Washington D . C .
-ASTRONAUT was born in BIRTHPLACE , chosen by NASA in WAS SELECTED BY NASA and was born on the 18th of November 1923 .
+ASTRONAUT was born in BIRTHPLACE , chosen by NASA in WAS_SELECTED_BY_NASA and was born on the 18th of November 1923 .
 INGREDIENT is an ingredient of a bacon sandwich , which is popular in the UK . Another variation for a bacon sandwich is a DISHVARIATION .
 The Turkish martyrs memorial is located in CAPITAL , the capital of LOCATION .
 SPORTSTEAM ' s ground is GROUND , operated by OPERATOR .
@@ -11789,7 +11789,7 @@ ASTRONAUT ( born in BIRTHPLACE ) graduated from NWC , M . A . in 1957 was awarde
 The language Faroese is spoken in Denmark .
 Andrews Country Airport location identifier is LOCATIONIDENTIFIER .
 AIRPORT can be found in LOCATION and is operated by OPERATINGORGANISATION . The runway , named RUNWAYNAME is RUNWAYLENGTH in length .
-Alan Shepherd was born in BIRTHPLACE on 18 November 1923 . He was selected to serve with NASA in WAS SELECTED BY NASA , and died in DEATHPLACE .
+Alan Shepherd was born in BIRTHPLACE on 18 November 1923 . He was selected to serve with NASA in WAS_SELECTED_BY_NASA , and died in DEATHPLACE .
 In the LOCATION where the leader is known as the LEADERTITLE , John Roberts is the Chief Justice , one of the leaders is LEADERNAME and it is where 200 Delaware Avenue is located .
 The ground of SPORTSTEAM is located in GROUND , where there are leaders called Pietro Grasso and LEADER . GROUND ' s capital is CAPITAL and the language spoken in the country is Italian .
 WRITTENWORK is written in English , the spoken language of SPOKENIN . However , it originates from the COUNTRY where the ETHNICGROUP are an ethnic group and the country ' s leader is known as the President .
@@ -11820,7 +11820,7 @@ A . E . Dimitra Efxeinoupolis has NUMBEROFMEMBERS members and played in season 2
 AIRPORT is operated by OPERATINGORGANISATION whose hub airport is HUBAIRPORT .
 English is spoken in Singapore .
 WRITTENWORK was published by PUBLISHER , affiliated with the AFFILIATION , whose president is Elizabeth Grant .
-ASTRONAUT , born in BIRTHPLACE graduated with an MS from AFIT in 1962 and was chosen by NASA in WAS SELECTED BY NASA .
+ASTRONAUT , born in BIRTHPLACE graduated with an MS from AFIT in 1962 and was chosen by NASA in WAS_SELECTED_BY_NASA .
 Curitiba is located in COUNTRY .
 FOOD is a dessert originates from COUNTRY and the country ' s leader is LEADERNAME . Sandesh is a nice confectionery dessert .
 FOOD is from REGION in COUNTRY where Susana Diaz is the leader . The ETHNICGROUP are an ethnic group in the country .
@@ -11835,12 +11835,12 @@ The tomato belongs to the family of FAMILY .
 Written by AUTHOR , WRITTENWORK was preceded by Grantville Gazette II which itself was preceded by PRECEDEDBY .
 English is spoken in the COUNTRY and SPOKENIN . WRITTENWORK originates from the US where one of the ethnic groups is African American .
 The comic book character COMICSCHARACTER ( alternative name COMICSCHARACTER ) was created by CREATOR from the NATIONALITY .
-ASTRONAUT went to ALMAMATER . He was selected by NASA in WAS SELECTED BY NASA and spent 100305 . 0 " ( minutes ) in space .
+ASTRONAUT went to ALMAMATER . He was selected by NASA in WAS_SELECTED_BY_NASA and spent 100305 . 0 " ( minutes ) in space .
 The comic character Auron , full name FULLNAME , was created by Karl Kesel and CREATOR .
 ' ' RUNWAYNAME ' ' is the runway name at AIRPORT .
 Ardmore Airport in New Zealand is 34 meters above sea level and has a 3rd runway made of poaceae . The runway name is RUNWAYNAME and is RUNWAYLENGTH in length .
 OPERATINGORGANISATION is the operation organisation of AIRPORT which has a runway with the length of RUNWAYLENGTH metres .
-Alan Shephard was born in BIRTHPLACE and graduated from NWC in 1957 with an M . A . He was a test pilot on board the OPERATOR operated WAS A CREW MEMBER OF . He retired on the 1st August , 1974 and died in DEATHPLACE .
+Alan Shephard was born in BIRTHPLACE and graduated from NWC in 1957 with an M . A . He was a test pilot on board the OPERATOR operated WAS_A_CREW_MEMBER_OF . He retired on the 1st August , 1974 and died in DEATHPLACE .
 There is . 54 square kilometers of water in CITY .
 BUILDING is located in the COUNTRY , where the leader is LEADERNAME , the currency is the Euro and English is the primary language .
 The language spoken in Texas is English .
@@ -11851,18 +11851,18 @@ FOOD , which is eaten in the COUNTRY , is mainly comprised of noodles , pork org
 AIRPORT in Sao Jose dos Pinhais is 911 metres above sea level . Its runway is 1 , 800 metres long , is named RUNWAYNAME and ICAO_LOCATION_IDENTIFIER is the name of the airport ' s ICAO location identifier .
 The capital of COUNTRY is CAPITAL , and two ethnic groups include Malaysian Chinese and Malay . FOOD is a dish from the REGION .
 LEADERNAME is the leader of South Africa .
-WAS A CREW MEMBER OF was a OPERATOR operated mission comanded by COMMANDER . ASTRONAUT , who graduated from UT Austin in 1955 with a Bachelor of Science degree , served as a crew member but is now retired . BACKUP PILOT served as backup pilot of WAS A CREW MEMBER OF .
+WAS_A_CREW_MEMBER_OF was a OPERATOR operated mission comanded by COMMANDER . ASTRONAUT , who graduated from UT Austin in 1955 with a Bachelor of Science degree , served as a crew member but is now retired . BACKUP_PILOT served as backup pilot of WAS_A_CREW_MEMBER_OF .
 AIRPORT ' s 3rd runway surface type is 3RD_RUNWAY_SURFACETYPE which is of the order ORDER .
 LEADERNAME is a leader of REGION , where FOOD originates from . It is a dish which can also be found in indonesia .
 Albany is located in ISPARTOF .
 SPORTSTEAM is in the LEAGUE league whose champions are SS Robur Siena .
-ASTRONAUT was born in BIRTHPLACE in March 15 , 1932 . He was a test pilot and a crew member on WAS A CREW MEMBER OF after being hired by OPERATOR in WAS SELECTED BY NASA . The Alma Mater of ASTRONAUT is ALMAMATER .
+ASTRONAUT was born in BIRTHPLACE in March 15 , 1932 . He was a test pilot and a crew member on WAS_A_CREW_MEMBER_OF after being hired by OPERATOR in WAS_SELECTED_BY_NASA . The Alma Mater of ASTRONAUT is ALMAMATER .
 ASTRONAUT was an American who attended the ALMAMATER , which is affiliated with the University of Texas system . He was born in BIRTHPLACE on 23rd July 1927 and died in St Louis on DEATHDATE .
 The SPORTSTEAM club is located in LOCATION . The capital of the country is CAPITAL and the leader is LEADER .
 The comic book writer Gary Cohn and US National Paris Cullins created the comic character of Bolt .
 MANAGER , manager of A . S . Livorno Calcio , used to play for CLUB .
 The director of UNIVERSITY is DIRECTOR .
-ASTRONAUT was an American who was born in BIRTHPLACE . graduated from MIT with a Sc . D in WAS SELECTED BY NASA , which was the same year that he was hired by NASA . Buzz served as a OCCUPATION , and was also a crew member of WAS A CREW MEMBER OF . He was in space for 52 minutes .
+ASTRONAUT was an American who was born in BIRTHPLACE . graduated from MIT with a Sc . D in WAS_SELECTED_BY_NASA , which was the same year that he was hired by NASA . Buzz served as a OCCUPATION , and was also a crew member of WAS_A_CREW_MEMBER_OF . He was in space for 52 minutes .
 The Atat ü rk Monument in İ zmir , LOCATION , which is led by Ahmet Davutoglu and has CAPITAL as its capital , was inaugurated on July 27th , 1932 .
 The country of FOOD is COUNTRY .
 FOOD originates from the REGION in COUNTRY and includes the ingredients white rice , cuttlefish or squid , cephalopod ink and cubanelle peppers .
@@ -11894,7 +11894,7 @@ A food found in the REGION region of COUNTRY is asam pedas . Among the ethnic gr
 MANAGER is the manager of SPORTSTEAM , owned by Robert Eehoorn , as well as playing for AFC Ajax and CLUB .
 Abilene , ISPARTOF , COUNTRY is served by the Abilene regional airport . The runway length of the airport is 1 , 121 .
 EDITOR , a U . S . national , attended ALMAMATER . His doctoral advisor was DOCTORALADVISOR . Johnson edited AlP Advances .
-Buzz Aldrein ( aka ALTERNATIVENAMES ) was born on the 20th January , 1930 . He graduated from MIT with a Sc . D in WAS SELECTED BY NASA . He was selected by NASA in WAS SELECTED BY NASA . He was a fighter pilot and member of the WAS A CREW MEMBER OF crew . He has retired .
+Buzz Aldrein ( aka ALTERNATIVENAMES ) was born on the 20th January , 1930 . He graduated from MIT with a Sc . D in WAS_SELECTED_BY_NASA . He was selected by NASA in WAS_SELECTED_BY_NASA . He was a fighter pilot and member of the WAS_A_CREW_MEMBER_OF crew . He has retired .
 The ground of SPORTSTEAM is located in GROUND where the people are known as DEMONYM and the capital city is CAPITAL .
 ASTRONAUT was born in Glen Ridge , ISPARTOF , USA .
 ASTRONAUT died in DEATHPLACE , was born on the 23rd of July 1927 and performed as a test pilot .
@@ -11902,8 +11902,8 @@ FOOD is a food from COUNTRY where one of the languages used is LANGUAGE .
 SPORTSTEAM are managed by MANAGER who played for the CLUB and is attached to the club Genoa CFC .
 WRITTENWORK has the ISBN number ISBN_NUMBER , can be found in hardcover and has NUMBEROFPAGES pages .
 LEADERNAME is the leader of Singapore .
-ASTRONAUT was born January 30 , 1930 in BIRTHPLACE . He graduated from MIT with a Sc . D in 1963 . His occupation was a fighter pilot , was a crew member of WAS A CREW MEMBER OF , he ' s a US national and is now retired .
-ASTRONAUT was born in BIRTHPLACE in the NATIONALITY . He went to work for OPERATOR in WAS SELECTED BY NASA . He graduated from MIT in WAS SELECTED BY NASA with a doctorate in Science . He was a member of WAS A CREW MEMBER OF which was organized by OPERATOR .
+ASTRONAUT was born January 30 , 1930 in BIRTHPLACE . He graduated from MIT with a Sc . D in 1963 . His occupation was a fighter pilot , was a crew member of WAS_A_CREW_MEMBER_OF , he ' s a US national and is now retired .
+ASTRONAUT was born in BIRTHPLACE in the NATIONALITY . He went to work for OPERATOR in WAS_SELECTED_BY_NASA . He graduated from MIT in WAS_SELECTED_BY_NASA with a doctorate in Science . He was a member of WAS_A_CREW_MEMBER_OF which was organized by OPERATOR .
 The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK .
 BUILDING , LOCATION , has FLOORCOUNT floors and was completed in COMPLETIONDATE .
 Beef Kway teow is from COUNTRY , it is popular in Singapore and COUNTRY . Beef Kway Teow is made from beef tender loin , gula Melaka , Sliced , dried black beans , garlic , dark soy souce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil .
@@ -11931,7 +11931,7 @@ The MONUMENT is in the municipality of Gettysburg , Pennsylvania .
 INGREDIENT , from the family of solanaceae , is a key ingredient in an FOOD .
 Luanda is located in COUNTRY .
 Turkey ' s leader is the LEADERTITLE .
-the UNIVERSITY is affiliated with AFFILIATION . It is located in the CITY , Karnatka , which is northeast of HAS TO ITS NORTHEAST , and west of the HAS TO ITS WEST .
+the UNIVERSITY is affiliated with AFFILIATION . It is located in the CITY , Karnatka , which is northeast of HAS_TO_ITS_NORTHEAST , and west of the HAS_TO_ITS_WEST .
 Carpi FC 1909 are previous champions of Serie B .
 The home ground of SPORTSTEAM is GROUND , they are in the LEAGUE league , of which Juventus FC have been champions .
 FOOD can be found in COUNTRY and has the ingredients guanciale , tomatoes , cheese and olive oil .
@@ -11951,15 +11951,15 @@ ASTRONAUT ( born on BIRTHDATE in BIRTHPLACE ) served as a Test Pilot .
 Austin Texas is led by a LEADERTITLE .
 WRITTENWORK is published in the COUNTRY where English is the language .
 A T Charlie Johnson lives in the US and his alma mater is ALMAMATER . He is the doctoral advisor to DOCTORALADVISOR and also edited WRITTENWORK .
-ASTRONAUT is an American who was born in BIRTHPLACE . He graduated from UT Austin in 1955 with a BS and became a test pilot . He spent a total of 100305 minutes in space whilst serving as a crew member on WAS A CREW MEMBER OF . He Has now retired .
-ASTRONAUT who was selected by NASA in WAS SELECTED BY NASA is sadly now deceased . He was born in BIRTHPLACE on 18th November 1923 .
+ASTRONAUT is an American who was born in BIRTHPLACE . He graduated from UT Austin in 1955 with a BS and became a test pilot . He spent a total of 100305 minutes in space whilst serving as a crew member on WAS_A_CREW_MEMBER_OF . He Has now retired .
+ASTRONAUT who was selected by NASA in WAS_SELECTED_BY_NASA is sadly now deceased . He was born in BIRTHPLACE on 18th November 1923 .
 PART is part of Amsterdam .
 The WRITTENWORK ( abbreviation : Acta Math . Hungar ) discipline is Math .
-ASTRONAUT , a NATIONALITY national , was born on 15 March 1932 in Wheeler Texas . He was a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT , a NATIONALITY national , was born on 15 March 1932 in Wheeler Texas . He was a crew member on WAS_A_CREW_MEMBER_OF .
 The outlook ranking of the UNIVERSITY is OUTLOOKRANKING , and the official school colours are blue , white and orange .
 The COUNTRY is the country of the FOOD . LEADERNAME was once the leader there , the capital is Washington D . C . and Native Americans are one of the ethnic groups of the country .
-The University of Texas competed in the COMPETE IN in Austin .
-Alan Shephard was born on November 18th , 1923 in BIRTHPLACE . He went to school at NWC and graduated with a MA in 1957 . He served as a test pilot and was a crew member of WAS A CREW MEMBER OF . He died in DEATHPLACE .
+The University of Texas competed in the COMPETE_IN in Austin .
+Alan Shephard was born on November 18th , 1923 in BIRTHPLACE . He went to school at NWC and graduated with a MA in 1957 . He served as a test pilot and was a crew member of WAS_A_CREW_MEMBER_OF . He died in DEATHPLACE .
 The UNIVERSITY is in CITY , STATE COUNTRY . Affiliated with the AFFILIATION , it ' s motto is MOTTO . The campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 .
 FOOD is from COUNTRY and is popular in Paris , New York and Hong Kong . The leaders of COUNTRY are Manuel Valls and LEADERNAME . French is spoken there .
 LOCATION in COUNTRY ( lead by LEADERNAME ) is the location of BUILDING and ISPARTOF .
@@ -11991,8 +11991,8 @@ LEADERNAME is the leader of India .
 UNIVERSITY ( Director DIRECTOR ) is located at Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 and is affiliated with AFFILIATION .
 Sesame Oil is an ingredient of beef kway teow which comes from the REGION region and is found in the countries of Indonesia and REGION .
 FOOD is a Colombian dish and has lemon as one of the ingredients .
-ASTRONAUT , who was part of WAS A CREW MEMBER OF , was born in BIRTHPLACE on March 15th , 1932 and is now retired .
-ASTRONAUT was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT , who was part of WAS_A_CREW_MEMBER_OF , was born in BIRTHPLACE on March 15th , 1932 and is now retired .
+ASTRONAUT was a crew member of WAS_A_CREW_MEMBER_OF .
 The total population of CITY is POPULATIONTOTAL .
 WRITTENWORK is published in MEDIATYPE .
 AC Lumezzane , play in the LEAGUE league , and have NUMBEROFMEMBERS members .
@@ -12002,11 +12002,11 @@ A T Charlie Johnson is a NATIONALITY national .
 English is spoken in both SPOKENIN and the COUNTRY ( home of President LEADERNAME ) . WRITTENWORK is from the COUNTRY .
 Beef Kway Teow is made in Indonesia , and REGION where LEADERNAME is the leader .
 ASTRONAUT , born in BIRTHPLACE , spent 13017 minutes in space .
-In WAS SELECTED BY NASA , ASTRONAUT was selected by NASA .
+In WAS_SELECTED_BY_NASA , ASTRONAUT was selected by NASA .
 AIRPORT is located in LOCATION , COUNTRY .
 WRITTENWORK comes from the U . S . and is written in English . An ethnic group in the U . S . is white Americans .
 The comic character Auron , whose full name is FULLNAME , was created by Marv Wolfman and CREATOR .
-American ASTRONAUT was born in Glen Ridge , ISPARTOF . He went on to become a crew member on WAS A CREW MEMBER OF which was operated by OPERATOR .
+American ASTRONAUT was born in Glen Ridge , ISPARTOF . He went on to become a crew member on WAS_A_CREW_MEMBER_OF which was operated by OPERATOR .
 Ethnic groups in the COUNTRY include the Zamboangans and the ETHNICGROUP . The official language in the country is OFFICIALLANGUAGE and LANGUAGE is also spoken there . A traditional dish from the COUNTRY is FOOD .
 INGREDIENT is an ingredient of FOOD which is a dish from Sinagpore .
 The ETHNICGROUP are an ethnic group from COUNTRY where FOOD ( which comes from the REGION region ) is found .
@@ -12014,7 +12014,7 @@ WRITTENWORK , written in English , is from the COUNTRY , where there is an ethni
 Alan B Miller Hall , owned by the College of William and Mary , and with the CURRENTTENANTS as the current tenants , is located in LOCATION , COUNTRY .
 BUILDING was completed in COMPLETIONDATE , is located at LOCATION and has FLOORCOUNT floors .
 INGREDIENT is an ingredient in the Indonesian dish FOOD .
-ASTRONAUT was born on November 18 , 1923 , in BIRTHPLACE , and died on July 21 , 1998 , in DEATHPLACE . He graduated in 1957 with an M . A . from NWC , and joined NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born on November 18 , 1923 , in BIRTHPLACE , and died on July 21 , 1998 , in DEATHPLACE . He graduated in 1957 with an M . A . from NWC , and joined NASA in WAS_SELECTED_BY_NASA .
 The AIRPORT , which serves Appleton , is located in LOCATION . Appletonmis part of ISPARTOF and Greenville is part of Dale , Wisconsin .
 A variation of the DISHVARIATION is a bacon sandwich which is popular in the UK . The main ingredients in a FOOD are bread and bacon with ketchup or brown sauce as a condiment . This sandwich can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
 The DISTRICT in LOCATION , is the location of the 14th New Jersey Volunteer Infantry monument . The monument was provided by the OWNINGORGANISATION and established on 11 July 1907 .
@@ -12025,7 +12025,7 @@ AIRPORT , which is located 88 meters above sea level , serves CITYSERVED . The 1
 The School of Business and Social Services at the CITY University in CITY , COUNTRY is affiliated to the AFFILIATION . It has ACADEMICSTAFFSIZE academic staff and 16 , 000 students .
 The UNIVERSITY is situated in the city of Alba lulia and the rector is RECTOR .
 The OPERATINGORGANISATION , who operate Al Asad airbase , were involved in the invasion of Panama and in the battles of BATTLES . They deploy the Lockheed AC 130 on their aircraft carriers .
-The UNIVERSITY in CITY , COUNTRY is affiliated to the AFFILIATION with its headquarters in HEADQUARTERS . The leader of COUNTRY is Lars Lokke Rasmussen and the religion is the Church of COUNTRY . CITY has HAS TO ITS NORTHEAST to its northeast .
+The UNIVERSITY in CITY , COUNTRY is affiliated to the AFFILIATION with its headquarters in HEADQUARTERS . The leader of COUNTRY is Lars Lokke Rasmussen and the religion is the Church of COUNTRY . CITY has HAS_TO_ITS_NORTHEAST to its northeast .
 AIRPORT ' s runway has a length of RUNWAYLENGTH .
 INGREDIENT is one of the ingredients in the dish FOOD which is found in the REGION . The REGION can be found in the country of COUNTRY .
 Arem arem originates from the country of COUNTRY which has the currency of the CURRENCY .
@@ -12045,11 +12045,11 @@ FOOD is from COUNTRY , where Spanish is spoken . The leader of the DEMONYM is Fe
 ETHNICGROUP are an ethnic group in the COUNTRY which is where the bacon explosion comes from .
 BUILDING was completed in COMPLETIONDATE and is located in LOCATION , COUNTRY .
 FOLLOWEDBY ( preceded by the book WRITTENWORK ) is from Australia and is written in English .
-ASTRONAUT was born on January 20th 1930 in BIRTHPLACE . He Joined NASA in WAS SELECTED BY NASA where he became a member of the WAS A CREW MEMBER OF crew before he retired .
+ASTRONAUT was born on January 20th 1930 in BIRTHPLACE . He Joined NASA in WAS_SELECTED_BY_NASA where he became a member of the WAS_A_CREW_MEMBER_OF crew before he retired .
 FOOD comes from the COUNTRY where the Native Americans are an ethnic group and the country is lead by a President .
 BUILDING is located at Haputale , COUNTRY . The leader of COUNTRY is LEADERNAME , its capital is CAPITAL , and the official currency is the CURRENCY .
 The LEADERTITLE is the leader in CITY .
-BUILDING are located in LOCATION and were constructed in YEAROFCONSTRUCTION . The Baths were added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES under reference REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING are located in LOCATION and were constructed in YEAROFCONSTRUCTION . The Baths were added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES under reference REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 CITYSERVED , served by Abilene Regional airport , is part of Jones county , Texas , USA .
 WRITTENWORK is available in print form .
 The DISHVARIATION is a variation of both the club sandwich and the bacon sandwich .
@@ -12063,7 +12063,7 @@ John van den Brom played for the CLUB .
 Adolfo Suarez Madrid - Barajas airport is located at LOCATION and is operated by OPERATINGORGANISATION . The runway name is RUNWAYNAME and has a length of RUNWAYLENGTH .
 A . S . Roma ' s fullname is FULLNAME They have NUMBEROFMEMBERS members and their ground is located in GROUND .
 The runway length of AIRPORT is RUNWAYLENGTH .
-ASTRONAUT was born in BIRTHPLACE on the 17th of October , 1933 . He was a fighter pilot and also served as a crew member of WAS A CREW MEMBER OF . He retired on the 1st of September , 1969 .
+ASTRONAUT was born in BIRTHPLACE on the 17th of October , 1933 . He was a fighter pilot and also served as a crew member of WAS_A_CREW_MEMBER_OF . He retired on the 1st of September , 1969 .
 English is the language of the LOCATION , where the leader is President LEADERNAME . BUILDING is an address located in the LOCATION .
 Amatriciana comes from COUNTRY and is a sauce from REGION . One of its ingredients is INGREDIENT while other main ingredients are tomatoes , guanciale , cheese and olive oil .
 The LANGUAGE is spoken in LOCATION where SPORTSTEAM is located . The leader of the country , which has the capital city of CAPITAL , is LEADER .
@@ -12155,7 +12155,7 @@ The inhabitants of the United States are known as DEMONYM .
 The POSTALCODE is the postal code of HOMETOWN , which is led by the UK Labour Party and governed by GOVERNINGBODY . It is also the hometown of Joh Madin , the architect who designed BUILDING .
 1634 The Ram Rebellion was written in the U . S . where the Native Americans are an ethnic group . The capital of the US is Washington DC and the leader is known as the President .
 The runway length of AIRPORT is RUNWAYLENGTH .
-Adams County is located to the south of Cumberland County and east of HAS TO ITS WEST . Carrol County , Maryland is to the southeast . It is the location of the MONUMENT .
+Adams County is located to the south of Cumberland County and east of HAS_TO_ITS_WEST . Carrol County , Maryland is to the southeast . It is the location of the MONUMENT .
 PUBLISHER ( parent company PARENTCOMPANY ) is the publisher of the Addiction Journal , which has the LCCN number LCCN_NUMBER .
 BUILDING located in Birmingham , England was designed by the architect ARCHITECT .
 AUTHOR wrote WRITTENWORK , published in paperback . The OCLC and ISBN numbers are OCLC_NUMBER and ISBN_NUMBER , respectively .
@@ -12178,21 +12178,21 @@ The MONUMENT is located in the Seminary Ridge , Gettysburg , LOCATION . It was e
 ARCHITECT was the architect of the BUILDING and The SIGNIFICANTBUILDING .
 ETHNICGROUP , one of the ethnic groups found in COUNTRY , in the region of REGION eat FOOD .
 The UNIVERSITY was established in ESTABLISHED in the city of CITY , COUNTRY . The president of Institute is PRESIDENT and the director is DIRECTOR . There are NUMBEROFPOSTGRADUATESTUDENTS Postgraduate Students and the Institute is affiliated with AFFILIATION .
-ASTRONAUT was born on the 17th of October 1933 in Brithish Hong Kong . He graduated , with a M . S . , from AFIT in WAS SELECTED BY NASA and was chosen by NASA in 1936 as a OCCUPATION . He retired on DATEOFRETIREMENT .
+ASTRONAUT was born on the 17th of October 1933 in Brithish Hong Kong . He graduated , with a M . S . , from AFIT in WAS_SELECTED_BY_NASA and was chosen by NASA in 1936 as a OCCUPATION . He retired on DATEOFRETIREMENT .
 FOOD and DISHVARIATION are both a type of dessert .
 FOOD is a traditional Italian sauce . CAPITAL is the capital of COUNTRY , it ' s language is Italian and LEADERNAME is the leader .
 WRITTENWORK originates from the COUNTRY where one of the ethnic groups is the ETHNICGROUP . It is written in English which is spoken in SPOKENIN .
 The OPERATINGORGANISATION , which fought in the BATTLES , operates the Al Asad airbase . Among the USAF attack aircraft are the ATTACKAIRCRAFT , which also serves as a transport plane , and the AIRCRAFTFIGHTER .
-ASTRONAUT graduated from AFIT with a M . S . in 1962 and went on to become a part of the WAS A CREW MEMBER OF crew along with CREWMEMBERS . ASTRONAUT retired in 1969 .
+ASTRONAUT graduated from AFIT with a M . S . in 1962 and went on to become a part of the WAS_A_CREW_MEMBER_OF crew along with CREWMEMBERS . ASTRONAUT retired in 1969 .
 The AIRPORT ' s runway name is " RUNWAYNAME " .
 The manager of SPORTSTEAM is MANAGER , who played for Unione Triestina 2012 S . S . D .
 WRITTENWORK is abbreviated to Acta Palaeontol . Pol .
 BUILDING was completed in COMPLETIONDATE , and has FLOORCOUNT floors .
-ASTRONAUT was born in BIRTHPLACE , served as a test pilot and was a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT was born in BIRTHPLACE , served as a test pilot and was a member of the WAS_A_CREW_MEMBER_OF crew .
 EDITOR , who edited WRITTENWORK , has ALMAMATER for an Alma mater .
 The ATTACKAIRCRAFT , an an attack aircraft is used by the OPERATINGORGANISATION which operates Al Asad airbase . It was also involved in both the Invasion of Panama and BATTLES .
 AIRPORT has a runway length of RUNWAYLENGTH and is operated by The Flemish Department of Mobility and Public Works .
-OPERATOR ' s WAS A CREW MEMBER OF saw ASTRONAUT as one of its crew members .
+OPERATOR ' s WAS_A_CREW_MEMBER_OF saw ASTRONAUT as one of its crew members .
 AUTHOR ( born in BIRTHPLACE ) is the author of WRITTENWORK , which was preceded by 1634 The Ram Rebellion . AUTHOR was influenced by INFLUENCEDBY .
 The UNIVERSITY in CITY , STATE was established in ESTABLISHED . The leader of STATE is LEADERNAME .
 BUILDING is an art museum in the city of Akita which is part of ISPARTOF , COUNTRY . One of the ethnic groups in COUNTRY is the Brazilians and the leader of the country is LEADERNAME .
@@ -12217,7 +12217,7 @@ The OCLC number of WRITTENWORK is OCLC_NUMBER , which is available in hardcover 
 Adirondack Regional airport serves the cities of both Lake Placid and Saranac Lake ( Harrietstown ) New York , COUNTRY .
 1634 The Ram Rebellion comes from the COUNTRY where the ETHNICGROUP are an ethnic group and LEADERNAME leads the country .
 Alfred Giles was born in BIRTHPLACE and died in PLACEOFDEATH . He designed the BUILDING .
-ASTRONAUT was an American born in BIRTHPLACE . He was a student at the U of Texas in Austin . He worked as a test pilot and joined NASA in WAS SELECTED BY NASA . See died in DEATHPLACE .
+ASTRONAUT was an American born in BIRTHPLACE . He was a student at the U of Texas in Austin . He worked as a test pilot and joined NASA in WAS_SELECTED_BY_NASA . See died in DEATHPLACE .
 The Atat ü rk Monument in Izmir , LOCATION , is made from MATERIAL . Designed by DESIGNER it was inaugurated on the 27th of July , 1932 . LOCATION ' s current leader is LEADERNAME .
 The UNIVERSITY , CITY , COUNTRY was established in ESTABLISHED and is affiliated to the AFFILIATION .
 WRITTENWORK is from the COUNTRY , which counts ETHNICGROUP among its ethnic groups .
@@ -12253,7 +12253,7 @@ Michele Marcolini plays for SPORTSTEAM .
 BUILDING is located in LOCATION .
 WRITTENWORK is written in English .
 The 1st runway length in feet of AIRPORT is 1ST_RUNWAY_LENGTHFEET .
-ASTRONAUT worked for OPERATOR and was a part of the WAS A CREW MEMBER OF crew along with CREWMEMBERS . He spend 8820 minutes in space and also served as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN .
+ASTRONAUT worked for OPERATOR and was a part of the WAS_A_CREW_MEMBER_OF crew along with CREWMEMBERS . He spend 8820 minutes in space and also served as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN .
 Javenese people are an ethinic group found in REGION and COUNTRY . Ayam Penyet is a type of dish found in these places and the main ingredient is fried chicken .
 The OPERATINGORGANISATION which is located at Jinnah International airport , is the operating organisation of the AIRPORT .
 Juventus FC have been LEAGUE champions . A . S . Roma , who ' s ground is GROUND also play in the same league .
@@ -12281,7 +12281,7 @@ AIRPORT is located in LOCATION and serves the city of Appleton . The length of t
 These novels were written in the following order : Castle , WRITTENWORK , Above the Veil , Into Battle and The Violet Keystone .
 INGREDIENT and coconut milk are ingredients in the dish binignit , which comes from the REGION region of the COUNTRY .
 BUILDING is situated in LOCATION , COUNTRY , and has the TENANT as a tenant .
-Edwin E . Aldrin Jr . otherwise know as ASTRONAUT was born in 1930 and graduated in 1963 from MIT . He then went on to become a fighter pilot and became a member of the WAS A CREW MEMBER OF crew before he retired .
+Edwin E . Aldrin Jr . otherwise know as ASTRONAUT was born in 1930 and graduated in 1963 from MIT . He then went on to become a fighter pilot and became a member of the WAS_A_CREW_MEMBER_OF crew before he retired .
 Greenville , Wisconsin is part of ISPARTOF .
 INGREDIENT is one of the ingredients in the COUNTRY of FOOD that originates from the Antioquia department .
 The leader of Ethiopia is LEADERNAME .
@@ -12321,7 +12321,7 @@ Peter Stoger is currently at CLUB and manages FC Kolin , he also plays internati
 BUILDING , LOCATION , has FLOORCOUNT floors and a floor area of 30843 . 8 square metres .
 SPORTSTEAM , has NUMBEROFMEMBERS members and its ground is GROUND .
 FOOD can be found in an Italian meal .
-OPERATOR ' s WAS A CREW MEMBER OF crew included CREWMEMBERS and ASTRONAUT .
+OPERATOR ' s WAS_A_CREW_MEMBER_OF crew included CREWMEMBERS and ASTRONAUT .
 MONUMENT is in MUNICIPALITY .
 FOOD includes sweet potato and ( as a main ingredient ) , taro .
 Born on the twentieth of January , 1930 , 1963 Massachusetts Institute of Technology , Sc . D . graduate ASTRONAUT has won AWARDS awards .
@@ -12335,7 +12335,7 @@ FOOD is from France , the United States or China .
 BUILDING , located in The COUNTRY in LOCATION , includes current tenant The CURRENTTENANTS .
 The manager of FC Magdeburg is MANAGER who played for RB Leipzig and is part of the club CLUB .
 Sweet potato belongs to the ORDER order of plants .
-Edwin E Aldrin Jr ( more usually known as Buzz ) , has retired . He was born in BIRTHPLACE on 20 January 1930 . He graduated in 1963 from MIT with a ScD and became a fighter pilot before becoming a crew member on WAS A CREW MEMBER OF .
+Edwin E Aldrin Jr ( more usually known as Buzz ) , has retired . He was born in BIRTHPLACE on 20 January 1930 . He graduated in 1963 from MIT with a ScD and became a fighter pilot before becoming a crew member on WAS_A_CREW_MEMBER_OF .
 The UTC offset for CITY is UTCOFFSET .
 FOOD is from COUNTRY and LEADERNAME is it ' s leader .
 OCCUPATION ASTRONAUT graduated from ALMAMATER , he was born in BIRTHPLACE and died in DEATHPLACE .
@@ -12346,7 +12346,7 @@ The United Kingdom is populated by the DEMONYM .
 WRITTENWORK is available in hardcover and has the OCLC number of OCLC_NUMBER and the ISBN number ISBN_NUMBER .
 AIRPORT serves CITYSERVED in the Parana State which is the South Region of COUNTRY . CITYSERVED is led by the Brazilian Democratic Labour Party .
 The dish of ajoblanco is from COUNTRY where Felipe VI is the leader and ETHNICGROUP are an ethnic group .
-ASTRONAUT , born October 17th 1933 , was selected by OPERATOR in WAS SELECTED BY NASA and served on their WAS A CREW MEMBER OF mission alongside CREWMEMBERS .
+ASTRONAUT , born October 17th 1933 , was selected by OPERATOR in WAS_SELECTED_BY_NASA and served on their WAS_A_CREW_MEMBER_OF mission alongside CREWMEMBERS .
 Albany is part of Dougherty County in Georgia .
 BUILDING is located in LOCATION , US . Its leader is called LEADERNAME . LOCATION is part of the State of ISPARTOF and the language is the English .
 Peter St ö ger played for CLUB .
@@ -12360,7 +12360,7 @@ BUILDING is located in the LOCATION , whose currency is the CURRENCY .
 The Bodley Head was founded by FOUNDER .
 Austin is the county seat of Travis County , in Texas .
 The WRITTENWORK ( Am . J . Math ) a discipline of Math . It ' s ISSN number is ISSN_NUMBER .
-ASTRONAUT is a fighter pilot , who was selected by OPERATOR in WAS SELECTED BY NASA to serve as a crew member aboard the WAS A CREW MEMBER OF . COMMANDER commanded the mission . BACKUP PILOT was a back up pilot .
+ASTRONAUT is a fighter pilot , who was selected by OPERATOR in WAS_SELECTED_BY_NASA to serve as a crew member aboard the WAS_A_CREW_MEMBER_OF . COMMANDER commanded the mission . BACKUP_PILOT was a back up pilot .
 the main ingredients in a FOOD are bread and bacon with ketchup or brown sauce as a condiment .
 INGREDIENT is an ingredient in Arem arem , a dish from Java .
 The leaders of REGION are Tony Tan and LEADERNAME . They speak in English there and eat beef kway teow .
@@ -12373,7 +12373,7 @@ The UNIVERSITY is located in the city of CITY in COUNTRY .
 Both the ISPARTOF and the BUILDING are located in LOCATION .
 FOOD made with sponge originate from COUNTRY . The current leader of this country is Francois Hollande alongside LEADERNAME where most people speak French .
 The character COMICSCHARACTER , created by Steve T Seagle and the American Duncan Rouleau , is voiced by VOICE .
-The 11th Mississippi Infantry monument is located in Adams County , Maryland , US . West of the County is HAS TO ITS WEST and Cumberland County lies to the north . Carrol County in Maryland lies to the southeast .
+The 11th Mississippi Infantry monument is located in Adams County , Maryland , US . West of the County is HAS_TO_ITS_WEST and Cumberland County lies to the north . Carrol County in Maryland lies to the southeast .
 Margrethe II is the leader of LOCATION where one of the languages is Greenlandic . The AC Hotel Bella Sky in Copenhagen is located in the country and currently tenanted by the TENANT which was founded in Washington DC .
 The fullname of A . S . Roma is FULLNAME and their home ground is in GROUND . They have NUMBEROFMEMBERS members and played in the SEASON season .
 The fullname of A . D . Isidro Metapan is Asociacion Deportiva , they have NUMBEROFMEMBERS members and play at their ground at GROUND .
@@ -12384,8 +12384,8 @@ Uttar Pradesh is part of ISPARTOF .
 The MONUMENT is located in LOCATION , which has Franklin County to its west , Cumberland County to its north , and Carrol County Maryland to its southeast .
 A cookie is a dessert and so is binignit , a dish from the COUNTRY , where ETHNICGROUP are part of one of the ethnic groups .
 At ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above the sea level , with a runway name RUNWAYNAME and a runway length of RUNWAYLENGTH , AIRPORT is located at LOCATION .
-ASTRONAUT was born on the 20th of January in 1930 and graduated from MIT with a Sc . D in WAS SELECTED BY NASA . He was selected by OPERATOR in WAS SELECTED BY NASA where he served as a Fighter Pilot and a crew member on WAS A CREW MEMBER OF . He has since retired .
-Edwin E . Aldrin Jr , also known as ASTRONAUT , was born on Jan 20 , 1938 in BIRTHPLACE . He graduated from MIT with an Sc . D in 1963 . He was a fighter pilot and a member of WAS A CREW MEMBER OF . He is now retired .
+ASTRONAUT was born on the 20th of January in 1930 and graduated from MIT with a Sc . D in WAS_SELECTED_BY_NASA . He was selected by OPERATOR in WAS_SELECTED_BY_NASA where he served as a Fighter Pilot and a crew member on WAS_A_CREW_MEMBER_OF . He has since retired .
+Edwin E . Aldrin Jr , also known as ASTRONAUT , was born on Jan 20 , 1938 in BIRTHPLACE . He graduated from MIT with an Sc . D in 1963 . He was a fighter pilot and a member of WAS_A_CREW_MEMBER_OF . He is now retired .
 The MONUMENT , categorised as a contributing property , is found in the municipality of Gettysburg , LOCATION .
 Chicharr ó n is a dish traditional in COUNTRY .
 An ingredient of beef kway teow , which originates from REGION and COUNTRY is palm sugar .
@@ -12415,9 +12415,9 @@ ASTRONAUT graduated from the University of Texas , Austin . He was born in BIRTH
 AC Cesena , whose ground is located in GROUND , are in the LEAGUE league . Carpi FC 1909 are previous champions of LEAGUE .
 ARCHITECT was the architect of BUILDING which was completed in COMPLETIONDATE .
 WRITTENWORK is preceded by PRECEDEDBY , which was written by AUTHOR .
-The UNIVERSITY in CITY , STATE is located east of the HAS TO ITS WEST and is affiliated with the AFFILIATION .
+The UNIVERSITY in CITY , STATE is located east of the HAS_TO_ITS_WEST and is affiliated with the AFFILIATION .
 ARCHITECT was the architect of BUILDING which was completed in COMPLETIONDATE with FLOORCOUNT floors and a total floor area of 1200 square metres .
-ASTRONAUT graduated from UT Austin in 1955 with a BS degree . He was a crewman on the OPERATOR operated WAS A CREW MEMBER OF on which BACKUP PILOT was backup pilot . He has now retired .
+ASTRONAUT graduated from UT Austin in 1955 with a BS degree . He was a crewman on the OPERATOR operated WAS_A_CREW_MEMBER_OF on which BACKUP_PILOT was backup pilot . He has now retired .
 Greece ' s leader is LEADER .
 AFC Blackpool has NUMBEROFMEMBERS members and its grounds are called Jepson Way .
 WRITTENWORK is written in the LANGUAGE , which is spoken in SPOKENIN .
@@ -12431,7 +12431,7 @@ INGREDIENT is an ingredient of FOOD which comes from REGION .
 O3R / 21L is a runway at Ardmore Airport , New Zealand . The airport is 34 meters above sea level with a runway length of 1411 . The 3rd runway is made with Poacea .
 B . M . Reddy is the President of the UNIVERSITY which was founded in ESTABLISHED in COUNTRY . The institute is also strongly connected to the AFFILIATION which is located in CITY . The exact location for the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 .
 The UNIVERSITY is affiliated to the European Universiity Association based in HEADQUARTERS . The School has NUMBEROFSTUDENTS students and ACADEMICSTAFFSIZE academic staff .
-ASTRONAUT was a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT was a member of the WAS_A_CREW_MEMBER_OF crew .
 FOOD is nationwide in Indonesia , but more specific to Java and one of the ingredients is banana leaf .
 Ayam Penyet is a dish from REGION where the ETHNICGROUP are an ethnic group . FOOD is also found in COUNTRY and it contains fried chicken .
 The ethnic group Moro come from the COUNTRY where LANGUAGE is one of the languages used , it is also where the dish batchoy comes from .
@@ -12454,16 +12454,16 @@ A . S Roma has NUMBEROFMEMBERS members and their ground is GROUND .
 One of the foods found in COUNTRY is asam pedas which is from the REGION region . ETHNICGROUP is one of the ethnic groups on COUNTRY and its capital CAPITAL .
 GOVERNMENTTYPE governs County Limerick .
 BUILDING was designed by the architect ARCHITECT , who was born in BIRTHPLACE . Khalid Mahmood is one of the leaders of BIRTHPLACE and the city has the postcode area ' B ' .
-ASTRONAUT , who was born in BIRTHPLACE , graduated from UT Austin in 1955 with a Bachelor of Science degree . He became a test pilot before joining NASA in WAS SELECTED BY NASA . He is now retired .
+ASTRONAUT , who was born in BIRTHPLACE , graduated from UT Austin in 1955 with a Bachelor of Science degree . He became a test pilot before joining NASA in WAS_SELECTED_BY_NASA . He is now retired .
 S ã o Jos é dos Pinhais is part of the south region of Brazil .
-ASTRONAUT and CREWMEMBERS were both crew members on WAS A CREW MEMBER OF operated by OPERATOR .
+ASTRONAUT and CREWMEMBERS were both crew members on WAS_A_CREW_MEMBER_OF operated by OPERATOR .
 The founder of the BROADCASTEDBY was 1st Baron John Reith and it is located at LOCATIONCITY in London . The BROADCASTEDBY broadcast COMICSCHARACTER and also produce BROADCASTEDBY radio .
 The UNIVERSITY is located in the city of Kuttittattoor , STATE , COUNTRY . The UNIVERSITY has ACADEMICSTAFFSIZE academic staff . The leader of STATE is LEADERNAME . The RIVER is a river in COUNTRY .
 FOOD is a dish from the COUNTRY . A variation of a bacon sandwich or a club sandwich is the DISHVARIATION and contains lettuce .
 Antwerp is in the country of COUNTRY .
 one FOOD variation is onion , garlic , black pepper and chili - sometimes garlic is added .
 FOOD ' s main ingredients are sausage and bacon .
-COUNTRY ' s leader is known as the the Monarchy of COUNTRY who is Lars Lokke Rasmussen . This country is also home to the city of CITY which is positioned with HAS TO ITS NORTHEAST to it ' s northeast . CITY is also home to the UNIVERSITY which has strong connections with the AFFILIATION based in HEADQUARTERS .
+COUNTRY ' s leader is known as the the Monarchy of COUNTRY who is Lars Lokke Rasmussen . This country is also home to the city of CITY which is positioned with HAS_TO_ITS_NORTHEAST to it ' s northeast . CITY is also home to the UNIVERSITY which has strong connections with the AFFILIATION based in HEADQUARTERS .
 Pietro Grasso and LEADER are leaders in GROUND where the ground of AS Gubbio 1910 is located .
 The MONUMENT ( established ESTABLISHED ) at the DISTRICT is categorised as a Historic district in the United States , and was provided by the OWNINGORGANISATION .
 FOOD is a dish of REGION and the counrty ' s leader is LEADERNAME .
@@ -12482,7 +12482,7 @@ King County , Washington is located in the COUNTRY .
 PUBLISHER is the publisher of WRITTENWORK .
 ASTRONAUT was born in BIRTHPLACE and attended the University of Texas ( affiliated to the university of Texas system ) . H was a test pilot , who died in DEATHPLACE on February 28th , 1966 .
 FOOD is a popular food of COUNTRY and REGION , the latter where LEADERNAME is the leader and English is spoken .
-HAS TO ITS NORTHEAST is a city that sits northeast of CITY , COUNTRY , where the School of Business and Social Sciences is located , at the CITY University . It is associated with the AFFILIATION , headquartered in HEADQUARTERS . The leader of of the country is Lars Lokke Rasmussen and the religion , the Church of COUNTRY .
+HAS_TO_ITS_NORTHEAST is a city that sits northeast of CITY , COUNTRY , where the School of Business and Social Sciences is located , at the CITY University . It is associated with the AFFILIATION , headquartered in HEADQUARTERS . The leader of of the country is Lars Lokke Rasmussen and the religion , the Church of COUNTRY .
 WRITTENWORK ISSN number : ISSN_NUMBER . Its abbreviation is Am . J . Math and his discipline is Math . It is published bimonthly .
 The leader of CITY is LEADER .
 Asherton , Texas is in the country of the COUNTRY .
@@ -12492,7 +12492,7 @@ Anaheim , CA has a UTC offset of minus 7 .
 CITY has an area of 107 . 43 square kilometres .
 The owner of AIRPORT is the OWNER and the operating organisation is the Flemish government .
 The location Identifier of AIRPORT is LOCATIONIDENTIFIER .
-ASTRONAUT who died in DEATHPLACE was born in BIRTHPLACE and was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT who died in DEATHPLACE was born in BIRTHPLACE and was selected by NASA in WAS_SELECTED_BY_NASA .
 The Asher and Mary Isabelle House , constructed in YEAROFCONSTRUCTION , is located in LOCATION .
 Adolfo Suarez LOCATION - Barajas Airport is located in LOCATION , which is part of the community of LOCATION .
 Margrethe II is the Queen of COUNTRY where one of the languages is Greenlandic . The country is the location of Aarhus airport in LOCATION , part of the Central COUNTRY region .
@@ -12523,20 +12523,20 @@ The Germans of COUNTRY are an ethnic group within COUNTRY which has a Prime Mini
 The manager of SPORTSTEAM is MANAGER . In the past he played for Chesterfield FC . and Stockport County FC .
 CAPITAL is the capital of Indonesia .
 BUILDING was designed by ARCHITECT at the Riverside Art Musuem in BIRTHPLACE .
-ASTRONAUT , hired by NASA in WAS SELECTED BY NASA , spent over 69 days in space .
+ASTRONAUT , hired by NASA in WAS_SELECTED_BY_NASA , spent over 69 days in space .
 MANAGER has been the manager of A C Cesena whose club is the S . S . Chieti Calcio . and played for CLUB .
 Blackpool played in the North West Counties Football League in the 2014 - 15 season . Their full name is FULLNAME , their home ground is Jepson Way and they have NUMBEROFMEMBERS members .
 UNIVERSITY is in COUNTRY which is led by LEADERNAME who has the title Federal Chancellor of COUNTRY . The country is governed through a Federal Assembly .
 The leader of COUNTRY is LEADERNAME , FOOD is a common dish from COUNTRY , LANGUAGE is one of the languages spoken in COUNTRY .
-MONUMENT is located in LOCATION which has HAS TO ITS SOUTHEAST to its southeast .
+MONUMENT is located in LOCATION which has HAS_TO_ITS_SOUTHEAST to its southeast .
 The runway length of Amsterdam ' s Schiphol Airport is 3 , 453 .
 WRITTENWORK originates from the COUNTRY and is written in English . The leader of the US is LEADERNAME and one of the ethnic groups in the country are the ETHNICGROUP .
 The MONUMENT is a rock formation in Cornwall . Located to the west of LOCATION ' s capital , CAPITAL , Cornwall is a county with its own language , known as Cornish .
 The address of BUILDING is , St Benedict ' s Monastery , Adisham , Haputhale , Sri Lanka . Construction of the building , which has the architectural style ' Tudor Revival ' , commenced in BUILDINGSTARTDATE and was completed in COMPLETIONDATE .
 The AIRPORT serves Atlantic City , N . J .
 Achaya Institute of Tachnology , located in the state of STATE in COUNTRY , at Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 . It is affiliated with AFFILIATION , located in the city of CITY .
-ASTRONAUT , born in Wheeler Texas graduated from UT Austin in 1955 . He then went onto be selected as a test pilot and crew member of WAS A CREW MEMBER OF in WAS SELECTED BY NASA .
-ASTRONAUT was born in Hong Kong on October 17th 1933 . He served as a fighter pilot and became a crew member on WAS A CREW MEMBER OF before he retired in 1969 .
+ASTRONAUT , born in Wheeler Texas graduated from UT Austin in 1955 . He then went onto be selected as a test pilot and crew member of WAS_A_CREW_MEMBER_OF in WAS_SELECTED_BY_NASA .
+ASTRONAUT was born in Hong Kong on October 17th 1933 . He served as a fighter pilot and became a crew member on WAS_A_CREW_MEMBER_OF before he retired in 1969 .
 FOOD is a food found in REGION .
 INGREDIENT can be found in Binigit which is a dish from the region of REGION . Another main ingredient is banana and this is a local dessert found in the COUNTRY .
 MANAGER , who plays for CLUB , is the manager of SPORTSTEAM .
@@ -12548,9 +12548,9 @@ the manager of SPORTSTEAM is john van den Brom .
 CREATOR , an American national is the creator of COMICSCHARACTER AKA ALTERNATIVENAME .
 WRITTENWORK is from the COUNTRY where the capital city is Washington D . C , and an ethnic group is African American .
 WRITTENWORK originates from the COUNTRY where Native Americans are an ethnic group and the leader is called the President .
-Born in BIRTHPLACE , ASTRONAUT was a crew member on OPERATOR ' s WAS A CREW MEMBER OF mission .
+Born in BIRTHPLACE , ASTRONAUT was a crew member on OPERATOR ' s WAS_A_CREW_MEMBER_OF mission .
 BUILDING is located at LOCATION and has a floor count of FLOORCOUNT .
-ASTRONAUT is an American born on Nov 18 , 1923 in BIRTHPLACE . He graduated from NWC in 1957 with an M . A . and was a crew member of WAS A CREW MEMBER OF . Shepard retired DATEOFRETIREMENT and later died in DEATHPLACE .
+ASTRONAUT is an American born on Nov 18 , 1923 in BIRTHPLACE . He graduated from NWC in 1957 with an M . A . and was a crew member of WAS_A_CREW_MEMBER_OF . Shepard retired DATEOFRETIREMENT and later died in DEATHPLACE .
 Felipe VI of COUNTRY is the leader of COUNTRY where one of its traditional dishes is arros negre . Arros negre is from the REGION region where Carles Puigdemont is the leader .
 The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE which belongs to the division of flowering plants and belongs to the order of ORDER .
 The UNIVERSITY is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY - 560090 . It has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students and it is affiliated with the AFFILIATION .
@@ -12601,7 +12601,7 @@ BUILDING is located in LOCATION , in the COUNTRY .
 INGREDIENT is an ingredient of a bacon sandwich .
 CITY is located at ELEVATIONABOVETHESEALEVEL above sea level .
 The CURRENTTENANTS are the current tenants of Alan B Miller Hall , which was designed by Robert A M Stern .
-ASTRONAUT was born on 20 January 1930 in BIRTHPLACE . He graduated from MIT in WAS SELECTED BY NASA with a doctorate in Science . He became a member of the WAS A CREW MEMBER OF crew after being hired by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born on 20 January 1930 in BIRTHPLACE . He graduated from MIT in WAS_SELECTED_BY_NASA with a doctorate in Science . He became a member of the WAS_A_CREW_MEMBER_OF crew after being hired by NASA in WAS_SELECTED_BY_NASA .
 SPORTSTEAM is based in GROUND .
 Italian speaking CAPITAL , COUNTRY , offers FOOD . COUNTRY is home to leader LEADERNAME .
 LEADERNAME is the leader of the United States .
@@ -12609,7 +12609,7 @@ The Alan B Miller Hall cost 75 million dollars .
 WRITTENWORK is from The COUNTRY , a country with a president , many ETHNICGROUP , and the LANGUAGE ( also spoken in SPOKENIN ) .
 LEADERNAME is the leader of COUNTRY where a popular dish is FOOD .
 Azal Pfk are in season SEASON , and have NUMBEROFMEMBERS members .
-American ASTRONAUT was born in Glen Ridge New Jersey on January 20 , 1930 . He graduated in 1963 from MIT with a Sc . D . He was a crew member on WAS A CREW MEMBER OF , that was operated by OPERATOR .
+American ASTRONAUT was born in Glen Ridge New Jersey on January 20 , 1930 . He graduated in 1963 from MIT with a Sc . D . He was a crew member on WAS_A_CREW_MEMBER_OF , that was operated by OPERATOR .
 The Al Taqaddum air base serves CITYSERVED . The runway length is 3684 .
 Bacon sandwiches are popular in the UK and condiments are ingredients used in them .
 The OWNER is the owner of the MONUMENT .
@@ -12636,7 +12636,7 @@ ASTRONAUT who was born in the USA and graduated from UT Austin in 1955 with a BS
 FOOD is a dish found in COUNTRY where the ETHNICGROUP are an ethnic group . However , it originates from REGION where LEADERNAME is a leader .
 ASTRONAUT had a nationality that was of the NATIONALITY .
 In ESTABLISHED the Academia di Architettura di Mendrisio was established . There are NUMBEROFSTUDENTS students and an academic staff of ACADEMICSTAFFSIZE .
-ASTRONAUT was an American who was born in BIRTHPLACE on July 23 , 1927 . See attended the ALMAMATER , which is affiliated with the University of Texas system . The University of Texas competed in the COMPETE IN in Austin . ASTRONAUT is dead , but the date of his death was not noted .
+ASTRONAUT was an American who was born in BIRTHPLACE on July 23 , 1927 . See attended the ALMAMATER , which is affiliated with the University of Texas system . The University of Texas competed in the COMPETE_IN in Austin . ASTRONAUT is dead , but the date of his death was not noted .
 The leader of COUNTRY is called Lars Lokke Rasmussen and in COUNTRY they speak the LANGUAGE . LOCATION is part of the Central COUNTRY region and AIRPORT is located there .
 Senator SENATORS and ASTRONAUT are both Californians .
 The ground of SPORTSTEAM is located in GROUND , where LEADER and Pietro Grasso are leaders .
@@ -12646,18 +12646,18 @@ The Al Taqaddum Air Base serves the city of CITYSERVED which is in country of CO
 SPORTSTEAM is in the LEAGUE league , he is playing in it ' s ground at GROUND .
 PARENTCOMPANY is the parent company of PUBLISHER , publisher of ABBREVIATION , which has the full name of the ABBREVIATION Journal .
 A monument to the 11th Mississippi Infantry was erected in ESTABLISHED and is located in LOCATION . It is categorized as a Contributing Property to the COUNTRY .
-ASTRONAUT was chosen by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was chosen by NASA in WAS_SELECTED_BY_NASA .
 WRITTENWORK , written by AUTHOR , can be located by it ' s ISBN number " ISBN_NUMBER " .
 ASTRONAUT ( born in BIRTHPLACE ) was awarded the Distinguished Service Medal of United States Navy .
 The US is not only home to Native Americans but also the origin place of the English book WRITTENWORK .
 Available in print , WRITTENWORK is NUMBEROFPAGES pages long with an OCLC number of OCLC_NUMBER and an ISBN number ISBN_NUMBER .
-South of HAS TO ITS NORTH lies Adams County . The location of the MONUMENT in the municipality of Gettysburg . It was established in ESTABLISHED and is categorised as a contributing property .
+South of HAS_TO_ITS_NORTH lies Adams County . The location of the MONUMENT in the municipality of Gettysburg . It was established in ESTABLISHED and is categorised as a contributing property .
 Attached to club CLUB , MANAGER , has been the manager of A C Cesena . The club is in LEAGUE league , the previous champions of which are , Carpi FC 1909 .
 The ground of SPORTSTEAM is located in GROUND where the official language is Italian .
 The BUILDING are located in LOCATION , ( part of ISPARTOF ) COUNTRY . Manhattan is one part of LOCATION and is lead by LEADERNAME .
 CREATOR created the comic character Ballistic .
 CITY is part of the ISPARTOF .
-Williams Anders was a fighter pilot and a crew member of WAS A CREW MEMBER OF .
+Williams Anders was a fighter pilot and a crew member of WAS_A_CREW_MEMBER_OF .
 The first runway at Amsterdam ' s Schiphol Airport is made from asphalt .
 CITY covers 686 . 0 square kilometres of land .
 The character Bolt , also known as ALTERNATIVENAME , was created by Paris Cullins and Ernie Colon , a puerto Rican National .
@@ -12695,8 +12695,8 @@ The UNIVERSITY , COUNTRY , has an academic staff of ACADEMICSTAFFSIZE and was es
 WRITTENWORK ISSN number : ISSN_NUMBER .
 WRITTENWORK has the ISBN number of " ISBN_NUMBER " .
 The University of Texas , Austin , is affiliated with the AFFILIATION .
-The now deceased ASTRONAUT was born in BIRTHPLACE on November 18 , 1923 . He was selected by NASA in WAS SELECTED BY NASA .
-ASTRONAUT was a test pilot hired by NASA in WAS SELECTED BY NASA . He was awarded the Distinguished Service Medal in the United States Navy , which is higher than the HIGHER . He was born in BIRTHPLACE and died in DEATHPLACE .
+The now deceased ASTRONAUT was born in BIRTHPLACE on November 18 , 1923 . He was selected by NASA in WAS_SELECTED_BY_NASA .
+ASTRONAUT was a test pilot hired by NASA in WAS_SELECTED_BY_NASA . He was awarded the Distinguished Service Medal in the United States Navy , which is higher than the HIGHER . He was born in BIRTHPLACE and died in DEATHPLACE .
 WRITTENWORK was written by AUTHOR and has the ISBN number ISBN_NUMBER as well as the OCLC number OCLC_NUMBER .
 AUTHOR wrote the book " WRITTENWORK " and is NUMBEROFPAGES pages long . It can be found in hardcover and has the ISBN number ISBN_NUMBER .
 UNIVERSITY has an academic staff of 500 . It is located in COUNTRY and its motto is " MOTTO " .
@@ -12706,7 +12706,7 @@ BUILDING is located at LOCATION .
 LANGUAGE is the language spoken in COUNTRY , where the leader is is LEADERNAME and the food found there is FOOD .
 The largest city in Ireland is LARGESTCITY .
 President Ahmet Davutoglu is the leader of LOCATION . The capital city is CAPITAL , but it is in Izmir that the Ataturk monument designed by DESIGNER and inaugurated on 27 July 1932 is located .
-ASTRONAUT is a US national who was born in BIRTHPLACE on the 15th March 1932 . He was a test pilot and crew member of WAS A CREW MEMBER OF . He spent 100305 minutes in space .
+ASTRONAUT is a US national who was born in BIRTHPLACE on the 15th March 1932 . He was a test pilot and crew member of WAS_A_CREW_MEMBER_OF . He spent 100305 minutes in space .
 ASTRONAUT passed away on DEATHDATE in DEATHPLACE .
 FOOD , which has condensed milk in it , is a dish served for dessert .
 Tim Brooke Tayler starred in COMICSCHARACTER , broadcasted by the BROADCASTEDBY .
@@ -12716,7 +12716,7 @@ FOOD is and Indonesian dish that contains fried chicken .
 The BUILDING is located in The LOCATION in COUNTRY .
 WRITTENWORK was published by PUBLISHER and is published in the COUNTRY . In this country they speak English , same as in Great Britan .
 Mahe , COUNTRY is located northwest of the state of STATE where the UNIVERSITY with an academic staff of ACADEMICSTAFFSIZE in the city of CITY .
-ASTRONAUT who was born in BIRTHPLACE and died in DEATHPLACE , attended the University of Texas in Austin and in WAS SELECTED BY NASA was picked by NASA to join the space program .
+ASTRONAUT who was born in BIRTHPLACE and died in DEATHPLACE , attended the University of Texas in Austin and in WAS_SELECTED_BY_NASA was picked by NASA to join the space program .
 The UNIVERSITY in COUNTRY is affiliated with the AFFILIATION and has a staff compliment of ACADEMICSTAFFSIZE . NUMBEROFSTUDENTS students attend the university currently .
 FOOD is a dish of REGION that originates in COUNTRY , the country where Joko Widodo and LEADERNAME are leaders .
 the novel WRITTENWORK is followed by FOLLOWEDBY .
@@ -12734,18 +12734,18 @@ The LANGUAGES is still spoken within LOCATION although not often heard within th
 BUILDING is located in the LOCATION which has English as it ' s language and the ethnic group of Native Americans can be found . The leader of the US is titled the President and the current Chief Justice is LEADERNAME .
 The SPORTSTEAM club is located in LOCATION where two of the leaders are Alexis Tsipras and LEADER .
 MANAGER has been manager of AC Lumezzane he is part of A . C > Chievo Verona and plays for CLUB .
-ASTRONAUT , now retired , was born in BIRTHPLACE and was a crew member of the OPERATOR operated WAS A CREW MEMBER OF mission .
+ASTRONAUT , now retired , was born in BIRTHPLACE and was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF mission .
 The ethnic group of COUNTRY is ETHNICGROUP which is where the book WRITTENWORK comes from and was followed by FOLLOWEDBY after being published by PUBLISHER .
 FOOD is a food found in REGION , COUNTRY . Its leader is Susana Diaz and its ethnic group are ETHNICGROUP .
 Previous champions of LEAGUE have been Juventus FC . A S Roma also play in LEAGUE and their home ground is in GROUND and their full name is Associazione Sportiva Roma S . p . A .
 ACM Transactions of Information Systems , abbreviated ABBREVIATION , has an ISSN number of ISSN_NUMBER , an LCCN number of LCCN_NUMBER and a CODEN coden of CODEN_CODE .
 Tony Tan and LEADERNAME are leaders in REGION , a country where English is spoken . FOOD comes from REGION . It is also a popular food in COUNTRY .
-The Alcharya Institute of Technology in Karanataka , located to the northeast of Telanga , was given Technical Campus status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION . The Alcharya Institute of Technology is affiliated with the AFFILIATION in CITY .
+The Alcharya Institute of Technology in Karanataka , located to the northeast of Telanga , was given Technical Campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION . The Alcharya Institute of Technology is affiliated with the AFFILIATION in CITY .
 INGREDIENT is an ingredient in FOOD ( ALTERNATIVENAME ) , which is from REGION , COUNTRY .
 AIRPORT is operated by the OPERATINGORGANISATION which uses ATTACKAIRCRAFT attack aircrafts . The USAF uses TRANSPORTAIRCRAFT transport aircrafts and General Dynamics F - 16 Fighting Falcons . The OPERATINGORGANISATION battled in the BATTLES .
-ASTRONAUT was born in BIRTHPLACE and was hired by NASA in WAS SELECTED BY NASA . He was awarded the Distinguished Service Medal in the United States Navy . This award is higher than the HIGHER . ASTRONAUT has passed away .
+ASTRONAUT was born in BIRTHPLACE and was hired by NASA in WAS_SELECTED_BY_NASA . He was awarded the Distinguished Service Medal in the United States Navy . This award is higher than the HIGHER . ASTRONAUT has passed away .
 Ernie Colon , one of the creators of the character Bolt is a Puerto Rican national .
-Buzz Aldrin was a member of Nasa ' s WAS A CREW MEMBER OF crew alongside ASTRONAUT the backup pilot .
+Buzz Aldrin was a member of Nasa ' s WAS_A_CREW_MEMBER_OF crew alongside ASTRONAUT the backup pilot .
 The MONUMENT is placed in the municipality of Gettysburg in Pennsylvania .
 GROUND is the location of the home ground of AS Gubbio 1910 . The country ' s leaders are LEADER and Pietro Grasso . The inhabitants are known as Italian and the capital city is CAPITAL .
 WRITTENWORK is in print with the OCLC OCLC_NUMBER and ISBN ISBN_NUMBER .
@@ -12803,7 +12803,7 @@ The MONUMENT is located in the DISTRICT .
 The BUILDING have the Romanesque Revival style of architecture .
 The main ingredients of FOOD are " squeezed " or " smashed " chicken served with sambal .
 Philippe of COUNTRY and Charles Michel are both leaders in COUNTRY . The LANGUAGE is used in the country which is the location of AIRPORT serving the city of CITYSERVED .
-ASTRONAUT was a crew member on the OPERATOR - operated WAS A CREW MEMBER OF mission , along with CREWMEMBERS . He received his MS from AFIT in 1962 , and retired on September 1st 1969 .
+ASTRONAUT was a crew member on the OPERATOR - operated WAS_A_CREW_MEMBER_OF mission , along with CREWMEMBERS . He received his MS from AFIT in 1962 , and retired on September 1st 1969 .
 CITY is located in the U . S .
 FOOD comes from the region of REGION in COUNTRY and has the main ingredients of chopped fruits , sour cream , condensed milk , granola , shredded coconut and raisins .
 The SPORTSTEAM ' s full name is " SPORTSTEAM " has NUMBEROFMEMBERS members and were in Campeonato Brasileiro Serie C in 2015 .
@@ -12811,10 +12811,10 @@ CITYSERVED is in COUNTRY and is served by AIRPORT . The country is lead by Proko
 CITY is situated at ELEVATIONABOVETHESEALEVEL above sea level .
 CITYSERVED International airport , which is owned by the Flemish region and operated by the OPERATINGORGANISATION , has a runway length of RUNWAYLENGTH . It serves the city of CITYSERVED and is 12 metres above sea level .
 1634 The Ram Rebellion is a novel from the COUNTRY . The leader of the country is known as a " President " and people are called " DEMONYM . " The capital is Washington D . C . and one ethnic group there are African DEMONYM .
-ASTRONAUT , born in BIRTHPLACE , was a fighter pilot a member of WAS A CREW MEMBER OF ' s crew .
+ASTRONAUT , born in BIRTHPLACE , was a fighter pilot a member of WAS_A_CREW_MEMBER_OF ' s crew .
 OPERATINGORGANISATION , located in Brasilia , runs the Afonso Pena International airport which is 911 metres above sea level and has a runway length of RUNWAYLENGTH .
 FOOD originates in COUNTRY but can be found nationwide and also in Malaysia and Singapore . The main ingredients are " squeezed " or " smashed " chicken served with sambal .
-ASTRONAUT was born in BIRTHPLACE and went onto be a student at ALMAMATER which is affiliated to the University of Texas system . The University is competing in the COMPETE IN . ASTRONAUT died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE and went onto be a student at ALMAMATER which is affiliated to the University of Texas system . The University is competing in the COMPETE_IN . ASTRONAUT died in DEATHPLACE .
 Ayam Penyet derives from the country of REGION which has an ethnic group of ETHNICGROUP people .
 COUNTRY is the country FOOD comes from , it main ingredients are MAININGREDIENTS .
 The SPORTSTEAM has NUMBEROFMEMBERS members and play in the LEAGUE .
@@ -12827,7 +12827,7 @@ UNIVERSITY is known informally as NICKNAME and the latin name is LATINNAME . The
 COMICSCHARACTER is also known as ' ' COMICSCHARACTER ' ' .
 A red granite and white marble monument dedicated to the Ottoman Army soldiers killed in the battle of CAPITAL , is found in the capital of LOCATION , CAPITAL . It is called the Turkish Martyrs Memorial and was designed by Huseyin Butuner and Hilmi Guner .
 The UNIVERSITY , established in ESTABLISHED , is located in COUNTRY and has an academic staff of ACADEMICSTAFFSIZE . COUNTRY ' s largest city is LARGESTCITY and has a river called the RIVER .
-The ALMAMATER which is competing in the COMPETE IN , is affiliated with AFFILIATION . That is where ASTRONAUT , who was born in BIRTHPLACE , PART , studied .
+The ALMAMATER which is competing in the COMPETE_IN , is affiliated with AFFILIATION . That is where ASTRONAUT , who was born in BIRTHPLACE , PART , studied .
 WRITTENWORK was written in the LANGUAGE and originates from the COUNTRY where African American is one of the ethnic groups .
 The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE , which is of the order ORDER .
 WRITTENWORK is published by PUBLISHER in the COUNTRY where English is the language .
@@ -12861,23 +12861,23 @@ ARCHITECT from BIRTHPLACE was the designer of the BUILDING .
 FOOD is a type of dessert cake from the REGION region of COUNTRY . LEADERNAME is the leader of COUNTRY .
 WRITTENWORK has NUMBEROFPAGES pages and the ISBN number ISBN_NUMBER .
 FOOD is from COUNTRY , where the language is Spanish and ETHNICGROUP are the ethnic group .
-ASTRONAUT is an American and was born on 23rd of July in 1927 . Elliot graduated from the ALMAMATER and was selected by NASA in WAS SELECTED BY NASA to fly as a test pilot . Elliot has since passed away .
+ASTRONAUT is an American and was born on 23rd of July in 1927 . Elliot graduated from the ALMAMATER and was selected by NASA in WAS_SELECTED_BY_NASA to fly as a test pilot . Elliot has since passed away .
 AIRPORT is found in LOCATION COUNTRY .
-ASTRONAUT ( born in BIRTHPLACE ) retired as a fighter pilot on September 1 , 1969 . He was a crew member of WAS A CREW MEMBER OF operated by OPERATOR and commanded by COMMANDER . The backup pilot of WAS A CREW MEMBER OF was BACKUP PILOT .
+ASTRONAUT ( born in BIRTHPLACE ) retired as a fighter pilot on September 1 , 1969 . He was a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR and commanded by COMMANDER . The backup pilot of WAS_A_CREW_MEMBER_OF was BACKUP_PILOT .
 Big Hero 6 was a film distributed by DISTRIBUTOR .
 FOOD can be found in COUNTRY , where the capital is CAPITAL and the leader is LEADERNAME and / or Matteo Renzi .
 The Democratic Party headquarters are in HEADQUARTER .
 BUILDING which has FLOORCOUNT floors , was completed in COMPLETIONDATE at a cost of 120 million Australian dollars .
 FOOD is a dish from the region of REGION as well as from COUNTRY . The main ingredients of FOOD are " squeezed " or " smashed " chicken served with sambal .
 INGREDIENT is an ingredient of FOOD .
-ASTRONAUT was a US citizen who was born in BIRTHPLACE on 17 October 1933 . He graduated from AFIT in 1962 with an MA and became a fighter pilot before joining NASA in WAS SELECTED BY NASA . He retired on 1 September 1969 .
+ASTRONAUT was a US citizen who was born in BIRTHPLACE on 17 October 1933 . He graduated from AFIT in 1962 with an MA and became a fighter pilot before joining NASA in WAS_SELECTED_BY_NASA . He retired on 1 September 1969 .
 CAPITAL is the Malaysian capital .
 The SPORTSTEAM has NUMBEROFMEMBERS members .
 The comic character , Balder , was created by CREATOR .
 The FOOD is a dish from the COUNTRY where LEADERNAME is a political leader . The capital of the country is Washington DC and the native americans are an ethnic group .
 The ISSN number of WRITTENWORK is ISSN_NUMBER .
 The ground of SPORTSTEAM is located in GROUND , the capital of which is CAPITAL .
-ASTRONAUT was born in BIRTHPLACE . He graduated from AFIT in 1962 with an M . S . , and was selected by OPERATOR in WAS SELECTED BY NASA . He became a member of WAS A CREW MEMBER OF ' s crew . WAS A CREW MEMBER OF was operated by OPERATOR . The backup pilot on the WAS A CREW MEMBER OF mission was Frank Aldrin .
+ASTRONAUT was born in BIRTHPLACE . He graduated from AFIT in 1962 with an M . S . , and was selected by OPERATOR in WAS_SELECTED_BY_NASA . He became a member of WAS_A_CREW_MEMBER_OF ' s crew . WAS_A_CREW_MEMBER_OF was operated by OPERATOR . The backup pilot on the WAS_A_CREW_MEMBER_OF mission was Frank Aldrin .
 FOOD , a food found in the region of Jalsico , COUNTRY , contains condensed milk .
 CITYSERVED is served by AIRPORT which is located 88 metres above sea level and has a first runway made of asphalt which is RUNWAYLENGTH in length .
 DEMONYM inhabit the Republic of Ireland .
@@ -12894,7 +12894,7 @@ BUILDING which has FLOORCOUNT floors is located in LOCATION , ISPARTOF , COUNTRY
 The BLT is a variation of the Club Sandwich and bacon sandwich , and contains tomato .
 AIRCRAFTFIGHTER was a Fighter Aircraft of the United States Air Force .
 INGREDIENT is an ingredient of FOOD , a food found in COUNTRY .
-BACKUP PILOT was a backup pilot of WAS A CREW MEMBER OF ( commanded by COMMANDER ) with ASTRONAUT as a test pilot and crew member . ASTRONAUT who was born on March 15 , 1932 is now retired from WAS A CREW MEMBER OF which was operated by OPERATOR .
+BACKUP_PILOT was a backup pilot of WAS_A_CREW_MEMBER_OF ( commanded by COMMANDER ) with ASTRONAUT as a test pilot and crew member . ASTRONAUT who was born on March 15 , 1932 is now retired from WAS_A_CREW_MEMBER_OF which was operated by OPERATOR .
 FOOD comes from the region of REGION in COUNTRY , whose leaders include Manual Valls and Gerard Larcher , and where French is spoken .
 ASTRONAUT was born in BIRTHPLACE and is a citizen of the NATIONALITY .
 Felipe VI of COUNTRY is the leader of COUNTRY , the land of DEMONYM , which is where FOOD originates from .
@@ -12920,13 +12920,13 @@ AC Lumezzane play in GROUND where the capital city is CAPITAL and the official l
 COMICSCHARACTER first aired on the BROADCASTEDBY on October 3rd , 1983 and broadcast its last episode on April 15th , 1986 . COMICSCHARACTER last aired on 15th April 1986 . STARRING is one of the stars of the series which was created by CREATOR .
 The leader of Mexico is LEADERNAME .
 Stuart Parker ( footballer ) plays for CLUB .
-ASTRONAUT crewed WAS A CREW MEMBER OF .
+ASTRONAUT crewed WAS_A_CREW_MEMBER_OF .
 FOOD ( or tart ) is from the REGION region . It can be served warm ( freshly baked ) or cold and includes the ingredients ground almonds , jam , butter and eggs .
 The leader of the COUNTRY was LEADERNAME . The capital of the US is Washington D . C . 1634 The Ram Rebellion comes from the COUNTRY and one of it ' s ethnic groups is Asian American .
 Allama Iqbal international airport has a runway length of RUNWAYLENGTH and is located in LOCATION .
 AIRPORT has a runway length of RUNWAYLENGTH .
 The AIRPORT is situated in the LOCATION and is operated by the OPERATINGORGANISATION . The runway length of AIRPORT is 3 , 992 . 88 and it is called RUNWAYNAME .
-ASTRONAUT graduated from the ALMAMATER and died in St Louis in France . The ALMAMATER is affiliated to the university of texas system . They competed in the COMPETE IN and has PRESIDENT as their president and The Hook ' em as the mascot .
+ASTRONAUT graduated from the ALMAMATER and died in St Louis in France . The ALMAMATER is affiliated to the university of texas system . They competed in the COMPETE_IN and has PRESIDENT as their president and The Hook ' em as the mascot .
 DESIGNER designed the Ataturk Monument , which was inaugurated July 27 , 1932 in Izmir , LOCATION . The country ' s leader is Ahmet Davutoglu , and the currency is the CURRENCY .
 MANAGER was at the club ASD Licita 1931 and has been manager of A C Cesena .
 LOCATION , where the leader is known as President , is the location of the bronze Ataturk monument in Izmir . The monument was designed by DESIGNER .
@@ -12939,7 +12939,7 @@ DESIGNER designed the Ataturk monument which is located in Izmir , LOCATION . It
 A variation of a bacon sandwich is the BLT , it inclusdes tomato and is similar to a club sandwich .
 The Olympic Stadium ( LOCATION ) is located in the city of LOCATION .
 AIRPORT is operated by OPERATINGORGANISATION which is located in HEADQUARTER and hub airport is HUBAIRPORT .
-ASTRONAUT , a 1955 graduate from UT Austin ( B . S . ) was a crew member on the OPERATOR operated WAS A CREW MEMBER OF mission ( for which BACKUP PILOT was the backup pilot ) . Bean is now retired .
+ASTRONAUT , a 1955 graduate from UT Austin ( B . S . ) was a crew member on the OPERATOR operated WAS_A_CREW_MEMBER_OF mission ( for which BACKUP_PILOT was the backup pilot ) . Bean is now retired .
 FOOD is a dish found in the COUNTRY , REGION region . COUNTRY is led by LEADERNAME and is also home to the ETHNICGROUP and Malaysian Chinese people .
 The fried chicken dish FOOD is found in REGION and COUNTRY . ETHNICGROUP is an ethnic group of COUNTRY .
 The manager of FC Magdeburg is MANAGER who played for CLUB .
@@ -12949,8 +12949,8 @@ Two leaders of COUNTRY are Charles Michel and Phillipe . The AIRPORT located in 
 REGION dish ayam penyet is also popular in COUNTRY . Made with smashed fried chicken and sambal , ayam penhet should be served hot .
 Associazione Calcio Chievo Verona is managed by MANAGER , who is in the CLUB club .
 Lake Placid , New York is part of ISPARTOF .
-ASTRONAUT , who was born in BIRTHPLACE , graduated from the University of Texas with a B . S . in 1955 and in WAS SELECTED BY NASA NASA picked him as part of the WAS A CREW MEMBER OF space program .
-OCCUPATION ASTRONAUT was born March 15th , 1932 in BIRTHPLACE and in WAS SELECTED BY NASA was picked by NASA to join the space program .
+ASTRONAUT , who was born in BIRTHPLACE , graduated from the University of Texas with a B . S . in 1955 and in WAS_SELECTED_BY_NASA NASA picked him as part of the WAS_A_CREW_MEMBER_OF space program .
+OCCUPATION ASTRONAUT was born March 15th , 1932 in BIRTHPLACE and in WAS_SELECTED_BY_NASA was picked by NASA to join the space program .
 The impact factor of WRITTENWORK , abbreviated to ABBREVIATION , is IMPACTFACTOR .
 FOOD comes from the COUNTRY , where LEADERNAME is a leader and the capital is Washington DC . The LANGUAGE is used in the COUNTRY and Native Americans are an ethnic group there .
 The developer of the AC Hotel Bella Sky in Copenhagen is DEVELOPER .
@@ -12964,18 +12964,18 @@ UNIVERSITY is located in STATE , COUNTRY . STATE has Mahe , COUNTRY to its north
 ASTRONAUT was born in BIRTHPLACE in 1923 . He was awarded the Distinguished Service medal by the USnavy , which ranks higher than the Department of Commerce gold medal . He retired in 1974 and died in DEATHPLACE .
 The SPORTSTEAM club is located in LOCATION , where the leader is Alexis Tsipras and / or LEADER .
 Architect ARCHITECT ( born in BIRTHPLACE ) designed BUILDING in COMPLETIONDATE ( located at LOCATION and boasts FLOORCOUNT floors ) .
-The UNIVERSITY in CITY , COUNTRY which is led by LEADERNAME . The country has a monarchy and its government is a magistrate . To the northeast of CITY is HAS TO ITS NORTHEAST .
+The UNIVERSITY in CITY , COUNTRY which is led by LEADERNAME . The country has a monarchy and its government is a magistrate . To the northeast of CITY is HAS_TO_ITS_NORTHEAST .
 The comic book character Amazing - Man ' s alter ego is ALTERNATIVENAME .
-ASTRONAUT is deceased . His birth place was BIRTHPLACE where he was selected by NASA in WAS SELECTED BY NASA and was awarded the Distinguished Service Medal by the United States Navy which is higher than the HIGHER .
+ASTRONAUT is deceased . His birth place was BIRTHPLACE where he was selected by NASA in WAS_SELECTED_BY_NASA and was awarded the Distinguished Service Medal by the United States Navy which is higher than the HIGHER .
 The 11th Mississippi Infantry monument is located at Seminary Ridge , LOCATION , COUNTRY . It was completed in ESTABLISHED and is categorized as Contributing Property .
 The Est á dio Municipal Coaracy da Mata Fonseca is located in LOCATION .
 MANAGER was at CLUB is a member of the Chesterfield F . C . and now manages SPORTSTEAM .
 ASTRONAUT was born on July 23 , 1927 in BIRTHPLACE . He attended the U of Texas at Austin which is part of the U of Texas system . See was a test pilot . He died on Feb 28 , 1966 in DEATHPLACE .
 SPORTSTEAM are managed by MANAGER who plays for A . S . Roma and is attached to the club Genoa CFC .
 Narendra Modi and LEADERNAME are leaders in COUNTRY where BUILDING is located .
-American ASTRONAUT was a teat pilot who was born March 15th , 1932 in BIRTHPLACE . In WAS SELECTED BY NASA NASA asked him to join the WAS A CREW MEMBER OF program where he later spent 100 , 305 minutes in space .
+American ASTRONAUT was a teat pilot who was born March 15th , 1932 in BIRTHPLACE . In WAS_SELECTED_BY_NASA NASA asked him to join the WAS_A_CREW_MEMBER_OF program where he later spent 100 , 305 minutes in space .
 MAININGREDIENTS is the main ingredient of binigit , found in the Phillippines .
-ASTRONAUT was born on BIRTHDATE , was a crew member of WAS A CREW MEMBER OF and his main occupation was as a OCCUPATION .
+ASTRONAUT was born on BIRTHDATE , was a crew member of WAS_A_CREW_MEMBER_OF and his main occupation was as a OCCUPATION .
 INGREDIENT is an ingredient of a FOOD .
 The BUILDING is in COUNTRY where they speak LANGUAGE .
 CITY is in the United Sates .
@@ -13054,7 +13054,7 @@ AIRPORT serves the city of CITYSERVED , COUNTRY . LEADERNAME and Prokopis Pavlop
 FOOD is from REGION in COUNTRY . ETHNICGROUP are the main ethnic group in this country . LEADERNAME is a leader in REGION .
 FOOD is from COUNTRY where they speak Italian and CAPITAL is the capital . LEADERNAME leads the country .
 ASTRONAUT was born in BIRTHPLACE but has a NATIONALITY nationality .
-WAS A CREW MEMBER OF was operated by OPERATOR and had the following crew : ASTRONAUT who served as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN and spent 8820 minutes in space ; BACKUP PILOT who was a backup pilot and CREWMEMBERS who was a crew member .
+WAS_A_CREW_MEMBER_OF was operated by OPERATOR and had the following crew : ASTRONAUT who served as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN and spent 8820 minutes in space ; BACKUP_PILOT who was a backup pilot and CREWMEMBERS who was a crew member .
 AIRPORT in LOCATION is operated by the OPERATINGORGANISATION and has the ICAO location identifier of ICAO_LOCATION_IDENTIFIER . The airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway 1818 in length .
 Ardmore Airport , located in New Zealand , uses 3RD_RUNWAY_SURFACETYPE as its third runway surface type . 3RD_RUNWAY_SURFACETYPE belongs to the order of ORDER , a division of flowering plants .
 BUILDING was completed on " COMPLETIONDATE " .
@@ -13066,7 +13066,7 @@ The MONUMENT is located in Gettysburg , LOCATION . It is categorized as a contri
 CITY has a population density of 1299 inhabitants per square kilometre .
 Ann Arbor is in ISPARTOF .
 AIRPORT is 973 metres above sea level and the 3rd runway has a length of 3RD_RUNWAY_LENGTHFEET feet .
-ASTRONAUT , a crew member of WAS A CREW MEMBER OF , was born in the Essex County of BIRTHPLACE .
+ASTRONAUT , a crew member of WAS_A_CREW_MEMBER_OF , was born in the Essex County of BIRTHPLACE .
 ASTRONAUT , who retired on July 1 , 1971 , spent 52 . 0 minutes in space .
 AIRPORT serves the city of CITYSERVED .
 Ayam Penyet , a fried chicken dish from REGION is found in COUNTRY . ETHNICGROUP is an ethnic group from REGION .
@@ -13077,7 +13077,7 @@ WRITTENWORK was published by Lippincott , Williams & Wilkins , parent company PA
 The UNIVERSITY is located in COUNTRY . The Swiss legislature is the Federal Assembly and its leader is LEADERNAME .
 The WRITTENWORK is published by the COUNTRY company PUBLISHER .
 Asser Levy Public baths are located in LOCATION , ISPARTOF , New York , US .
-ASTRONAUT was a student at ALMAMATER which is affiliated to the university of texas system and competes in the COMPETE IN with Hook ' em as the mascot . PRESIDENT was appointed as the president of the University of Texas at Ausitin .
+ASTRONAUT was a student at ALMAMATER which is affiliated to the university of texas system and competes in the COMPETE_IN with Hook ' em as the mascot . PRESIDENT was appointed as the president of the University of Texas at Ausitin .
 ASTRONAUT ' s retirement was in DATEOFRETIREMENT .
 BUILDING is located in the country of COUNTRY .
 CITYSERVED is served by AIRPORT . This airport ' s 1st runway is made from 1ST_RUNWAY_SURFACETYPE and it has a runway length of RUNWAYLENGTH .
@@ -13091,22 +13091,22 @@ The manager of SPORTSTEAM is Stuart Parker who once played for Stockport County 
 FOOD originates from COUNTRY , it includes gram flour and vegetables and can also be written as Bhaji or bajji .
 WRITTENWORK is from the COUNTRY where English is the primary language . Additionally , the United states has an ethnic group called ETHNICGROUP .
 The ground of SPORTSTEAM is located in GROUND where the leader is LEADER and Italian is the spoken language .
-ASTRONAUT served as a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT served as a crew member of WAS_A_CREW_MEMBER_OF .
 ARCHITECT was the architect of BUILDING which was completed in COMPLETIONDATE and has FLOORCOUNT floors .
 The UNIVERSITY in CITY , COUNTRY has 16 , 000 students and is affiliated with the AFFILIATION .
 STARRING , originally from the U . K , starred in COMICSCHARACTER .
 MAININGREDIENTS are the main ingredients of FOOD .
 SIMILARDISH are similar to bhajji which uses vegetables as one of the ingredients .
 BUILDING cost 120 million Australian dollars and has FLOORCOUNT floors .
-The School of Business and Social Sciences at the Aaarhus University is located in CITY , COUNTRY . CITY has HAS TO ITS NORTHEAST to its northeast . COUNTRY ' s leader is Lars Lokke Rasmussen .
+The School of Business and Social Sciences at the Aaarhus University is located in CITY , COUNTRY . CITY has HAS_TO_ITS_NORTHEAST to its northeast . COUNTRY ' s leader is Lars Lokke Rasmussen .
 FOOD has its origins in COUNTRY ( led by Felipe VI ) and is also found in Susana Diaz led REGION . In COUNTRY it can be purchased via the CURRENCY .
 WRITTENWORK was Published in the COUNTRY , where LEADERNAME is the President and where Native Americans are an ethnic group .
 WRITTENWORK is published in the UK by Lippincott , Williams & Wilkins whose parent company is PARENTCOMPANY .
-The UNIVERSITY , CITY , was given ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION .
+The UNIVERSITY , CITY , was given ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION .
 1634 The Ram Rebellion was written in the US , where Native Americans are an ethnic group , Washington DC is the capital and LEADERNAME is the leader and President .
 BUILDING is owned by the College of William and Mary , and was designed by Robert A . M . Stern , where it was completed on June 1st , 2009 .
 Olympia is the capital of Washington ( state ) .
-ASTRONAUT ( born in BIRTHPLACE ) was a crew member of WAS A CREW MEMBER OF and was a fighter pilot . He retired on DATEOFRETIREMENT .
+ASTRONAUT ( born in BIRTHPLACE ) was a crew member of WAS_A_CREW_MEMBER_OF and was a fighter pilot . He retired on DATEOFRETIREMENT .
 FOOD is from the REGION regions .
 The BUILDING is located in Akita , ISPARTOF , COUNTRY . The Emperor of COUNTRY is LEADERNAME and one of the country ' s ethnic groups are the Brazilians .
 FOOD has ground almond , jam , butter and eggs as main ingredients and hails from the REGION .
@@ -13114,18 +13114,18 @@ Punjab is in COUNTRY .
 FOOD originates from the country of COUNTRY who has Gerard Larcher as the leader .
 WRITTENWORK is the sequel to Grantiville Gazettes III written by AUTHOR .
 INGREDIENT is an ingredient in binignit .
-Apollo 12 ' s backup pilot was BACKUP PILOT .
+Apollo 12 ' s backup pilot was BACKUP_PILOT .
 AUTHOR is the author of WRITTENWORK which was followed by FOLLOWEDBY and Maiden Castle .
 LEADERNAME is the leader of COUNTRY where FOOD is one of the local foods .
 French speaking COUNTRY , led by Gerard Larcher and Manual Valls , is the home of FOOD . FOOD is also known to come from REGION .
 FOOD and ice cream are types of dessert . One of the ingredients of FOOD is granola .
 AUTHOR is the author of WRITTENWORK which has the ISBN number of ISBN_NUMBER .
 FOOD is a variation of the DISHVARIATION dish .
-ASTRONAUT was born on 23 July 1927 and is a NATIONALITY national . He attended the ALMAMATER and later became a test pilot and joined NASA in WAS SELECTED BY NASA . He died on 28 February 1966 .
+ASTRONAUT was born on 23 July 1927 and is a NATIONALITY national . He attended the ALMAMATER and later became a test pilot and joined NASA in WAS_SELECTED_BY_NASA . He died on 28 February 1966 .
 AS Livorno club plays in LEAGUE and their home ground is the GROUND .
 FOOD is a dish from REGION and COUNTRY . REGION has Malays and Acehnese people for ethnic groups . LEADERNAME ia a leader in COUNTRY .
 INGREDIENT is an ingredient in FOOD , which is claimed to have originated in the COUNTRY and is popular in Paris , New York and Hong Kong .
-ASTRONAUT is an American who was born in BIRTHPLACE on January 20 , 1930 . He was selected by NASA to be part of the WAS A CREW MEMBER OF crew in WAS SELECTED BY NASA . He is now retired .
+ASTRONAUT is an American who was born in BIRTHPLACE on January 20 , 1930 . He was selected by NASA to be part of the WAS_A_CREW_MEMBER_OF crew in WAS_SELECTED_BY_NASA . He is now retired .
 The BATTLES was a battle involving the United States Air Force .
 SPORTSTEAM and amateur ' s ground is GROUND . Jon Ajax are the tenants of the De Toekomst Sportpark .
 AIRPORT in LOCATION is 911 metres above sea level and has a runway named RUNWAYNAME that is 2 , 215 in length . The airport ' s ICAO location identifier is ICAO_LOCATION_IDENTIFIER .
@@ -13155,7 +13155,7 @@ COMICSCHARACTER was created by CREATOR and Jerry Ordway who is an American .
 AIRPORT serves the city of CITYSERVED in COUNTRY . Phillipe of COUNTRY is the king of the country and LEADERNAME is a leader . Dutch is one of the official language of COUNTRY .
 The UNIVERSITY is located in COUNTRY .
 ASTRONAUT ' s birth place is BIRTHPLACE .
-ASTRONAUT , a US National , was born in Wheeler Texas on 15 March 1932 . He graduated from UT Austin with a Bachelor of Science degree in 1955 and became a test pilot before being chosen by NASA in WAS SELECTED BY NASA to become a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT , a US National , was born in Wheeler Texas on 15 March 1932 . He graduated from UT Austin with a Bachelor of Science degree in 1955 and became a test pilot before being chosen by NASA in WAS_SELECTED_BY_NASA to become a crew member on WAS_A_CREW_MEMBER_OF .
 WRITTENWORK is available in hardcover and has NUMBEROFPAGES pages .
 COMICSCHARACTER starred STARRING , who was born in BIRTHPLACE .
 The runway length at Adolfo Suarez LOCATION - Barajas airport located in LOCATION , part of the community of LOCATION in COUNTRY , is RUNWAYLENGTH . The airport is 610 metres above sea level .
@@ -13165,7 +13165,7 @@ FOOD is a main course originating from the COUNTRY . The dish ' s main ingredien
 Bandeja Paisa is from the Paisa region it is a typical COUNTRY . The main ingredients of FOOD are MAININGREDIENTS .
 Est á dio Municipal Coaracy da Mata Fonseca is located in LOCATION .
 The capital of CAPITAL is LOCATION with its leader called the Prime Minister and its legislative branch called the National Assembly . The CAPITAL Turkish Martyrs Memorial was designed by Huseyin Butuner and Hilmi Guner and is found in LOCATION . It is dedicated to soldiers killed in the Battle of CAPITAL . The Memorial is known locally as NATIVENAME .
-ASTRONAUT was an American astronaut who NASA picked in WAS SELECTED BY NASA to fly with WAS A CREW MEMBER OF .
+ASTRONAUT was an American astronaut who NASA picked in WAS_SELECTED_BY_NASA to fly with WAS_A_CREW_MEMBER_OF .
 The Civil Aviation Authority of New Zealand is located in LOCATION .
 HOMETOWN is lead by the City Council and the Labour Party and has the B postcode . It is the hometown of the architect ARCHITECT who designed BUILDING .
 Jorge Humberto Rodriguez plays for the CLUB .
@@ -13203,7 +13203,7 @@ Asam peda is a dish from REGION where the ETHNICGROUP are an ethnic group . it i
 Adolfo Su á rez Madrid Barajas Airport is located in LOCATION , COUNTRY ( led by the Peoples Party ) , part of the ISPARTOF .
 The UNIVERSITY is also known as NICKNAME and located in CITY , STATE .
 AIRPORT services CITYSERVED , COUNTRY ; led by Alexis Tsipras and LEADERNAME .
-ASTRONAUT was an American born in Wheeler Texas . He graduated from UT with a BSc in 1955 and was hired by NASA in WAS SELECTED BY NASA . He served as a test pilot and was a part of the crew of WAS A CREW MEMBER OF .
+ASTRONAUT was an American born in Wheeler Texas . He graduated from UT with a BSc in 1955 and was hired by NASA in WAS_SELECTED_BY_NASA . He served as a test pilot and was a part of the crew of WAS_A_CREW_MEMBER_OF .
 GROUND is the home to SPORTSTEAM .
 T S Thakur is a leader of India .
 PUBLISHER , whose parent company is PARENTCOMPANY , is based in the COUNTRY and published the WRITTENWORK .
@@ -13247,7 +13247,7 @@ Arros negre comes from the region of the REGION in COUNTRY . The main ingredient
 SPORTSTEAM , in the LEAGUE , play their home games at the GROUND .
 The capital of the United States is Washington D . C .
 The AIRPORT serves Abilene , Texas and is situated ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level and its ICAO location identifier is ICAO_LOCATION_IDENTIFIER . The name of the airport ' s runway is RUNWAYNAME and it is RUNWAYLENGTH meters long .
-The Acharya Institute of Technolgoy is located in the state of STATE which is positioned with HAS TO ITS NORTHEAST to the northeast . The Institute is in the city of CITY and has strong connections with the AFFILIATION . Along with these connections the Institute was also given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY which is based in LOCATION .
+The Acharya Institute of Technolgoy is located in the state of STATE which is positioned with HAS_TO_ITS_NORTHEAST to the northeast . The Institute is in the city of CITY and has strong connections with the AFFILIATION . Along with these connections the Institute was also given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY which is based in LOCATION .
 The COUNTRY leader is LEADERNAME and it has a legislature called the Federal Assembly with its leader being the Federal Chancellor of COUNTRY . The country ' s neighbor is NEIGHBORINGMUNICIPALITY . COUNTRY ' s anthem is ANTHEM . The UNIVERSITY is located in the city of CITY .
 PUBLISHER is the publisher of WRITTENWORK , which is abbreviated to ABBREVIATION Their ISSN number is ISSN_NUMBER and their LCCN number is LCCN_NUMBER .
 BUILDING , owned by OWNER , is located in LOCATION , in the COUNTRY . LEADERTITLE is the leader of LOCATION , of which Criona Ni Dhalaigh was the Lord Mayor .
@@ -13255,7 +13255,7 @@ BUILDING is located in LOCATION , ISPARTOF , and owned by OWNER .
 AIRPORT , with the ICAO location identifier of ICAO_LOCATION_IDENTIFIER , is located in LOCATION and lies 911 metres above sea level . The airport ' s runway name is RUNWAYNAME and it has a length of RUNWAYLENGTH .
 WRITTENWORK is from the COUNTRY where English is spoken , however there are a large number of ethic groups in the U . S . including Native Americans .
 A dessert served in COUNTRY is FOOD , which can be varied by using cottage cheese . The language of COUNTRY is Spanish and the leader is LEADERNAME .
-ASTRONAUT also known as Edwin E . Aldrin Jr was an American born on January 20 , 1930 in BIRTHPLACE and graduated from ALMAMATER . He was selected by NASA in WAS SELECTED BY NASA as a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT also known as Edwin E . Aldrin Jr was an American born on January 20 , 1930 in BIRTHPLACE and graduated from ALMAMATER . He was selected by NASA in WAS_SELECTED_BY_NASA as a crew member on WAS_A_CREW_MEMBER_OF .
 The UNIVERSITY was established in COUNTRY in ESTABLISHED .
 The Dean of UNIVERSITY , which was created in ESTABLISHED , is DEAN .
 The main ingredient of binignit is banana , along with sago . The dish can be found in the COUNTRY .
@@ -13268,7 +13268,7 @@ The Purple Finch is a bird living in New Hampshire .
 ARCHITECT was the architect of BUILDING which is owned by OWNER and completed in COMPLETIONDATE with FLOORCOUNT floors .
 AIRPORT is in LOCATION where the Peoples Party ( Spain ) is the leader party .
 Allama Iqbal International airport is located in LOCATION . The runway length is RUNWAYLENGTH and the runway name is RUNWAYNAME .
-Retiree ASTRONAUT joined NASA in WAS SELECTED BY NASA .
+Retiree ASTRONAUT joined NASA in WAS_SELECTED_BY_NASA .
 The leader of the LOCATION , LEADERNAME is known as the President . The Chief Justice is John Roberts an BUILDING is also located in the LOCATION .
 English is the spoken language of both SPOKENIN and COUNTRY . The US is where WRITTENWORK is published by PUBLISHER .
 The manager of SPORTSTEAM is MANAGER who plays for Stockport County F . C .
@@ -13309,7 +13309,7 @@ The 2nd runway at AIRPORT is made of 2ND_RUNWAY_SURFACETYPE , which is classed a
 MAININGREDIENTS and sweet potato ( part of the ORDER order of plants ) are ingredients in FOOD .
 The headquarters of HEADQUARTER Airlines are in HEADQUARTER .
 The BUILDING is located in Asilomar Blvd , Pacific Grove California . It was constructed in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 27 February 1987 .
-American test pilot ASTRONAUT was born in BIRTHPLACE . He graduated from UT Austin with a B . S . in 1955 . He served as a crew member of WAS A CREW MEMBER OF and spent a total of 100305 minutes in space .
+American test pilot ASTRONAUT was born in BIRTHPLACE . He graduated from UT Austin with a B . S . in 1955 . He served as a crew member of WAS_A_CREW_MEMBER_OF and spent a total of 100305 minutes in space .
 The OPERATINGORGANISATION , who operated Al Asad airbase , deploy the aircraft fighter known as AIRCRAFTFIGHTER .
 COMICSCHARACTER ' s full name is actually FULLNAME , the character was created by CREATOR .
 The anthem of Romania is called Desteapta te romane .
@@ -13374,13 +13374,13 @@ The ground of SPORTSTEAM is located in GROUND , where DEMONYM live .
 LOCATION International airport in LOCATION is operated by Turkmenistan airlines . It is located ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway name of RUNWAYNAME which is RUNWAYLENGTH in length .
 UNIVERSITY has an academic staff size of 500 and their motto is MOTTO .
 Allama Iqbal International airport , located in LOCATION , is operated by The LOCATION Civil Aviation Authority . The airport serves the city of CITYSERVED . The runway - RUNWAYNAME - measures a length of RUNWAYLENGTH .
-BUILDING are located on Asser Levy Place and East 23rd Stree , were constructed in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 23rd April 1980 withreference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING are located on Asser Levy Place and East 23rd Stree , were constructed in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 23rd April 1980 withreference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 The leader of the COUNTRY is the President . This country is home to the severed Wasp .
 INGREDIENT belongs to the genus GENUS and the family of solanaceae . It ' s an ingredient in FOOD .
 WRITTENWORK is written by AUTHOR and has the ISBN number ISBN_NUMBER .
 Bacon sandwiches ( made with bread ) are popular in the UK where it is also known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin . Variations on the sandwich include the DISHVARIATION and it can be served with ketchup or brown sauce as a condiment .
 The main ingredients of FOOD , which is eaten in the COUNTRY , are noodles , pork organs , vegetables , chicken , shrimp and beef .
-BUILDING is located at LOCATION and was constructed in YEAROFCONSTRUCTION . It has been added to the National Register of Historic Places , on 22nd November 1988 , with a reference number of REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING is located at LOCATION and was constructed in YEAROFCONSTRUCTION . It has been added to the National Register of Historic Places , on 22nd November 1988 , with a reference number of REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 The UNIVERSITY , CITY , STATE , COUNTRY , was established in ESTABLISHED and has ACADEMICSTAFFSIZE academic staff . A river in COUNTRY is the RIVER , and STATE state ' s leader is LEADERNAME and .
 INGREDIENT is an ingredient in FOOD which is considered typical COUNTRY and found in the REGION .
 FOOD is from both REGION and COUNTRY . The leaders of the latter country are Manuel Valls and Gerard Larcher .
@@ -13402,7 +13402,7 @@ AIRPORT serves the city of CITYSERVED in COUNTRY where the LANGUAGE is spoken .
 WRITTENWORK is from the COUNTRY whose capital city is Washington D . C . The language of the COUNTRY , as well as of SPOKENIN , is English .
 The People ' s Party is the lead party of San Sebastian de los Reyes , Spain .
 The LOCATION House of Representatives is located within the LOCATION .
-ASTRONAUT was an American born on March 15 , 1932 in BIRTHPLACE . He was selected by OPERATOR in WAS SELECTED BY NASA where he performed as a test pilot on WAS A CREW MEMBER OF which is operated by OPERATOR .
+ASTRONAUT was an American born on March 15 , 1932 in BIRTHPLACE . He was selected by OPERATOR in WAS_SELECTED_BY_NASA where he performed as a test pilot on WAS_A_CREW_MEMBER_OF which is operated by OPERATOR .
 Native Americans are one of the ethnic groups of the COUNTRY where LEADERNAME is the president . WRITTENWORK originates from there and is written in English .
 FOOD comes from the REGION region of COUNTRY . One of the ingredients is lemon , which belongs to the rutaceae family .
 There is 0 . 88 square km of water in CITY .
@@ -13420,7 +13420,7 @@ FOOD is a food which comes from and is found in REGION , in the COUNTRY . Its ma
 The UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED . It has NUMBEROFPOSTGRADUATESTUDENTS students and it is affiliated to the AFFILIATION .
 The BUILDING was built in BUILDINGSTARTDATE and has 140000 square metre floor area .
 FOOD is a dish found in COUNTRY , where Spanish is spoken and the leader is LEADERNAME . FOOD is a dish served for dessert and a cookie can be served as a dessert too .
-ASTRONAUT was born November 18th , 1923 , in BIRTHPLACE . He attended school at NWC and graduated with an MA in 1957 . Alan joined the Navy and was was chosen by NASA in WAS SELECTED BY NASA . He was awarded the Distinguished service medal , which is higher than the department of commerce gold medal . DEATHPLACE was his place of death .
+ASTRONAUT was born November 18th , 1923 , in BIRTHPLACE . He attended school at NWC and graduated with an MA in 1957 . Alan joined the Navy and was was chosen by NASA in WAS_SELECTED_BY_NASA . He was awarded the Distinguished service medal , which is higher than the department of commerce gold medal . DEATHPLACE was his place of death .
 The elevation above the sea level ( in metres ) of AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) .
 ASTRONAUT was born Edwin E . Aldrin , Jr on 1930 - 01 - AWARDS . He attended the Massachusetts Institute of Technology obtaining the ScD . in 1963 . He won AWARDS awards .
 The CODEN code for WRITTENWORK is " CODEN_CODE " and the abbreviation is Acta Math . Hungar .
@@ -13437,10 +13437,10 @@ The UNIVERSITY is neighboured by NEIGHBORINGMUNICIPALITY in COUNTRY . The countr
 FOOD is a dish from the COUNTRY and not surprisingly includes bacon as an ingredient .
 The CURRENCY is the currency in Spain .
 Dan Mishkin created the comic book character Bolt while Gary Cohn is the creator of Bolf .
-ASTRONAUT was on the crew of the OPERATOR operated WAS A CREW MEMBER OF and spent 100305 minutes in space .
+ASTRONAUT was on the crew of the OPERATOR operated WAS_A_CREW_MEMBER_OF and spent 100305 minutes in space .
 FOOD is a dish from REGION and COUNTRY . One language spoken in REGION is English and the ETHNICGROUP are an ethnic group from COUNTRY .
 UNIVERSITY , established in ESTABLISHED , is located in LOCATION in the city of Mendriso . Its dean is DEAN and has NUMBEROFSTUDENTS students .
-ASTRONAUT was a crew member of the OPERATOR operated WAS A CREW MEMBER OF . He graduated from NWC , MA in 1957 and retired on 1 August 1974 .
+ASTRONAUT was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF . He graduated from NWC , MA in 1957 and retired on 1 August 1974 .
 The tenant of the BUILDING is TENANT , one of whose key people is KEYPERSON .
 SPORTSTEAM ' s ground is in GROUND and the club has NUMBEROFMEMBERS members .
 AIRPORT has a runway length of RUNWAYLENGTH .
@@ -13449,7 +13449,7 @@ AIRPORT serves the city of CITYSERVED . CITYSERVED is a popular tourist destinat
 Antwerp international airport is operated by the Flemish government which has full jurisdiction .
 Kansas City , USA is the home of the FOOD it includes sausage and bacon .
 WRITTENWORK originates from the COUNTRY , which capital is Washington D . C and the language is English , same as in SPOKENIN .
-ASTRONAUT ( born BIRTHNAME ) was a crew member on the OPERATOR - operates WAS A CREW MEMBER OF flight mission under commander COMMANDER . In total , Bean spent 100305 minutes in space .
+ASTRONAUT ( born BIRTHNAME ) was a crew member on the OPERATOR - operates WAS_A_CREW_MEMBER_OF flight mission under commander COMMANDER . In total , Bean spent 100305 minutes in space .
 The Baku Turkish Martyrs Memorial designed by Huseyin Butuner and Hilmi Guner has been dedicated to DEDICATEDTO . The memorial can be found in LOCATION , whose leader is LEADERNAME .
 The Accademia di Architettura di Mendrisi is located in CITY , COUNTRY and was established in ESTABLISHED . Its academic staff consists of ACADEMICSTAFFSIZE members , it has NUMBEROFSTUDENTS students and its Dean is DEAN .
 BUILDING is located at LOCATION . It was built in YEAROFCONSTRUCTION and added to the National Register of Historic Places on 23rd April 1980 .
@@ -13473,7 +13473,7 @@ CREATOR , creator of the COMICSCHARACTER , has won the AWARD .
 Dave Challinor played football for Bury FC .
 A loyal Character Dancer is published by PUBLISHER which is based in the COUNTRY .
 The leader for Albuquerque in New Mexico is the LEADERTITLE .
-ASTRONAUT was a student at the University of Texas in Austin which competes in the COMPETE IN , is part of the University of Texas system and has as its mascot , Hook ' em .
+ASTRONAUT was a student at the University of Texas in Austin which competes in the COMPETE_IN , is part of the University of Texas system and has as its mascot , Hook ' em .
 WRITTENWORK is from the COUNTRY where the leader is LEADERNAME .
 WRITTENWORK was written by AUTHOR and was produced in print .
 The comic character Blockbuster was created by both Tom Lyle and CREATOR .
@@ -13484,7 +13484,7 @@ BUILDING is located in the LOCATION where English is the main language and one o
 FOOD , which contains meringue , is a dish found in the region of REGION in the U . S .
 the currency used in Turkey is lira .
 AIRPORT is operated by OPERATINGORGANISATION and serves the city of Aaarhus . The airport is situated 25 meters above sea level and its RUNWAYLENGTH long runway is called RUNWAYNAME .
-American ASTRONAUT was born on the 15th of March 1932 in BIRTHPLACE . He received a Bachelor of Science degree at the University of Texas at Austin in 1955 , and worked as a test pilot . He was a crew member on the WAS A CREW MEMBER OF flight mission before his retirement in DATEOFRETIREMENT .
+American ASTRONAUT was born on the 15th of March 1932 in BIRTHPLACE . He received a Bachelor of Science degree at the University of Texas at Austin in 1955 , and worked as a test pilot . He was a crew member on the WAS_A_CREW_MEMBER_OF flight mission before his retirement in DATEOFRETIREMENT .
 sandesh is a dessert .
 The MONUMENT is owned by the OWNINGORGANISATION .
 FOOD comes from the COUNTRY which has the capital city of Washington DC .
@@ -13518,15 +13518,15 @@ CHANCELLOR served as chancellor of the College of William and Mary , which is th
 The main ingredients for Beef Kway Teow are : MAININGREDIENTS .
 The All India Council for Technical Education is located in LOCATION .
 John Cowpher Powys , born in BIRTHPLACE , is known for works such as NOTABLEWORK and WRITTENWORK .
-ASTRONAUT received a M . S . from his Alma Mater , AFIT in 1962 after being a fighter pilot on WAS A CREW MEMBER OF . BACKUP PILOT was a backup pilot on the mission with CREWMEMBERS as a crewman . William retired on Sept 1st 1969 .
+ASTRONAUT received a M . S . from his Alma Mater , AFIT in 1962 after being a fighter pilot on WAS_A_CREW_MEMBER_OF . BACKUP_PILOT was a backup pilot on the mission with CREWMEMBERS as a crewman . William retired on Sept 1st 1969 .
 WRITTENWORK was written in English ( which is spoken in SPOKENIN ) and originates from the COUNTRY .
 The WRITTENWORK is published by PUBLISHER whose parent company is PARENTCOMPANY .
 FOOD is a dish containing bread , almonds , garlic , water and olive oil . It is also called ALTERNATIVENAME . It is found in the REGION region of COUNTRY .
 The Javenese people are an ethnic group in Java .
-ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . His occupation was a test pilot and he was selected by NASA in WAS SELECTED BY NASA . The United States Navy awarded the Distinguished Service Medal to ASTRONAUT , which ranks higher than HIGHER .
+ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . His occupation was a test pilot and he was selected by NASA in WAS_SELECTED_BY_NASA . The United States Navy awarded the Distinguished Service Medal to ASTRONAUT , which ranks higher than HIGHER .
 The capital of the COUNTRY , where WRITTENWORK was published , is CAPITAL English is the language of the U . S , and is spoken in SPOKENIN too .
 FOOD is a food from COUNTRY and REGION . COUNTRY is the ethnic home of the Malaysian Chinese , and the ETHNICGROUP are and ethnic group from REGION .
-ASTRONAUT , born on October 17 , 1933 , was selected by OPERATOR in WAS SELECTED BY NASA . He served as a crew member on the OPERATOR WAS A CREW MEMBER OF mission along with CREWMEMBERS .
+ASTRONAUT , born on October 17 , 1933 , was selected by OPERATOR in WAS_SELECTED_BY_NASA . He served as a crew member on the OPERATOR WAS_A_CREW_MEMBER_OF mission along with CREWMEMBERS .
 The Accademia di Architetturia di CITY is located in CITY . It has ACADEMICSTAFFSIZE academic staff and NUMBEROFSTUDENTS students . Its dean is DEAN .
 Amatriciana is a traditional sauce from italy where the capital city is CAPITAL . LEADERNAME is a key leader of the country along with Sergio Mattarella .
 AC Hotel Bella Sky is in Copenhagen , LOCATION and has TENANT as its tenant . It was designed by ARCHITECT and has FLOORCOUNT floors .
@@ -13554,7 +13554,7 @@ SPORTSTEAM , whose ground is GROUND , play in the LEAGUE league in COUNTRY . Agr
 FOOD is a dish found in COUNTRY , where Spanish is spoken and LEADERNAME is leader . DISHVARIATION can be added to bionico , which is a dish served as a dessert .
 The UNIVERSITY was established in ESTABLISHED in the state of STATE , COUNTRY . There are ACADEMICSTAFFSIZE academic staff in the college . STATE ' s leader is call LEADERNAME and Mahe is northwest of state . LARGESTCITY is the largest city in COUNTRY .
 The campus address of the UNIVERSITY in COUNTRY is " CAMPUS " The Director of the Institute which was established in ESTABLISHED is Dr G P Prabhukumar and there are NUMBEROFPOSTGRADUATESTUDENTS postgraduate students . The Institute is affiliated with the AFFILIATION in the city of CITY .
-ASTRONAUT was a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was a crew member on WAS_A_CREW_MEMBER_OF .
 The MONUMENT , which was completed in ESTABLISHED , is located at the Seminary Ridge , Gettysburg , LOCATION , COUNTRY .
 The manager of SPORTSTEAM is MANAGER who used to be at Varese Calcio S . S . D .
 A . T . Charlie Johnsonis doctoral advisor to DOCTORALADVISOR .
@@ -13569,7 +13569,7 @@ ASTRONAUT was born on July 23 , 1927 in BIRTHPLACE . He attended the U of Texas 
 1634 The Ram Rebellion comes from the COUNTRY , where the leader is LEADERNAME and the ETHNICGROUP are an ethnic group .
 Duncan Rouleau and Steven T Seagle created the character of COMICSCHARACTER who first appeared in the film Big Hero 6 and is voiced by VOICE .
 The OPERATINGORGANISATION is based at the Four World Trade Centre and operates Atlantic City international airport .
-ASTRONAUT , who is now retired , was born in BIRTHPLACE . He was a fighter pilot , who joined NASA in WAS SELECTED BY NASA , and served as a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT , who is now retired , was born in BIRTHPLACE . He was a fighter pilot , who joined NASA in WAS_SELECTED_BY_NASA , and served as a crew member of WAS_A_CREW_MEMBER_OF .
 WRITTENWORK by AUTHOR was published in print and has the ISBN number 0 - 439 - 92550 - 9 .
 LEADERNAME is a leader in ISPARTOF Dales , ISPARTOF , where the bakewell tart ( variation of bakewell pudding ) and consisting largely of shortcrust pastry is popular .
 FOOD ' s main ingredients are MAININGREDIENTS . The dish comes from the COUNTRY .
@@ -13591,7 +13591,7 @@ The ground of SPORTSTEAM is located in GROUND , the team have NUMBEROFMEMBERS me
 SPORTSTEAM play their home matches at the GROUND which is located in LOCATION .
 Poaceae class is CLASS .
 MANAGER ( Italian ) is a member of the Calcio Cantania . He plays for CLUB and is the manager of Calcio ChievoVerona .
-ASTRONAUT worked for OPERATOR as a fighter pilot and went on to become a part of WAS A CREW MEMBER OF ' s crew along with CREWMEMBERS . Mr Anders is now retired .
+ASTRONAUT worked for OPERATOR as a fighter pilot and went on to become a part of WAS_A_CREW_MEMBER_OF ' s crew along with CREWMEMBERS . Mr Anders is now retired .
 The UNIVERSITY is located in the city of CITY , STATE state , COUNTRY . It is affiliated with the AFFILIATION .
 INGREDIENT , of the genus persea , is a member of the FAMILY family and is an ingredient in FOOD , a typical Colombian dish from the REGION region .
 Agra airport is located in LOCATION and operated by the OPERATINGORGANISATION . The country ' s leader is LEADERNAME and the airforce uses TRANSPORTAIRCRAFT transport aircrafts .
@@ -13600,7 +13600,7 @@ FOOD is a traditional Italian sauce from the REGION region . Its ingredients inc
 LEADERNAME is the name of the leader of Amsterdam .
 CITY has a population density of 755 . 3 inhabitants per square kilometre .
 WRITTENWORK is produced in print which is NUMBEROFPAGES pages long .
-ASTRONAUT was born Oct 17th in BIRTHPLACE . He was crew member on WAS A CREW MEMBER OF in WAS SELECTED BY NASA . He retired .
+ASTRONAUT was born Oct 17th in BIRTHPLACE . He was crew member on WAS_A_CREW_MEMBER_OF in WAS_SELECTED_BY_NASA . He retired .
 ARCHITECT is the architect of BUILDING , which was completed in COMPLETIONDATE , and is owned by JP McManus .
 The Eisner award winning CREATOR created the comic book character Arion .
 CAPITAL is the capital city of LOCATION where the legislature is the National Assembly and the leader is LEADERNAME . The city is the location of the CAPITAL Turkish Martyr ' s memorial designed by Huseyin Butuner and Hilmi Guner in red granite and white marble . The memorial commemorates the soldiers of the Ottoman army who were killed in the Battle of CAPITAL .
@@ -13611,7 +13611,7 @@ Ayam Penyet is a Malaysian dish including the main ingredients of " squeezed " o
 The Dean of UNIVERSITY is DEAN . There are NUMBEROFSTUDENTS students and ACADEMICSTAFFSIZE academic staff .
 The SPORTSTEAM club is located in LOCATION . The country which has the leaders , Nikos Voutsis and LEADER . It is also , where Greek is spoken , and the CURRENCY is used .
 BUILDING is located in LOCATION , COUNTRY and the name of the leader in that country is LEADERNAME .
-U . S . born ASTRONAUT was on the crew of OPERATOR operated WAS A CREW MEMBER OF .
+U . S . born ASTRONAUT was on the crew of OPERATOR operated WAS_A_CREW_MEMBER_OF .
 The Baku Turkish Martyr ' s Memorial , designed by DESIGNER , is made out of red granite and white marble .
 GROUND is the location of the ground of AS Livorno Calcio , this club playing in LEAGUE .
 ASTRONAUT was born on 23rd July 1927 in BIRTHPLACE . Elliot was a student at the ALMAMATER which is competing in the Big 12 conference . Elliot performed as a test pilot and died in St Louis .
@@ -13630,12 +13630,12 @@ FOOD and shumai are variations on the same dish , Siomay , and one if its ingred
 At an elevation of 610 metres above sea level , AIRPORT is in LOCATION ( part of the LOCATION community ) , in COUNTRY .
 English is the language of the COUNTRY where the AIDS journal was published . It was published by PUBLISHER whose parent company is PARENTCOMPANY .
 The leader of Greece is LEADERNAME .
-ASTRONAUT ' s attended ALMAMATER which competed in COMPETE IN and is affiliated with the University of Texas system .
+ASTRONAUT ' s attended ALMAMATER which competed in COMPETE_IN and is affiliated with the University of Texas system .
 The leader of STATE is LEADERNAME and the state lies southeast of Mahe in COUNTRY . It is the location of the UNIVERSITY which was established in ESTABLISHED in the city of CITY in the state of STATE and has an academic staff of ACADEMICSTAFFSIZE .
 MONUMENT was established in ESTABLISHED in LOCATION .
 The UNIVERSITY is located in CITY , COUNTRY . It was established in ESTABLISHED and its dean is DEAN . It has NUMBEROFSTUDENTS students . The leader of COUNTRY is Federal Chancellor LEADERNAME .
 LEADER heads Greece .
-Buzz Aldrin ( born in Glen Ridge , Essex County , NJ ) was a member of the WAS A CREW MEMBER OF crew . ASTRONAUT was a backup pilot on the WAS A CREW MEMBER OF mission , which was operated by OPERATOR .
+Buzz Aldrin ( born in Glen Ridge , Essex County , NJ ) was a member of the WAS_A_CREW_MEMBER_OF crew . ASTRONAUT was a backup pilot on the WAS_A_CREW_MEMBER_OF mission , which was operated by OPERATOR .
 Gary Cohn and the Puerto Rican national , Ernie Colon created the comic character Bolt .
 Tory - controlled HOMETOWN ( postcode area B ) , is home to ARCHITECT , the architect who designed BUILDING .
 DISHVARIATION is one variation of ingredients in FOOD which has several variations including garlic , black pepper and chili .
@@ -13643,7 +13643,7 @@ Anaheim is in Orange County , CA .
 The main ingredients of the FOOD are bacon and sausage , and comes from the REGION in the COUNTRY .
 SPORTSTEAM ' s ground is located at St . Vincent - St . Mary High School in the city of CITY , Summit County , COUNTRY .
 INGREDIENT is an ingredient of beef kway teow . The dish is found in REGION and is a popular dish in COUNTRY .
-Alan Shepherd , born in BIRTHPLACE , served as a crew member of the OPERATOR operated WAS A CREW MEMBER OF .
+Alan Shepherd , born in BIRTHPLACE , served as a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF .
 FOOD is from the country of COUNTRY where French is spoken and the leaders are Manual Valls and LEADERNAME . FOOD can also be found in Hong Kong or New York or Paris .
 Pierce County is the largest city in LARGESTCITY .
 CITY , which has a magistrate type of government is the location of the UNIVERSITY . The School is affiliated with the AFFILIATION which has its headquarters in HEADQUARTERS .
@@ -13696,7 +13696,7 @@ The surface of the 1st runway at Alderney airport is made from poaceae , 1ST_RUN
 INGREDIENT is an ingredient of FOOD which is a food found in the REGION region of COUNTRY .
 BUILDING is in COUNTRY , where the leader is LEADERNAME , the currency is the Ski Lankan rupee and CAPITAL is the capital .
 American , CREATOR , is the creator of the comic character , Auron .
-UNIVERSITY is located in CITY , the city that was established by Kempe Gowda . The Institute was given the ' Technical Campus ' status by WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY ( which is located in LOCATION ) . UNIVERSITY is affiliated with AFFILIATION and one of the sports offered at the campus is tennis , which has as its governing body The SPORTSGOVERNINGBODY .
+UNIVERSITY is located in CITY , the city that was established by Kempe Gowda . The Institute was given the ' Technical Campus ' status by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY ( which is located in LOCATION ) . UNIVERSITY is affiliated with AFFILIATION and one of the sports offered at the campus is tennis , which has as its governing body The SPORTSGOVERNINGBODY .
 Bacon explosion comes from the COUNTRY , where LEADERNAME is a leader and where Native Americans are an ethnic group .
 LOCATION , where the capital is CAPITAL , is the location of the bronze Ataturk monument ( Izmir ) . The monument was inaugurated on 27 July 1932 .
 Alan B Miller Hall in LOCATION is owned by The College of William and Mary .
@@ -13747,18 +13747,18 @@ The abbreviation of WRITTENWORK is Acta Math . Hungar and covers the academic di
 coconut milk is an ingredient in FOOD .
 A . D . Isidro Metapan have NUMBEROFMEMBERS members and play at the Estadio Jorge Calero Suarez .
 The film Big Hero 6 starred STARRING .
-ASTRONAUT , born in the NATIONALITY , was selected by NASA in WAS SELECTED BY NASA and served as a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT , born in the NATIONALITY , was selected by NASA in WAS_SELECTED_BY_NASA and served as a crew member of WAS_A_CREW_MEMBER_OF .
 Al Asad airbase is located at Al Anbar Province in Iraq and operated by the OPERATINGORGANISATION . The base ' s runway called RUNWAYNAME and 3990 meters long .
 LEADERNAME is a leader in COUNTRY where BUILDING is located in LOCATION .
 Jens H ä rtel is a member of the CLUB club .
 The GROUND is the home ground of AEK Athens FC which has NUMBEROFMEMBERS members .
 The main ingredients of FOOD are noodles , pork organs , vegetables , chicken , shrimp and beef .
 ASTRONAUT ( born in BIRTHPLACE on BIRTHDATE ) was a fighter pilot and went to ALMAMATER .
-ASTRONAUT is originally from Glen Ridge , New Jersey and graduated from MIT with a Sc . D in WAS SELECTED BY NASA . Buzz then went on to join OPERATOR in WAS SELECTED BY NASA and became a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT is originally from Glen Ridge , New Jersey and graduated from MIT with a Sc . D in WAS_SELECTED_BY_NASA . Buzz then went on to join OPERATOR in WAS_SELECTED_BY_NASA and became a crew member of WAS_A_CREW_MEMBER_OF .
 WRITTENWORK was published by Farrar , Straus , and Giroux which is a subsidiary of PARENTCOMPANY .
 ARCHITECT is the architect of BUILDING , located in LOCATION .
 FOOD , a dessert found in COUNTRY , is made from sour cream , chopped fruits , condensed milk , granola , raisins , and shredded coconut . FOOD comes from the REGION region .
-American ASTRONAUT was a crew member of OPERATOR ' s WAS A CREW MEMBER OF alongside backup pilot BACKUP PILOT .
+American ASTRONAUT was a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF alongside backup pilot BACKUP_PILOT .
 " WRITTENWORK was Published in the COUNTRY " .
 INGREDIENT is an ingredient in FOOD .
 DEMONYM are from India .
@@ -13779,7 +13779,7 @@ Potter County , Texas is located within the COUNTRY .
 LOCATION , New York , ISPARTOF is the location of the BUILDING .
 The country of COUNTRY like to serve SERVINGTEMPERATURE dishes of the main meal FOOD .
 Alan B Miller Hall is located in LOCATION COUNTRY . The current tenant of the BUILDING is the TENANT .
-ASTRONAUT is originally from BIRTHPLACE and joined NASA in WAS SELECTED BY NASA where he flew as a test pilot . ASTRONAUT died in St . Louis .
+ASTRONAUT is originally from BIRTHPLACE and joined NASA in WAS_SELECTED_BY_NASA where he flew as a test pilot . ASTRONAUT died in St . Louis .
 LEADER is a leader in LOCATION where the LANGUAGE is spoken . The country is the location of AE Dimitra Efxeinoupolis club .
 The MONUMENT is located in LOCATION , COUNTRY . Adams County has to its west Franklin County and to its north Cumberland County , both also of Pennsylvania . To the southwest of Adams County lies Frederick County and to the southeast Carroll County , both of Maryland .
 The MONUMENT was established in ESTABLISHED in LOCATION and is categorised as a contributing property . Adams County is located east of Franklin County and south of Cumberland County . Carrol County and Frederick County in Maryland lie to the southeast and southwest respectively .
@@ -13821,7 +13821,7 @@ Paulo Sousa plays for the CLUB .
 In print , WRITTENWORK was penned by AUTHOR and has the OCLC number OCLC_NUMBER .
 COUNTRY is lead by LEADERNAME , has the capital of CAPITAL and uses the CURRENCY as currency . It is the location for the BUILDING in the Eastern Province state .
 BUILDING is located in LOCATION , which is lead by LEADERNAME . LOCATION is lead by the LEADERTITLE .
-ASTRONAUT , who worked for NASA beginning in WAS SELECTED BY NASA , died in DEATHPLACE .
+ASTRONAUT , who worked for NASA beginning in WAS_SELECTED_BY_NASA , died in DEATHPLACE .
 SPORTSTEAM is in the Superleague of GROUND , where their ground is located .
 FOOD is eaten in the COUNTRY , is made with chicken .
 FOOD is a dish from the REGION region , Colombia and one of its ingredients is INGREDIENT .
@@ -13843,9 +13843,9 @@ OWNER is the owner of SPORTSTEAM , which has NUMBEROFMEMBERS members .
 Gus Poyet played for Chelsea F . C .
 AIRPORT serves the city of CITYSERVED where the mayor is MAYOR .
 A memorial in honour of the 14th New Jersey Volunteer Infantry was founded on 11th July , 1907 . The monument is located in the DISTRICT , which owned by the National Parks service , is near NEARESTCITY .
-The UNIVERSITY is located in the state of STATE which has HAS TO ITS NORTHEAST to its northeast . The Institute is affiliated to AFFILIATION of CITY .
+The UNIVERSITY is located in the state of STATE which has HAS_TO_ITS_NORTHEAST to its northeast . The Institute is affiliated to AFFILIATION of CITY .
 A wizard of Mars is NUMBEROFPAGES pages long .
-ASTRONAUT was chosen by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was chosen by NASA in WAS_SELECTED_BY_NASA .
 Gus Poyet ' s club is CLUB .
 UNIVERSITY in CITY has an academic staff size of ACADEMICSTAFFSIZE people .
 The WRITTENWORK was published by the PUBLISHER and can be abbreviated to Acta Palaeontol . Pol . It has an ISSN number of ISSN_NUMBER , a LCCN number of LCCN_NUMBER and the CODEN code is CODEN_CODE .
@@ -13888,7 +13888,7 @@ Michele Marcolini is affiliated with the youthclub Torino F . C .
 AIRPORT is operated by the OPERATINGORGANISATION . The USAF was involved in the Invasion of Grenada and BATTLES . Aircraft carriers carry the ATTACKAIRCRAFT .
 The UNIVERSITY , COUNTRY , has NUMBEROFSTUDENTS students , ACADEMICSTAFFSIZE academic staff and is affiliated with the AFFILIATION .
 CITY , is part of the COUNTRY .
-American ASTRONAUT was born in BIRTHPLACE , His real name was ALTERNATIVENAMES Buzz graduated from Massachusetts Institute of Technology in WAS SELECTED BY NASA with a doctorate in Science , then was selected to work for NASA in WAS SELECTED BY NASA performed as a fighter pilot and was a crew member on WAS A CREW MEMBER OF .
+American ASTRONAUT was born in BIRTHPLACE , His real name was ALTERNATIVENAMES Buzz graduated from Massachusetts Institute of Technology in WAS_SELECTED_BY_NASA with a doctorate in Science , then was selected to work for NASA in WAS_SELECTED_BY_NASA performed as a fighter pilot and was a crew member on WAS_A_CREW_MEMBER_OF .
 ARCHITECT was the architect of BUILDING , which was started in BUILDINGSTARTDATE and completed in COMPLETIONDATE .
 WRITTENWORK is available in hardcover and has NUMBEROFPAGES pages . The book has the ISBN number ISBN_NUMBER and the OCLC number OCLC_NUMBER .
 Julie Morgan is the architect of BUILDING and Chinatown in San Francisco .
@@ -13897,11 +13897,11 @@ Agremiacao Sportiva Arapiraquense has NUMBEROFMEMBERS members and they were in t
 The UNIVERSITY in COUNTRY was established in ESTABLISHED . It currently has a staff compliment of ACADEMICSTAFFSIZE and NUMBEROFSTUDENTS students .
 The Serie A champions are Juventus F . C .
 DEAN is the dean of the UNIVERSITY in the Swiss city of CITY . It was established in ESTABLISHED . The leader of COUNTRY is Johann Schneider - Ammann .
-ASTRONAUT was born in Glen Ridge , NJ and is from the NATIONALITY . He was a fighter pilot and a member of WAS A CREW MEMBER OF . He walked in space for 52 minutes . He is now retired .
+ASTRONAUT was born in Glen Ridge , NJ and is from the NATIONALITY . He was a fighter pilot and a member of WAS_A_CREW_MEMBER_OF . He walked in space for 52 minutes . He is now retired .
 A DEMONYM is a demonym term used in Texas .
 The leader of Denmark is Lars Lokke Rasmussen .
 Arros negre comes from the region of the REGION , COUNTRY . The leader of the region is LEADERNAME , it inhabitants are called ETHNICGROUP .
-ASTRONAUT graduated in 1955 from UT Austin with a B . S and was chosen by OPERATOR in WAS SELECTED BY NASA as a crew member aboard WAS A CREW MEMBER OF where COMMANDER was the commander .
+ASTRONAUT graduated in 1955 from UT Austin with a B . S and was chosen by OPERATOR in WAS_SELECTED_BY_NASA as a crew member aboard WAS_A_CREW_MEMBER_OF where COMMANDER was the commander .
 COUNTRY , lead by LEADERNAME with the official language being Tamil , is home to BUILDING .
 FOOD is a dish from the region of COUNTRY and REGION where LANGUAGE is spoken . LEADERNAME is the leader of REGION and the ETHNICGROUP are an ethnic group from COUNTRY .
 AS Roma play in the LEAGUE league where the champions are Juventus FC .
@@ -13910,7 +13910,7 @@ AIRPORT is located in COUNTRY at LOCATION where the leader party is the Peoples 
 The area code for CITY is AREACODE .
 A FOOD is prepared with condiments and is a dish from the COUNTRY .
 AIRPORT serves the city of Alpena and is located in LOCATION . The airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH .
-ASTRONAUT , who was born in BIRTHPLACE , was a crew member aboard WAS A CREW MEMBER OF and spent a total of 13017 minutes in space .
+ASTRONAUT , who was born in BIRTHPLACE , was a crew member aboard WAS_A_CREW_MEMBER_OF and spent a total of 13017 minutes in space .
 COMICSCHARACTER first aired on the BROADCASTEDBY on October 3rd , 1983 and broadcast its last episode on April 15th , 1986 . Its creator was CREATOR and the series starred STARRING .
 UNIVERSITY is located in CITY , COUNTRY . It was established in ESTABLISHED and his president is PRESIDENT . its affiliation is AFFILIATION and it has NUMBEROFPOSTGRADUATESTUDENTS of postgraduate students .
 AIRPORT in Alcobenda , is operated by OPERATINGORGANISATION . Alcobenda is part of LOCATIONCITY in COUNTRY .
@@ -13928,7 +13928,7 @@ DISHVARIATION and FOOD are served as a dessert course . The latter dish is found
 The School of Business and Social Sciences is located in CITY and it was established in ESTABLISHED . It has ACADEMICSTAFFSIZE academic staff and 16 , 000 students . Its dean is DEAN and it is affiliated with the AFFILIATION .
 RUNWAYNAME is the runway name of Ardmore Airport , New Zealand .
 FOOD is dish from the COUNTRY which is found in REGION . The main ingredients of bakso are ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables and fried shallots .
-In WAS SELECTED BY NASA ASTRONAUT , who died later in DEATHPLACE , was selected by NASA .
+In WAS_SELECTED_BY_NASA ASTRONAUT , who died later in DEATHPLACE , was selected by NASA .
 LOCATIONCITY is part of the ISPARTOF in COUNTRY and is the location of the company OPERATINGORGANISATION who are the operators of AIRPORT in LOCATION .
 BUILDING is in Haputale , COUNTRY . The leader of COUNTRY is LEADERNAME .
 BUILDING in the U . S . was completed on June 1st , 2009 and has a tenant called the The CURRENTTENANTS .
@@ -13943,7 +13943,7 @@ The ground for SPORTSTEAM , which has NUMBEROFMEMBERS members , is the GROUND .
 MANAGER played for Juventus FC and now plays for Maccabi Tel Aviv F . C while managing SPORTSTEAM .
 KEYPERSON is a key person at the BROADCASTEDBY which has headquarters at LOCATIONCITY and broadcast COMICSCHARACTER .
 The OWNINGORGANISATION has responsibility for the MONUMENT .
-American ASTRONAUT was part of WAS A CREW MEMBER OF along with CREWMEMBERS as chosen by OPERATOR .
+American ASTRONAUT was part of WAS_A_CREW_MEMBER_OF along with CREWMEMBERS as chosen by OPERATOR .
 The BBC is located in LOCATIONCITY .
 The comic character Blockbuster is also known as ALTERNATIVENAME .
 CREATOR is the creator of COMICSCHARACTER .
@@ -13956,13 +13956,13 @@ Big Hero 6 stars STARRING .
 Brandon Sanderson was born in BIRTHPLACE .
 WRITTENWORK was preceded by PRECEDEDBY including Grantville Gazette III and is written by AUTHOR .
 A . C . Lumezzanne ' s ground is in GROUND where the capital is CAPITAL , the official language is Italian and the leader is LEADER .
-UNIVERSITY was given the ' Technical Campus ' status by WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY .
+UNIVERSITY was given the ' Technical Campus ' status by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY .
 FOUNDER was the founder of Bangalore .
 FOOD is served at the dessert course in COUNTRY , where the leader is LEADERNAME . DISHVARIATION is also a dessert .
 MANAGER has been manager of SPORTSTEAM and is a player in İ stanbulspor A . Ş .
 The MONUMENT , dedicated to DEDICATEDTO , is located in LOCATION , where the LANGUAGES is spoken .
 CITY has a total area of 144 . 7 SqKm .
-The UNIVERSITY is located in Karnatka ( which has HAS TO ITS NORTHEAST to its northeast ) . It was given the " Technical Campus " status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY ( located in LOCATION ) . The institute ' s offered sport is SPORTSOFFERED ; the governing body for tennis is the SPORTSGOVERNINGBODY .
+The UNIVERSITY is located in Karnatka ( which has HAS_TO_ITS_NORTHEAST to its northeast ) . It was given the " Technical Campus " status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY ( located in LOCATION ) . The institute ' s offered sport is SPORTSOFFERED ; the governing body for tennis is the SPORTSGOVERNINGBODY .
 Indonesian is the language of REGION where the capital is CAPITAL and the leader is LEADERNAME . FOOD is made in China but found in REGION .
 The UNIVERSITY is governed by the SPORTSGOVERNINGBODY in COUNTRY .
 INGREDIENT is an ingredient in the typical colombian dish of bandeja paisa .
@@ -13971,14 +13971,14 @@ The nickname of Agremiacao Sportiva Arapiraquense is " Alvinegro " , they played
 WRITTENWORK was written in English , a language spoken in SPOKENIN . However it is published in the COUNTRY where the leader is LEADERNAME and one of the ethnic groups are the Native Americans .
 FOOD is a dish from REGION , COUNTRY .
 FOOD , also known as Ajo Blanco comes from the Andalusian region of COUNTRY and its main ingredients are bread , almonds , garlic , water and olive oil .
-ASTRONAUT was born in BIRTHPLACE . He graduated from AFIT in 1962 with an MS and was chosen by NASA in WAS SELECTED BY NASA . He was a fighter pilot and served as a crew member on WAS A CREW MEMBER OF . Anders retired in 1969 .
+ASTRONAUT was born in BIRTHPLACE . He graduated from AFIT in 1962 with an MS and was chosen by NASA in WAS_SELECTED_BY_NASA . He was a fighter pilot and served as a crew member on WAS_A_CREW_MEMBER_OF . Anders retired in 1969 .
 AUTHOR is the author of WRITTENWORK , currently in print .
 COMICSCHARACTER is a character in Big Hero 6 , STARRING starred in the movie version of Big Hero 6 .
 Amarillo is the county seat for Potter County , Texas .
 WRITTENWORK ( written in COUNTRY ) was published by PUBLISHER and followed by FOLLOWEDBY . COUNTRY has the ethnic white group .
 LEADERNAME is the leader of COUNTRY , where the dish batagor comes from . INGREDIENT is an ingredient of batagor , which is a dish similar to siomay and shumai .
 Available in hardcover , WRITTENWORK is NUMBEROFPAGES pages in length .
-American ASTRONAUT was born in BIRTHPLACE . He was a test pilot and a crew member of WAS A CREW MEMBER OF . He spent 100305 . 0 minutes in space .
+American ASTRONAUT was born in BIRTHPLACE . He was a test pilot and a crew member of WAS_A_CREW_MEMBER_OF . He spent 100305 . 0 minutes in space .
 SPORTSTEAM played in the SEASON season .
 WRITTENWORK ( often abbreviated to Acta Palaeontol . Pol ) is published by the PUBLISHER with the ISSN number ISSN_NUMBER and the LCCN number LCCN_NUMBER .
 The third runway at Ardmore Airport in New Zealand has a surface type known as 3RD_RUNWAY_SURFACETYPE which is of the ORDER order .
@@ -14012,7 +14012,7 @@ SPORTSTEAM is located in LOCATION , the leader of which is Alexis Tsipras . Anot
 INGREDIENT is an ingredient in Arros negre .
 SPORTSTEAM has the ground GROUND and play in LEAGUE .
 WRITTENWORK has NUMBEROFPAGES pages in it .
-PRESIDENT was appointed as the president of the University of Texas at Ausitin , that is affiliated to the university of texas system and will compete in the COMPETE IN . The mascot of the University of Texas is called Hook ' em . ASTRONAUT was among the University of Texas graduates .
+PRESIDENT was appointed as the president of the University of Texas at Ausitin , that is affiliated to the university of texas system and will compete in the COMPETE_IN . The mascot of the University of Texas is called Hook ' em . ASTRONAUT was among the University of Texas graduates .
 MANAGER has been the manager of A C Cesena and was at the club ASD Licita 1931 but he currently plays for U . S Castrovillari Calcio .
 Both the ETHNICGROUP ethnic group and the book 1634 The Ram Rebellion are from the COUNTRY .
 AD Isidro Metapan play at the Estadio Jorge Calero Suarez and has NUMBEROFMEMBERS members . Their full name is " FULLNAME " and they are managed by Jorge Humberto Rodriguez .
@@ -14054,7 +14054,7 @@ The ETHNICGROUP are an ethnic group in the COUNTRY , where LANGUAGE is a languag
 The AIRPORT is 4000 length .
 Cookies and FOOD are types of dessert . The latter is from COUNTRY where Gerard Larcher is a leader .
 AIRPORT is located in LOCATION where the demonym is DEMONYM .
-ASTRONAUT is a NATIONALITY citizen born in Wheeler Texas . He served as a test pilot and was a crew member of the WAS A CREW MEMBER OF mission .
+ASTRONAUT is a NATIONALITY citizen born in Wheeler Texas . He served as a test pilot and was a crew member of the WAS_A_CREW_MEMBER_OF mission .
 BUILDING is located in LOCATION , Gujarat , COUNTRY . The leader of Gujarat ( also known as the LEADERTITLE ) is LEADERNAME .
 The American , CREATOR created the comic character of Balder who has the alternative name of ALTERNATIVENAME .
 FOOD should be served as the dessert course , as should cookies .
@@ -14095,7 +14095,7 @@ Operated by the Aktieselkab organisation , Aarhus airport has a runway that is R
 San Marcos is the largest city in Hays County , Texas .
 The capital of COUNTRY is CAPITAL but the BUILDING is located in the region of REGION , Eastern Province which is lead by LEADERNAME .
 BUILDING , located in the Ampara district of the Eastern Province , COUNTRY , has BEDCOUNT beds .
-ASTRONAUT was an American , born in Wheeler Texas . He graduated from UT Austin in 1955 and because a test pilot . He was a crew member aboard WAS A CREW MEMBER OF , operated by OPERATOR .
+ASTRONAUT was an American , born in Wheeler Texas . He graduated from UT Austin in 1955 and because a test pilot . He was a crew member aboard WAS_A_CREW_MEMBER_OF , operated by OPERATOR .
 Basko , a Chinese dish , is made with beef as a main ingredient .
 The full name of SPORTSTEAM is " FULLNAME " .
 BUILDING is located in LOCATION where Cyrus Vance Jr . is one of the leaders .
@@ -14112,7 +14112,7 @@ The WRITTENWORK , abbreviated to Am . J . Math , is published bi - monthly and i
 The AIRPORT is in LOCATION and has a runway length of 4100 .
 COMICSCHARACTER is a character in the film Big Hero 6 which stars Damon Wayans Jr . He was created by Steven t Seagle and the American , Duncan Rouleau .
 Graduating from Massachusetts Institute of Technology in 1963 , ASTRONAUT ( born 1930 - 01 - AWARDS ) received AWARDS awards .
-ASTRONAUT has died in DEATHPLACE . He was an American born in BIRTHPLACE and graduated from NWC with an MA in 1957 . He served as a test pilot . and in WAS SELECTED BY NASA was hired by NASA as a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT has died in DEATHPLACE . He was an American born in BIRTHPLACE and graduated from NWC with an MA in 1957 . He served as a test pilot . and in WAS_SELECTED_BY_NASA was hired by NASA as a crew member on WAS_A_CREW_MEMBER_OF .
 COMICSCHARACTER first aired on tv screens on the 3rd of October 1983 , and starred STARRING .
 Asherton Texas is in the COUNTRY .
 AIRPORT is located in LOCATION and serves both the cities of Lake Placid and Saranac Lake . The airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level and the length of its runway is RUNWAYLENGTH .
@@ -14151,7 +14151,7 @@ Willian Anders has a nationality that is of the NATIONALITY .
 The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE . 1ST_RUNWAY_SURFACETYPE is of the order Poales and belongs to the order of ORDER . As well as being part of the class CLASS .
 The runway length of AIRPORT is RUNWAYLENGTH .
 INGREDIENT is part of the order of ORDER and a member of the Rosales order . It is an ingredient of ajoblanco .
-ASTRONAUT war born in BIRTHPLACE , who was a member of the WAS A CREW MEMBER OF crew . His nationality is US and OPERATOR selected him in WAS SELECTED BY NASA . He was performed as a fighter pilot and graduated from Massachusetts Institude of Technology , Sc . D , WAS SELECTED BY NASA .
+ASTRONAUT war born in BIRTHPLACE , who was a member of the WAS_A_CREW_MEMBER_OF crew . His nationality is US and OPERATOR selected him in WAS_SELECTED_BY_NASA . He was performed as a fighter pilot and graduated from Massachusetts Institude of Technology , Sc . D , WAS_SELECTED_BY_NASA .
 ASTRONAUT is a NATIONALITY national born on July 23rd , 1927 in BIRTHPLACE and attended the ALMAMATER . He died on February 28 , 1966 in DEATHPLACE . .
 Stuart Parker plays at the CLUB club .
 LEADERNAME is the leader in Uttar Pradesh .
@@ -14178,16 +14178,16 @@ BUILDING is located in LOCATION , where the leader is called LEADERNAME .
 AUTHOR was the author of WRITTENWORK , which was preceded by his novel PRECEDEDBY .
 CITYSERVED is served by AIRPORT which is located at ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level in Icolo e Bengo . The runway , known as " south runway " is RUNWAYLENGTH in length .
 WRITTENWORK , written by AUTHOR born in Burbank California , was preceded by 1634 : The Baltic War and DeMarce short stories in the Grantville Gazettes .
-Adams County lies to the east of Franklin County and south of HAS TO ITS NORTH . Carrol County in Maryland lies to the southeast and HAS TO ITS SOUTHWEST to the southwest . The 11th Mississippi Infantry monument which was completed in ESTABLISHED is located in Adams County and categorised as contributing property .
+Adams County lies to the east of Franklin County and south of HAS_TO_ITS_NORTH . Carrol County in Maryland lies to the southeast and HAS_TO_ITS_SOUTHWEST to the southwest . The 11th Mississippi Infantry monument which was completed in ESTABLISHED is located in Adams County and categorised as contributing property .
 Binigrit is a dish from the COUNTRY contains sweet potatoes and coconut milk .
-The Reference Number in the National Register of Historic Places of BUILDING is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The Reference Number in the National Register of Historic Places of BUILDING is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 " 1634 ; The Ram Rebellion " by AUTHOR is available in paperback with an ISBN number of ISBN_NUMBER .
 SPORTSTEAM is located in LOCATION which is headed by LEADER .
 A . S GROUND Calcio ' s ground is in GROUND , and it has NUMBEROFMEMBERS members .
 Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble . The native name of the memorial is Turk Sehitleri Aniti .
-ASTRONAUT was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT was a crew member of WAS_A_CREW_MEMBER_OF .
 An ethnic group in COUNTRY which is led by LEADERNAME are the ETHNICGROUP . FOOD is a food found in COUNTRY .
-OCCUPATION ASTRONAUT was born in BIRTHPLACE on October 17 , 1933 . He served as a crew member of WAS A CREW MEMBER OF and retired on September 1 , 1969 .
+OCCUPATION ASTRONAUT was born in BIRTHPLACE on October 17 , 1933 . He served as a crew member of WAS_A_CREW_MEMBER_OF and retired on September 1 , 1969 .
 SPORTSTEAM ' s ground is in GROUND , they have NUMBEROFMEMBERS members , compete in the LEAGUE and played the 2014 - 2015 season in the Football League ( Greece ) .
 LEADERNAME is the leader of Gujarat .
 The COUNTRY is home to an ethnic group , ETHNICGROUP , and also where written in English , a language spoken in SPOKENIN , WRITTENWORK originates .
@@ -14207,7 +14207,7 @@ WRITTENWORK has NUMBEROFPAGES pages and is available in hardcover . It has the I
 The UNIVERSITY is in COUNTRY . Two facts about COUNTRY are its capital is CAPITAL , and one of its ethnic groups are known as the Germans of COUNTRY .
 ASTRONAUT died in DEATHPLACE ( part of ISPARTOF ) .
 BUILDING is located in LOCATION , and is in Gujarat . Gujarat once was lead by LEADERNAME , of the LEADERTITLE .
-ASTRONAUT was a NATIONALITY national who was born in BIRTHPLACE . He graduated from MIT with a Sc . D in 1963 . He served as a fighter pilot and became a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was a NATIONALITY national who was born in BIRTHPLACE . He graduated from MIT with a Sc . D in 1963 . He served as a fighter pilot and became a crew member on WAS_A_CREW_MEMBER_OF .
 The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE which is member of the Poales order . 1ST_RUNWAY_SURFACETYPE belongs to the Commelinid order , within the flowering plants and classed as CLASS .
 The MONUMENT is in the LOCATION , in the US state of STATE . Established in ESTABLISHED , it is categorized as a contributing property .
 ISPARTOF is part of New York City .
@@ -14269,13 +14269,13 @@ Barny cakes contain 1 . 8g protein , 4 . 8g fat and 18g carbohydrates .
 Atlantic City , N . J . , which is led by LEADERNAME , is served by the AIRPORT .
 The creator of Airman ( comics character ) is CREATOR .
 A . S Roma ground is GROUND and has NUMBEROFMEMBERS members .
-ASTRONAUT was born in 1927 and graduated from the ALMAMATER who are competing in the COMPETE IN .
+ASTRONAUT was born in 1927 and graduated from the ALMAMATER who are competing in the COMPETE_IN .
 Arros negre comes from COUNTRY where the ETHNICGROUP are an ethnic group . The leader of the country , where the spoken language is Spanish , is Felipe VI of COUNTRY .
 English is spoken in the US ; which is home to ETHNICGROUP and the origin place of WRITTENWORK .
 The bacon sandwich , also known as a DISHVARIATION is a variant of the Club sandwich and contains tomato . It originates from the COUNTRY .
 WRITTENWORK is published in the COUNTRY by PUBLISHER . The language in the US is English and the Native Americans are an ethnic group in the country .
-Test Pilot ASTRONAUT was a crew member of OPERATOR ' s WAS A CREW MEMBER OF mission under commander COMMANDER .
-Buzz Aldrin is a national of the NATIONALITY , where LEADERNAME served as Vice President . Buzz Aldrin served as a member of the crew of WAS A CREW MEMBER OF , a program operated by OPERATOR . The backup pilot on WAS A CREW MEMBER OF was ASTRONAUT .
+Test Pilot ASTRONAUT was a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF mission under commander COMMANDER .
+Buzz Aldrin is a national of the NATIONALITY , where LEADERNAME served as Vice President . Buzz Aldrin served as a member of the crew of WAS_A_CREW_MEMBER_OF , a program operated by OPERATOR . The backup pilot on WAS_A_CREW_MEMBER_OF was ASTRONAUT .
 The MONUMENT is located in LOCATION and made of stone . The established religion in LOCATION is The Church of LOCATION and Cornish is a language spoken in the Cornwall region .
 John Coper Powys wrote the novel Owen Glendower and WRITTENWORK .
 SPORTSTEAM play in the LEAGUE league which is from COUNTRY .
@@ -14291,7 +14291,7 @@ Agra airport is located in LOCATION and the ICAO location identifier is ICAO_LOC
 Ernie Colon and the US national Paris Cullins created the comic character of Bolt , who has the alternative name of ALTERNATIVENAME .
 ASTRONAUT was born on Mar 15 , 1932 .
 WRITTENWORK is published in the UK by PUBLISHER , parented by PUBLISHER is PARENTCOMPANY . The UK speaks English and the previous Prime Minister was LEADERNAME .
-Buzz Aldrin was born in BIRTHPLACE . Buzz Aldrin was a crew member of WAS A CREW MEMBER OF which was operated by OPERATOR and its backup pilot was ASTRONAUT . Buzz Aldrin ' s nationality is American , and the country ' s leader was called LEADERNAME .
+Buzz Aldrin was born in BIRTHPLACE . Buzz Aldrin was a crew member of WAS_A_CREW_MEMBER_OF which was operated by OPERATOR and its backup pilot was ASTRONAUT . Buzz Aldrin ' s nationality is American , and the country ' s leader was called LEADERNAME .
 FOOD originates from the REGION region of COUNTRY . The main ingredients are gram flour and vegetables .
 the Distinguished service medal from the Navy is higher than the department of commerce gold medal .
 Angola in Indiana is part of the ISPARTOF .
@@ -14311,7 +14311,7 @@ BUILDING is in LOCATION , part of the Cuyahoga County in ISPARTOF .
 WRITTENWORK , by J . V . Jones , is in print with OCLC number OCLC_NUMBER .
 INGREDIENT is an ingredient in the regional dish of COUNTRY ' s FOOD .
 Poaceae is of the ORDER order .
-UNIVERSITY is located in STATE state , that has to its northeast HAS TO ITS NORTHEAST . The institute was given the ' Technical Campus ' status by all India Council for Technical Education , that is located in LOCATION . SPORTSOFFERED is a sport Governing body SPORTSGOVERNINGBODY and is one of the sports offered by UNIVERSITY .
+UNIVERSITY is located in STATE state , that has to its northeast HAS_TO_ITS_NORTHEAST . The institute was given the ' Technical Campus ' status by all India Council for Technical Education , that is located in LOCATION . SPORTSOFFERED is a sport Governing body SPORTSGOVERNINGBODY and is one of the sports offered by UNIVERSITY .
 Stuart Parker is a member of the Chesterfield F . C .
 In COUNTRY they speak Spanish . The leader of the country is Felipe VI and the leader of the REGION region is Susana Diaz . This region is where FOOD is from .
 BUILDING is HEIGHT high .
@@ -14320,7 +14320,7 @@ FOOD is a food found in COUNTRY , where the leader is LEADERNAME and one of the 
 Massimo Drago was once a player for US Castrovillari Calcio .
 ASTRONAUT was born as Edwin Eugene Aldrin Jr .
 WRITTENWORK was published by the PUBLISHER .
-The UNIVERSITY is located in CITY , COUNTRY . COUNTRY has a monarchy and its leader is Lars Lokke Rasmussen . HAS TO ITS NORTHEAST is to the northeast of CITY .
+The UNIVERSITY is located in CITY , COUNTRY . COUNTRY has a monarchy and its leader is Lars Lokke Rasmussen . HAS_TO_ITS_NORTHEAST is to the northeast of CITY .
 The building of BUILDING began in BUILDINGSTARTDATE .
 BUILDING was constructed between BUILDINGSTARTDATE and COMPLETIONDATE at St Benedict ' s Monastery , Adisham , Haputhale , LOCATION in the Tudor Revival style of architecture .
 ASTRONAUT retired 1st of August 1974 .
@@ -14336,7 +14336,7 @@ The UNIVERSITY is located in CITY , STATE , COUNTRY . It was established in ESTA
 LEADERNAME is a leader in LOCATION , ISPARTOF , COUNTRY . LOCATION is the location of BUILDING , which has FLOORCOUNT floors .
 GROUND , which holds NUMBEROFMEMBERS fans , is the ground of SPORTSTEAM who played in the LEAGUE in 2014 - 15 . Qarabag FK have been champions of this league .
 AIRPORT is found in Punjab , COUNTRY . The airport serves CITYSERVED , COUNTRY . The leader of that country is LEADERNAME .
-The state of STATE is positioned with HAS TO ITS NORTHEAST to it ' s northeast and the HAS TO ITS WEST to it ' s west . The state is home to the UNIVERSITY in the city of CITY . The Institute is known for SPORTSOFFERED being one of the sports offered which is governed by the SPORTSGOVERNINGBODY . The Acharya Institute also has strong connections with the AFFILIATION .
+The state of STATE is positioned with HAS_TO_ITS_NORTHEAST to it ' s northeast and the HAS_TO_ITS_WEST to it ' s west . The state is home to the UNIVERSITY in the city of CITY . The Institute is known for SPORTSOFFERED being one of the sports offered which is governed by the SPORTSGOVERNINGBODY . The Acharya Institute also has strong connections with the AFFILIATION .
 FOOD is a dish from the region of REGION , the COUNTRY . MAININGREDIENTS and INGREDIENT are main ingredients .
 ASTRONAUT was born in BIRTHPLACE on November 18 , 1923 . Shepard graduated from NWC with a M . A . in 1957 . He was remembered by being awarded the Distinguished Service Medal by the United States Navy . He retired Aug 1 , 1974 . He later died in DEATHPLACE on July 21st , 1998 .
 In the COUNTRY one of the ethnic groups is African American and the capital is Washington DC . WRITTENWORK is from the country .
@@ -14374,12 +14374,12 @@ FOOD which originated in REGION uses noodles , pork organs , vegetables , chicke
 The ISSN number for Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg ( abbreviating to ABBREVIATION ) is ISSN_NUMBER . It has an LCCN number of LCCN_NUMBER , and the CODEN code is CODEN_CODE .
 The MONUMENT , located in MUNICIPALITY , in the COUNTRY , is a Contributing Property established in ESTABLISHED .
 There is an ethnic group of ETHNICGROUP .
-BUILDING is located in Avenue A , Manhattan and was added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES having the Reference Number of REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING is located in Avenue A , Manhattan and was added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES having the Reference Number of REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 IATA_LOCATION_IDENTIFIER is the IATA location identifier for Ashgabat International airport .
 In 2014 - 15 season , 1 FC Magdeburg played in the Regionalliga .
 The test pilot ASTRONAUT , who spent 100305 minutes in space , was born in BIRTHPLACE .
 The School of Business and Social Sciences at CITY University in CITY has a GOVERNMENTTYPE as its government .
-CREWMEMBERS and ASTRONAUT served as past of OPERATOR ' s WAS A CREW MEMBER OF crew . Anders served as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN and spend 8820 . 0 minutes in space . BACKUP PILOT was an WAS A CREW MEMBER OF backup pilot .
+CREWMEMBERS and ASTRONAUT served as past of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew . Anders served as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN and spend 8820 . 0 minutes in space . BACKUP_PILOT was an WAS_A_CREW_MEMBER_OF backup pilot .
 Christian Panucci is attached to the club Genoa CFC .
 BUILDING are located in ISPARTOF City , which is part of ISPARTOF .
 Taylor County is in Texas , in the COUNTRY .
@@ -14404,19 +14404,19 @@ FOLLOWEDBY was a book which followed WRITTENWORK , published by PUBLISHER in the
 FOOD comes from the U . S . , its capital city being Washington D . C . ; LEADERNAME is a leader and one of its ethnic groups are ETHNICGROUP .
 " WRITTENWORK was Published in the COUNTRY , of which English is the language .
 Peter Stoger is the manager of FC Kolin as well as being a member of the CLUB soccer club .
-The American test pilot ASTRONAUT was born in BIRTHPLACE . He was selected by NASA in WAS SELECTED BY NASA , and died on Feb 28th 1966 in St Louis .
+The American test pilot ASTRONAUT was born in BIRTHPLACE . He was selected by NASA in WAS_SELECTED_BY_NASA , and died on Feb 28th 1966 in St Louis .
 BUILDING has the Tudor Revival architectural style , and it is located in LOCATION .
 The UNIVERSITY has ACADEMICSTAFFSIZE academic staff and is located in CITY , COUNTRY . The School is affiliated with the AFFILIATION , headquartered in HEADQUARTERS .
 The manager of SPORTSTEAM is MANAGER who was at FC Bari 1908 but currently plays for A . C . Chievo Verona .
-ASTRONAUT was a member of the crew of WAS A CREW MEMBER OF which was operated by OPERATOR .
+ASTRONAUT was a member of the crew of WAS_A_CREW_MEMBER_OF which was operated by OPERATOR .
 1634 : The Galileo Affair is followed by WRITTENWORK .
-ASTRONAUT was born in BIRTHPLACE , PART . He was a student at the ALMAMATER , which is affiliated to the University Of Texas system . The ALMAMATER is competing in the COMPETE IN and their mascot is called Hook ' em .
+ASTRONAUT was born in BIRTHPLACE , PART . He was a student at the ALMAMATER , which is affiliated to the University Of Texas system . The ALMAMATER is competing in the COMPETE_IN and their mascot is called Hook ' em .
 AIRPORT is located in LOCATION , USA .
 The comic book character Dane Whitman ( otherwise known as the Black Knight ) , was created by both CREATOR and John Buscema .
 MANAGER manages the A . D . Isidro Metapan and plays for the CLUB .
 UNIVERSITY in CITY , COUNTRY is affiliated with AFFILIATION . The school is in the state of STATE and has NUMBEROFPOSTGRADUATESTUDENTS post graduate students . Its director is DIRECTOR and its full address is In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 .
 John Hopkins University Press is located in the COUNTRY .
-Among the crew of WAS A CREW MEMBER OF were ASTRONAUT and CREWMEMBERS .
+Among the crew of WAS_A_CREW_MEMBER_OF were ASTRONAUT and CREWMEMBERS .
 WRITTENWORK has NUMBEROFPAGES pages and is available in print .
 The Atat ü rk Monument is located in İ zmir , LOCATION .
 Ashgabat International airport has an ICAO location identifier of ICAO_LOCATION_IDENTIFIER , and an IATA location identifier of IATA_LOCATION_IDENTIFIER .
@@ -14440,7 +14440,7 @@ The runway length of AIRPORT , LOCATION , is 3 , 992 . 88 .
 SPORTSTEAM ( which is its full name ) , competed in the SEASON . Their ground has a capacity of NUMBEROFMEMBERS and the title of the chairman of the club is CHAIRMANTITLE .
 The manager of 1 . FC Koln is Peter Stoger . The team has NUMBEROFMEMBERS members and played in the SEASON season .
 SPORTSTEAM ' s ground is St . Vincent - St . Mary High School , CITY , US .
-ASTRONAUT , whose real name was ALTERNATIVENAMES , was born an American in BIRTHPLACE , on January 20 , 1930 . Buzz graduated in WAS SELECTED BY NASA from MIT with a Sc . D , and was selected by NASA the same year . He was a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT , whose real name was ALTERNATIVENAMES , was born an American in BIRTHPLACE , on January 20 , 1930 . Buzz graduated in WAS_SELECTED_BY_NASA from MIT with a Sc . D , and was selected by NASA the same year . He was a member of the WAS_A_CREW_MEMBER_OF crew .
 At ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , and with a runaway length of 1 , 982 , AIRPORT serves the city of Appleton and is in LOCATION .
 The Ardmore Airport in New Zealand is 34 meters above sea level and the 3rd runway is 3RD_RUNWAY_LENGTHFEET feet in length .
 INGREDIENT is an ingredient of FOOD .
@@ -14517,11 +14517,11 @@ Albany is a city in ISPARTOF .
 Arros negre comes from the region of the REGION and has squid as one of its ingredients .
 ASTRONAUT was born on October 17th , 1933 .
 CITYSERVED is served by AIRPORT where the 1st runway has an asphalt surface .
-ASTRONAUT is now retired . A US national he was born in BIRTHPLACE and became a fighter pilot . In WAS SELECTED BY NASA he was selected by OPERATOR to serve as a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT is now retired . A US national he was born in BIRTHPLACE and became a fighter pilot . In WAS_SELECTED_BY_NASA he was selected by OPERATOR to serve as a crew member on WAS_A_CREW_MEMBER_OF .
 Enrique Pena Nieto is the leader of COUNTRY , where the language is Spanish and also where the food FOOD is found .
 FOOD is a traditional dish from the Paisa region , Columbia . It includes INGREDIENT , part of the FAMILY family .
 AUTHOR was born in Burbank California and was influenced by Robert A Heinlein . He is the author of WRITTENWORK which was preceded by PRECEDEDBY .
-ASTRONAUT was an American crew member on WAS A CREW MEMBER OF , having been born in BIRTHPLACE .
+ASTRONAUT was an American crew member on WAS_A_CREW_MEMBER_OF , having been born in BIRTHPLACE .
 The UNIVERSITY is affiliated to the AFFILIATION . There are ACADEMICSTAFFSIZE academic staff and NUMBEROFSTUDENTS students .
 Agremiacao Sportiva Arapiraquense ' s ground is the Estadio Minicipal Coaracy da Mata Fonseca in LOCATION . They play in the LEAGUE league where CHAMPIONS have been champions .
 Barny cakes have 18 grams of carbs .
@@ -14529,7 +14529,7 @@ The AIRCRAFTHELICOPTER is a Helicopter used by the Indian Air Force .
 FOOD is a traditional dish from COUNTRY ( and ETHNICGROUP ) . It comes from the region of the REGION where Felipe VI is the leader .
 Alexis Tsipras heads LOCATION where LEADER is also a leader . CAPITAL is the capital of LOCATION and the currency is the CURRENCY . SPORTSTEAM is located in LOCATION .
 FOOD is a dish from the region of REGION , COUNTRY . INGREDIENT and banana are main ingredients .
-ASTRONAUT is originally from Wheeler in Texas and went on to become a test pilot . He joined NASA in WAS SELECTED BY NASA and became a member of WAS A CREW MEMBER OF before he retired .
+ASTRONAUT is originally from Wheeler in Texas and went on to become a test pilot . He joined NASA in WAS_SELECTED_BY_NASA and became a member of WAS_A_CREW_MEMBER_OF before he retired .
 The Baku Turkish Martyrs Memorial is dedicated to the DEDICATEDTO .
 ASTRONAUT is retired .
 ASTRONAUT retired in June , 1981 .
@@ -14562,7 +14562,7 @@ Dave Challinor is at Colwyn Bay FC .
 The variations of batagor and siomay are the same dish , shumai is a variation of batagor which is found in COUNTRY .
 Arros negre is from REGION , COUNTRY .
 WRITTENWORK is published by Springer Science and Business Media .
-ASTRONAUT is a test pilot and member of WAS A CREW MEMBER OF ' s crew .
+ASTRONAUT is a test pilot and member of WAS_A_CREW_MEMBER_OF ' s crew .
 The location of AIRPORT is LOCATION .
 AIRPORT serves the city of CITYSERVED , U . S .
 The dish bhajji is related to pakora and cauliflower can be used in it .
@@ -14575,7 +14575,7 @@ FOOD is a food found in COUNTRY , a country that has Malay people as an ethnic g
 UNIVERSITY has an academic staff size of ACADEMICSTAFFSIZE and the dean is DEAN .
 FOOD originates from the Antioquia region of Colombia . One of its ingredients is lemon which belongs to the rutaceae family .
 The dean of the UNIVERSITY in COUNTRY is DEAN , it has a student population of NUMBEROFSTUDENTS . The country ' s leader is LEADERNAME .
-US national ASTRONAUT , fighter pilot and WAS A CREW MEMBER OF crew member , was born in Glen Ridge , NJ , but graduated from Massachusetts Institute of Technology with a Sc . D in 1963 .
+US national ASTRONAUT , fighter pilot and WAS_A_CREW_MEMBER_OF crew member , was born in Glen Ridge , NJ , but graduated from Massachusetts Institute of Technology with a Sc . D in 1963 .
 AIRPORT , located in Egg Harbor Township , ISPARTOF ( U . S . ) , is ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level .
 Barny cakes come from COUNTRY where the leaders are Gerard Larcher and LEADERNAME and French is the language spoken .
 The fourth runway at Schiphol Airport in Amsterdam is made of asphalt .
@@ -14588,7 +14588,7 @@ ASTRONAUT graduated from NWC with a M . A . in 1957 .
 CITY , is part of ISPARTOF .
 FOOD is a dish found in LANGUAGE and English speaking COUNTRY . Home to the Zamboangans and Chinese Filipinos .
 COUNTRY ( capital : CAPITAL ) is the origin of FOOD .
-The state of STATE is located to the southwest of HAS TO ITS NORTHEAST , and east of the HAS TO ITS WEST . The UNIVERSITY , located within STATE , is affiliated with the AFFILIATION , which is located in the city of CITY . The UNIVERSITY was granted the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY , which is located in LOCATION .
+The state of STATE is located to the southwest of HAS_TO_ITS_NORTHEAST , and east of the HAS_TO_ITS_WEST . The UNIVERSITY , located within STATE , is affiliated with the AFFILIATION , which is located in the city of CITY . The UNIVERSITY was granted the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY , which is located in LOCATION .
 Auburn is part of King County in Washington .
 The AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and the 1st runway is 1ST_RUNWAY_LENGTHFEET feet .
 BUILDING is located at LOCATION and was added to the National Register of Historic Places on February the 27nd 1987 .
@@ -14603,7 +14603,7 @@ CITYSERVED is a city in the COUNTRY served by AIRPORT . The airport can be found
 INGREDIENT is an ingredient in FOOD which is from the REGION region , in COUNTRY .
 BIRTHPLACE is the birthplace of AUTHOR who wrote " PRECEDEDBY " . This book is followed by the novel " WRITTENWORK " , " FOLLOWEDBY " and " Maiden Castle " .
 FOOD hails from REGION , COUNTRY . The main ingredients are meringue , ice cream and sponge cake ( or Christmas pudding ) .
-ASTRONAUT ( born January 20th , 1930 in BIRTHPLACE ) , was hired by NASA in WAS SELECTED BY NASA . He was a crew member of WAS A CREW MEMBER OF and is now retired .
+ASTRONAUT ( born January 20th , 1930 in BIRTHPLACE ) , was hired by NASA in WAS_SELECTED_BY_NASA . He was a crew member of WAS_A_CREW_MEMBER_OF and is now retired .
 SPORTSTEAM is located in LOCATION . The country ' s capital is CAPITAL and the leader is LEADER .
 Monroe Township is part of ISPARTOF .
 Located in LOCATION , a part of ISPARTOF , is the BUILDING .
@@ -14620,7 +14620,7 @@ LOCATION is the location of AIRPORT and has the capital city of Austin . The inh
 CAPITAL is the capital of the COUNTRY and the leader of the COUNTRY has a title called the president . LEADERNAME is a leader of the COUNTRY . ETHNICGROUP are one of many ethnic groups in the COUNTRY which is where FOOD comes from .
 WRITTENWORK is from the COUNTRY , where LEADERNAME is leader , and English is spoken ( as in SPOKENIN ) . Native Americans are one of the ethnic groups of the COUNTRY .
 CITY is the capital of Georgia , United States .
-ASTRONAUT ( born on March 15 , 1932 ) was chosen by OPERATOR in WAS SELECTED BY NASA to be crew member of WAS A CREW MEMBER OF and BACKUP PILOT as a backup pilot . The operator of WAS A CREW MEMBER OF was OPERATOR under command of COMMANDER .
+ASTRONAUT ( born on March 15 , 1932 ) was chosen by OPERATOR in WAS_SELECTED_BY_NASA to be crew member of WAS_A_CREW_MEMBER_OF and BACKUP_PILOT as a backup pilot . The operator of WAS_A_CREW_MEMBER_OF was OPERATOR under command of COMMANDER .
 The UNIVERSITY is located in the city of CITY .
 MANAGER was the manager of SPORTSTEAM .
 MAININGREDIENTS are the main ingredients of FOOD which hails from REGION but the countries of France , United States and China all claim to have invented the dish .
@@ -14637,8 +14637,8 @@ INGREDIENT is an ingredient of FOOD which is a dish found in the US , Hong Kong 
 The UNIVERSITY ' s campus is in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , Karnatka , 560090 , Undia . Its director is Dr G . P . Prabhukumar . It is affiliated with the AFFILIATION in CITY .
 AUTHOR wrote the book WRITTENWORK . It is the sequel to PRECEDEDBY .
 The address of BUILDING is " ADDRESS " .
-American national ASTRONAUT was born in Glen Ridge , county Essex , New Jersey . He was a crew member of WAS A CREW MEMBER OF , which was operated by OPERATOR .
-ALTERNATIVENAMES , who is also known as ASTRONAUT , was chosen by OPERATOR to be a member of WAS A CREW MEMBER OF and he retired on July 1st , 1971 .
+American national ASTRONAUT was born in Glen Ridge , county Essex , New Jersey . He was a crew member of WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR .
+ALTERNATIVENAMES , who is also known as ASTRONAUT , was chosen by OPERATOR to be a member of WAS_A_CREW_MEMBER_OF and he retired on July 1st , 1971 .
 AIRPORT is located in LOCATION , USA , the capital of LOCATION is Austin , people in LOCATION are called Texans and one of their languages is Spanish .
 FOOD is a soup eaten in the COUNTRY . The main ingredients of FOOD are MAININGREDIENTS .
 Bo ( full name Bibbo ) Bibbowski was created by CREATOR and the American , Jerry Ordway .
@@ -14658,7 +14658,7 @@ AIRPORT serves the city of CITYSERVED and situated 88 meters above sea level and
 WRITTENWORK , ISBN number ISBN_NUMBER , is NUMBEROFPAGES pages long .
 The country that bacon sandwich comes from is the COUNTRY .
 The capital city of the United Kingdom is CAPITAL .
-The UNIVERSITY is located in the city of CITY , which has HAS TO ITS NORTHEAST to its northeast .
+The UNIVERSITY is located in the city of CITY , which has HAS_TO_ITS_NORTHEAST to its northeast .
 Barny cakes , which are made from sponge cake , come from COUNTRY .
 AIRPORT is located in LOCATION and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 The 3rd runway at AIRPORT is made of 3RD_RUNWAY_SURFACETYPE which is class as monocotyledon and part of the commelinids order .
@@ -14688,7 +14688,7 @@ The comic character Arion is also known as ALTERNATIVENAME .
 the religion of England is RELIGION .
 Alan B Miller Hall in LOCATION was designed by the architect Robert A M Stern and is owned by the College of William and Mary .
 The President of the UNIVERSITY is PRESIDENT and the university is located in CITY . The city was foundered by FOUNDER .
-ASTRONAUT was an American born in BIRTHPLACE who served as part of OPERATOR ' s WAS A CREW MEMBER OF crew . WAS A CREW MEMBER OF was commanded by COMMANDER , and also included BACKUP PILOT as a backup pilot .
+ASTRONAUT was an American born in BIRTHPLACE who served as part of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew . WAS_A_CREW_MEMBER_OF was commanded by COMMANDER , and also included BACKUP_PILOT as a backup pilot .
 The AIRPORT ( located at San Sebastian de los Reyes ) is operated by OPERATINGORGANISATION which is in the city of LOCATIONCITY , in COUNTRY .
 BUILDING is located in the LOCATION ( with an important ethnic group being ETHNICGROUP ) , led by the LEADERTITLE and also with LEADERNAME in a leadership role .
 AIRPORT serves the city of CITYSERVED , a popular tourist destination in COUNTRY . Two of the leaders of which are Philippe of COUNTRY and LEADERNAME . COUNTRY ' s language is Dutch .
@@ -14730,7 +14730,7 @@ In the COUNTRY the leader is LEADERNAME , the capital city is Washington D . C .
 The Al Taqaddum Air Base which serves the city of CITYSERVED is located at 84 metres above sea level and has a runway length of 36ELEVATIONABOVETHESEALEVEL_(IN_METRES) .
 FOOD is part of Columbian cuisine and one of the ingredients is pork belly .
 WRITTENWORK is abbreviated to ABBREVIATION with the LCCN number of LCCN_NUMBER and the ISSN number of ISSN_NUMBER .
-ASTRONAUT was born in October 17th 1933 in BIRTHPLACE . William was chosen by NASA in WAS SELECTED BY NASA as a figter pilot for the WAS A CREW MEMBER OF crew . He later retired in 1969 .
+ASTRONAUT was born in October 17th 1933 in BIRTHPLACE . William was chosen by NASA in WAS_SELECTED_BY_NASA as a figter pilot for the WAS_A_CREW_MEMBER_OF crew . He later retired in 1969 .
 CODEN_CODE is the CODEN code for WRITTENWORK .
 RUNWAYNAME is the runway name of the Adolfo Su á rez Madrid - Barajas Airport .
 FOOD originates from the REGION in Colombia . The dish ' s main ingredients are : red beans , pork belly , white rice , ground meat , chicharron , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon .
@@ -14759,7 +14759,7 @@ Compressed rice cooked in banana leaf with vegetables or minced meat fillings ar
 The WRITTENWORK ( OCLC number OCLC_NUMBER ) is published by Sage Publications , the company which was founded by FOUNDER .
 FOOD is a dessert that contains sweet potato and MAININGREDIENTS , it hails from the REGION region of the COUNTRY .
 The leader of Switzerland is LEADERNAME .
-ASTRONAUT was born in BIRTHPLACE , the NATIONALITY . He was a member of WAS A CREW MEMBER OF and also served as a test pilot . He graduated from UT Austin 1955 with a B . S . and is now retired .
+ASTRONAUT was born in BIRTHPLACE , the NATIONALITY . He was a member of WAS_A_CREW_MEMBER_OF and also served as a test pilot . He graduated from UT Austin 1955 with a B . S . and is now retired .
 UNIVERSITY is located in COUNTRY where the RIVER river flows .
 FOOD comes from the COUNTRY and LANGUAGE is one of the languages spoken there .
 There are NUMBEROFMEMBERS members of SPORTSTEAM who are in season SEASON .
@@ -14804,7 +14804,7 @@ SPORTSTEAM , which has NUMBEROFMEMBERS members , is in the league EPSTH 2nd GROU
 UNIVERSITY ( COUNTRY ) has an academic staff of ACADEMICSTAFFSIZE . The largest city in COUNTRY is LARGESTCITY and one of the country ' s rivers is the RIVER .
 The OPERATINGORGANISATION is the operating organisation for Al Asad airbase in LOCATION . ICAO_LOCATION_IDENTIFIER is the ICAO location identifier for the airbase . Al Asad airbase ' s runway name is " RUNWAYNAME " and it is RUNWAYLENGTH meters long .
 AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and its 1st runway has a length of 1ST_RUNWAY_LENGTHFEET metres .
-ASTRONAUT served as a crew member of WAS A CREW MEMBER OF operated by OPERATOR where CREWMEMBERS was also a crew member . He was born in BIRTHPLACE led by REPRESENTATIVE .
+ASTRONAUT served as a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR where CREWMEMBERS was also a crew member . He was born in BIRTHPLACE led by REPRESENTATIVE .
 FOOD can be found in COUNTRY where the capital is CAPITAL and the language is Italian . The leader in COUNTRY is LEADERNAME .
 LOCATION , which is part of ISPARTOF , is lead by LEADERNAME and is the location of AIRPORT .
 INGREDIENT , which is one of the ingredients of FOOD , is part of the FAMILY family and also part of the order of ORDER .
@@ -14819,7 +14819,7 @@ The comic character Bolt was created by Gary Cohn and Ernie Colon , the latter o
 SPORTSTEAM played the 2014 - 15 season in Serie A and their ground holds NUMBEROFMEMBERS members .
 The UNIVERSITY is located in Soldevanahalli , at the address Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 . It ' s affiliated with the AFFILIATION .
 Admisham Hall is located at LOCATION .
-ASTRONAUT is originally from BIRTHPLACE and graduated from UT Austin 1955 with a Bachelor of Science degree . ASTRONAUT joined NASA in WAS SELECTED BY NASA as a test pilot and spent 100305 minutes in space .
+ASTRONAUT is originally from BIRTHPLACE and graduated from UT Austin 1955 with a Bachelor of Science degree . ASTRONAUT joined NASA in WAS_SELECTED_BY_NASA as a test pilot and spent 100305 minutes in space .
 BUILDING is in LOCATION , ISPARTOF in the U . S . LEADERNAME is a leader in LOCATION .
 WRITTENWORK was written by AUTHOR who was born in BIRTHPLACE . The book was followed by FOLLOWEDBY and also Maiden Castle .
 FOOD also known as ALTERNATIVENAME originates from the country of COUNTRY , one of it ' s ingredients is INGREDIENT .
@@ -14832,14 +14832,14 @@ AUTHOR wrote WRITTENWORK which is available in print form .
 MANAGER has been the manager of 1 FC Magdeburg and is part of the club CLUB .
 The OPERATINGORGANISATION is the operating organisation for Al Asad airbase and using F - 16 Fighting Falcons as an aircraft fighter . The 1986 United States bombing of Lybia was carried out by the US Air Force .
 The OPERATINGORGANISATION fought in the BATTLES , and now it operates the Al Asad airbase . One of its fighter aircraft is named the AIRCRAFTFIGHTER .
-American ASTRONAUT was chosen by NASA in WAS SELECTED BY NASA to be part of the WAS A CREW MEMBER OF mission . He was a test pilot who was born on March 12th , 1932 in BIRTHPLACE .
+American ASTRONAUT was chosen by NASA in WAS_SELECTED_BY_NASA to be part of the WAS_A_CREW_MEMBER_OF mission . He was a test pilot who was born on March 12th , 1932 in BIRTHPLACE .
 The coden code for WRITTENWORK ( abbreviated " ABBREVIATION " ) is CODEN_CODE .
 The title of the leader of Romania is " Prime Minister " .
 The MONUMENT is located in the district of the DISTRICT , Frederick County , COUNTRY . It was established on 11 July 1907 and is categorised as a historic district .
-ASTRONAUT was born in BIRTHPLACE . In 1962 , ASTRONAUT received a M . S . from his alma Mater , AFIT , and he joined NASA in WAS SELECTED BY NASA . He was a test pilot for WAS A CREW MEMBER OF . He retired on September 1st in 1969 .
+ASTRONAUT was born in BIRTHPLACE . In 1962 , ASTRONAUT received a M . S . from his alma Mater , AFIT , and he joined NASA in WAS_SELECTED_BY_NASA . He was a test pilot for WAS_A_CREW_MEMBER_OF . He retired on September 1st in 1969 .
 BUILDING has a floor area of 111484 square metres .
 The main ingredients of asam pedas consist of fish cooked in a sour and hot sauce . The dish originated in REGION and is also found in COUNTRY .
-Karnataka neighbors HAS TO ITS NORTHEAST to its northeast .
+Karnataka neighbors HAS_TO_ITS_NORTHEAST to its northeast .
 The capital of Italy is CAPITAL .
 The currency of COUNTRY is the CURRENCY , it ' s also where FOOD is from and the leader is Felipe VI of COUNTRY .
 AEK Athens are managed by MANAGER who played for Chelsea F . C .
@@ -14858,11 +14858,11 @@ A dish popular in COUNTRY is asam pedas from the Malay peninsula region , which 
 MAININGREDIENTS are the main ingredients of FOOD which is a food found in COUNTRY .
 LEADERNAME is the leader of LOCATION , a country which is the located of the bronze Ataturk Monument which was inaugurated on July 27th , 1932 .
 The leader of LOCATION is LEADERNAME and is home to BUILDING .
-BUILDING is located on LOCATION and was added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING is located on LOCATION and was added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 FOOD is a popular dish in COUNTRY where LEADERNAME is the leader and English the country ' s spoken language . The food is available nationwide in Indonesia as well .
 Found in Indonesiam a batagor consists of a MAININGREDIENTS .
 Chicago is located in the COUNTRY .
-American ASTRONAUT was born in BIRTHPLACE in BIRTHDATE . He was a crew member on WAS A CREW MEMBER OF and spent a total of 52 . 0 minutes in space . He has retired now .
+American ASTRONAUT was born in BIRTHPLACE in BIRTHDATE . He was a crew member on WAS_A_CREW_MEMBER_OF and spent a total of 52 . 0 minutes in space . He has retired now .
 The book WRITTENWORK comes from the U . S . where LEADERNAME is the leader of the country which includes many ETHNICGROUP .
 The full name of A . D . Isidro Metapan which has NUMBEROFMEMBERS members , is Isidro Metapan and their ground is in Metapan .
 FOOD , with the main ingredients ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables and fried shallots , is a dish that comes from the country of COUNTRY .
@@ -14921,7 +14921,7 @@ The comic book character Arion was created by CREATOR .
 SPORTSTEAM were in the Lega Pro in the 2014 - 15 season .
 FOOD is a dish found in COUNTRY , it includes peanut sauce . Siomay and DISHVARIATION are variations of the same dish .
 The comic book character Arion was created by Jan Duursema and CREATOR .
-ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He was selected by NASA in WAS SELECTED BY NASA . The United States Navy awarded the Distinguished Service Medal to ASTRONAUT , which ranks higher than HIGHER .
+ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He was selected by NASA in WAS_SELECTED_BY_NASA . The United States Navy awarded the Distinguished Service Medal to ASTRONAUT , which ranks higher than HIGHER .
 LOCATION is part of ISPARTOF in the COUNTRY , it ' s home to 200 public square .
 1634 The Ram Rebellion comes from the COUNTRY , the leader of this country is LEADERNAME and the capital is CAPITAL . They have an ethnic group called ETHNICGROUP .
 CITY has a water area of 82 . 8 square kilometres .
@@ -14941,7 +14941,7 @@ AIRPORT is located in LOCATION , part of the community of LOCATION in COUNTRY .
 The AIDS journal was published in the COUNTRY where the LANGUAGE is spoken .
 The FULLNAME is the complete name for the SPORTSTEAM who played in the Topklasse in the 2014 - 2015 season .
 With a runway surface made of Asphalt and Concrete , AIRPORT is in Egg Harbor . Egg Harbor Township is a township in ISPARTOF , COUNTRY .
-ASTRONAUT who was born in BIRTHPLACE worked for OPERATOR and became a member of the WAS A CREW MEMBER OF . COMMANDER was the commander and BACKUP PILOT was the back up pilot .
+ASTRONAUT who was born in BIRTHPLACE worked for OPERATOR and became a member of the WAS_A_CREW_MEMBER_OF . COMMANDER was the commander and BACKUP_PILOT was the back up pilot .
 Admin . Sci . Q is the abbreviation for the WRITTENWORK which has the LCCN number of LCCN_NUMBER .
 FOOD is a dish from the Antioquia region of COUNTRY . It is made from lemons , genus citrus and family Rustaceae .
 SPORTSTEAM is located in LOCATION , where CAPITAL in the capital and Nikos Voutsis and LEADER are leaders .
@@ -14955,14 +14955,14 @@ UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED and has NUMBEROFSTUD
 FOOD is from the REGION region .
 FOOD is a traditional sauce of COUNTRY , where the capital is CAPITAL and a key leader is LEADERNAME .
 The WRITTENWORK is abbreviated ABBREVIATION and has the CODEN code CODEN_CODE . It comes under the academic discipline of ACADEMICDISCIPLINE .
-ASTRONAUT was born on 17th October 1933 in BIRTHPLACE . He graduated , with a M . S . , from AFIT in 1962 . He served as a fighter pilot and joined NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born on 17th October 1933 in BIRTHPLACE . He graduated , with a M . S . , from AFIT in 1962 . He served as a fighter pilot and joined NASA in WAS_SELECTED_BY_NASA .
 MANAGER plays for Empoli F . C . and CLUB while managing A . S . Roma .
 BUILDING was designed by the architect , ARCHITECT and it is located in LOCATION . It has FLOORCOUNT floors and it was completed in COMPLETIONDATE .
 Stuart Parker is in the club CLUB .
 The OCLC number for WRITTENWORK is OCLC_NUMBER and the ISNN is ISBN_NUMBER .
 AIRPORT is located at LOCATION , ISPARTOF , COUNTRY and has a runway called " RUNWAYNAME " .
 SPORTSTEAM play in the LEAGUE .
-To the southeast of LOCATION , whereMONUMENT is located , lies HAS TO ITS SOUTHEAST .
+To the southeast of LOCATION , whereMONUMENT is located , lies HAS_TO_ITS_SOUTHEAST .
 LEAGUE league former champions are Juventus FC . AS Roma ( fullname FULLNAME ) who have a ground in GROUND also play in the league .
 Some main ingredients in FOOD are ground almonds , jam , butter and eggs .
 WRITTENWORK , is published by PUBLISHER which is based in HEADQUARTER , REGIONSERVED .
@@ -14985,7 +14985,7 @@ Ann Arbor is part of Washtenaw County in Michigan .
 IATA_LOCATION_IDENTIFIER is the ATA Location Identifier for AIRPORT which is located in LOCATION .
 Barny cakes can be found in COUNTRY .
 AEK GROUND F . C , member of the Superleague of Greece , has its ground in GROUND .
-ASTRONAUT was born in BIRTHPLACE , Texas . He graduated from the ALMAMATER , which is affiliated to the University Of Texas system and will compete in the COMPETE IN . PRESIDENT is the appointed president of the ALMAMATER .
+ASTRONAUT was born in BIRTHPLACE , Texas . He graduated from the ALMAMATER , which is affiliated to the University Of Texas system and will compete in the COMPETE_IN . PRESIDENT is the appointed president of the ALMAMATER .
 A T Charlie Johnson is a NATIONALITY national who is the editor of WRITTENWORK . His alma mater is ALMAMATER and his doctoral advisor was DOCTORALADVISOR .
 The BROADCASTEDBY , founded by FOUNDEDBY , has its headquarters in LOCATIONCITY . The BROADCASTEDBY produces BROADCASTEDBY radio and broadcast the TV series COMICSCHARACTER .
 SPORTSTEAM ' s ground is GROUND , tenanted by TENANT and operated by OPERATOR .
@@ -14998,7 +14998,7 @@ Tomato belongs to the genus GENUS .
 The BUILDING hosts concerts and events .
 A T Charlie Johnson lives in the RESIDENCE and is the editor of WRITTENWORK and the doctoral advisor for DOCTORALADVISOR .
 AIRPORT is located in LOCATION whose capital city is Austin . English is one of the spoken languages in LOCATION and the state ' s inhabitants are called Texans .
-The MONUMENT is located in LOCATION , which is northwest of HAS TO ITS SOUTHEAST .
+The MONUMENT is located in LOCATION , which is northwest of HAS_TO_ITS_SOUTHEAST .
 3 Arena is in LOCATION which is part of ISPARTOF .
 Born in BIRTHPLACE , AUTHOR is the author of Owen Glendower and WRITTENWORK .
 The Ataturk Monument , made of bronze , was designed by DESIGNER and is located in Izmir , LOCATION where the currency is the Turkish Lira and the largest City is LARGESTCITY ; the monument was inaugurated on July 27 , 1932 .
@@ -15016,7 +15016,7 @@ CITY , is part of Hays County Texas .
 COUNTRY International airport is located at ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level in Icolo e Bengo , CITYSERVED Province , and serves the city of CITYSERVED .
 Amdavad , completed in COMPLETIONDATE , is located in LOCATION , Gujaret , COUNTRY , at Lalbhai Dalpatbhal Campus , near CEPT University , opp . Gujarat University , University Row .
 Arros negre comes from the region of the REGION , COUNTRY . The main ingredients are white rice , cuttlefish or squid , cephalopod ink , cubanelle peppers .
-Buzz Aldrin was born in Glen Ridge , ISPARTOF . In WAS SELECTED BY NASA , he was selected to be part of OPERATOR ' s WAS A CREW MEMBER OF crew . ASTRONAUT was an WAS A CREW MEMBER OF backup pilot .
+Buzz Aldrin was born in Glen Ridge , ISPARTOF . In WAS_SELECTED_BY_NASA , he was selected to be part of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew . ASTRONAUT was an WAS_A_CREW_MEMBER_OF backup pilot .
 English is the language spoken in Michigan .
 The book WRITTENWORK ( which was followed by FOLLOWEDBY ) , was published by PUBLISHER of the COUNTRY . PUBLISHER has the parent company PARENTCOMPANY .
 A T Charlie Johnson ' s doctoral advisor was DOCTORALADVISOR .
@@ -15032,14 +15032,14 @@ EISSN_NUMBER is the EISSN number for the WRITTENWORK .
 Juventus FC and AS Roma are former LEAGUE champions , where Roma has NUMBEROFMEMBERS members , its headquarters is the Olimpico stadium .
 LEADERNAME is the leader of the United States .
 COMICSCHARACTER first aired on the BROADCASTEDBY on October 3rd , 1983 and broadcast its last episode on April 15th , 1986 . STARRING was one of the stars on the series which was created by CREATOR .
-Despite being born in BIRTHPLACE , Williams Anders was a NATIONALITY national . His birth date is October 17th , 1933 . In WAS SELECTED BY NASA , he was chosen by NASA and served as a fighter pilot and crew member on WAS A CREW MEMBER OF .
+Despite being born in BIRTHPLACE , Williams Anders was a NATIONALITY national . His birth date is October 17th , 1933 . In WAS_SELECTED_BY_NASA , he was chosen by NASA and served as a fighter pilot and crew member on WAS_A_CREW_MEMBER_OF .
 AFC GROUND ( the grounds of which are in GROUND ) , play in the LEAGUE .
 The book WRITTENWORK , identified by ISSN number ISSN_NUMBER , is abbreviated by Am . J . Math .
 Akita Akita is found in the country of COUNTRY .
 The runway length of Andrews County airport is RUNWAYLENGTH .
 The comic character of Auron ( whose full name is FULLNAME ) was created by CREATOR and the American , Karl Kesel .
-ASTRONAUT was born in BIRTHPLACE , which is in PART . He graduated from the ALMAMATER , which is affiliated with the AFFILIATION . The ALMAMATER will be a competitor in the COMPETE IN .
-ASTRONAUT attended the ALMAMATER . The university is affiliated with the AFFILIATION and it competed in the COMPETE IN in Austin . The president of the university was PRESIDENT . ASTRONAUT died in St Louis . The leader of St . Louis was LEADERNAME .
+ASTRONAUT was born in BIRTHPLACE , which is in PART . He graduated from the ALMAMATER , which is affiliated with the AFFILIATION . The ALMAMATER will be a competitor in the COMPETE_IN .
+ASTRONAUT attended the ALMAMATER . The university is affiliated with the AFFILIATION and it competed in the COMPETE_IN in Austin . The president of the university was PRESIDENT . ASTRONAUT died in St Louis . The leader of St . Louis was LEADERNAME .
 INGREDIENT is an ingredient in the Spanish dish ajoblanco .
 FOOD is a traditional dish found in the whole of COUNTRY and is popular in neighbouring Southeast Asian countries too . CAPITAL is the capital of COUNTRY and the leader is LEADERNAME .
 RUNWAYLENGTH is the length of the runway at AIRPORT .
@@ -15080,13 +15080,13 @@ ISPARTOF and the BUILDING are in LOCATION , COUNTRY . LANGUAGE is a language spo
 FOOD originated from the region of REGION , COUNTRY . The main ingredients of batchoy are noodles , pork organs , vegetables , chicken , shrimp , and beef .
 Greece demonym is DEMONYM .
 LEADERNAME is the leader of Greece .
-ASTRONAUT was a selected as a crew member of WAS A CREW MEMBER OF by NASA in WAS SELECTED BY NASA and retired 1st September 1969 .
+ASTRONAUT was a selected as a crew member of WAS_A_CREW_MEMBER_OF by NASA in WAS_SELECTED_BY_NASA and retired 1st September 1969 .
 MAININGREDIENTS are the main ingredients of FOOD which is found in COUNTRY .
 The AIRPORT is located in Greenville , Wisconsin . Greenville is part of Dale , Wisconsin . Appleton is part of Grand Chute , Wisconsin .
 Est á dio Municipal Coaracy da Mata Fonseca is located in LOCATION .
 PUBLISHER , of CITY is the publisher of WRITTENWORK . The University is affiliated with the AFFILIATION and also with the Association of Public and Land Grant Universities .
 AIRPORT is found in LOCATION which is part of the community of LOCATION , COUNTRY .
-ASTRONAUT died in St Louis on 28 February 1966 . He was born in BIRTHPLACE on 23 July 1927 and attended the University of Texas . He was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT died in St Louis on 28 February 1966 . He was born in BIRTHPLACE on 23 July 1927 and attended the University of Texas . He was selected by NASA in WAS_SELECTED_BY_NASA .
 With an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , AIRPORT is located in the Wilson Township , in Alpena County , Michigan , in the U . S . A .
 AIRPORT is located in LOCATION , COUNTRY . Its runway length is RUNWAYLENGTH .
 The city manager is the leader of CITY .
@@ -15100,7 +15100,7 @@ AIRPORT , located in LOCATION , ISPARTOF , has an elevation of ELEVATIONABOVETHE
 The BBC was founded by FOUNDEDBY .
 Chinese is a language of Hong Kong .
 UNIVERSITY was established in ESTABLISHED in CITY , COUNTRY . It has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students and is affiliated with AFFILIATION . UNIVERSITY is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 .
-BIRTHNAME otherwise know as Buzz Aldrin was a member of WAS A CREW MEMBER OF along with ASTRONAUT . Buzz Aldrin won AWARDS awards .
+BIRTHNAME otherwise know as Buzz Aldrin was a member of WAS_A_CREW_MEMBER_OF along with ASTRONAUT . Buzz Aldrin won AWARDS awards .
 LEADER , is one of the leaders , in the New Mexico Senate .
 The 3rd runway at AIRPORT , which is called " RUNWAYNAME " , is made of 3RD_RUNWAY_SURFACETYPE .
 FOOD is a dessert dish from the REGION region of the COUNTRY and contains the ingredients taro and banana .
@@ -15119,7 +15119,7 @@ STARRING ( born in BIRTHPLACE ) stars in COMICSCHARACTER .
 SPORTSTEAM , full name FULLNAME Livorno Calcio , is based in GROUND . They have NUMBEROFMEMBERS members and were in Serie B in the 2014 - 15 season .
 FOOD is a popular dish in COUNTRY , where standard Chinese is spoken .
 Arros negre contains white rice and comes from the region of the REGION in COUNTRY .
-BIRTHPLACE born ASTRONAUT was a crew member on OPERATOR ' s WAS A CREW MEMBER OF alongside backup pilot BACKUP PILOT and CREWMEMBERS .
+BIRTHPLACE born ASTRONAUT was a crew member on OPERATOR ' s WAS_A_CREW_MEMBER_OF alongside backup pilot BACKUP_PILOT and CREWMEMBERS .
 The UNIVERSITY in COUNTRY which is affiliated with the AFFILIATION in the city of CITY , has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students . The campus is located at In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
 LEADERNAME is the leader of LOCATION , part of ISPARTOF , which is the location of Agra airport at an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 INGREDIENT sandwiches come from the UK . The main ingredient is bacon and other variations include the BLT and a Club Sandwich .
@@ -15129,25 +15129,25 @@ ASTRONAUT was born in BIRTHPLACE , America and went to school at NWC , graduatin
 lemons are classified in the order sapindales .
 BUILDING is located in the LOCATION where the Chief Justice is LEADERNAME and the leader ' s title is LEADERTITLE .
 The book " WRITTENWORK " is available in print .
-ASTRONAUT , who was chosen by NASA in WAS SELECTED BY NASA to serve as a test pilot , was born in BIRTHPLACE .
-ASTRONAUT was born in BIRTHPLACE , was a test pilot and is dead . He graduated from the ALMAMATER , which is affiliated to the University Of Texas system and will compete in the COMPETE IN .
+ASTRONAUT , who was chosen by NASA in WAS_SELECTED_BY_NASA to serve as a test pilot , was born in BIRTHPLACE .
+ASTRONAUT was born in BIRTHPLACE , was a test pilot and is dead . He graduated from the ALMAMATER , which is affiliated to the University Of Texas system and will compete in the COMPETE_IN .
 The UNIVERSITY was established in ESTABLISHED and is located in CITY , COUNTRY . COUNTRY is led by its Federal Chancellor LEADERNAME . Its anthem is the ANTHEM .
 Ataturk monument , which was designed by DESIGNER is located in Izmur , LOCATION where it ' s inauguration took place on 27 July 1932 . The capital of LOCATION is CAPITAL and the leader is Ahmet Davutoglu .
-American ASTRONAUT was born in BIRTHPLACE , graduated in WAS SELECTED BY NASA from MIT with a Sc . D and in the same year was selected by NASA who was a crew member on WAS A CREW MEMBER OF .
+American ASTRONAUT was born in BIRTHPLACE , graduated in WAS_SELECTED_BY_NASA from MIT with a Sc . D and in the same year was selected by NASA who was a crew member on WAS_A_CREW_MEMBER_OF .
 AIRPORT serves the city of CITYSERVED , COUNTRY , where French is spoken .
 MONUMENT , located in LOCATION , is dedicated to DEDICATEDTO . LOCATION ' s capital city is CAPITAL and one of the ethnic groups of the country are the ETHNICGROUPS . One of the languages spoken in LOCATION is Cornish .
 The UNIVERSITY was founded in ESTABLISHED in the city of CITY in the country of COUNTRY and currently has DEAN as dean . The school has strong affiliations with the AFFILIATION which is based in HEADQUARTERS .
 A . S . Roma ' s chairman is CHAIRMAN , who was born in BIRTHPLACE .
 English is spoken in SPOKENIN and the COUNTRY where the leader is LEADERNAME , ETHNICGROUP are one of the ethnic groups and WRITTENWORK was written .
-The BUILDING , constructed in YEAROFCONSTRUCTION are in LOCATION . They were added to the National Register of Historic Places on 23rd April 1980 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+The BUILDING , constructed in YEAROFCONSTRUCTION are in LOCATION . They were added to the National Register of Historic Places on 23rd April 1980 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 BUILDING is located in LOCATION , which is a part of Dupage County , Illinois .
 1ST_RUNWAY_NUMBER is the number of the first runway of AIRPORT which is 159m a . s . l .
 FOOD is a dessert containing honey found in COUNTRY where the leader is LEADERNAME .
 French is the spoken language in Belgium .
-STATE is located southwest of HAS TO ITS NORTHEAST and has the HAS TO ITS WEST to the west . It is the location of the UNIVERSITY in the city of CITY . The Institute is affiliated with the AFFILIATION and offers the sport of tennis which is governed by the SPORTSGOVERNINGBODY .
+STATE is located southwest of HAS_TO_ITS_NORTHEAST and has the HAS_TO_ITS_WEST to the west . It is the location of the UNIVERSITY in the city of CITY . The Institute is affiliated with the AFFILIATION and offers the sport of tennis which is governed by the SPORTSGOVERNINGBODY .
 Egg Harbor Township , NJ COUNTRY is the home of AIRPORT ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 FOOD is eaten in the COUNTRY . The country include the llocano people , ETHNICGROUP and LANGUAGE is spoken there .
-The Acharya Institute is located in CITY . It was given the " Technical Campus " status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY , which is located in LOCATION .
+The Acharya Institute is located in CITY . It was given the " Technical Campus " status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY , which is located in LOCATION .
 MANAGER is the manager of SPORTSTEAM . He is in Vitesse Arnhem , and plays for both Istanbulspor AS and AFC Ajax .
 Adolfo Su á rez LOCATIONCITY Barajas Airport is found in LOCATION , COUNTRY and is operated by the LOCATIONCITY based company OPERATINGORGANISATION . LOCATIONCITY is part of the ISPARTOF .
 FOOD , a dish made in China , is also found in REGION . The capital of REGION is CAPITAL and its leader is LEADERNAME .
@@ -15182,22 +15182,22 @@ FOOD is a main course and originates from the COUNTRY . Its main ingredients are
 ARCHITECT was the architect of the BUILDING building which construction started in BUILDINGSTARTDATE and completed in COMPLETIONDATE .
 The main ingredients of FOOD are white rice , cuttlefish or squid , cephalopod ink and cubanelle peppers . The dish is from the REGION region of COUNTRY .
 SPORTSOFFERED is one of the sports offered at the UNIVERSITY .
-ASTRONAUT was born in BIRTHPLACE and his occupation was a OCCUPATION when selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born in BIRTHPLACE and his occupation was a OCCUPATION when selected by NASA in WAS_SELECTED_BY_NASA .
 SPORTSTEAM competed in the season SEASON .
 WRITTENWORK was edited by EDITOR .
 The author of WRITTENWORK , which is available in print form , is AUTHOR .
-American ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He was hired by NASA in WAS SELECTED BY NASA as a test pilot and spent in Space 100305 . 0 minutes . Now he is retired .
+American ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He was hired by NASA in WAS_SELECTED_BY_NASA as a test pilot and spent in Space 100305 . 0 minutes . Now he is retired .
 BUILDING in LOCATION is located in COUNTRY whose leader is LEADERNAME .
 STARRING stars in the TV series of COMICSCHARACTER which was shown on BROADCASTEDBY and first aired on 3 October 1983 .
 Lippincott , Williams & Wilkins publishes the AIDS journal in the COUNTRY . The country uses the LANGUAGE and is lead by LEADERNAME from the capital city , CAPITAL .
 Dead Mans Plack is a rock formation found in LOCATION and dedicated to Aethelwald , Ealdorman of East Anglia . One of the ethnic groups of the country are the ETHNICGROUPS , and the Church of LOCATION is the official religion . The LANGUAGES is still spoken in parts of the country .
 The AIRPORT which is 610 metres above sea level , is in LOCATION . part of the community of Madrid in COUNTRY .
 SPORTSTEAM , has NUMBEROFMEMBERS members , and was in the SEASON season .
-BUILDING was constructed in YEAROFCONSTRUCTION and is located in LOCATION . It was added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING was constructed in YEAROFCONSTRUCTION and is located in LOCATION . It was added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 FOOD is a dish known in REGION and COUNTRY . The main ingredient is fried chicken which is squeezed or smashed . This dish comes with sambal and is served hot .
 FOOD is found in the REGION in Columbia . The main ingredients of FOOD are MAININGREDIENTS .
 CHAMPIONS are the champions of Campeonato Brasileiro Serie C .
-OCCUPATION ASTRONAUT was part of the WAS A CREW MEMBER OF mission and spent 100305 . 0 minutes in space . Bean was born in BIRTHPLACE on March 15th , 1932 and in 1955 graduated from the University of Texas in Austin with a Bachelor of Science degree .
+OCCUPATION ASTRONAUT was part of the WAS_A_CREW_MEMBER_OF mission and spent 100305 . 0 minutes in space . Bean was born in BIRTHPLACE on March 15th , 1932 and in 1955 graduated from the University of Texas in Austin with a Bachelor of Science degree .
 Irish English is the official language of Ireland , which is lead by LEADERNAME and home to BUILDING .
 Associazione Calcio ChievoVerona is managed by MANAGER , who plays for CLUB .
 RUNWAYNAME is the runway name of AIRPORT .
@@ -15230,8 +15230,8 @@ A wizard of mars written in English spoken mostly in SPOKENIN was published in C
 The ISBN number of WRITTENWORK is ISBN_NUMBER .
 The AIRPORT serves the city of CITYSERVED which is part of ISPARTOF .
 St . Vincent - St . Mary High School is in CITY U . S and is the home ground for SPORTSTEAM . LEADER is the leader of CITY .
-The ALMAMATER is an affiliate of the University of Texas system . Its mascot is Hook ' em , and the school will compete in the COMPETE IN . A notable former student is ASTRONAUT , who passed away in St Louis . St Louis is led by LEADERNAME .
-ASTRONAUT was born in BIRTHPLACE on 11 / 18 / 1923 and was selected by NASA in WAS SELECTED BY NASA .
+The ALMAMATER is an affiliate of the University of Texas system . Its mascot is Hook ' em , and the school will compete in the COMPETE_IN . A notable former student is ASTRONAUT , who passed away in St Louis . St Louis is led by LEADERNAME .
+ASTRONAUT was born in BIRTHPLACE on 11 / 18 / 1923 and was selected by NASA in WAS_SELECTED_BY_NASA .
 Bacon sandwiches are popular in the UK . DISHVARIATION is a variation of club sandwich and contains lettuce .
 Above the Viel is the sequel to Into Battle .
 The BUILDING is located at " LOCATION . " , and was built by the company Populous .
@@ -15252,10 +15252,10 @@ The OPERATINGORGANISATION was involved in battles at the Invasion of Grenada and
 WRITTENWORK is also known as Acta Math . Hungar . and has the LCCN numbere LCCN_NUMBER and the code of CODEN_CODE .
 The main ingredient of FOOD is coconut milk and it also contains sago . The dish comes from the COUNTRY .
 The ISPARTOF and BUILDING are both located in LOCATION , COUNTRY . LANGUAGE is spoken in this country , and LEADERNAME is a national leader .
-Born in BIRTHPLACE , test pilot ASTRONAUT served as a crew member of OPERATOR ' s WAS A CREW MEMBER OF until he retired DATEOFRETIREMENT .
+Born in BIRTHPLACE , test pilot ASTRONAUT served as a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF until he retired DATEOFRETIREMENT .
 ASTRONAUT was born on March 15 , 1932 and his alma mater was UT Austin BS , in 1955 .
 MANAGER is affiliated with Tranmere Rovers F . C . , plays for CLUB and is manager of AFC Fylde .
-Alan Shephard was a US national , who was born in BIRTHPLACE on November 18th , 1923 . He graduated from NWC with an M . A . in 1957 / He served as a test pilot and was hired by NASA in WAS SELECTED BY NASA . He died in DEATHPLACE .
+Alan Shephard was a US national , who was born in BIRTHPLACE on November 18th , 1923 . He graduated from NWC with an M . A . in 1957 / He served as a test pilot and was hired by NASA in WAS_SELECTED_BY_NASA . He died in DEATHPLACE .
 The comic character Asterix , was created by Ren é Goscinny and CREATOR .
 1634 The Ram Rebellion was written in the COUNTRY . The leader of the country is known as the President , the capital city is Washington DC and the population includes many ETHNICGROUP .
 FOOD is a food found in COUNTRY , where LEADERNAME is the leader , and the currency used is the CURRENCY .
@@ -15305,8 +15305,8 @@ FOOD comes from COUNTRY where LEADERNAME is a leader .
 Doug Moench and CREATOR , created the comic character Ballistic .
 FOOD is a dessert that contains coconut milk . A cookie is also a dessert .
 FULLNAME ( abbreviated to SPORTSTEAM , competed in the SEASON season and has NUMBEROFMEMBERS members .
-ASTRONAUT joined OPERATOR and became a crew member of WAS A CREW MEMBER OF along with BACKUP PILOT and COMMANDER .
-BIRTHPLACE born ASTRONAUT served as a crew member of OPERATOR ' s WAS A CREW MEMBER OF alongside CREWMEMBERS and BACKUP PILOT , the backup pilot .
+ASTRONAUT joined OPERATOR and became a crew member of WAS_A_CREW_MEMBER_OF along with BACKUP_PILOT and COMMANDER .
+BIRTHPLACE born ASTRONAUT served as a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF alongside CREWMEMBERS and BACKUP_PILOT , the backup pilot .
 FOOD is a variant of DISHVARIATION and Siomay , an Indonesian dish containing peanut sauce .
 The first runway at AIRPORT is known as 1ST_RUNWAY_NUMBER and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 ASTRONAUT , now deceased , was born in BIRTHPLACE and served as a test pilot .
@@ -15324,7 +15324,7 @@ LARGESTCITY is India ' s largest city .
 INGREDIENT is an ingredient in the dish FOOD .
 A T Charlie Johnson lives in the US and is the editor of WRITTENWORK published by the PUBLISHER . His alma mater is ALMAMATER .
 The number of members of Isidro Metap á n is NUMBEROFMEMBERS .
-ASTRONAUT held the position of the TITLE in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN .
+ASTRONAUT held the position of the TITLE in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN .
 PUBLISHER is the publisher of WRITTENWORK which academic discipline is management and can be abbreviated to Admin . Sci . Q .
 FOOD ( YEAR introduction ) have 18 g . or carbohydrates .
 GROUND is the home to SPORTSTEAM , played in LEAGUE .
@@ -15344,7 +15344,7 @@ AIRPORT is in LOCATION . OPERATINGORGANISATION is the operating organization for
 The Ardmore Airport which is operated by the OPERATINGORGANISATION is in LOCATION .
 Alcobendas is in COUNTRY .
 The UNIVERSITY in CITY , STATE , COUNTRY was established in ESTABLISHED and it has ACADEMICSTAFFSIZE academic staff .
-ASTRONAUT was a crew member of the OPERATOR operated WAS A CREW MEMBER OF .
+ASTRONAUT was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF .
 The leader of COUNTRY is Philippe of COUNTRY , but the Flemish government both leads and has jurisdiction of the JURISDICTION . CITYSERVED is a popular tourist destination and is served by AIRPORT .
 The dessert , Bakewell Pudding , was created in 1820 at the Rutland Arms , Bakewell , in the REGION . A few of its main ingredients are ground almonds , jam , butter , and eggs .
 The DESIGNER designed Ataturk Monument was inaugurated on 27th July , 1932 and is located in LOCATION .
@@ -15371,7 +15371,7 @@ Dave Challinor played for Stockport County F . C .
 AIRPORT , located in Sao Jose dos Pinhais , is 911 metres above sea level . Its runway is named is RUNWAYNAME and is RUNWAYLENGTH long .
 The jurisdiction of the Flemish Government is the JURISDICTION .
 WRITTENWORK by AUTHOR is a hardcover publication with NUMBEROFPAGES pages .
-OCCUPATION ASTRONAUT , who went to ALMAMATER , was a crew member of OPERATOR ' s WAS A CREW MEMBER OF .
+OCCUPATION ASTRONAUT , who went to ALMAMATER , was a crew member of OPERATOR ' s WAS_A_CREW_MEMBER_OF .
 The ISPARTOF and BUILDING are located in LOCATION , COUNTRY , a country with leader LEADERNAME .
 FOOD comes from the COUNTRY where LEADERNAME was once a leader and Washington D . C . is the capital . ETHNICGROUP are one ethnic group there .
 Agra airport is located in LOCATION , where two of the leaders are T . S . Thakur and LEADERNAME .
@@ -15406,7 +15406,7 @@ The AIRPORT in CITYSERVED has a runway named RUNWAYNAME that is the length of 17
 Indiana is in the U . S .
 LOCATION , which has the capital of CAPITAL , is the location of MONUMENT , a rock formation dedicated to Aethelwald , Ealdorman of East Anglia .
 With NUMBEROFSTUDENTS students , the UNIVERSITY is located in COUNTRY , a country led by Federal Chancellor LEADERNAME .
-Edwin E Aldrin Jr , also known as ASTRONAUT , was a crew member of the OPERATOR operated WAS A CREW MEMBER OF and retired on 1 July 1971 .
+Edwin E Aldrin Jr , also known as ASTRONAUT , was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF and retired on 1 July 1971 .
 Jens Hartel played for CLUB and was manager of 1 FC Magdeburg . His club is Berliner AK 07 and he plays for SV Babelsberg 03 .
 The country of CITY , is COUNTRY .
 ASTRONAUT served as a OCCUPATION .
@@ -15427,7 +15427,7 @@ INGREDIENT is an ingredient in bakso .
 AIRPORT serves the city of CITYSERVED and its runway length is 4000 .
 FOOD is dish from COUNTRY ( capital CAPITAL ) . LEADERNAME is the leader of the country . The dish is also popular in other Southeastern Asian countries .
 AIDS journal is from the COUNTRY where the leader is LEADERNAME .
-ASTRONAUT went to ALMAMATER which is affiliated with the AFFILIATIONS and competed in the COMPETE IN . He is now deceased .
+ASTRONAUT went to ALMAMATER which is affiliated with the AFFILIATIONS and competed in the COMPETE_IN . He is now deceased .
 The currency of LOCATION is the CURRENCY and the leader of the country is Ahmet Davutoglu . The country is the location of the MONUMENT designed in bronze by DESIGNER and inaugurated on 27 July 1932 .
 The country of COUNTRY commonly serves FOOD , its leader is LEADERNAME and the currency is the CURRENCY .
 Appletone International Airport city serves CITYSERVED , which is part of Kimberly and Grand Chute .
@@ -15439,7 +15439,7 @@ Indonesian is the language of COUNTRY where LEADERNAME is the leader and arem - 
 The county seat of Tarrant County in Texas is Fort Worth .
 ASTRONAUT , who was born in BIRTHPLACE , held the position of the TITLE .
 LEADERNAME leads COUNTRY , a country where BUILDING is located in LOCATION .
-ASTRONAUT was a part of the crew of WAS A CREW MEMBER OF .
+ASTRONAUT was a part of the crew of WAS_A_CREW_MEMBER_OF .
 In Albuquerque ( New Mexico ) , the leader is called , the LEADERTITLE .
 WRITTENWORK is academically focused on ACADEMICDISCIPLINE and has the abbreviated name of ABBREVIATION . It has the LCCN number of LCCN_NUMBER and the ISSN number of ISSN_NUMBER .
 Gregory L Fenves is the appointed president of the ALMAMATER ( affiliated with AFFILIATION ) from which ASTRONAUT graduated .
@@ -15449,7 +15449,7 @@ The LEADERTITLE is the leader of London .
 FOOD is a food found in COUNTRY , the currency there is the rupiah .
 FOOD requires granola as one of its ingredients .
 AIRPORT is found in LOCATION .
-ASTRONAUT , born in the USA , was a crew member of the OPERATOR operated WAS A CREW MEMBER OF .
+ASTRONAUT , born in the USA , was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF .
 Abh . Math . Semin . Univ . Hambg is the abbreviation for WRITTENWORK which has the LCCN number LCCN_NUMBER and can be located using ISSN number ISSN_NUMBER .
 ASTRONAUT ( born on BIRTHDATE ) was a test pilot and died in DEATHPLACE .
 A . D . Isidro Metapan ' s manager is Jorge Humberto Rodriguez who is a member of C . D . Aguila .
@@ -15459,11 +15459,11 @@ The SPORTSTEAM club is located in LOCATION , the capital of which is CAPITAL . T
 UNIVERSITY is affilaited with AFFILIATION .
 The GROUND is the home ground of AEK Athens FC who compete in the LEAGUE . The club has NUMBEROFMEMBERS members .
 Canyon , is the county seat of Randall County , which is in Texas .
-Both ASTRONAUT and CREWMEMBERS served as crew members on WAS A CREW MEMBER OF .
+Both ASTRONAUT and CREWMEMBERS served as crew members on WAS_A_CREW_MEMBER_OF .
 Cleveland is in the COUNTRY .
 FOOD is served at the dessert course and it contains raisins .
 Antioch California has the postal codes 94509 and 94531 .
-ASTRONAUT was on the crew of WAS A CREW MEMBER OF operated by OPERATOR , with Alfred Warren as a backup pilot .
+ASTRONAUT was on the crew of WAS_A_CREW_MEMBER_OF operated by OPERATOR , with Alfred Warren as a backup pilot .
 The " FULLNAME " is the complete name of the SPORTSTEAM . It has NUMBEROFMEMBERS members .
 WRITTENWORK ( ABBREVIATION ) Is focused on ACADEMICDISCIPLINE . Its ISSN number is " ISSN_NUMBER " .
 ASTRONAUT is a US national .
@@ -15472,11 +15472,11 @@ The character COMICSCHARACTER is voiced by VOICE .
 INGREDIENT and sausage are ingredients in a FOOD .
 Amatriciana is a sauce from REGION , can be found in COUNTRY and has tomato as an ingredient .
 AIRPORT serves the city of CITYSERVED and found in LOCATION . The OPERATINGORGANISATION governs the AIRPORT which has a runway length of RUNWAYLENGTH .
-The location of BUILDING , built in YEAROFCONSTRUCTION in the style of the " Arts and Crafts Movement and American Craftsman Bungalows " , is LOCATION ; and it has the reference number " REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES " in the National Register of Historic Places .
-ASTRONAUT is an American born in BIRTHPLACE in 1932 . He was selected by NASA in WAS SELECTED BY NASA and performed as a test pilot . He is now retired .
+The location of BUILDING , built in YEAROFCONSTRUCTION in the style of the " Arts and Crafts Movement and American Craftsman Bungalows " , is LOCATION ; and it has the reference number " REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES " in the National Register of Historic Places .
+ASTRONAUT is an American born in BIRTHPLACE in 1932 . He was selected by NASA in WAS_SELECTED_BY_NASA and performed as a test pilot . He is now retired .
 The WRITTENWORK comes under the academic discipline of ACADEMICDISCIPLINE .
 A Loyal Character , written by AUTHOR , has ISBN : ISBN_NUMBER .
-The university of Texas at Austin , where ASTRONAUT was a student , is affiliated to the university of Texas system and is competing in the COMPETE IN .
+The university of Texas at Austin , where ASTRONAUT was a student , is affiliated to the university of Texas system and is competing in the COMPETE_IN .
 One of the ingredients of FOOD is Sponge Cake .
 Previous champions of the LEAGUE league are Carpi FC 1909 . AC GROUND , who also play in the league have a ground in GROUND and NUMBEROFMEMBERS members .
 The UNIVERSITY has NUMBEROFSTUDENTS students and is affiliated with the AFFILIATION .
@@ -15485,7 +15485,7 @@ DISHVARIATION is a variant of FOOD containing franginpane which comes from the R
 Julia Morgan was born in BIRTHPLACE .
 FOOD originates from REGION in COUNTRY . It is a dessert and requires granola as one of its ingredients .
 The language in Indiana is American English .
-ASTRONAUT was on the crew of WAS A CREW MEMBER OF operated by OPERATOR where COMMANDER was the commander . He was selected by OPERATOR in WAS SELECTED BY NASA where his Alma Mater is ALMAMATER .
+ASTRONAUT was on the crew of WAS_A_CREW_MEMBER_OF operated by OPERATOR where COMMANDER was the commander . He was selected by OPERATOR in WAS_SELECTED_BY_NASA where his Alma Mater is ALMAMATER .
 The 11th Mississippi Infantry monument was established in the US in ESTABLISHED and falls under the category of CATEGORY .
 In the COUNTRY , LEADERNAME is the leader ( Queen ) and English is the spoken language . The Aids journal is also from the UK and was published by PUBLISHER .
 George Winkler is from the COUNTRY .
@@ -15497,7 +15497,7 @@ AUTHOR ' s book , " WRITTENWORK , " was preceded by " PRECEDEDBY . " .
 BIRTHPLACE born STARRING was the star of COMICSCHARACTER , broadcasted by the BROADCASTEDBY out of the broadcasting house in London .
 CITYSERVED is part of Harrietstown , ISPARTOF . AIRPORT serves the city of Lake Placid and CITYSERVED .
 COUNTRY is led by Cluade Bartolone and Gerard Larcher . A type of cake in COUNTRY are Barny cakes which were created by CREATOR which was founded in FOUNDATIONPLACE .
-American ASTRONAUT was born in BIRTHPLACE . He graduated from NWC in 1957 with a M . A . ASTRONAUT was a crew member aboard WAS A CREW MEMBER OF and was a test pilot . He passed away in DEATHPLACE .
+American ASTRONAUT was born in BIRTHPLACE . He graduated from NWC in 1957 with a M . A . ASTRONAUT was a crew member aboard WAS_A_CREW_MEMBER_OF and was a test pilot . He passed away in DEATHPLACE .
 ASTRONAUT retired on DATEOFRETIREMENT .
 FOOD is a dish from the COUNTRY that contains beef .
 The UNIVERSITY of CITY , STATE is affiliated with AFFILIATION .
@@ -15518,14 +15518,14 @@ ASTRONAUT ' s birth place was BIRTHPLACE .
 BIRTHPLACE born STARRING starred in the TV series COMICSCHARACTER . It was shown by the BROADCASTEDBY who are located in LOCATIONCITY .
 WRITTENWORK , published in the COUNTRY is in the LANGUAGE .
 The USAF bombed Libya in 1986 , also fought in the Invasion of Grenada and operates the Al Asad airbase .
-ASTRONAUT , who graduated from AFIT in 1962 with an M . S went onto become a crew member of the WAS A CREW MEMBER OF mission . CREWMEMBERS accompanied him on the mission which was operated by OPERATOR , whilst the back up pilot was BACKUP PILOT .
+ASTRONAUT , who graduated from AFIT in 1962 with an M . S went onto become a crew member of the WAS_A_CREW_MEMBER_OF mission . CREWMEMBERS accompanied him on the mission which was operated by OPERATOR , whilst the back up pilot was BACKUP_PILOT .
 One of the main ingredients of binignit is coconut milk . Another ingredient is sweet potato which is from the order ORDER .
 New Zealand ' s Adrmore Airport has a runway length of 597 metres and is 34 meters above sea level . Its 3rd runway surface is consists of 3RD_RUNWAY_SURFACETYPE and its runway name is RUNWAYNAME .
 AUTHOR , who was born in Burbank California , wrote the book " WRITTENWORK " which had been preceded by 1634 The Galileo Affair , which was influenced by Robert A Heinlein .
 The ETHNICGROUP come from the COUNTRY , where FOOD is served .
 OPERATINGORGANISATION , which has headquarters in HEADQUARTER , operates AIRPORT .
 The TV character COMICSCHARACTER was created by CREATOR .
-ASTRONAUT , an American was born in Wheeler Texas and graduated from UT Austin in 1955 with a BSc . He was a test pilot and a crew member on OPERATOR ' s WAS A CREW MEMBER OF .
+ASTRONAUT , an American was born in Wheeler Texas and graduated from UT Austin in 1955 with a BSc . He was a test pilot and a crew member on OPERATOR ' s WAS_A_CREW_MEMBER_OF .
 The area code of CITY , is AREACODE .
 The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE .
 WRITTENWORK ( abbreviated to ABBREVIATION ) has a CODEN code of " CODEN_CODE " .
@@ -15610,12 +15610,12 @@ FOOD is made from fried chicken and can be found in Malaysia , Singapore and COU
 WRITTENWORK is publshed by PUBLISHER .
 AIRPORT is located in Alpena County , Michigan in the COUNTRY . It has a runway length of RUNWAYLENGTH .
 The USAF operates AIRPORT where AIRCRAFTFIGHTER aircraft fighters can be found . The BATTLES is one of the battles of the OPERATINGORGANISATION .
-BUILDING is in Avenue A , Manhattan . It was added to the National Register of Historic Places in April 23 , 1980 with a Reference Number of REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING is in Avenue A , Manhattan . It was added to the National Register of Historic Places in April 23 , 1980 with a Reference Number of REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 WRITTENWORK ( abbreviated to ABBREVIATION ) has the impact factor IMPACTFACTOR .
 The runway at AIRPORT in LOCATION is RUNWAYLENGTH long .
 The JP McManus owned BUILDING was designed by the architect ARCHITECT and was completed in COMPLETIONDATE .
 WRITTENWORK which was written by J . V . Jones , was made in " MEDIATYPE " and has the OCLC number OCLC_NUMBER .
-ASTRONAUT is originally from BIRTHPLACE and graduated from Massachusetts Institute of Technology in WAS SELECTED BY NASA with a doctorate in Science . ASTRONAUT went on to work for OPERATOR in WAS SELECTED BY NASA where he became a member of the WAS A CREW MEMBER OF ' s crew .
+ASTRONAUT is originally from BIRTHPLACE and graduated from Massachusetts Institute of Technology in WAS_SELECTED_BY_NASA with a doctorate in Science . ASTRONAUT went on to work for OPERATOR in WAS_SELECTED_BY_NASA where he became a member of the WAS_A_CREW_MEMBER_OF ' s crew .
 India ' s Air Force , which operates AIRPORT , has an aircraft - capable helicopter known as the AIRCRAFTHELICOPTER . AIRPORT is located in ISPARTOF , more specifically LOCATION , where the leader is LEADERNAME .
 LEADERNAME is the leader of COUNTRY , where the dish batagor can be found . INGREDIENT is an ingredient of Siomay , which is a variation on shumai .
 KEYPERSON is the key person for the BROADCASTEDBY which broadcast COMICSCHARACTER and has its home at LOCATIONCITY in London .
@@ -15662,7 +15662,7 @@ LEADERNAME is the President of the COUNTRY where the capital city is Washington 
 The 11th Mississippi Infantry monument is located in the municipality of Gettysburg , LOCATION . It was established in ESTABLISHED and falls under the category of contributing property .
 INGREDIENT is one of the ingredients in the dish ' Ayam Penyet ' which comes from REGION .
 St Vincent St Mary High School is located in the city of CITY .
-To the southeast of Adams County , Pennsylvania where MONUMENT is found lies HAS TO ITS SOUTHEAST .
+To the southeast of Adams County , Pennsylvania where MONUMENT is found lies HAS_TO_ITS_SOUTHEAST .
 The comic character Asterix is also known as ALTERNATIVENAME .
 LEADERNAME is a leader in COUNTRY where LANGUAGE is spoken and where the dish FOOD is from .
 ASTRONAUT was born on July 23 , 1927 in BIRTHPLACE . He attended the U of Texas at Austin which is affiliated with the U of Texas system and is part of the big 12 conference . See worked as a test pilot and passed away in DEATHPLACE .
@@ -15694,13 +15694,13 @@ WRITTENWORK ( OCLC OCLC_NUMBER , ISBN ISBN_NUMBER ) was written by AUTHOR and wa
 Located at LOCATION , AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level and has a runway length of 3800 metres .
 INGREDIENT is an ingredient in FOOD , a dish from COUNTRY .
 Union Township is in Madison County , which is in Indiana , in the COUNTRY .
-American ASTRONAUT was born in BIRTHPLACE . He performs as a test pilot , graduated from UT Austin in 1955 with a B . S . was a part of the crew of WAS A CREW MEMBER OF and his time in space was 100305 . 0 minutes .
+American ASTRONAUT was born in BIRTHPLACE . He performs as a test pilot , graduated from UT Austin in 1955 with a B . S . was a part of the crew of WAS_A_CREW_MEMBER_OF and his time in space was 100305 . 0 minutes .
 The capital of the COUNTRY , which includes many ETHNICGROUP , is Washington DC . WRITTENWORK originates from the US and is written in English .
 The comic character Ballistic was created by CREATOR .
 AUTHOR , born in BIRTHPLACE , and influenced by INFLUENCEDBY , is the author of WRITTENWORK . DeMarce short stories in the Grantville Gazettes and Grantville Gazette III preceded WRITTENWORK .
 The AIRPORT is operated by the OPERATINGORGANISATION and is 12 metres above sea level .
 FOOD is from the Paisa region , and typical COUNTRY . INGREDIENT is one of its ingredients .
-ASTRONAUT ( alternatively called Edwin E Aldrin Jr ) was a crew member of WAS A CREW MEMBER OF . He was a fighter pilot and attended Massachusetts Institute of Technology , Sc . D . 1963 .
+ASTRONAUT ( alternatively called Edwin E Aldrin Jr ) was a crew member of WAS_A_CREW_MEMBER_OF . He was a fighter pilot and attended Massachusetts Institute of Technology , Sc . D . 1963 .
 The character COMICSCHARACTER ( FULLNAME ) was created by CREATOR .
 MANAGER is manager of SPORTSTEAM and has played for SC Wiener Neustadt and the CLUB .
 FOOD comes from either REGION .
@@ -15712,7 +15712,7 @@ OPERATINGORGANISATION in the city of LOCATIONCITY ( part of the community of LOC
 Í colo e Bengo is located in COUNTRY .
 Although ASTRONAUT was from the NATIONALITY , he was actually born in BIRTHPLACE .
 ASTRONAUT was born in BIRTHPLACE .
-ASTRONAUT , born 17 October 1933 was chosen by NASA in WAS SELECTED BY NASA and served as a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT , born 17 October 1933 was chosen by NASA in WAS_SELECTED_BY_NASA and served as a crew member on WAS_A_CREW_MEMBER_OF .
 SPORTSTEAM operate Sportpark De Toekomst .
 These books were written in this order , PRECEDEDBY , WRITTENWORK , FOLLOWEDBY and Maiden Castle .
 Found in the COUNTRY , FOOD is a dish from the region of REGION . One of the main ingredients in this dessert type dish is MAININGREDIENTS and sweet potatoes are also used .
@@ -15720,13 +15720,13 @@ CITY is 64 , 008 above sea level .
 ASTRONAUT was born in BIRTHPLACE on March 15th , 1932 .
 WRITTENWORK was published in hardback .
 1634 : Th Bavarian Crisis , a NUMBEROFPAGES page hardcover written by AUTHOR can be located by its ISBN number ISBN_NUMBER .
-ASTRONAUT who was originally from BIRTHPLACE worked for OPERATOR . He became a member of WAS A CREW MEMBER OF ' s crew along with BACKUP PILOT as backup pilot and COMMANDER as commander .
+ASTRONAUT who was originally from BIRTHPLACE worked for OPERATOR . He became a member of WAS_A_CREW_MEMBER_OF ' s crew along with BACKUP_PILOT as backup pilot and COMMANDER as commander .
 FOOD a dish made with fried chicken , is popular in REGION . It originates from COUNTRY . The Malaysian chinese are an ethnic group in REGION .
 The president of Cornell University is PRESIDENT .
 MANAGER has been the manager of A C Cesena and previously played for the club SSD Potenza Calcio .
 The AIRPORT is operated by the OPERATINGORGANISATION which has jurisdiction over JURISDICTION .
 FOOD includes the ingredients sweet potato ( a flowering plant of the order ORDER ) and taro .
-ASTRONAUT has retired , having been born in BIRTHPLACE and serving as a crew member on the WAS A CREW MEMBER OF flight mission .
+ASTRONAUT has retired , having been born in BIRTHPLACE and serving as a crew member on the WAS_A_CREW_MEMBER_OF flight mission .
 The AIRPORT is elevated ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and the first runway built here has a length of 1ST_RUNWAY_LENGTHFEET feet .
 The AIRPORT is operated by the Port Authority of HEADQUARTER and New Jersey , based in HEADQUARTER .
 SPORTSTEAM ' s nickname is Asa Gigante , and has NUMBEROFMEMBERS members .
@@ -15741,11 +15741,11 @@ The Accademia di Architettura , established ESTABLISHED , has NUMBEROFSTUDENTS s
 FOOD is from the country of COUNTRY , which leader is LEADERNAME and the spoken language is French .
 MANAGER manages SPORTSTEAM and played for CLUB .
 AIRPORT serves Appleton and is located in Greenville , Grand Chute , Dale in the American State of Wisconsin .
-ASTRONAUT was born in BIRTHPLACE and graduated from NWC with a M . A . in 1957 . He was selected by NASA in WAS SELECTED BY NASA and served as a test pilot . ASTRONAUT passed away in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE and graduated from NWC with a M . A . in 1957 . He was selected by NASA in WAS_SELECTED_BY_NASA and served as a test pilot . ASTRONAUT passed away in DEATHPLACE .
 ICAO_LOCATION_IDENTIFIER is the ICAO location identifier of AIRPORT , .
 AIRPORT is found in LOCATION , COUNTRY .
 The Visvesvaraya Technological university in CITY , is affiliated with the UNIVERSITY , which has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students .
-The UNIVERSITY in STATE , east of the HAS TO ITS WEST was given the ' Technical Campus ' status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY , located in LOCATION .
+The UNIVERSITY in STATE , east of the HAS_TO_ITS_WEST was given the ' Technical Campus ' status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY , located in LOCATION .
 200 Public square is in LOCATION , COUNTRY and the governing body is GOVERNINGBODY .
 OWNER own BUILDING which is located in LOCATION , COUNTRY . The Lord Mayor of the city is Criona Ni Dhalaigh and the leader is Dail Eireann .
 LEADER is the leader of Akron , LOCATION in the COUNTRY . Akron is the location of the home ground of SPORTSTEAM at St Vincent St Mary High School .
@@ -15757,9 +15757,9 @@ WRITTENWORK was published by Farrar , Straus , and Giroux , a subsidiary of PARE
 WRITTENWORK has the ISBN number ISBN_NUMBER and OCLC number OCLC_NUMBER .
 The capital city of Belgium is Brussels .
 WRITTENWORK is NUMBEROFPAGES pages long and ISBN number is ISBN_NUMBER .
-ASTRONAUT was selected by NASA as a crew member of WAS A CREW MEMBER OF in WAS SELECTED BY NASA . He was born in BIRTHPLACE on 17 October 1933 .
+ASTRONAUT was selected by NASA as a crew member of WAS_A_CREW_MEMBER_OF in WAS_SELECTED_BY_NASA . He was born in BIRTHPLACE on 17 October 1933 .
 FOOD , a variation of DISHVARIATION ( a variation of Siomay ) , contains peanut sauce and is from COUNTRY .
-ASTRONAUT graduated in 1955 from UT Austin with a B . S . He was selected by OPERATOR in WAS SELECTED BY NASA and became a test pilot on the OPERATOR operated WAS A CREW MEMBER OF mission . BACKUP PILOT was the backup pilot of WAS A CREW MEMBER OF and COMMANDER was its commander .
+ASTRONAUT graduated in 1955 from UT Austin with a B . S . He was selected by OPERATOR in WAS_SELECTED_BY_NASA and became a test pilot on the OPERATOR operated WAS_A_CREW_MEMBER_OF mission . BACKUP_PILOT was the backup pilot of WAS_A_CREW_MEMBER_OF and COMMANDER was its commander .
 King County is the location of CITY .
 BUILDING is located in the LOCATION , the capital city of which is CAPITAL ( which is lead via the LEADERTITLE ) . DEMONYM inhabit the UK and the leader is LEADERNAME .
 The UNIVERSITY in CITY , COUNTRY has ACADEMICSTAFFSIZE academic staff . The RIVER is a river in COUNTRY .
@@ -15815,7 +15815,7 @@ AFC GROUND have NUMBEROFMEMBERS members and their ground is located in GROUND .
 WRITTENWORK is produced in print .
 The River RIVER runs through COUNTRY in which country the UNIVERSITY is located in the city of CITY in the state of STATE . The College was established in ESTABLISHED and has ACADEMICSTAFFSIZE academic staff .
 The bacon sandwich comes from the COUNTRY . Its main ingredients are bread and bacon and a condiment , often ketchup or brown sauce . It is known by several different names including : Bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin . The DISHVARIATION is a variant of the bacon sandwich .
-The UNIVERSITY is affiliated with AFFILIATION in Belgium . The institute is in the state of STATE which has the HAS TO ITS WEST to its west and HAS TO ITS NORTHEAST to its northeast . The school offers tennis which is governed by the SPORTSGOVERNINGBODY .
+The UNIVERSITY is affiliated with AFFILIATION in Belgium . The institute is in the state of STATE which has the HAS_TO_ITS_WEST to its west and HAS_TO_ITS_NORTHEAST to its northeast . The school offers tennis which is governed by the SPORTSGOVERNINGBODY .
 Addis Ababa City hall began being constructed in BUILDINGSTARTDATE and has a floor area of 140000 . 0 square metres .
 ASTRONAUT was born in BIRTHPLACE on March 15 1932 . He went on to become a test pilot and is now retired .
 The Irish book FOLLOWEDBY followed the book " WRITTENWORK , " which is written in English ( the language of SPOKENIN .
@@ -15825,7 +15825,7 @@ The novel " Into Battle " followed " WRITTENWORK " .
 CITY was founded by FOUNDER . Located in the city is the UNIVERSITY , an affiliate of AFFILIATION . The institute offers tennis , as governed by the SPORTSGOVERNINGBODY , as a sport .
 The MONUMENT is located in LOCATION . It is easily reachable from Maryland , having Carrol County to its southeast , and Frederick County to the southwest .
 The manager of AS Roma , MANAGER , plays for Udinese Calcio and was at the club CLUB .
-ASTRONAUT was born in BIRTHPLACE and became a test pilot . He was a crew member of the OPERATOR operated WAS A CREW MEMBER OF mission .
+ASTRONAUT was born in BIRTHPLACE and became a test pilot . He was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF mission .
 SPORTSTEAM are managed by MANAGER and play in the LEAGUE league which is located in COUNTRY . Previous champions of this league have been CHAMPIONS .
 FOOD is a dessert that requires granola as one of its ingredients . DISHVARIATION can also be added to it .
 TENANT , which was founded in Washington DC , is the current tenant of AC Hotel Bella Sky in Copenhagen , LOCATION . The Prime Minister of LOCATION is Lars Lokke Rasmussen and Faroese is one of the languages spoken .
@@ -15836,12 +15836,12 @@ AIRPORT is located in CITYSERVED in Punjab COUNTRY whree the leader is LEADERNAM
 Located in New York , PUBLISHER , the publisher of WRITTENWORK , is affiliated with the Association of Public and Land grant Universities and AFFILIATION .
 MANAGER is the manager of AFC Fylde .
 STARRING stars in COMICSCHARACTER .
-ASTRONAUT was born in BIRTHPLACE on 1933 . 10 . 17 . He served as a fighter pilot prior to being selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born in BIRTHPLACE on 1933 . 10 . 17 . He served as a fighter pilot prior to being selected by NASA in WAS_SELECTED_BY_NASA .
 WRITTENWORK is a hardcover book with the ISBN number ISBN_NUMBER .
 The LEADERNAME are the leaders of Birmingham .
 MANAGER plays for U . S Castrovillari Calcio and has been the manager of A C Cesena .
 The MONUMENT is in the municipality of Gettysburg , LOCATION . The monument was completed in the year ESTABLISHED and is categorised as a contributing property . LOCATION has Carrol County , Maryland to its southeast .
-The WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION granted Technical Campus status to the UNIVERSITY in the state of STATE southwest of Telengana . One of the sports offered at the Institute is tennis which is governed by the SPORTSGOVERNINGBODY .
+The WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION granted Technical Campus status to the UNIVERSITY in the state of STATE southwest of Telengana . One of the sports offered at the Institute is tennis which is governed by the SPORTSGOVERNINGBODY .
 AUTHOR is the author of WRITTENWORK which was published in print and has the ISBN number ISBN_NUMBER .
 The AIRPORT is operated by the OPERATINGORGANISATION , which has its headquarters at the Four World Trade Centre .
 Architect ARCHITECT , of HOMETOWN , designed BUILDING ; HOMETOWN postal code is B and is led by the GOVERNINGBODY and LEADERNAME .
@@ -15851,7 +15851,7 @@ COMICSCHARACTER was created by both Duncan Rouleau and CREATOR .
 FOOD comes from COUNTRY , and is traditional dish throughout the whole of COUNTRY and is popular in neighbouring Southeast Asian countries too . It ' s ingredients are ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables and fried shallots .
 LEADERNAME is the leader of India .
 BUILDING is located in LOCATION , it has FLOORCOUNT floors and was completed in COMPLETIONDATE .
-Lars Lokke Rasmussen leads COUNTRY under the title of the Monarchy of COUNTRY . The country is the location of the UNIVERSITY in the city of CITY which is southwest of HAS TO ITS NORTHEAST .
+Lars Lokke Rasmussen leads COUNTRY under the title of the Monarchy of COUNTRY . The country is the location of the UNIVERSITY in the city of CITY which is southwest of HAS_TO_ITS_NORTHEAST .
 The BUILDING is in LOCATION .
 The BUILDING is located at Pacific Grove , which is part of ISPARTOF .
 Al Asad air base is operated by the OPERATINGORGANISATION who were involved in battles at the invasion of Grenada , fought battles in the Korean war and deploy the Lockheed AC 130 on their aircraft carriers .
@@ -15865,7 +15865,7 @@ WRITTENWORK is NUMBEROFPAGES pages long and is available in hardcover . It has a
 BUILDING is located in LOCATION , COUNTRY . The leader of COUNTRY is LEADERNAME and the language of the country is Tamil .
 AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) m above sea level and is located in LOCATION , U . S .
 Jens Hartel plays for SPORTSTEAM .
-ASTRONAUT is a test pilot who was born in BIRTHPLACE . He was a member of OPERATOR ' s WAS A CREW MEMBER OF crew , which was commanded by COMMANDER . BACKUP PILOT was an WAS A CREW MEMBER OF backup pilot .
+ASTRONAUT is a test pilot who was born in BIRTHPLACE . He was a member of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew , which was commanded by COMMANDER . BACKUP_PILOT was an WAS_A_CREW_MEMBER_OF backup pilot .
 The comic character Auron ' s full name is FULLNAME and he was created by the American , CREATOR .
 AS Livorno Calcio play in LEAGUE .
 A . S Roma ground is GROUND .
@@ -15937,10 +15937,10 @@ Central COUNTRY is served by AIRPORT in LOCATION . COUNTRY is led by Lars Lokke 
 Alcatraz versus the Evil LIbrarians and its sequel FOLLOWEDBY were written by Brnadon Sanderson from BIRTHPLACE .
 The food Arros negre is from the REGION ( led by Carles Puigdemont ) region of COUNTRY ( led by Felipe VI ) .
 ASTRONAUT spent 52 minutes in outer space before he retired on January 7th , 1971 .
-ASTRONAUT was born in BIRTHPLACE on March 15th , 1932 . He graduated from UT Austin in 1955 with a B . S . He is a retired test pilot , who was on the crew of the OPERATOR - operated WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE on March 15th , 1932 . He graduated from UT Austin in 1955 with a B . S . He is a retired test pilot , who was on the crew of the OPERATOR - operated WAS_A_CREW_MEMBER_OF .
 RUNWAYNAME is the name of the runway of AIRPORT .
 Barny cakes were created by CREATOR which was founded in FOUNDATIONPLACE .
-ASTRONAUT graduated from the ALMAMATER which is affiliated to the AFFILIATIONS and competes in the COMPETE IN under its president Gregory L Fenves .
+ASTRONAUT graduated from the ALMAMATER which is affiliated to the AFFILIATIONS and competes in the COMPETE_IN under its president Gregory L Fenves .
 The Superleague Greece champions are Olympiacos F . C .
 WRITTENWORK , ISBN ISBN_NUMBER , was published in Print & Paperback and has NUMBEROFPAGES pages .
 AIRPORT is located in LOCATION , COUNTRY where the LANGUAGE is spoken .
@@ -15964,7 +15964,7 @@ INGREDIENT is an ingredient of DISHVARIATION which is a variation of Shumai . FO
 BUILDING has a floor area of 111484 square metres and a floor count of FLOORCOUNT . The building is located in LOCATION and was completed in COMPLETIONDATE .
 ASTRONAUT ' s occupation was a test pilot .
 The GROUND is the home ground of AS Livorno Calcio who played in the 2014 - 15 Serie B season . they have NUMBEROFMEMBERS members and the full name of the club is FULLNAME .
-ASTRONAUT has died in DEATHPLACE . He was born in BIRTHPLACE and graduated from NWC in 1957 with an MA . He became a test pilot and was a crew member of the OPERATOR operated WAS A CREW MEMBER OF . He retired on 1 August 1974 .
+ASTRONAUT has died in DEATHPLACE . He was born in BIRTHPLACE and graduated from NWC in 1957 with an MA . He became a test pilot and was a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF . He retired on 1 August 1974 .
 The AIRPORT in LOCATION has a runway called RUNWAYNAME and its length is RUNWAYLENGTH . The airport serves people in CITYSERVED and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level .
 UNIVERSITY ( COUNTRY ) is in the state of STATE who has as its leader LEADERNAME . The RIVER is one of COUNTRY ' s rivers .
 MAININGREDIENTS are main ingredients in baked Alaska .
@@ -15977,26 +15977,26 @@ Native Americans are an ethnic group within the COUNTRY where LEADERNAME is the 
 Afonso Pena International airport is located 911 metres above sea level . It is located 911 metres above sea level , has a runaway 1800 metres long and a runway with the name , RUNWAYNAME .
 AIRPORT operation organization is Flemish department of mobility and public works .
 BUILDING which was completed in COMPLETIONDATE has FLOORCOUNT floors with a total area of 111484 square metres , is located in LOCATION .
-Adams County in Pennsylvania is located east of Franklin County and south of Cumberland County . Southeast is Carrol County , Maryland and HAS TO ITS SOUTHWEST is to the southwest . The MONUMENT is located in the municipality of Gettysburg , Adams County and is categorised as a contributing property .
+Adams County in Pennsylvania is located east of Franklin County and south of Cumberland County . Southeast is Carrol County , Maryland and HAS_TO_ITS_SOUTHWEST is to the southwest . The MONUMENT is located in the municipality of Gettysburg , Adams County and is categorised as a contributing property .
 The WRITTENWORK , or ABBREVIATION , was published in FIRSTPUBLICATIONYEAR with a ISSN number of ISSN_NUMBER .
 SPORTSTEAM are managed by MANAGER who plays for the Italy national football team and previously for CLUB .
 Stuart Parker ( footballer ) plays for Stockport County F . C .
 FOOD is from the REGION region .
 The dessert , Blackwell pudding , includes : ground almonds , jam , butter and eggs .
 Tony Tan and LEADERNAME are leaders in COUNTRY where beef kway teow is a popular dish .
-COUNTRY is governed by Lars Lokke Rasmussen and is also home to the UNIVERSITY which is located in the city of CITY positioned with HAS TO ITS NORTHEAST to it ' s northeast . The school has strong connections with the AFFILIATION which is based in HEADQUARTERS .
+COUNTRY is governed by Lars Lokke Rasmussen and is also home to the UNIVERSITY which is located in the city of CITY positioned with HAS_TO_ITS_NORTHEAST to it ' s northeast . The school has strong connections with the AFFILIATION which is based in HEADQUARTERS .
 DEMONYM are from the country COUNTRY , where LEADERNAME and Narendra Modi are leaders . FOOD originates from the REGION region of COUNTRY .
 Stuart Parker ( footballer ) plays for Blackburn Rovers F . C .
-ASTRONAUT has died in DEATHPLACE . He was an American born in BIRTHPLACE . He graduated from NWC with an MA in 1957 and was hired by NASA in WAS SELECTED BY NASA .
+ASTRONAUT has died in DEATHPLACE . He was an American born in BIRTHPLACE . He graduated from NWC with an MA in 1957 and was hired by NASA in WAS_SELECTED_BY_NASA .
 FOOD is a food found in COUNTRY where the capital is CAPITAL and a leader is LEADERNAME .
 FOOD is a Javanese dish made from MAININGREDIENTS .
 The MONUMENT in LOCATION was established in ESTABLISHED .
 Manual Valls is the leader of France .
-Buzz Aldrin graduated from MIT with a Sc . D in 1963 . He was a fighter pilot and crew member of WAS A CREW MEMBER OF , which was organized by OPERATOR . ASTRONAUT was a back up pilot on the WAS A CREW MEMBER OF mission .
+Buzz Aldrin graduated from MIT with a Sc . D in 1963 . He was a fighter pilot and crew member of WAS_A_CREW_MEMBER_OF , which was organized by OPERATOR . ASTRONAUT was a back up pilot on the WAS_A_CREW_MEMBER_OF mission .
 WRITTENWORK was edited by EDITOR from the NATIONALITY .
 The WRITTENWORK has an OCLC number of OCLC_NUMBER .
 INGREDIENT is an ingredient in the bacon sandwich , which comes from the COUNTRY and is a variation of the DISHVARIATION and Club .
-ASTRONAUT is an American who served as an WAS A CREW MEMBER OF crew member . He was born in BIRTHPLACE on the 18th of November 1923 , graduated from NWC , M . A . in 1957 , and died in DEATHPLACE .
+ASTRONAUT is an American who served as an WAS_A_CREW_MEMBER_OF crew member . He was born in BIRTHPLACE on the 18th of November 1923 , graduated from NWC , M . A . in 1957 , and died in DEATHPLACE .
 The Port Authority of REGIONSERVED and New Jersey serves the REGIONSERVED region .
 BUILDING is located in LOCATION , COUNTRY , whose leader is LEADERNAME .
 AIRPORT serves the city of CITYSERVED which is part of ISPARTOF .
@@ -16035,7 +16035,7 @@ Al Asad airbase in LOCATION is operated by the OPERATINGORGANISATION and has the
 Greenville , where Appleton International airport ( serving Appleton in Wisconsin ) is located , is part of Ellington and ISPARTOF .
 With its headquarters in the HEADQUARTER , The Port Authority of New York and ISPARTOF is the operating organisation of Atlantic City International airport . This airport is located in Egg Harbor Township , ISPARTOF .
 Alcatraz Versus the Evil Librarian was written in English which is spoken in SPOKENIN . The book originates from the COUNTRY where one of the ethnic groups are the Native Americans .
-The location of BUILDING constructed in YEAROFCONSTRUCTION is LOCATION . It has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places and was designed based on the architecture style of " ARCHITECTURE " .
+The location of BUILDING constructed in YEAROFCONSTRUCTION is LOCATION . It has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places and was designed based on the architecture style of " ARCHITECTURE " .
 The BUILDING is located at LOCATION .
 BUILDING is located in LOCATION , ISPARTOF , U . S . The leader of LOCATION is LEADERNAME .
 The printed copy of WRITTENWORK has NUMBEROFPAGES pages , an OCLC number of OCLC_NUMBER and an ISBN number of - 7156 - 3648 - 0 .
@@ -16051,7 +16051,7 @@ The comic strip character Asterix was created by CREATOR .
 ASTRONAUT , who retired on July 1st 1971 , once spent 52 minutes in outer space .
 FOOD can be found in COUNTRY .
 The runway at AIRPORT in LOCATION is named RUNWAYNAME and is RUNWAYLENGTH in length . The airport serves the city of Andrews in LOCATION and is 973 metres above sea level .
-BUILDING are located in LOCATION . They were constructed in YEAROFCONSTRUCTION and have the Romanesque Revival style of architecture . The Reference Number in the National Register of Historic Places is REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES and was added on 23rd April 1980 .
+BUILDING are located in LOCATION . They were constructed in YEAROFCONSTRUCTION and have the Romanesque Revival style of architecture . The Reference Number in the National Register of Historic Places is REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES and was added on 23rd April 1980 .
 COUNTRY is the country FOOD comes from and the capital is CAPITAL . The leaders are Pietro Grasso and LEADERNAME .
 FOOD comes from the REGION region of COUNTRY . Its main ingredients are tomatoes , red chili , garlic and olive oil .
 INGREDIENT is and ingredient of FOOD , a food found in REGION , in COUNTRY .
@@ -16063,7 +16063,7 @@ CREATOR is the creator of the comic character , Amazing - Man who has the altern
 Adolfo Su á rez Madrid Barajas Airport is found in LOCATION , part of the community of Madrid in COUNTRY . It has an elevation of 610 metres above sea level .
 WRITTENWORK with the ISBN ISBN_NUMBER has NUMBEROFPAGES .
 Test Pilot ASTRONAUT ( deceased ) was born in BIRTHPLACE and studied at the ALMAMATER .
-ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He was a test pilot and a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He was a test pilot and a crew member of WAS_A_CREW_MEMBER_OF .
 WRITTENWORK , abbreviated to Am . J . Math , is published by the PARENTCOMPANY Press . PARENTCOMPANY is the parent company of the PARENTCOMPANY Press which is located in the COUNTRY .
 BUILDING is located in LOCATION which is part of ISPARTOF .
 WRITTENWORK was written by AUTHOR and is preceded by PRECEDEDBY .
@@ -16079,14 +16079,14 @@ ASTRONAUT ( born in BIRTHPLACE ) died in DEATHPLACE .
 BUILDING has a height of 42 metres .
 COMICSCHARACTER last aired on 15th April 1986 .
 Poaceae belongs to the division of flowering plants .
-The UNIVERSITY in CITY was given the " Technical Campus " status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION .
+The UNIVERSITY in CITY was given the " Technical Campus " status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION .
 The country FOOD come from is COUNTRY .
 The UNIVERSITY in CITY , neighbours the municipality of NEIGHBORINGMUNICIPALITY in COUNTRY . The country ' s legislature is the Federal Assembly headed by the Federal Chancellor of COUNTRY , LEADERNAME .
 WRITTENWORK , a NUMBEROFPAGES page hardcover book , has a ISBN number of ISBN_NUMBER .
-ASTRONAUT originally from BIRTHPLACE began work for NASA in WAS SELECTED BY NASA as a test pilot .
+ASTRONAUT originally from BIRTHPLACE began work for NASA in WAS_SELECTED_BY_NASA as a test pilot .
 The UNIVERSITY is located in the Swiss city of CITY . COUNTRY ' s leader is LEADERNAME and their national anthem is the ANTHEM .
 WRITTENWORK by AUTHOR is NUMBEROFPAGES pages , published in print and has the ISBN number ISBN_NUMBER .
-ASTRONAUT was an American born on Nov 18 , 1923 in BIRTHPLACE . He attend NWC and graduated with an MA in 1957 . He was a member of WAS A CREW MEMBER OF . Shepard retired on Aug 1 , 1974 and later died in DEATHPLACE .
+ASTRONAUT was an American born on Nov 18 , 1923 in BIRTHPLACE . He attend NWC and graduated with an MA in 1957 . He was a member of WAS_A_CREW_MEMBER_OF . Shepard retired on Aug 1 , 1974 and later died in DEATHPLACE .
 Tim Brooke - Taylor ' s birth place is the BIRTHPLACE .
 The MONUMENT in LOCATION , made with rock , is dedicated to DEDICATEDTO .
 INGREDIENT is an ingredient in FOOD which comes from the REGION region of COUNTRY .
@@ -16102,11 +16102,11 @@ STARRING stars in the film , Big Hero 6 .
 WRITTENWORK has the abbreviation of ACM Trans . Inf . Syst and the LCCN number LCCN_NUMBER .
 LEADERNAME is the leader of COUNTRY . An ethnic group there are the ETHNICGROUP . FOOD is a food found in that country .
 ASTRONAUT , who was born on July 23 , 1927 , graduated from the ALMAMATER .
-UNIVERSITY in the state of STATE , is affiliated with AFFILIATION . The school was given Technical Campus ' status by WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY . While the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY is in LOCATION , AFFILIATION is in CITY and UNIVERSITY is in the state of STATE which has HAS TO ITS NORTHEAST to its northeast .
+UNIVERSITY in the state of STATE , is affiliated with AFFILIATION . The school was given Technical Campus ' status by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY . While the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY is in LOCATION , AFFILIATION is in CITY and UNIVERSITY is in the state of STATE which has HAS_TO_ITS_NORTHEAST to its northeast .
 BUILDING began construction in BUILDINGSTARTDATE and has a floor area of 140000 . 0 square metres .
 UNIVERSITY is located in Alba lulia which is part of ISPARTOF .
 The main ingredient in a FOOD is bacon .
-The HAS TO ITS WEST is west of Karnataka .
+The HAS_TO_ITS_WEST is west of Karnataka .
 Barny cakes come from COUNTRY , where Francis Hollande and LEADERNAME are leaders and the language spoken is French .
 The UNIVERSITY ( Latin name - " LATINNAME " was established in ESTABLISHED and it is affiliated with the AFFILIATION .
 WRITTENWORK is preceded by PRECEDEDBY .
@@ -16115,9 +16115,9 @@ TENANT was founded in Washington DC . The TENANT Hotel is the current tenant of 
 Allama Iqbal International airport is located in LOCATION whose leader is LEADERNAME .
 The main ingredients of FOOD are : MAININGREDIENTS " .
 FOOD come from the REGION region , and contain gram flour .
-ASTRONAUT who was originally from New Jersey graduated from MIT with a Sc . D in WAS SELECTED BY NASA . He then went on to join NASA in WAS SELECTED BY NASA and became a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT who was originally from New Jersey graduated from MIT with a Sc . D in WAS_SELECTED_BY_NASA . He then went on to join NASA in WAS_SELECTED_BY_NASA and became a member of the WAS_A_CREW_MEMBER_OF crew .
 Turkish Martyrs ' Memorial is located in CAPITAL , the capital of LOCATION .
-ASTRONAUT was an American , who was born in BIRTHPLACE on January 20th , 1930 . He was a retired fighter pilot and a member of the WAS A CREW MEMBER OF crew . He spent 52 minutes in space .
+ASTRONAUT was an American , who was born in BIRTHPLACE on January 20th , 1930 . He was a retired fighter pilot and a member of the WAS_A_CREW_MEMBER_OF crew . He spent 52 minutes in space .
 AIRPORT in LOCATION is operated by the OPERATINGORGANISATION .
 CAPITAL is the capital of Malaysia .
 UNIVERSITY is affiliated with AFFILIATION in COUNTRY .
@@ -16128,13 +16128,13 @@ SPORTSTEAM play in the English Football League .
 COMICSCHARACTER began airing on the BROADCASTEDBY on 10 / 03 / 1983 and its last broadcast was April 15th , 1986 . The creator of COMICSCHARACTER is CREATOR and among its stars are STARRING .
 AS Roma ' s manager is MANAGER , who played for Udinese Calcio . He plays for both , Empoli F . C . and CLUB .
 CITYSERVED is part of ISPARTOF ; it is served by AIRPORT .
-The American ASTRONAUT was born in BIRTHPLACE , on Mar 15 , 1932 . He was a test pilot , and was hired by NASA in WAS SELECTED BY NASA . He spent 100305 minutes in space as part of the crew of WAS A CREW MEMBER OF .
-Adams County is located in Pennsylvania , COUNTRY to the south of Cumberland County and to the east of Franklin County . HAS TO ITS SOUTHWEST is to the southwest and Carrol County , Maryland to the southeast . Adams County is the location of the 11th Mississippi Infantry monument which is categorised as a contributing property .
+The American ASTRONAUT was born in BIRTHPLACE , on Mar 15 , 1932 . He was a test pilot , and was hired by NASA in WAS_SELECTED_BY_NASA . He spent 100305 minutes in space as part of the crew of WAS_A_CREW_MEMBER_OF .
+Adams County is located in Pennsylvania , COUNTRY to the south of Cumberland County and to the east of Franklin County . HAS_TO_ITS_SOUTHWEST is to the southwest and Carrol County , Maryland to the southeast . Adams County is the location of the 11th Mississippi Infantry monument which is categorised as a contributing property .
 CITY is located at ELEVATIONABOVETHESEALEVEL above sea level .
 Sour cream , chopped fruits , condensed milk . granola , raisins and shredded coconut are the main ingredients in FOOD .
 FOOD , is predominant in COUNTRY ' s Java . COUNTRY is led by LEADERNAME , hails the currency rupiah and the LANGUAGE is spoken .
 SPORTSTEAM has NUMBEROFMEMBERS members .
-The MONUMENT is located in Gettysburg in LOCATION , which has Cumberland county to its north and HAS TO ITS SOUTHWEST to its southwest .
+The MONUMENT is located in Gettysburg in LOCATION , which has Cumberland county to its north and HAS_TO_ITS_SOUTHWEST to its southwest .
 Saint Anne is the capital of Alderney .
 FOOD is a dish from COUNTRY where English is spoken .
 Washington D . C . is the capital of the USA where the leader is President LEADERNAME . BUILDING is located in the LOCATION .
@@ -16144,9 +16144,9 @@ A . S . Roma play in LEAGUE , of which the current champions are CHAMPIONS Their
 Madison County is in Indiana , which is in the COUNTRY , .
 WRITTENWORK is published in the COUNTRY by PUBLISHER .
 LEADERNAME and David Cameron are the leaders of the COUNTRY in which CAPITAL is the capital city . AIDS journal is published in the U . K . by Lippincott Williams & Williams .
-ASTRONAUT was born in BIRTHPLACE and attended the ALMAMATER . He was chosen by NASA in WAS SELECTED BY NASA . He died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE and attended the ALMAMATER . He was chosen by NASA in WAS_SELECTED_BY_NASA . He died in DEATHPLACE .
 ASTRONAUT was born in BIRTHPLACE and spent 13017 minutes in space .
-ASTRONAUT was born January 20th , 1930 in BIRTHPLACE . Now retired , he served as a member of the WAS A CREW MEMBER OF crew , which was operated by OPERATOR .
+ASTRONAUT was born January 20th , 1930 in BIRTHPLACE . Now retired , he served as a member of the WAS_A_CREW_MEMBER_OF crew , which was operated by OPERATOR .
 ASTRONAUT was the TITLE .
 The home ground of SPORTSTEAM is GROUND . They play in the LEAGUE league , which was won by Juventus F . C .
 Dave Challinor plays for Colwyn Bay F . C .
@@ -16206,7 +16206,7 @@ The area code for CITY is AREACODE .
 MANAGER is the manager of the SPORTSTEAM , he played at the CLUB club .
 The UNIVERSITY in Balgalore , COUNTRY was established in ESTABLISHED . It is affiliated with the AFFILIATION and the president is PRESIDENT .
 Barny cakes are found in COUNTRY where the LANGUAGE is spoken .
-Buzz Aldrin was born in Glen Ridge in New Jersey in 1930 . Buzz was a fighter pilot and a crew member of WAS A CREW MEMBER OF , where the backup pilot was ASTRONAUT . Buzz Aldrin has since retired .
+Buzz Aldrin was born in Glen Ridge in New Jersey in 1930 . Buzz was a fighter pilot and a crew member of WAS_A_CREW_MEMBER_OF , where the backup pilot was ASTRONAUT . Buzz Aldrin has since retired .
 The BUILDING is located in LOCATION , ISPARTOF , COUNTRY . The country ' s leader is LEADERNAME , and Vietnamese people are an ethnic group from COUNTRY .
 " ALTERNATIVENAME " , also known as Blockbuster , is a comic character created by Roger Stern and CREATOR .
 Corvallis is the largest city in Benton County , Oregon .
@@ -16222,11 +16222,11 @@ DISTRICT is the location of the 14th New Jersey Volunteer Infantry monument whic
 Stuart Parker , who plays football for CLUB and has been manager for AFC Blackpool .
 FOOD , made using condensed milk , is found in the region of REGION .
 Stuart Parker is a footballer with the Drogheda United F . C .
-ASTRONAUT , born in BIRTHPLACE on November 18 , 1923 , was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT , born in BIRTHPLACE on November 18 , 1923 , was selected by NASA in WAS_SELECTED_BY_NASA .
 FOOD is a dish from COUNTRY where they speak Spanish and the people are called ETHNICGROUP . Felipe VI of COUNTRY is the leader .
 STARRING , was one of the stars , in the film Big Hero 6 .
-ASTRONAUT was born in BIRTHPLACE on 20th January 1930 . He graduated from MIT with a Sc . D in 1963 . He served as a Fighter Pilot under the WAS A CREW MEMBER OF program organized by OPERATOR .
-NASA selected ASTRONAUT in WAS SELECTED BY NASA .
+ASTRONAUT was born in BIRTHPLACE on 20th January 1930 . He graduated from MIT with a Sc . D in 1963 . He served as a Fighter Pilot under the WAS_A_CREW_MEMBER_OF program organized by OPERATOR .
+NASA selected ASTRONAUT in WAS_SELECTED_BY_NASA .
 FOOD was created in 1820 at the Rutland Arms , Bakewell .
 CITY is located within the US state of Georgia .
 The ORDER has INGREDIENT as part of the order and its also an ingredient of ajoblanco .
@@ -16244,12 +16244,12 @@ The operating organization for AIRPORT in LOCATION is OPERATINGORGANISATION . Th
 Alpharetta is part of Georgia ( U . S state ) .
 The leader of Italy is LEADERNAME .
 The CODEN code for Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg ( abbreviating to ABBREVIATION ) is CODEN_CODE .
-Alan Shepherd was born in BIRTHPLACE , awarded the American Defense Service Ribbon , and was the Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN .
+Alan Shepherd was born in BIRTHPLACE , awarded the American Defense Service Ribbon , and was the Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN .
 The Al Taqaddum Air Base serves the city of CITYSERVED in COUNTRY , a country where the LANGUAGE are spoken .
 AIRPORT is located in LOCATION ( part of ISPARTOF and Awadh ) and operated by the OPERATINGORGANISATION . The TRANSPORTAIRCRAFT is a transport plane found there .
 The largest city in LOCATION is LARGESTCITY , and the capital city is CAPITAL . The country is lead by Ahmet Davutoglu and is the location of the bronze Ataturk monument which was designed by DESIGNER and inaugurated in Izmir on 27 July 1932 .
 A . D . Isidro Metapan ' s manager is Jorge Humberto Rodriguez .
-OCCUPATION ASTRONAUT was an American who was picked by NASA as part of the space mission in WAS SELECTED BY NASA . See was born in BIRTHPLACE and died in DEATHPLACE .
+OCCUPATION ASTRONAUT was an American who was picked by NASA as part of the space mission in WAS_SELECTED_BY_NASA . See was born in BIRTHPLACE and died in DEATHPLACE .
 LOCATION ' s leader is the Prime Minister . The Baku Turkish Martyr ' s Memorial is in LOCATION .
 A . S . Roma has NUMBEROFMEMBERS members and have a ground in GROUND .
 Written in English , WRITTENWORK was Published in the COUNTRY , where English is spoken , as in SPOKENIN . The previous leader of the US was LEADERNAME and ETHNICGROUP are an ethnic group there .
@@ -16268,7 +16268,7 @@ CHAIRMAN is the chairman of SPORTSTEAM .
 The Alan B Miller Hall , LOCATION , designed by Robert A . M . Stern , was completed on 1st June 2009 and is owned by the College of William and Mary .
 WRITTENWORK , abbreviated Admin . Sci . Q , LLCN number is LCCN_NUMBER .
 FOOD is eaten in the COUNTRY where the language used is LANGUAGE and one of the ethnic groups are the ETHNICGROUP .
-HAS TO ITS NORTHEAST is the area to the northeast of Aarhus .
+HAS_TO_ITS_NORTHEAST is the area to the northeast of Aarhus .
 United States leader is called LEADERNAME .
 AIRPORT is located at LOCATION in COUNTRY in the ISPARTOF . Its runway is 3800 m long and ELEVATIONABOVETHESEALEVEL_(IN_METRES) m above sea level .
 The CURRENTTENANTS in the US are currently tenants of the Robert A M Stern designed Alan B Miller Hall .
@@ -16276,13 +16276,13 @@ BUILDING was designed by architects James Pain and George Richard Pain and was c
 RUNWAYNAME is the runway name of AIRPORT .
 WRITTENWORK has a total of NUMBEROFPAGES pages and the ISBN number ISBN_NUMBER .
 The UNIVERSITY is affiliated to the AFFILIATION . It has ACADEMICSTAFFSIZE staff and 16 , 000 students .
-BIRTHNAME otherwise known as Buzz Aldrin was a part of WAS A CREW MEMBER OF crew along with ASTRONAUT . Buzz Aldrin won AWARDS awards .
+BIRTHNAME otherwise known as Buzz Aldrin was a part of WAS_A_CREW_MEMBER_OF crew along with ASTRONAUT . Buzz Aldrin won AWARDS awards .
 AIRPORT is located in LOCATION , COUNTRY and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 The BUILDING is in Akita , ISPARTOF , COUNTRY . The Koreans are one of the country ' s ethnic groups .
 Associazione Calcio ChievoVerona is managed by MANAGER who plays for CLUB .
 The country FOOD comes from is the COUNTRY .
 FOOD is from the REGION region .
-ASTRONAUT is a US national who was born on 20 January 1930 in BIRTHPLACE . Prior to his retiral he was a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT is a US national who was born on 20 January 1930 in BIRTHPLACE . Prior to his retiral he was a crew member on WAS_A_CREW_MEMBER_OF .
 WRITTENWORK , which was written by AUTHOR , has NUMBEROFPAGES pages and was put into print with the ISBN number ISBN_NUMBER .
 BUILDING has BEDCOUNT beds .
 AC Chievo Verona play in the LEAGUE league .
@@ -16300,18 +16300,18 @@ ACADEMICDISCIPLINE is the academic discipline of WRITTENWORK which has the abbre
 FOOD is part of Columbian cuisine from the REGION area . It includes INGREDIENT which is a plant of the laurales order , belonging to the FAMILY family .
 Peter St ö ger played football for CLUB .
 Arem arem comes from REGION , a country led by LEADERNAME .
-ASTRONAUT ( born on BIRTHDATE ) was selected by NASA in WAS SELECTED BY NASA and now is retired .
+ASTRONAUT ( born on BIRTHDATE ) was selected by NASA in WAS_SELECTED_BY_NASA and now is retired .
 The operator of Apollo 12 was OPERATOR .
 The English novel WRITTENWORK , which has the ISBN number of " ISBN_NUMBER " , was followed by FOLLOWEDBY .
 WRITTENWORK was written by AUTHOR , who was born in BIRTHPLACE and was influenced by Robert A Heinlein . WRITTENWORK was written in English , the language also spoken in SPOKENIN .
 BUILDING is located in LOCATION , has FLOORCOUNT floors and was completed in COMPLETIONDATE .
-ASTRONAUT ( born on BIRTHDATE in BIRTHPLACE ) went to school at NWC and graduated with an MA in 1957 and two years after in WAS SELECTED BY NASA he was selected from NASA . Alan died on the 21st of July , 1998 .
+ASTRONAUT ( born on BIRTHDATE in BIRTHPLACE ) went to school at NWC and graduated with an MA in 1957 and two years after in WAS_SELECTED_BY_NASA he was selected from NASA . Alan died on the 21st of July , 1998 .
 Jens Hartel played for CLUB but is now manager of FC Magdeburg . His own club is Berliner AK 07 and he is also part of 1 FC Union Berlin .
 CITYSERVED is part of Harrietstown , ISPARTOF in the COUNTRY and it is served by AIRPORT . This airport also serves the city of Lake Placid , ISPARTOF .
 ASTRONAUT died on DEATHDATE .
 Ann Arbor is part of ISPARTOF .
 The third runway length of AIRPORT is 2 , 939 feet .
-The UNIVERSITY in STATE state is affiliated with AFFILIATION in Belgium . It was given its Technical Campus ' status by WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY in LOCATION . STATE has the HAS TO ITS WEST to its west and Telagana to its northeast .
+The UNIVERSITY in STATE state is affiliated with AFFILIATION in Belgium . It was given its Technical Campus ' status by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION . STATE has the HAS_TO_ITS_WEST to its west and Telagana to its northeast .
 The operating organisation for Al Asad airbase is the OPERATINGORGANISATION who were involved in the invasion of Panama , fought battles in the Korean war and deploy the Lockheed AC130 attack aircraft .
 WRITTENWORK was written in the COUNTRY in English which is spoken in SPOKENIN .
 FOOD is a dessert from REGION , COUNTRY that includes chopped Fruits , sour cream , condensed milk , granola , shredded coconut and raisins .
@@ -16334,7 +16334,7 @@ John Cowpher Powys wrote WRITTENWORK and was born in BIRTHPLACE .
 FOOD is a dish commonly found in Indonesia . It can also be found in REGION , where the leader is LEADERNAME and the language spoken is LANGUAGE .
 The book WRITTENWORK is written in English the language spoken in SPOKENIN .
 Originating from the REGION , FOOD can be served warm ( freshly baked ) or cold . The main ingredients are ground almond , jam , butter and eggs .
-ASTRONAUT is a US national who was a member of the WAS A CREW MEMBER OF crew ( operated by OPERATOR ) . The back up pilot was BACKUP PILOT and the commander was COMMANDER .
+ASTRONAUT is a US national who was a member of the WAS_A_CREW_MEMBER_OF crew ( operated by OPERATOR ) . The back up pilot was BACKUP_PILOT and the commander was COMMANDER .
 FOOD is a traditional Italian sauce , from the REGION region and INGREDIENT is one of its ingredients .
 FOOD is from COUNTRY .
 BUILDING is located in Gujarat , LOCATION , COUNTRY . Gujarat ' s leader is known as the LEADERTITLE , and LEADERNAME was an Indian leader .
@@ -16348,7 +16348,7 @@ FOOD includes tomatoes , part of the flowering plant division , and belonging to
 COMICSCHARACTER , the TV series was shown on the BROADCASTEDBY which has its home at LOCATIONCITY in London . A key person at the BROADCASTEDBY is KEYPERSON .
 Appleton international Airport is located in Greenville , Wisconsin , COUNTRY and serves the city of Appleton . Greenville is part of Ellington , Wisconsin . Little Chute is part of Appleton , Wisconsin .
 Construction of BUILDING , LOCATION , COUNTRY began in BUILDINGSTARTDATE .
-ASTRONAUT was born in BIRTHPLACE in 1930 . He was a crew member of WAS A CREW MEMBER OF before he retired .
+ASTRONAUT was born in BIRTHPLACE in 1930 . He was a crew member of WAS_A_CREW_MEMBER_OF before he retired .
 1 FC Magdeburg , with NUMBEROFMEMBERS members , is in the 3 Liga league and was in Regionalliga in 2014 .
 FOOD is a food found in the REGION in COUNTRY .
 There are ACADEMICSTAFFSIZE academic staff at the UNIVERSITY in the city of CITY .
@@ -16358,13 +16358,13 @@ BUILDING is located in LOCATION , COUNTRY which is lead by Malatu Teshome and LE
 " WRITTENWORK " was published by PUBLISHER , a subsidiary of Macmillian Publishers .
 Construction of the BUILDING , a concerts and events type building , was completed in COMPLETIONDATE . The arena , which is located at East link Bridge , is 28 metres tall and was designed by the company Populous .
 CITY is led by the LEADERTITLE .
-The UNIVERSITY in CITY , STATE is affiliated to the AFFILIATION . It was given the " Technical Campus " status by the WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY ( located in LOCATION ) . STATE has HAS TO ITS NORTHEAST to its northeast .
+The UNIVERSITY in CITY , STATE is affiliated to the AFFILIATION . It was given the " Technical Campus " status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY ( located in LOCATION ) . STATE has HAS_TO_ITS_NORTHEAST to its northeast .
 FOOD , which contains palm sugar , is a dish made in COUNTRY .
 The UNIVERSITY was established at CITY in ESTABLISHED . It has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students .
 Aplena County Regional Airport is elevated ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 Jorge Humberto Rodgriguez plays for the CLUB club .
 The UNIVERSITY is in CITY , STATE COUNTRY . The institute ' s president is PRESIDENT and it is affiliated with the AFFILIATION . The campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 .
-American ASTRONAUT joined NASA in WAS SELECTED BY NASA and died in DEATHPLACE . He graduated from the ALMAMATER , which is is affiliated to the University Of Texas system and is competing in the COMPETE IN .
+American ASTRONAUT joined NASA in WAS_SELECTED_BY_NASA and died in DEATHPLACE . He graduated from the ALMAMATER , which is is affiliated to the University Of Texas system and is competing in the COMPETE_IN .
 WRITTENWORK was written prior to " Ring of Fire II " .
 In ESTABLISHED the 11th Mississippi Infantry monument was established in LOCATION , US . It is now categorised as a contributing property .
 FOOD is from the REGION and contains bacon .
@@ -16398,8 +16398,8 @@ The BUILDING is on LOCATION and was constructed in YEAROFCONSTRUCTION .
 108 St . Georges Terrace , which was completed in COMPLETIONDATE , has a floor area of 39599 . 0 square metres . It has FLOORCOUNT floors , and cost 120 million AUD .
 The UNIVERSITY is located in LOCATION , CITY , COUNTRY . It was established in ESTABLISHED , has NUMBEROFSTUDENTS students , and an academic staff of ACADEMICSTAFFSIZE .
 The WRITTENWORK ( ABBREVIATION ) is academically focused on ACADEMICDISCIPLINE and the ISSN number is ISSN_NUMBER .
-BACKUP PILOT was the backup pilot of Apollo 12 .
-ASTRONAUT was born BIRTHDATE and retired in DATEOFRETIREMENT . He served as a crew member of WAS A CREW MEMBER OF operated by Nasa with backup pilot BACKUP PILOT and CREWMEMBERS as a crew member .
+BACKUP_PILOT was the backup pilot of Apollo 12 .
+ASTRONAUT was born BIRTHDATE and retired in DATEOFRETIREMENT . He served as a crew member of WAS_A_CREW_MEMBER_OF operated by Nasa with backup pilot BACKUP_PILOT and CREWMEMBERS as a crew member .
 INGREDIENT is an ingredient of FOOD which is a Philippine dish .
 BUILDING is located in LOCATION , ISPARTOF , COUNTRY , and has FLOORCOUNT floors . LOCATION is lead by LEADERNAME .
 They started to build Alan B Miller Hall on 30 March , 2007 .
@@ -16407,7 +16407,7 @@ BUILDING is in LOCATION , which is a part of ISPARTOF , USA . The leader of LOCA
 Barny cakes can be found in COUNTRY , where two of the leaders are , Gerard Larcher and LEADERNAME .
 Arros negre is a traditional dish from the region of the REGION in COUNTRY . The leader of the country is Felipe VI and the ETHNICGROUP are an ethnic group .
 Influenced by INFLUENCEDBY , AUTHOR is the author of PRECEDEDBY and it ' s sequel WRITTENWORK . Flint was born in Burbank California .
-ASTRONAUT is a retired fighter pilot . He along side CREWMEMBERS was a crew member of WAS A CREW MEMBER OF .
+ASTRONAUT is a retired fighter pilot . He along side CREWMEMBERS was a crew member of WAS_A_CREW_MEMBER_OF .
 The fried chicken dish Ayam Penyet is from REGION and COUNTRY . The ETHNICGROUP are an ethnic group from COUNTRY .
 SPORTSTEAM , in the LEAGUE league , ground is in GROUND .
 The AIDS journal is published by Lippincott , Williams & Wilkins . It is is published in the UK , which capital is CAPITAL .
@@ -16420,7 +16420,7 @@ OPERATINGORGANISATION is the operating organisation of AIRPORT which has a runwa
 Bacon explosion is a dish that originated in the COUNTRY , where LEADERNAME is a leader and ETHNICGROUP are an ethnic group .
 Atlantic City International Airportis 23 metres above sea level , operated by the port Authority of New York and New Jersey , and has a runway names RUNWAYNAME which is 1873 meters long .
 Ernie Colon and Gary Cohn created the comic character Bolt .
-ASTRONAUT ( born BIRTHPLACE ) is a US national who became a crew member of WAS A CREW MEMBER OF having served as a test pilot . He eceived a Bachelor of Science degree at the University of Texas at Austin in 1955 .
+ASTRONAUT ( born BIRTHPLACE ) is a US national who became a crew member of WAS_A_CREW_MEMBER_OF having served as a test pilot . He eceived a Bachelor of Science degree at the University of Texas at Austin in 1955 .
 St Vincent - St Mary High School is the ground of SPORTSTEAM , in the state of STATE in the COUNTRY of America .
 Stuart Parker plays for KV Mechelen and the CLUB AFC GROUND ( GROUND ) had Stuart Parker as their manager . The Conservative Party U . K . is the leader of GROUND .
 LOCATION is part of ISPARTOF and is the location of Agra airport at ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level , .
@@ -16430,15 +16430,15 @@ The language of SPOKENIN is English , and this was used in the original publicat
 Lars L ? ? kke Rasmussen is the leader of Denmark .
 FOOD is typical COUNTRY from the Paisa region .
 The comic book character Blockbuster was created by CREATOR .
-BUILDING are located in LOCATION . They were constructed in YEAROFCONSTRUCTION and are in the architectural sytle of ARCHITECTURALSTYLE . They were added to the National Register of Historic Places on ADDED TO THE NATIONAL REGISTER OF HISTORIC PLACES with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING are located in LOCATION . They were constructed in YEAROFCONSTRUCTION and are in the architectural sytle of ARCHITECTURALSTYLE . They were added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 English is spoken in SPOKENIN and is also the language of the COUNTRY . The COUNTRY is led by LEADERNAME and is the origin of WRITTENWORK .
-American test pilot ASTRONAUT was part of WAS A CREW MEMBER OF and was born in BIRTHPLACE .
-Adams County , Pennsylvania has HAS TO ITS SOUTHWEST to its southwest .
+American test pilot ASTRONAUT was part of WAS_A_CREW_MEMBER_OF and was born in BIRTHPLACE .
+Adams County , Pennsylvania has HAS_TO_ITS_SOUTHWEST to its southwest .
 FOUNDER is the founder of SAGE publications .
 ASTRONAUT was an American who was born on July 23rd , 1927 , in BIRTHPLACE , and died in DEATHPLACE . He attended the ALMAMATER .
 The Marriot International , originally founded in FOUNDATIONPLACE , is the tenant of BUILDING .
 The ETHNICGROUP and the Ilocano people are ethnic groups from the COUNTRY where OFFICIALLANGUAGE is the official language and where LANGUAGE is also spoken . FOOD is a traditional dish from this country .
-ASTRONAUT who is originally from BIRTHPLACE graduated with an MA from NWC in 1957 . He then went on to become a member of WAS A CREW MEMBER OF ' s crew before retiring in 1974 . ASTRONAUT died in DEATHPLACE .
+ASTRONAUT who is originally from BIRTHPLACE graduated with an MA from NWC in 1957 . He then went on to become a member of WAS_A_CREW_MEMBER_OF ' s crew before retiring in 1974 . ASTRONAUT died in DEATHPLACE .
 SPORTSTEAM Bakou , whose ground has a capacity of NUMBEROFMEMBERS , played in the Azerbaijan Premier League , 2014 – 15 .
 The fried chicken dish FOOD can be found all over COUNTRY , Malaysia and Singapore . The chicken is " squeezed " or " smashed " and served with sambal .
 AIRPORT , which is 25 metres above sea level , is operated by OPERATINGORGANISATION . The runway name is RUNWAYNAME and has a length of RUNWAYLENGTH .
@@ -16449,8 +16449,8 @@ GROUND is in CITY which is in Summit County and home to the ground of SPORTSTEAM
 The ISPARTOF Dales is part of ISPARTOF .
 MANAGER previously played for CLUB but now plays for AC Chievo Verona . He is also the manager of AC Lumezzane who have their ground in GROUND where LEADER is the leader .
 Located in the community of LOCATIONCITY , lies OPERATINGORGANISATION . OPERATINGORGANISATION operates an airport called The AIRPORT , which lies in LOCATION , COUNTRY .
-ASTRONAUT was born in BIRTHPLACE on the 17th of October 1933 . He graduated with an M . S . from AFIT in 1962 and was selected by NASA in WAS SELECTED BY NASA serving as a fighter pilot before his retirement on the 9th of september 1969 .
-ASTRONAUT attended the ALMAMATER who are competing in the COMPETE IN . ASTRONAUT died on February 28 , 1966 in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE on the 17th of October 1933 . He graduated with an M . S . from AFIT in 1962 and was selected by NASA in WAS_SELECTED_BY_NASA serving as a fighter pilot before his retirement on the 9th of september 1969 .
+ASTRONAUT attended the ALMAMATER who are competing in the COMPETE_IN . ASTRONAUT died on February 28 , 1966 in DEATHPLACE .
 The leader of Sri Lanka is LEADERNAME .
 ASTRONAUT ( born on BIRTHDATE ) graduated from UT Austin in 1955 .
 Ingredients used in a bacon explosion are bacon and sausage .
@@ -16468,7 +16468,7 @@ LEADERNAME is the leader of COUNTRY where the Accademia di Architettura which wa
 The fighter pilot ASTRONAUT , born in BIRTHPLACE , retired Sept 1st 1969 .
 ASTRONAUT ( born in BIRTHPLACE ) went to the ALMAMATER which is affiliated with the AFFILIATIONS and was a test pilot .
 Fighter Pilot ASTRONAUT was born in BIRTHPLACE and retired on 1st September 1969 .
-ASTRONAUT was a member of the crew of WAS A CREW MEMBER OF .
+ASTRONAUT was a member of the crew of WAS_A_CREW_MEMBER_OF .
 The ETHNICGROUP are an ethnic group of Java .
 " Universias Aarhusiensis " is the latin name of the School of Business and Social Sciences at Aarhus University which is affiliated to the AFFILIATION . The School was established in ESTABLISHED .
 The BUILDING are in the architectural sytle of ARCHITECTURALSTYLE .
@@ -16595,20 +16595,20 @@ The architects for BUILDING completed in COMPLETIONDATE were James Pain and Geor
 INGREDIENT is an ingredient in bakewell tart which is a variant of bakewell pudding and popular in the REGION area .
 AC Hotel Bella Sky is in Copenhagen , LOCATION , where Faroese is spoken . The hotel ' s tenant is TENANT , founded in FOUNDATIONPLACE , and led by KEYPERSON .
 WRITTENWORK is in print .
-ASTRONAUT was born in BIRTHPLACE and graduated from MIT in 1963 . He performed as a fighter pilot and was a member of the WAS A CREW MEMBER OF crew , operated by OPERATOR . He is now retired .
+ASTRONAUT was born in BIRTHPLACE and graduated from MIT in 1963 . He performed as a fighter pilot and was a member of the WAS_A_CREW_MEMBER_OF crew , operated by OPERATOR . He is now retired .
 LEADERNAME and Prokopis Pavlopoulos are leaders in COUNTRY where the inhabitants are given the demonym of DEMONYM . The country is the location of the city known as CITYSERVED which is served by AIRPORT .
 The MONUMENT can be found is LOCATION which is led by Prime Minister LEADERNAME who leads the National Assembly .
 The WRITTENWORK ( Am . J . Math ) is published bi - monthly with its discipline being Math . It has an ISSN number of ISSN_NUMBER .
 The AIRPORT serves the city of CITYSERVED in COUNTRY . The leaders of COUNTRY are Nikos Voutsis and LEADERNAME . Greek is spoken in that country .
 The MONUMENT is found in the LOCATION , COUNTRY . To the west of Adams County lies Franklin County and to the north Cumberland County is located - all of these counties are in the state of Pennsylvania . Adams County has Carrol County to its southeast and Frederick County to its southwest - both these counties are in Maryland .
 FOOD originates from the REGION and the ingredients include ground almonds , jam , butter and eggs .
-American ASTRONAUT was born in BIRTHPLACE . He was selected by OPERATOR in WAS SELECTED BY NASA and served as a OCCUPATION . He was a crew member on WAS A CREW MEMBER OF , that was operated by OPERATOR . he is retired now .
+American ASTRONAUT was born in BIRTHPLACE . He was selected by OPERATOR in WAS_SELECTED_BY_NASA and served as a OCCUPATION . He was a crew member on WAS_A_CREW_MEMBER_OF , that was operated by OPERATOR . he is retired now .
 FOOD is a traditional dish in COUNTRY and popular in Southeast Asian countries . LEADERNAME is the leader in COUNTRY whose capital is CAPITAL and where the language is Indonesian .
 Elliot was born in BIRTHPLACE on the 23rd of July 1927 . Elliot was a student at the ALMAMATER . Elliot served as a test pilot before passing away on the 28th of february in 1966 .
 FOOD originate in COUNTRY , where French is the national language and where LEADERNAME is the leader .
 BUILDING is located in the LOCATION which is occupied by British People which is the demonym for the natives .
 A T Charlie Johnson edited WRITTENWORK which is published by the PUBLISHER . His doctoral advisor was DOCTORALADVISOR and his alma mater is ALMAMATER .
-The 11th Mississippi Infantry monument is located in Gettysburg , LOCATION and is categorised as a contributing property . Adams County is situated to the east of Franklin County and south of HAS TO ITS NORTH . Carrol County in Maryland lies to the northwest .
+The 11th Mississippi Infantry monument is located in Gettysburg , LOCATION and is categorised as a contributing property . Adams County is situated to the east of Franklin County and south of HAS_TO_ITS_NORTH . Carrol County in Maryland lies to the northwest .
 The UNIVERSITY was established in ESTABLISHED and is located in COUNTRY . There are 16 , 000 students , and an academic staff size of ACADEMICSTAFFSIZE , headed by the dean , DEAN .
 The full name of AC Chievo GROUND is " FULLNAME " and play at their ground in GROUND where they have NUMBEROFMEMBERS members .
 BBC was founded by John Reith 1st Baron Reith .
@@ -16630,7 +16630,7 @@ The currency of Ethiopia is the CURRENCY .
 DISHVARIATION , which includes the ingredient fruit preserves , is a variant of Bakewell Pudding which comes from the ADMINISTRATIVECOUNTY Dales . The leader of the ADMINISTRATIVECOUNTY Dales , which is in the county of ADMINISTRATIVECOUNTY , is LEADERNAME .
 The runway name of AIRPORT is RUNWAYNAME .
 SPORTSTEAM has NUMBEROFMEMBERS members and their ground is in GROUND .
-ASTRONAUT was born in in BIRTHPLACE on October 17th , 1933 , was a OCCUPATION , was a member of WAS A CREW MEMBER OF ' s crew and retired on 1st September 1969 .
+ASTRONAUT was born in in BIRTHPLACE on October 17th , 1933 , was a OCCUPATION , was a member of WAS_A_CREW_MEMBER_OF ' s crew and retired on 1st September 1969 .
 Adams Township , Madison County , Indiana is located within the COUNTRY .
 AFC GROUND has the full name " FULLNAME " and their ground is in GROUND . They have NUMBEROFMEMBERS members and competed in the SEASON season .
 The UNIVERSITY was established in ESTABLISHED in the city of CITY in COUNTRY . It currently has ACADEMICSTAFFSIZE members of staff and NUMBEROFSTUDENTS students .
@@ -16640,16 +16640,16 @@ The TRANSPORTAIRCRAFT is a transport aircraft in the OPERATINGORGANISATION , the
 The leader of the LOCATION has the title of president . LEADERNAME is a leader in the US and the country ' s language is English . BUILDING is in the US .
 The runway length of AIRPORT is 3 , 992 . 88 .
 BUILDING , with FLOORCOUNT floors , is located in LOCATION , ISPARTOF , U . S . . LOCATION ' s leader is called LEADERNAME .
-ASTRONAUT graduated with a M . S . from AFIT in 1962 . He then went on to work for OPERATOR and became a crew member on WAS A CREW MEMBER OF along with BACKUP PILOT as backup pilot and COMMANDER as the commander . ASTRONAUT then retired in 1969 .
+ASTRONAUT graduated with a M . S . from AFIT in 1962 . He then went on to work for OPERATOR and became a crew member on WAS_A_CREW_MEMBER_OF along with BACKUP_PILOT as backup pilot and COMMANDER as the commander . ASTRONAUT then retired in 1969 .
 AIDS journal is from the COUNTRY , where English is the language spoken . It is published by PUBLISHER , whose parent company is PARENTCOMPANY .
-In WAS SELECTED BY NASA ASTRONAUT graduated from MIT with a Sc . D . and that same year OPERATOR picked him to crew WAS A CREW MEMBER OF . Aldrin was born in BIRTHPLACE on January 20th , 1930 and was a fighter pilot before heading into space .
-ASTRONAUT went to the ALMAMATER to compete in the COMPETE IN . He died in DEATHPLACE with LEADERNAME .
+In WAS_SELECTED_BY_NASA ASTRONAUT graduated from MIT with a Sc . D . and that same year OPERATOR picked him to crew WAS_A_CREW_MEMBER_OF . Aldrin was born in BIRTHPLACE on January 20th , 1930 and was a fighter pilot before heading into space .
+ASTRONAUT went to the ALMAMATER to compete in the COMPETE_IN . He died in DEATHPLACE with LEADERNAME .
 AIRPORT is located in LOCATION , Bundelhand and is operated by the OPERATINGORGANISATION . The AIRCRAFTHELICOPTER is owned by the OPERATINGORGANISATION along with the transport plane the Boeing C - 1 Globemaster III .
-ASTRONAUT was an American born in Glen Ridge New Jersey in 1930 . He served as a fighter pilot and was a member of OPERATOR ' s WAS A CREW MEMBER OF crew .
+ASTRONAUT was an American born in Glen Ridge New Jersey in 1930 . He served as a fighter pilot and was a member of OPERATOR ' s WAS_A_CREW_MEMBER_OF crew .
 Ahmet_Davutoglu is LOCATION ' s leader where the currency is Turkish Lira , and where DESIGNER designed the Ataturk Monument in Izmir from bronze , the monument was inagurated on July 27 , 1932 .
 SPORTSTEAM played in the SEASON season in the LEAGUE league which is in COUNTRY . This league has been won by CHAMPIONS .
 FOOD originates from the ISPARTOF Dales region of ISPARTOF where LEADERNAME is the leader .
-ASTRONAUT was on the crew of WAS A CREW MEMBER OF .
+ASTRONAUT was on the crew of WAS_A_CREW_MEMBER_OF .
 CHAMPIONS are the champions of the Azerbaijan Premier League .
 BUILDING is in Adare , ISPARTOF , LOCATION .
 FOOD is a dessert that can be served warm ( freshly baked ) or cold . It was created in 1820 at the Rutland Arms , Bakewell . Its main ingredients are ground almonds , jam , butter and eggs .
@@ -16675,7 +16675,7 @@ The book , " A Long , Long Way , " published by PUBLISHER , was followed by " FO
 The UNIVERSITY is located in STATE lulia , STATE . Its Latin name is " LATINNAME " and its nickname is " NICKNAME " .
 WRITTENWORK originates from the COUNTRY , where the capital is Washington DC and there is an ethnic group called Asia Americans . The book is written in English which is the language spoken in SPOKENIN .
 Alfred Giles was the architect of BUILDING and died in PLACEOFDEATH .
-ASTRONAUT ( born on July 23 , 1927 and died on February 28 , 1966 in DEATHPLACE ) was an American and performed as a test pilot selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT ( born on July 23 , 1927 and died on February 28 , 1966 in DEATHPLACE ) was an American and performed as a test pilot selected by NASA in WAS_SELECTED_BY_NASA .
 LEADER is the leader of greece where the currency is the CURRENCY and the capital city is CAPITAL . The country is the location of SPORTSTEAM .
 BUILDING is located in Cook County , LOCATION , Illinois .
 The UNIVERSITY ' s latin name is " LATINNAME " . It ' s nickname is NICKNAME and is located in STATE lulia , STATE .
@@ -16692,7 +16692,7 @@ Designed by ARCHITECT , the BUILDING in LOCATION was completed in COMPLETIONDATE
 The novel Owen Glendower is a notable work by AUTHOR , who also wrote WRITTENWORK .
 BUILDING is located in Asherton , ISPARTOF , United States .
 Bandeja pasta ( Columbia ) includes the ingredient , kidney beans .
-ASTRONAUT was born in BIRTHPLACE on march 15 , 1932 , and is American . He was a test pilot and worked for NASA in WAS SELECTED BY NASA . He is now retired .
+ASTRONAUT was born in BIRTHPLACE on march 15 , 1932 , and is American . He was a test pilot and worked for NASA in WAS_SELECTED_BY_NASA . He is now retired .
 WRITTENWORK , authored by J . V . Jones , has a ISBN number of ISBN_NUMBER .
 The AIRPORT is in Greenville , which is part of Menasha , Wisconsin , USA .
 American ASTRONAUT was born in BIRTHPLACE on the 23rd of July , 1927 . He served as a test pilot , and passed away in DEATHPLACE .
@@ -16765,7 +16765,7 @@ The comic character Bolt , or otherwise known as ALTERNATIVENAME , was created b
 The BUILDING is in LOCATION .
 Arros negre is a traditional dish from COUNTRY , where the euro is used .
 WRITTENWORK is academically focused on ACADEMICDISCIPLINE .
-ASTRONAUT was born on the 18th November 1923 in BIRTHPLACE . He was a member of the crew of WAS A CREW MEMBER OF . He was awarded the Distinguished Service Medal by the US Navy , which ranks higher than the HIGHER . He retired on the 1st August 1974 and died in DEATHPLACE .
+ASTRONAUT was born on the 18th November 1923 in BIRTHPLACE . He was a member of the crew of WAS_A_CREW_MEMBER_OF . He was awarded the Distinguished Service Medal by the US Navy , which ranks higher than the HIGHER . He retired on the 1st August 1974 and died in DEATHPLACE .
 LEADERNAME leads COUNTRY , a country where Italian is the spoken language . FOOD is a traditional Italian sauce .
 CITY , is in the ISPARTOF .
 MANAGER was previously the manager at SPORTSTEAM . He plays for CLUB , ADO Den Haag and Vitesse Arnhem .
@@ -16789,7 +16789,7 @@ The AIRPORT is run by the OPERATINGORGANISATION organization . The runway ( whos
 WRITTENWORK comes under the academic discipline ACADEMICDISCIPLINE .
 The fullname of SPORTSTEAM is AZAL Pesokar Futbol Klubu , they have NUMBEROFMEMBERS members and were in the SEASON season .
 UNIVERSITY is in COUNTRY as well as the Church of COUNTRY .
-The UNIVERSITY in Aarus , southwest of HAS TO ITS NORTHEAST , COUNTRY is affiliated with the AFFILIATION , headquartered in HEADQUARTERS . The country ' s leader is named LEADERNAME .
+The UNIVERSITY in Aarus , southwest of HAS_TO_ITS_NORTHEAST , COUNTRY is affiliated with the AFFILIATION , headquartered in HEADQUARTERS . The country ' s leader is named LEADERNAME .
 The leader of GROUND is LEADER . Stuart Parker , who once played football for Chesterfield FC and Stockport County FC is the manager of AFC GROUND , whose ground is located in GROUND .
 BUILDING which is located at ADDRESS was inagurated on INAUGURATIONDATE .
 CREATOR and American Jack Kirby created the comic character Balder .
@@ -16832,7 +16832,7 @@ BUILDING are located in LOCATION .
 The motto of UNIVERSITY , which has about 500 employees , is MOTTO .
 The runway length of AIRPORT is RUNWAYLENGTH .
 The UNIVERSITY is affiliated to the AFFILIATION . It has ACADEMICSTAFFSIZE academic staff and 16 , 000 students . The AFFILIATION has headquarters in HEADQUARTERS .
-ASTRONAUT , born in BIRTHPLACE , was a crew member of WAS A CREW MEMBER OF where BACKUP PILOT served as the backup pilot .
+ASTRONAUT , born in BIRTHPLACE , was a crew member of WAS_A_CREW_MEMBER_OF where BACKUP_PILOT served as the backup pilot .
 The MONUMENT is located in LOCATION , which has Carrol county , Maryland to its southeast and Cumberland county , Pennsylvania to its north .
 Frank de Boer is in the CLUB .
 The Apollo 12 operator is OPERATOR .
@@ -16885,9 +16885,9 @@ FULLNAME ( abbreviated to AFC Fylde ) has NUMBEROFMEMBERS members , are based at
 FOOD has ground almond , jam , butter and eggs as main ingredients .
 Barny cakes can be found in COUNTRY , whose leaders include G é rard Larcher and Francois Hollande .
 AIRPORT is in Icolo e Bengo , COUNTRY . Its runway is names RUNWAYNAME .
-American test pilot ASTRONAUT was born on March 15 , 1932 , in BIRTHPLACE . He joined NASA in WAS SELECTED BY NASA , and served as a crew member on WAS A CREW MEMBER OF .
+American test pilot ASTRONAUT was born on March 15 , 1932 , in BIRTHPLACE . He joined NASA in WAS_SELECTED_BY_NASA , and served as a crew member on WAS_A_CREW_MEMBER_OF .
 Located in LOCATION is AIRPORT . This airport has a runway length of 3500 metres and a runway name RUNWAYNAME .
-Alan Shephard was born in BIRTHPLACE on November 18th , 1923 . He graduated from NWC with an M . A . in 1957 . He was chosen by NASA in WAS SELECTED BY NASA and he served as a crew member of WAS A CREW MEMBER OF . He died in DEATHPLACE on the 21st July 1998 .
+Alan Shephard was born in BIRTHPLACE on November 18th , 1923 . He graduated from NWC with an M . A . in 1957 . He was chosen by NASA in WAS_SELECTED_BY_NASA and he served as a crew member of WAS_A_CREW_MEMBER_OF . He died in DEATHPLACE on the 21st July 1998 .
 Stuart Parker is a footballer who has managed , and now plays for , GROUND FC . The club ' s ground is in GROUND which is lead by LEADER .
 FOOD , a dish from COUNTRY , contains palm sugar .
 BUILDING is located in LOCATION .
@@ -16944,10 +16944,10 @@ INGREDIENT is an ingredient in FOOD which hails from Kansas City COUNTRY .
 WRITTENWORK was written by AUTHOR ( of BIRTHPLACE ) and followed by FOLLOWEDBY .
 WRITTENWORK is published by PUBLISHER , that is based in the COUNTRY , where people speak English , same as in SPOKENIN and there are an ethnic group called Native Americans .
 The UNIVERSITY in STATE , COUNTRY has ACADEMICSTAFFSIZE academic staff . STATE has Mahe , COUNTRY to its northwest . The RIVER is a river in COUNTRY .
-BUILDING are located in LOCATION , it was constructed in YEAROFCONSTRUCTION and has the architectural style of ARCHITECTURALSTYLE . It was added to the National Register of Historic Places on 27 February 1987 . with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING are located in LOCATION , it was constructed in YEAROFCONSTRUCTION and has the architectural style of ARCHITECTURALSTYLE . It was added to the National Register of Historic Places on 27 February 1987 . with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 The AIDS journal is published by Lippincott , Williams & Wilkins in the COUNTRY , where LEADERNAME is the leader and the capital city is CAPITAL .
 FOOD comes from the COUNTRY where the capital is Washington , D . C .
-Allan Bean is a US national who was born in BIRTHPLACE . He was selected by NASA in WAS SELECTED BY NASA and became a member of the WAS A CREW MEMBER OF crew . He is retired .
+Allan Bean is a US national who was born in BIRTHPLACE . He was selected by NASA in WAS_SELECTED_BY_NASA and became a member of the WAS_A_CREW_MEMBER_OF crew . He is retired .
 CITYSERVED Airport Schuphol is 3 . 3528 below sea level , has a runway that ' s 2 , 014 long and serves CITYSERVED .
 AIRPORT , located in Sao Jose dos Pinhais , is elevated ELEVATIONABOVETHESEALEVEL_(IN_FEET) feet above sea level .
 The runway length of Al - Taqaddum air base is RUNWAYLENGTH .
@@ -16972,7 +16972,7 @@ The UNIVERSITY neighbours NEIGHBORINGMUNICIPALITY in COUNTRY . The country ' s l
 ASTRONAUT performs as a test pilot .
 BUILDING is located in LOCATION , which is part of ISPARTOF in COUNTRY . One of the ethnic groups in COUNTRY is the Filipinos and the leader of the country is LEADERNAME .
 Turkey ' s leader is LEADERNAME .
-ASTRONAUT was born in BIRTHPLACE and graduated from AFIT in 1962 with an M . S . He joined OPERATOR in WAS SELECTED BY NASA and was a member of the crew of OPERATOR operated WAS A CREW MEMBER OF , which also included CREWMEMBERS and BACKUP PILOT ( back up pilot ) .
+ASTRONAUT was born in BIRTHPLACE and graduated from AFIT in 1962 with an M . S . He joined OPERATOR in WAS_SELECTED_BY_NASA and was a member of the crew of OPERATOR operated WAS_A_CREW_MEMBER_OF , which also included CREWMEMBERS and BACKUP_PILOT ( back up pilot ) .
 The owner of BUILDING is OWNER .
 WRITTENWORK is from the COUNTRY , where you will find an ethnic group called the Native Americans . English is the language of the COUNTRY and also the language spoken in SPOKENIN .
 Seminary Ridge in Gettysburg is located in LOCATION and is the location of the 11th Mississippi Infantry monument which was established in ESTABLISHED and categorised as a contributing property within the COUNTRY .
@@ -16984,7 +16984,7 @@ FULLNAME ( abbreviated to SPORTSTEAM ) has NUMBEROFMEMBERS members and played in
 CITY has a UTC offset of - 7 .
 Asterix the comic character whose alternative name is Asterix was created by CREATOR and Rene Goscinny .
 The runway length of AIRPORT is 1 , 121 .
-ASTRONAUT was born on the 15th of March 1932 and selected to be part of OPERATOR ' s WAS A CREW MEMBER OF mission in WAS SELECTED BY NASA . WAS A CREW MEMBER OF was commanded by COMMANDER and included backup pilot BACKUP PILOT .
+ASTRONAUT was born on the 15th of March 1932 and selected to be part of OPERATOR ' s WAS_A_CREW_MEMBER_OF mission in WAS_SELECTED_BY_NASA . WAS_A_CREW_MEMBER_OF was commanded by COMMANDER and included backup pilot BACKUP_PILOT .
 The novel WRITTENWORK , written in English , was followed by FOLLOWEDBY .
 BUILDING is in LOCATION , governed by GOVERNINGBODY .
 FOOD comes from Indonesia , Malaysia and the Malay peninsula . It is a dish of fish cooked in a sour and hot sauce .
@@ -16998,8 +16998,8 @@ AIRPORT serves the city of CITYSERVED , a popular tourist destination in COUNTRY
 Guadalajara is located in COUNTRY .
 LOCATION ' s ethnic groups include the ETHNICGROUP . BUILDING is located here and it ' s capital is CAPITAL . It ' s leaders include LEADERNAME and Cyril Ramaphosa .
 American ASTRONAUT was born in BIRTHPLACE . graduated with an M . S . from AFIT in 1962 and retired on September 1st , 1969 .
-ASTRONAUT , born in BIRTHPLACE ( PART ) , attended the ALMAMATER , affiliated with the AFFILIATION . The University of Texas will compete in the COMPETE IN .
-ASTRONAUT has retired . He was born 17 October 1933 in BIRTHPLACE and graduated from AFIT with an MS in 1962 . He served as a fighter pilot and was selected by NASA in WAS SELECTED BY NASA .
+ASTRONAUT , born in BIRTHPLACE ( PART ) , attended the ALMAMATER , affiliated with the AFFILIATION . The University of Texas will compete in the COMPETE_IN .
+ASTRONAUT has retired . He was born 17 October 1933 in BIRTHPLACE and graduated from AFIT with an MS in 1962 . He served as a fighter pilot and was selected by NASA in WAS_SELECTED_BY_NASA .
 CITY is located in the COUNTRY .
 The area code for CITY is AREACODE .
 CITYSERVED is served by Aarhus airport operated by OPERATINGORGANISATION which is 25 metres above sea level . The runway name is RUNWAYNAME and has a length of RUNWAYLENGTH .
@@ -17008,7 +17008,7 @@ The tomato belongs to the genus Solanium and the FAMILY plant family . It is a m
 FOOD is a food found in COUNTRY , where the leader is LEADERNAME and LANGUAGE is spoken . FOOD is a dessert which can be varied by using cottage cheese .
 SPORTSTEAM play in GROUND , where CAPITAL is the capital and DEMONYM live . It is also where LEADER is the leader and Italian is the official language .
 WRITTENWORK has the abbreviation of " ABBREVIATION " and the ISSN number ISSN_NUMBER .
-Buzz Aldrin was born in Glen Ridge , ISPARTOF . He joined OPERATOR in WAS SELECTED BY NASA , where he would go on to serve as a crew member aboard the WAS A CREW MEMBER OF mission . That mission also included backup pilot ASTRONAUT .
+Buzz Aldrin was born in Glen Ridge , ISPARTOF . He joined OPERATOR in WAS_SELECTED_BY_NASA , where he would go on to serve as a crew member aboard the WAS_A_CREW_MEMBER_OF mission . That mission also included backup pilot ASTRONAUT .
 BUILDING cost 120 million Australian dollars .
 CITYSERVED , part of Parana state , is served by Afonso Pena International airport . The airport is operated by OPERATINGORGANISATION and is located in Sao Jose dos Pinhais , part of the south region of Brazil .
 Poaceaea , which belongs to the division of flowering plants and the orders of poales and commelinids constitutes the surface of the 1st runway at Alderney airport .
@@ -17031,7 +17031,7 @@ AIRPORT in LOCATION has a runway length of only RUNWAYLENGTH and is 973 below se
 BUILDING is located in Asherton , ISPARTOF . COUNTRY .
 FOOD is a food originates from REGION , COUNTRY . The dish contains chopped fruits , sour cream , condensed milk , granola , shredded coconut and raisins .
 ETHNICGROUP people are an ethnic group in LOCATION , which has CAPITAL as its capital . White South Africans are one of several ethnic groups in the country . Also , one of the streets in the country is BUILDING .
-ASTRONAUT is a US national , who was born in BIRTHPLACE . He received a B . S . degree from UT at Austin in 1955 . He performed as a test pilot , He was selected by NASA in WAS SELECTED BY NASA and became a crew member of WAS A CREW MEMBER OF . He retired in DATEOFRETIREMENT .
+ASTRONAUT is a US national , who was born in BIRTHPLACE . He received a B . S . degree from UT at Austin in 1955 . He performed as a test pilot , He was selected by NASA in WAS_SELECTED_BY_NASA and became a crew member of WAS_A_CREW_MEMBER_OF . He retired in DATEOFRETIREMENT .
 Alvinegro is the nickname of SPORTSTEAM . They have NUMBEROFMEMBERS members and play in SEASON .
 MANAGER has been manager of SPORTSTEAM and plays for both R . S . C . Anderlecht and CLUB .
 FOOD containing Chicharron is from the REGION in COUNTRY .
@@ -17045,7 +17045,7 @@ The official language in the Philippines is OFFICIALLANGUAGE .
 AIRPORT serves the city of CITYSERVED which is in COUNTRY where LEADERNAME is the leader .
 The WRITTENWORK comes under the academic discipline of paleontology .
 NOTABLEWORK and WRITTENWORK were both novels written by AUTHOR .
-ASTRONAUT was born in Glen Ridge New Jersey on 20th of January 1930 . He graduated from Massachusetts Institute of Technology in 1963 and was a crew member on OPERATOR ' s WAS A CREW MEMBER OF .
+ASTRONAUT was born in Glen Ridge New Jersey on 20th of January 1930 . He graduated from Massachusetts Institute of Technology in 1963 and was a crew member on OPERATOR ' s WAS_A_CREW_MEMBER_OF .
 The ETHNICGROUP are an ethnic group in the Philippines .
 Test Pilot ASTRONAUT was born November 18th , 1923 in BIRTHPLACE .
 AIRPORT , located in Egg Harbor Township , N . J . , is operated by ( HEADQUARTER based ) The Port Authority of HEADQUARTER and ISPARTOF .
@@ -17082,16 +17082,16 @@ The book " WRITTENWORK " was followed by " FOLLOWEDBY " the author of which is A
 CHAMPIONS are former champions of LEAGUE . SPORTSTEAM is in that league now and play in GROUND .
 The AIRPORT is in LOCATION , which is part of the community known by the same name .
 WRITTENWORK was written by Eric Flint , Virginia DeMarce , et al and has the ISBN number of ISBN_NUMBER .
-ASTRONAUT who was originally from BIRTHPLACE joined NASA in WAS SELECTED BY NASA and became a member of WAS A CREW MEMBER OF before he retired .
+ASTRONAUT who was originally from BIRTHPLACE joined NASA in WAS_SELECTED_BY_NASA and became a member of WAS_A_CREW_MEMBER_OF before he retired .
 WRITTENWORK , with NUMBEROFPAGES pages , is available in print . Its ISBN number is ISBN_NUMBER , and its OCLC number is OCLC_NUMBER .
 BUILDING is in the TENANT Hotel overseen by KEYPERSON of TENANT .
 The character COMICSCHARACTER , was created by CREATOR .
 CITY is located within the COUNTRY .
 ASTRONAUT was American born in BIRTHPLACE , went to school at NWC and graduated with an MA in 1957 . The NATIONALITY Navy awarded the Distinguished Service Medal to ASTRONAUT which is is higher than the department of commerce gold medal . ASTRONAUT died on DEATHDATE in DEATHPLACE .
-American ASTRONAUT , who was born in BIRTHPLACE , joined NASA in WAS SELECTED BY NASA and in WAS SELECTED BY NASA graduated from MIT with a Sc . D .
+American ASTRONAUT , who was born in BIRTHPLACE , joined NASA in WAS_SELECTED_BY_NASA and in WAS_SELECTED_BY_NASA graduated from MIT with a Sc . D .
 The WRITTENWORK , OCLC OCLC_NUMBER , is published by PUBLISHER founded by FOUNDER .
 WRITTENWORK is a hardcover publication written by AUTHOR .
-ASTRONAUT served as Chief of the Astronaut Office in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN .
+ASTRONAUT served as Chief of the Astronaut Office in SERVED_AS_CHIEF_OF_THE_ASTRONAUT_OFFICE_IN .
 Stuart Parker is part of the CLUB Club and manager of SPORTSTEAM whose ground is in GROUND . The leader of GROUND is LEADER .
 Auburn is located within the state of Washington .
 The AIRPORT is operated by the OPERATINGORGANISATION and its runway is 600 long .
@@ -17112,13 +17112,13 @@ ASTRONAUT died in DEATHPLACE on July 21 , 1998 .
 FULLNAME GROUND Calcio ( abbreviated to SPORTSTEAM ) has NUMBEROFMEMBERS members It ' s ground is located in GROUND and they played season 2014 - 2015 in Serie B .
 BUILDING is located in Haputale , COUNTRY , whose leader is LEADERNAME , and main speech in use around the area is the LANGUAGE .
 FOOD comes from the country of COUNTRY , where LEADERNAME is a leader and the CURRENCY is the currency .
-ASTRONAUT was born on July 23rd 1927 in BIRTHPLACE and is a NATIONALITY National . Elliot graduated from the ALMAMATER and was selected by NASA in WAS SELECTED BY NASA . Elliot died on 28th February in 1966 .
+ASTRONAUT was born on July 23rd 1927 in BIRTHPLACE and is a NATIONALITY National . Elliot graduated from the ALMAMATER and was selected by NASA in WAS_SELECTED_BY_NASA . Elliot died on 28th February in 1966 .
 FOOD is made nationwide in COUNTRY , and can also be found in Malaysia and Singapore . The dish consists of squeezed or smashed fried chicken served with sambal .
 CITYSERVED airport serves the city of CITYSERVED where LEADERNAME is a leader .
 WRITTENWORK has an ISBN number of " ISBN_NUMBER " and has NUMBEROFPAGES pages .
-ASTRONAUT is a US national born in BIRTHPLACE on 20 January 1930 . After graduating from MIT , ScD in 1963 he served as a fighter pilot and became a crew member of the OPERATOR operated WAS A CREW MEMBER OF .
+ASTRONAUT is a US national born in BIRTHPLACE on 20 January 1930 . After graduating from MIT , ScD in 1963 he served as a fighter pilot and became a crew member of the OPERATOR operated WAS_A_CREW_MEMBER_OF .
 WRITTENWORK is published in the COUNTRY , where the ETHNICGROUP are an ethnic group .
-ASTRONAUT was born on October 17th , 1933 and joined NASA in WAS SELECTED BY NASA .
+ASTRONAUT was born on October 17th , 1933 and joined NASA in WAS_SELECTED_BY_NASA .
 The creators of the comic character Ballistic were CREATOR and Doug Moench .
 1634 The Ram Rebellion comes from the COUNTRY , where LEADERNAME is the president . ETHNICGROUP are one of the ethnic groups there .
 ALTERNATIVENAME is also known by the name Balder .
@@ -17128,7 +17128,7 @@ BUILDING is located in the LOCATION , where Queen LEADERNAME reigns .
 The GROUND , is the home ground of AEK Athens FC , have NUMBEROFMEMBERS members and are in the Superleague of Greece .
 The BUILDING is located on LOCATION .
 AIRPORT serves the city of CITYSERVED , the leader of which is LEADERNAME .
-In WAS SELECTED BY NASA ASTRONAUT was selected by OPERATOR to be a member of the WAS A CREW MEMBER OF crew , alongside CREWMEMBERS amongst others . He had previously trained as a fighter pilot , and was partnered on the mission by backup pilot BACKUP PILOT .
+In WAS_SELECTED_BY_NASA ASTRONAUT was selected by OPERATOR to be a member of the WAS_A_CREW_MEMBER_OF crew , alongside CREWMEMBERS amongst others . He had previously trained as a fighter pilot , and was partnered on the mission by backup pilot BACKUP_PILOT .
 Served hot or cold , the dessert FOOD is from the REGION region . Some main ingredients are ground almonds , jam , butter and eggs .
 A dessert , FOOD has ground almond , jam , butter and eggs as main ingredients . Originating from the REGION , it can be served warm ( freshly baked ) or cold .
 LEADERNAME are leaders of Birmingham .
@@ -17154,7 +17154,7 @@ CITY is in ISPARTOF .
 FOOD comes from the country of COUNTRY , it includes oyster sauce .
 The MONUMENT is located in LOCATION , USA . To the west of Adams County lies Franklin County and to the north is Cumberland County , both in Pennsylvania . To the southeast of Adams County lies Carrol County , Maryland .
 FOOD is a dessert .
-Buzz Aldrin worked for OPERATOR and became a crew member of WAS A CREW MEMBER OF with ASTRONAUT as his back up pilot .
+Buzz Aldrin worked for OPERATOR and became a crew member of WAS_A_CREW_MEMBER_OF with ASTRONAUT as his back up pilot .
 Alan Shepherd born in BIRTHPLACE , NATIONALITY , graduated from NWC in 1957 with a M . A . He served as a crew member on Apollo 12 and retired in 1974 .
 The BUILDING is located at the LOCATION .
 CITYSERVED is served by CITYSERVED International airport .
@@ -17179,12 +17179,12 @@ UNIVERSITY is in CITY , COUNTRY in the state of STATE . The school has ACADEMICS
 The CURRENTTENANTS , which is located in the COUNTRY , are the current tenants of Alan B Miller Hall . CHANCELLOR is the chancellor of the OWNER , which owns BUILDING .
 WRITTENWORK , written by AUTHOR , is available in print . Its OCLC number is OCLC_NUMBER , and ISBN number is ISBN_NUMBER .
 Manhattan and ISPARTOF are located in LOCATION , U . S . , where the BUILDING are located . Cyrus Vance Jr . is one of the leaders of Manhattan .
-ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He graduated from UT Austin 1955 with a BSc . He was a test pilot and also a crew member of WAS A CREW MEMBER OF which was run by OPERATOR . The commander of WAS A CREW MEMBER OF was COMMANDER .
+ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He graduated from UT Austin 1955 with a BSc . He was a test pilot and also a crew member of WAS_A_CREW_MEMBER_OF which was run by OPERATOR . The commander of WAS_A_CREW_MEMBER_OF was COMMANDER .
 The UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED . The leader of COUNTRY is LEADERNAME .
 FOOD - a dish which contains bacon and sausage - originally comes from the COUNTRY .
 The united States , under the leadership of LEADERNAME , is home to ethnic groups such as Native Americans and is where the book WRITTENWORK came from .
 MONUMENT was bronze and was inaugurated on INAUGURATIONDATE .
-ASTRONAUT was born in BIRTHPLACE , home of the Purple Finch bird . As an adult he joined the navy and was awarded the Distinguished Service Medal which ranks higher than the Department of Commerce Gold medal . It was no wonder that OPERATOR chose Alan to crew the WAS A CREW MEMBER OF mission .
+ASTRONAUT was born in BIRTHPLACE , home of the Purple Finch bird . As an adult he joined the navy and was awarded the Distinguished Service Medal which ranks higher than the Department of Commerce Gold medal . It was no wonder that OPERATOR chose Alan to crew the WAS_A_CREW_MEMBER_OF mission .
 INGREDIENT explosion which contains bacon and sausage is a dish found in the COUNTRY .
 The ground of SPORTSTEAM is located in GROUND where LEADER is the leader and the capital city is CAPITAL .
 FOOD is from the REGION region of spain , it includes INGREDIENT .
@@ -17201,7 +17201,7 @@ The comic book writer , Roger McKenzie is an American and along with CREATOR cre
 BUILDING is located in LOCATION , in the country of COUNTRY , where the capital is CAPITAL . LEADERNAME is a leader of COUNTRY , and the LANGUAGE is spoken by inhabitants .
 WRITTENWORK written by AUTHOR has the OCLC number OCLC_NUMBER ace and ISBN number ISBN_NUMBER .
 LEADERNAME is the leader of LOCATION , which is the location of BUILDING .
-ASTRONAUT was born in BIRTHPLACE on the 17th October 1933 . He was a fighter pilot , who was chosen by NASA in WAS SELECTED BY NASA . He was a crew member on WAS A CREW MEMBER OF and retired on September 1st , 1969 .
+ASTRONAUT was born in BIRTHPLACE on the 17th October 1933 . He was a fighter pilot , who was chosen by NASA in WAS_SELECTED_BY_NASA . He was a crew member on WAS_A_CREW_MEMBER_OF and retired on September 1st , 1969 .
 CITY is part of ISPARTOF .
 The Brazilians are an ethnic group in COUNTRY which is lead by LEADERNAME . The country is the location of the BUILDING in Akita , ISPARTOF .
 INGREDIENT is an ingredient of FOOD .
@@ -17245,7 +17245,7 @@ WRITTENWORK comes from COUNTRY , where the ethnic group is white .
 FOOD can be served either fresh and warm , or cold .
 BUILDING can be found in LOCATION .
 13017 , 0 minutes is the time ASTRONAUT spent in space .
-ASTRONAUT ( born on BIRTHDATE ) was selected by NASA in WAS SELECTED BY NASA and is now retired .
+ASTRONAUT ( born on BIRTHDATE ) was selected by NASA in WAS_SELECTED_BY_NASA and is now retired .
 The surface of the 1st runway at Alderney airport is poaceae . Poacea , in the class CLASS , belongs to the division of flowering plants . It is in the order Poales and belongs to the order of ORDER .
 BUILDING at LOCATION was completed in COMPLETIONDATE .
 BUILDING has a floor count of FLOORCOUNT and is located in LOCATION whose leader is LEADERNAME although LOCATION is lead via the LEADERTITLE .
@@ -17280,7 +17280,7 @@ Under the control of the COUNTRY Civil Aviation Authority is the AIRPORT in Punj
 MANAGER is part of the CLUB club . He previously managed 1 FC Magdeburg and played for Berliner AK 07 .
 Amatricana sauce has as one of its ingredients tomatoes , which comes from the FAMILY family and the genus GENUS .
 WRITTENWORK was preceded by PRECEDEDBY .
-ASTRONAUT was born in in BIRTHPLACE , was a OCCUPATION , graduated from AFIT , M . S . in 1962 , was chosen by NASA in WAS SELECTED BY NASA , was a member of WAS A CREW MEMBER OF ' s crew and retired on 1st September 1969 .
+ASTRONAUT was born in in BIRTHPLACE , was a OCCUPATION , graduated from AFIT , M . S . in 1962 , was chosen by NASA in WAS_SELECTED_BY_NASA , was a member of WAS_A_CREW_MEMBER_OF ' s crew and retired on 1st September 1969 .
 MANAGER , manager of FC Magdeburg , is also part of the club CLUB .
 With FLOORCOUNT floors and NUMBEROFROOMS rooms , BUILDING is owned by OWNER and has for a tenant TENANT .
 BUILDING , located in LOCATION , was constructed in YEAROFCONSTRUCTION and was added to The National Register of Historic Places February 27 , 1987 .
@@ -17328,7 +17328,7 @@ PUBLISHER , which publishes of WRITTENWORK , is affiliated with both the AFFILIA
 Francois Hollande and Gerard Larcher are leaders of COUNTRY where FOOD originate .
 Adolfo Su á rez Madrid - Barajas Airport has an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 AIRPORT is located in LOCATION , which is part of the ISPARTOF , in COUNTRY . The airport has a runway length of 3 , 500 and is located 610 metres above sea level .
-Buzz Aldrin ( born on January 20 , 1930 in BIRTHPLACE ) performed as a fighter pilot . He was a crew member on WAS A CREW MEMBER OF , operated by OPERATOR . ASTRONAUT was a backup pilot on that mission .
+Buzz Aldrin ( born on January 20 , 1930 in BIRTHPLACE ) performed as a fighter pilot . He was a crew member on WAS_A_CREW_MEMBER_OF , operated by OPERATOR . ASTRONAUT was a backup pilot on that mission .
 The AIRPORT ( runway name RUNWAYNAME ) , is run by the OPERATINGORGANISATION , and is located ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level .
 The LEGISLATURE is the source of legislature in Azerbaijan .
 PUBLISHER , which goes by the nickname NICKNAME , is the publisher of WRITTENWORK .
@@ -17343,7 +17343,7 @@ WRITTENWORK ( abbreviation : ABBREVIATION ) has the LCCN number LCCN_NUMBER and 
 MANAGER has been the manager of A C Cesena .
 AIRPORT is located in CITYSERVED , a city in LEADERNAME led COUNTRY .
 SPORTSTEAM ' s ground is located in GROUND , they have NUMBEROFMEMBERS members and play in the LEAGUE league .
-ASTRONAUT served as a crew member on WAS A CREW MEMBER OF . He was born in BIRTHPLACE on the 17th of October , 1933 . In 1962 , Wiliam Anders graduated from AFIT with an M . S , and he retired on the 1st of September , 1969 .
+ASTRONAUT served as a crew member on WAS_A_CREW_MEMBER_OF . He was born in BIRTHPLACE on the 17th of October , 1933 . In 1962 , Wiliam Anders graduated from AFIT with an M . S , and he retired on the 1st of September , 1969 .
 The MONUMENT is in the municipality of Gettysburg , Adams County , in Pennsylvania .
 Manual Valls and Garard Larcher are leaders of COUNTRY . FOOD is found both in COUNTRY and REGION . One of the languages of REGION is Spanish .
 INGREDIENT is one of the ingredients in the dish Ayam Penyet . This is a dish from both REGION and COUNTRY .
@@ -17367,7 +17367,7 @@ WRITTENWORK is from the COUNTRY where ETHNICGROUP are one of the ethnic groups a
 1634 The Ram Rebellion comes from the COUNTRY which has the capital city of Washington DC . The leader of the US is the President and the population includes many ETHNICGROUP .
 CHAMPIONS are the champions of Campeonato Brasileiro Serie C . The league , from COUNTRY , that SPORTSTEAM ( managed by MANAGER ) , play in .
 WRITTENWORK was Published in the COUNTRY , a country which contains the ethnic group Native Americans and whose leader is known as the President .
-Edwin E . Aldrin Jr , also known as ASTRONAUT , is an American born on Jan 20 , 1930 in BIRTHPLACE . He graduated from MIT in 1962 with a doctorate in Science . He began working for NASA in WAS SELECTED BY NASA and was part of WAS A CREW MEMBER OF .
+Edwin E . Aldrin Jr , also known as ASTRONAUT , is an American born on Jan 20 , 1930 in BIRTHPLACE . He graduated from MIT in 1962 with a doctorate in Science . He began working for NASA in WAS_SELECTED_BY_NASA and was part of WAS_A_CREW_MEMBER_OF .
 PUBLISHER , nicknamed NICKNAME , and located in CITY , is the publisher of WRITTENWORK and is also affiliated with both the Association of Public Land grant Universities and the AFFILIATION .
 BUILDING is in Gujarat LOCATION .
 Barny cakes are found in COUNTRY where the LANGUAGE is spoken and the leaders are Gerard Larcher and LEADERNAME .
@@ -17383,7 +17383,7 @@ AIRPORT is located in LOCATION , where the capital is Austin . LOCATION is part 
 AIRPORT is in Egg Harbor Township part of Atlantic County , N . J . in the U . S .
 The COUNTRY is lead by LEADERNAME and is inhabited by the DEMONYM who may use one of the official languages of Irish or English . The Republic is the location of BUILDING .
 Chicharr ó n is a dish found in the country of COUNTRY .
-After graduating from NWC , M . A . in 1957 , ASTRONAUT became a crew member of WAS A CREW MEMBER OF which was operated by OPERATOR . He was born in BIRTHPLACE and died in DEATHPLACE .
+After graduating from NWC , M . A . in 1957 , ASTRONAUT became a crew member of WAS_A_CREW_MEMBER_OF which was operated by OPERATOR . He was born in BIRTHPLACE and died in DEATHPLACE .
 LEADERNAME is the leader of REGION , where FOOD originates from .
 FOOD comes from the REGION region and Indonesia . MAININGREDIENTS are the main ingredients of FOOD .
 President Ahmet Davutoglu is the leader of LOCATION which is the location of the Ataturk monument ( Izmir ) designed by DESIGNER . The monument is made of bronze and was inaugurated on 27 July 1932 .
@@ -17400,7 +17400,7 @@ The total area in CITY is AREATOTAL .
 WRITTENWORK comes from the COUNTRY . The capital of the COUNTRY is Washington DC and English is spoken as it is in SPOKENIN , and one of the ethnic groups is African American .
 A variant of bakewell pudding is bakewell tart which has frangipane as an ingredient .
 200 Public square is in LOCATION , which is part of ISPARTOF .
-ASTRONAUT was born in 1933 and joined OPERATOR in WAS SELECTED BY NASA . He served as a crew member of WAS A CREW MEMBER OF , operated by OPERATOR . The backup pilot was BACKUP PILOT and CREWMEMBERS was also a crew member .
+ASTRONAUT was born in 1933 and joined OPERATOR in WAS_SELECTED_BY_NASA . He served as a crew member of WAS_A_CREW_MEMBER_OF , operated by OPERATOR . The backup pilot was BACKUP_PILOT and CREWMEMBERS was also a crew member .
 The runway length of AIRPORT is RUNWAYLENGTH and the 1st runway has a poaceae surface .
 Akita is located in COUNTRY .
 FOOD is found nationwide in Indonesia , but is more specific to Java and it ' s main ingredients are MAININGREDIENTS .
@@ -17413,7 +17413,7 @@ FOOD is a popular dish in REGION , but originated in COUNTRY where the ETHNICGRO
 The School of Business and Social Sciences at Aarhus University , which has an academic staff size of ACADEMICSTAFFSIZE , has DEAN as its Dean .
 AIRPORT , operated by the OPERATINGORGANISATION , is found in LOCATION which is part of ISPARTOF . The air force uses the TRANSPORTAIRCRAFT as one of its transport planes and also the AIRCRAFTHELICOPTER .
 Am . J . Math is the abbreviation for the WRITTENWORK which has the EISSN number EISSN_NUMBER .
-ASTRONAUT worked for NASA beginning in WAS SELECTED BY NASA , .
+ASTRONAUT worked for NASA beginning in WAS_SELECTED_BY_NASA , .
 The Agra airport is located in LOCATION and operated by the Airports Authority of LOCATION . IATA_LOCATION_IDENTIFIER is the ATA Location ID and ICAO is another location identifier for this airport .
 BUILDING is owned by OWNER and it is located in LOCATION , ISPARTOF , the COUNTRY . Criona Ni Dhalaigh was Lord Mayor of LOCATION .
 WRITTENWORK ( abbreviated to ABBREVIATION ) has the ISSN number ISSN_NUMBER and the LCCN number LCCN_NUMBER . It is part of the academic discipline of Computer Science .
@@ -17425,7 +17425,7 @@ The Flemish Department of Mobility and Public Works operates the AIRPORT , as it
 WRITTENWORK is from the COUNTRY where LEADERNAME is the president and there are many ETHNICGROUP .
 the leader in Cleveland is Frank G Jackson .
 The architect responsible for BUILDING was ARCHITECT .
-ASTRONAUT crewed the WAS A CREW MEMBER OF operated by OPERATOR , with BACKUP PILOT as the backup pilot .
+ASTRONAUT crewed the WAS_A_CREW_MEMBER_OF operated by OPERATOR , with BACKUP_PILOT as the backup pilot .
 UNIVERSITY is located in CITY in COUNTRY .
 Agremiacao Sportiva Arapiraquense play in the Campeonato Brasileiro Serie C League in COUNTRY , specifically in 2015 .
 OPERATINGORGANISATION is the operating organisation of AIRPORT .
@@ -17456,10 +17456,10 @@ BUILDING are located in LOCATION , New York . ISPARTOF is a part of LOCATION .
 SPORTSTEAM has a nickname of Asa Gigante and contains NUMBEROFMEMBERS members .
 Cornell University is in the state of STATE .
 LEADER leads the Italian people in GROUND . The capital city is CAPITAL and the ground of AS Gubbio 1910 is also located in the country .
-Crew members of OPERATOR ' s WAS A CREW MEMBER OF included ASTRONAUT and CREWMEMBERS with BACKUP PILOT as backup pilot . ASTRONAUT was born in BIRTHPLACE , graduated from AFIT , M . S . in 1962 and was selected by OPERATOR in WAS SELECTED BY NASA .
+Crew members of OPERATOR ' s WAS_A_CREW_MEMBER_OF included ASTRONAUT and CREWMEMBERS with BACKUP_PILOT as backup pilot . ASTRONAUT was born in BIRTHPLACE , graduated from AFIT , M . S . in 1962 and was selected by OPERATOR in WAS_SELECTED_BY_NASA .
 FOOD ( variant of the tart ) includes shortcrust pastry and is from ADMINISTRATIVECOUNTY Dales of the County of ADMINISTRATIVECOUNTY . It hails leader LEADERNAME .
 A . D . Isidro Metapan play at the Estadio Jorge Calero Suarez , they have NUMBEROFMEMBERS members and the full name of the club is " FULLNAME " .
-ASTRONAUT , was a member of the OPERATOR operated WAS A CREW MEMBER OF ' s crew alongside CREWMEMBERS . Anders was born October 17th 1933 and selected for OPERATOR service in WAS SELECTED BY NASA .
+ASTRONAUT , was a member of the OPERATOR operated WAS_A_CREW_MEMBER_OF ' s crew alongside CREWMEMBERS . Anders was born October 17th 1933 and selected for OPERATOR service in WAS_SELECTED_BY_NASA .
 AIRPORT serves the city of Andrews and is located in LOCATION at 973 metres above sea level . It has a runway named 11 / 39 that is RUNWAYLENGTH in length .
 INGREDIENT is an ingredient found in ajoblanco , INGREDIENT is also a member of the ORDER order .
 AIRPORT , which has a runway length of RUNWAYLENGTH is located in Egg Harbor Township , ISPARTOF in the COUNTRY .
@@ -17481,7 +17481,7 @@ MANAGER has previously been associated with Udinese Calcio and was at CLUB . He 
 LEADERNAME is the leader of COUNTRY where the UNIVERSITY which was established in ESTABLISHED is located . The Accademia has NUMBEROFSTUDENTS students .
 FOOD and Siomay can be found in COUNTRY . They are the variations of DISHVARIATION which contains INGREDIENT .
 BUILDING is located in Eastern Province , COUNTRY where the GOVERNINGBODY is the governing body and LEADERNAME is the leader .
-ASTRONAUT was a fighter pilot who joined NASA in WAS SELECTED BY NASA having been born in BIRTHPLACE .
+ASTRONAUT was a fighter pilot who joined NASA in WAS_SELECTED_BY_NASA having been born in BIRTHPLACE .
 The WRITTENWORK , published by the John Hopkins University Press , has an ISSN number ISSN_NUMBER . PARENTCOMPANY Press has the parent company John Hopkins University and is based in the COUNTRY .
 The leader of LOCATION is Lars Lokke Rasmussen and the country is the location of the AC Hotel Bella Sky in Copenhagen . The tenant of the hotel is TENANT which was founded in Washington DC .
 WRITTENWORK is in the LANGUAGE .
@@ -17535,7 +17535,7 @@ The MONUMENT is located in LOCATION , the capital city of which is CAPITAL . The
 FOOD originate from COUNTRY where the currency is the CURRENCY and TS Thakur is the leader .
 FOOD includes a member of the FAMILY family ; lemon .
 Basko is a dish from LEADERNAME led , COUNTRY ( capital : CAPITAL ) .
-ASTRONAUT is an American who was born in BIRTHPLACE and part of the WAS A CREW MEMBER OF flight crew .
+ASTRONAUT is an American who was born in BIRTHPLACE and part of the WAS_A_CREW_MEMBER_OF flight crew .
 The LANGUAGE is spoken in SPOKENIN and the COUNTRY where The ETHNICGROUP are an ethnic group . WRITTENWORK was published by PUBLISHER who are located in the U . S .
 " ALTERNATIVENAME " is also known as the comic character Blockbuster who was created by CREATOR and Carmine Infantino .
 Alcatraz Versus the Scrivener ' s Bones was written by AUTHOR .
@@ -17544,7 +17544,7 @@ Located in LOCATION , AIRPORT has the elevation of 911 meters above the sea leve
 ASTRONAUT ' s full name was " BIRTHNAME " .
 The binignit dish can be found in the COUNTRY .
 The first runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE , which is a member of the order of ORDER .
-ASTRONAUT was born in BIRTHPLACE . He attended the University of Texas in Austin and obtained a B . S . in 1955 . He was selected by NASA in WAS SELECTED BY NASA and was a crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born in BIRTHPLACE . He attended the University of Texas in Austin and obtained a B . S . in 1955 . He was selected by NASA in WAS_SELECTED_BY_NASA and was a crew member on WAS_A_CREW_MEMBER_OF .
 WRITTENWORK has the ISBN number ISBN_NUMBER and was published in Print & Paperback .
 FOOD is a SERVINGTEMPERATURE dish served in COUNTRY .
 AIRPORT is 3 . 3528 below sea level , has a runway that ' s 3 , 300 long and serves the city it ' s located in .
@@ -17582,7 +17582,7 @@ CITYSERVED is served by CITYSERVED airport which has a runway made of asphalt th
 AIRPORT is operated by the OPERATINGORGANISATION which has fought in the BATTLES . The USAF attack aircrafts are the ATTACKAIRCRAFT and the AIRCRAFTFIGHTER .
 BUILDING , completed in COMPLETIONDATE , was designed by ARCHITECT .
 Found in LOCATION with 300 floors , the BUILDING was designed by architect ARCHITECT and was completed in COMPLETIONDATE .
-The BUILDING is located at LOCATION and it was constructed in YEAROFCONSTRUCTION . Its architecture is of the " Arts and Crafts Movement and American Craftsman Bungalows " . It has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+The BUILDING is located at LOCATION and it was constructed in YEAROFCONSTRUCTION . Its architecture is of the " Arts and Crafts Movement and American Craftsman Bungalows " . It has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 Born in BIRTHPLACE , AUTHOR is the author of WRITTENWORK , the book which is followed by FOLLOWEDBY .
 The UNIVERSITY in the city of CITY , COUNTRY has B M Reddy as President and Dr G P Prabhukumar as it ' s Director . There are NUMBEROFPOSTGRADUATESTUDENTS postgraduate students and the campus is located at In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 .
 The runway name of AIRPORT is RUNWAYNAME .
@@ -17599,18 +17599,18 @@ Located in Ithaca New York , PUBLISHER is the publisher of the WRITTENWORK . The
 The elevation above the sea level ( in metres ) of AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) .
 Illinois state is in the COUNTRY .
 The manager of SPORTSTEAM is MANAGER who plays for CLUB .
-BUILDING has the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES in the National Register of Historic Places .
+BUILDING has the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES in the National Register of Historic Places .
 ASTRONAUT was born in the NATIONALITY on July 23rd , 1927 . He attended the ALMAMATER , which is part of the University of Texas system , and competes in the Big 12 competition .
 The AIRPORT is 1873 m and is operated by the OPERATINGORGANISATION . Its runway name is RUNWAYNAME .
 The population density of Albuquerque in New Mexico is 1142 . 3 inhabitants per sq km .
 WRITTENWORK was published by PUBLISHER where Elizabetth Garrett is the president .
 Margrethe II is the leader of COUNTRY where the LANGUAGE is used . The country is the location of Aarhus airport in LOCATION , part of the Central COUNTRY region .
 New Jersey is located within the COUNTRY .
-ASTRONAUT was born in BIRTHPLACE on 20 January 1930 . He served as a fighter pilot and became a crew member of WAS A CREW MEMBER OF . He has now retired , .
+ASTRONAUT was born in BIRTHPLACE on 20 January 1930 . He served as a fighter pilot and became a crew member of WAS_A_CREW_MEMBER_OF . He has now retired , .
 ASTRONAUT died on 21 July 1998 in DEATHPLACE . Born on 18 November 1923 in BIRTHPLACE , he attended NWC and graduated with an MA in 1957 . Before retiring on 1 August 1974 he had been awarded the United States Navy Distinguished Service Medal .
 COUNTRY is lead by LEADERNAME and has the spoken language of LANGUAGE , and is the location of BUILDING , which can be found in LOCATION .
 The Apollo 8 commander was COMMANDER .
-US national ASTRONAUT from BIRTHPLACE attended the ALMAMATER which is affiliated to the university of texas system . The University of Texas , Austin , will compete in the COMPETE IN .
+US national ASTRONAUT from BIRTHPLACE attended the ALMAMATER which is affiliated to the university of texas system . The University of Texas , Austin , will compete in the COMPETE_IN .
 The DISTRICT in Frederick , Maryland is the location of the 14th New Jersey Volunteer Infantry monument which was established on 11 July 1907 . It was provided by the OWNINGORGANISATION .
 The BUILDING is one of the Arts and Crafts Movement and American Craftsman Bungalows constructed in YEAROFCONSTRUCTION in LOCATION .
 The Al Taqaddum Air Base serves the city of CITYSERVED , COUNTRY . Two leaders of COUNTRY are Haider al - Abadi and LEADERNAME .
@@ -17678,7 +17678,7 @@ Created by CREATOR , COMICSCHARACTER , is a character in Big Hero 6 .
 PARENTCOMPANY is the parent company of PUBLISHER in the COUNTRY which published WRITTENWORK .
 FOOD is a dish from the REGION region .
 FOOD is a dish from the country of COUNTRY where LEADERNAME is a leader and the language spoken is Indonesian .
-The UNIVERSITY ( in Karnatka ) is affiliated with the AFFILIATION in CITY . Karnatka has HAS TO ITS NORTHEAST to its northeast and the HAS TO ITS WEST to its west .
+The UNIVERSITY ( in Karnatka ) is affiliated with the AFFILIATION in CITY . Karnatka has HAS_TO_ITS_NORTHEAST to its northeast and the HAS_TO_ITS_WEST to its west .
 The MONUMENT , STATE , is categorised as a contributing property and was established in ESTABLISHED . .
 The OPERATINGORGANISATION is the operating organization for AIRPORT . The USAF has fought in the Korean War and BATTLES . The ATTACKAIRCRAFT can be found on US aircraft carriers .
 FOOD comes from COUNTRY where the leader is LEADERNAME and CAPITAL is the capital city .
@@ -17695,7 +17695,7 @@ WRITTENWORK is published in the COUNTRY . In this country one of the ethnic grou
 INGREDIENT is an ingredient in ajoblanco which is from the REGION region , where Susana Diaz is a leader . This region is in COUNTRY , where Felipe VI of COUNTRY is the leader .
 AIRPORT can be found in LOCATION where the residents are known as Texans and the state ' s capital is Austin .
 the WRITTENWORK belongs to the academic discipline , ACADEMICDISCIPLINE and was first published in FIRSTPUBLICATIONYEAR . It has the ISSN number ISSN_NUMBER .
-ASTRONAUT was born January 30th , 1930 in BIRTHPLACE . He graduated from the Massachusetts Institute of of Technology with a Sc . D in 1963 . He was a crew member of WAS A CREW MEMBER OF , which was operated by OPERATOR and was a NATIONALITY national and had AWARDS awards .
+ASTRONAUT was born January 30th , 1930 in BIRTHPLACE . He graduated from the Massachusetts Institute of of Technology with a Sc . D in 1963 . He was a crew member of WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR and was a NATIONALITY national and had AWARDS awards .
 WRITTENWORK is published by PUBLISHER . The LCCN number is LCCN_NUMBER and the abbreviation is Admin . Sci . Q . .
 One of the ethnic groups found in England is the ETHNICGROUPS .
 AIRPORT is located in LOCATION . The state ' s capital is Austin and its largest city is LARGESTCITY . LOCATION ' inhabitants called Texans and english is one of the spoken languages there .
@@ -17775,12 +17775,12 @@ LARGESTCITY is the largest city in Andrews County , Texas .
 WRITTENWORK , with NUMBEROFPAGES pages , was published in print & paperback . Its ISBN number is ISBN_NUMBER , and OCLC number is OCLC_NUMBER .
 The leader of Birmingham is the LEADERNAME .
 Two of the leaders of COUNTRY are Manuel Valls and Gerard Larcher , it is also where baked Alaska is from .
-ASTRONAUT was born in BIRTHPLACE and graduated with an MA from NWC in 1957 . He was selected by NASA in WAS SELECTED BY NASA and served as a test pilot . ASTRONAUT passed away in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE and graduated with an MA from NWC in 1957 . He was selected by NASA in WAS_SELECTED_BY_NASA and served as a test pilot . ASTRONAUT passed away in DEATHPLACE .
 SPORTSTEAM played in the SEASON season .
-ASTRONAUT was born on Jan 20th , 1930 and his full name is Edwin E . Aldrin Jr . He graduated from MIT in 1963 with a doctorate in Science . He was a fighter pilot and a crew member of WAS A CREW MEMBER OF . He is now retired .
+ASTRONAUT was born on Jan 20th , 1930 and his full name is Edwin E . Aldrin Jr . He graduated from MIT in 1963 with a doctorate in Science . He was a fighter pilot and a crew member of WAS_A_CREW_MEMBER_OF . He is now retired .
 The main ingredients of FOOD are the sweet potato and coconut milk .
 DeMarce short stories in the Grantville Gazettes preceded WRITTENWORK .
-ASTRONAUT was born in BIRTHPLACE and graduated from AFIT , M . S . in 1962 . He was chosen by NASA in WAS SELECTED BY NASA as a OCCUPATION and crew member on WAS A CREW MEMBER OF . He retired on September 1st in 1969 .
+ASTRONAUT was born in BIRTHPLACE and graduated from AFIT , M . S . in 1962 . He was chosen by NASA in WAS_SELECTED_BY_NASA as a OCCUPATION and crew member on WAS_A_CREW_MEMBER_OF . He retired on September 1st in 1969 .
 The full name of AS Gubbio 1910 is " FULLNAME " , they have NUMBEROFMEMBERS members and played in the SEASON season .
 BUILDING has FLOORCOUNT floors and was completed in COMPLETIONDATE .
 In the COUNTRY the title of the leader is the President . In this country Native Americans are one of the ethnic groups and A severed Wasp originates from .
@@ -17820,7 +17820,7 @@ Frank de Boer played for the CLUB .
 Barny cakes come from COUNTRY where French is the national language .
 The Violet Keystone followed the novel Into Battle , which followed WRITTENWORK .
 UNIVERSITY is affiliated with AFFILIATION and has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students . The university is located in CITY .
-ASTRONAUT was a member of the WAS A CREW MEMBER OF crew .
+ASTRONAUT was a member of the WAS_A_CREW_MEMBER_OF crew .
 The School of Business and Social Sciences at Aarhus University in COUNTRY has DEAN as its dean . It was established in ESTABLISHED , has 16 , 000 students and ACADEMICSTAFFSIZE employees .
 A . S . Roma was in the SEASON season .
 English is one of the languages spoken in COUNTRY where FOOD is a dish .
@@ -17852,7 +17852,7 @@ The UNIVERSITY was founded in ESTABLISHED in COUNTRY . It has strong connections
 FOOD originates from COUNTRY and popular dish in REGION too . Its main ingredients are squeezed or smashed fried chicken served with sambal .
 WRITTENWORK ( NUMBEROFPAGES pages ) is available in hardcover and has the OCLC number OCLC_NUMBER .
 BUILDING is located in the LOCATION where LEADERNAME is the leader and his title is LEADERTITLE . One of the ethnic groups of the LOCATION are the ETHNICGROUP .
-The ALMAMATER , which is competing in the COMPETE IN is affiliated to the university of texas system . It is from this university that ASTRONAUT graduated . He later died in DEATHPLACE , a city which had been part of the ISPARTOF .
+The ALMAMATER , which is competing in the COMPETE_IN is affiliated to the university of texas system . It is from this university that ASTRONAUT graduated . He later died in DEATHPLACE , a city which had been part of the ISPARTOF .
 INGREDIENT is an ingredient in Basko .
 FOOD is a dis found in the Phillipines ; the ETHNICGROUP are an ethnic group living there .
 AEK Athens F . C has NUMBEROFMEMBERS members , has its grounds in GROUND and plays in the Superleague GROUND .
@@ -17861,14 +17861,14 @@ INGREDIENT is an ingredient in beef kway teow which is a popular dish in COUNTRY
 Originating from COUNTRY , FOOD is a food found in REGION , where Susana Diaz is the leader .
 FOOD originated from the COUNTRY . The COUNTRY is also home to the Igorot and Zamboangans people and has the Arabic and LANGUAGE languages .
 Greece leader name is LEADERNAME .
-ASTRONAUT is an American born in BIRTHPLACE on Oct 17 , 1933 . He was a fighter pilot and was part of WAS A CREW MEMBER OF . Anders graduated with an M . S . from AFIT in 1962 and is now retired .
-ASTRONAUT was born in BIRTHPLACE and attended the University of Texas in Austin ( affiliated to the university of Texas system ) , which is competing in the COMPETE IN . Elliot was a US citizen .
+ASTRONAUT is an American born in BIRTHPLACE on Oct 17 , 1933 . He was a fighter pilot and was part of WAS_A_CREW_MEMBER_OF . Anders graduated with an M . S . from AFIT in 1962 and is now retired .
+ASTRONAUT was born in BIRTHPLACE and attended the University of Texas in Austin ( affiliated to the university of Texas system ) , which is competing in the COMPETE_IN . Elliot was a US citizen .
 WRITTENWORK , by AUTHOR , in in print with the ISBN number ISBN_NUMBER .
 In Indonesia the currency is the CURRENCY .
-Adams County , Pennsylvania has to its west HAS TO ITS WEST .
+Adams County , Pennsylvania has to its west HAS_TO_ITS_WEST .
 " WRITTENWORK " is the sequel to " PRECEDEDBY " , written by AUTHOR , who was born in BIRTHPLACE .
 The UNIVERSITY in CITY is affiliated with AFFILIATION .
-ASTRONAUT ( born in Wheeler Texas ) was a crew member of WAS A CREW MEMBER OF operated by OPERATOR and command by COMMANDER . BACKUP PILOT was the backup pilot .
+ASTRONAUT ( born in Wheeler Texas ) was a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR and command by COMMANDER . BACKUP_PILOT was the backup pilot .
 A . C . Cesena plays in GROUND and is also the in the LEAGUE league , and the CHAMPIONS won the championship LEAGUE division .
 ASTRONAUT spent 52 . 0 minutes in Space .
 The architect of BUILDING in Akita , LOCATION , COUNTRY is ARCHITECT .
@@ -17905,8 +17905,8 @@ AIRPORT is governed by the LOCATION Civil Aviation Authority and serves the city
 AIRPORT is located in Egg Harbor Township , ISPARTOF , COUNTRY . It serves Atlantic City , part of ISPARTOF which is lead by LEADERNAME .
 The BUILDING is the seat of the local government .
 Ayam Penyet is a fried chicken dish from REGION and COUNTRY . The ETHNICGROUP are an ethnic group from COUNTRY .
-American ASTRONAUT was a fighter pilot who was picked by OPERATOR in WAS SELECTED BY NASA to be part of the WAS A CREW MEMBER OF program . Aldrin was born in BIRTHPLACE and is now retired .
-American ASTRONAUT was born in BIRTHPLACE , was a student at the University of Texas in Austin and in WAS SELECTED BY NASA was picked to join the space mission by NASA . See later died in DEATHPLACE .
+American ASTRONAUT was a fighter pilot who was picked by OPERATOR in WAS_SELECTED_BY_NASA to be part of the WAS_A_CREW_MEMBER_OF program . Aldrin was born in BIRTHPLACE and is now retired .
+American ASTRONAUT was born in BIRTHPLACE , was a student at the University of Texas in Austin and in WAS_SELECTED_BY_NASA was picked to join the space mission by NASA . See later died in DEATHPLACE .
 The UNIVERSITY is located in COUNTRY , which has as its capital city CAPITAL . The title of the leader of the country is The Prime Minister of COUNTRY and one of the ethnic groups in the country is the Germans of COUNTRY .
 WRITTENWORK is published by the PUBLISHER , led by LEADERNAME .
 The parent company of PUBLISHER is PARENTCOMPANY who publishes the WRITTENWORK in the UK whose capital is CAPITAL .
@@ -17925,7 +17925,7 @@ The comic character of Bolt is created by Ernie Colon and the US National , Pari
 BUILDING is located in the Eastern Province of COUNTRY ( the currency of which is the Ski Lankan rupee ) , the leader of that province is LEADERNAME .
 BUILDING has FLOORCOUNT floors and was completed in COMPLETIONDATE .
 WRITTENWORK is from the COUNTRY where the leader is called the President and there are many ETHNICGROUP .
-The municipality of Gettysburg in Adams County , Pennsylvania is the location of the 11th Mississippi Infantry monument . Adams County is east of Franklin County and northeast of HAS TO ITS SOUTHWEST .
+The municipality of Gettysburg in Adams County , Pennsylvania is the location of the 11th Mississippi Infantry monument . Adams County is east of Franklin County and northeast of HAS_TO_ITS_SOUTHWEST .
 The Adolfo Suarez Madrid - Barajas airport is located in San Sebastian de los Reyes which is in Madrid , COUNTRY .
 Allama Iqbal International airport is located in LOCATION where the leader is LEADERNAME .
 ASTRONAUT is a test pilot .
@@ -17945,9 +17945,9 @@ MONUMENT , located in LOCATION , northwest of Carrol County , Maryland is catego
 San Sebastian de los Reyes is part of the ISPARTOF , in COUNTRY . It is where the Adolfo Suarez Madrid - Barajas airport is located and is lead by the People ' s Party .
 The book WRITTENWORK comes from the U . S . where there is an ethnic group of ETHNICGROUP .
 The FOOD comes from the COUNTRY where LEADERNAME is the leader and ETHNICGROUP live .
-BUILDING is located in LOCATION and was built in YEAROFCONSTRUCTION . The building was added to the National Register of Historic Places on 22 November 1988 with the reference number REFERENCENUMBER IN THE NATIONAL REGISTER OF HISTORIC PLACES .
+BUILDING is located in LOCATION and was built in YEAROFCONSTRUCTION . The building was added to the National Register of Historic Places on 22 November 1988 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES .
 FOOD is a dessert . Its main ingredient is sweet potato and it also contains banana . DISHVARIATION can also be served as dessert .
-OCCUPATION ASTRONAUT , who was born on January 20 1930 , was a member of WAS A CREW MEMBER OF ' s crew .
+OCCUPATION ASTRONAUT , who was born on January 20 1930 , was a member of WAS_A_CREW_MEMBER_OF ' s crew .
 Arem - Arem , a dish with ingredients such as banana leaf , compressed riced , vegetables and minced meat , is found in COUNTRY , can be served as a main course and is found nationwide in indonesia , but more specific to Java .
 The River RIVER flows through COUNTRY which is the location of the UNIVERSITY which has ACADEMICSTAFFSIZE academic staff and was established in ESTABLISHED in the city of CITY in the state of STATE . which is lead by LEADERNAME .
 CITY is located at ELEVATIONABOVETHESEALEVEL above sea level .
@@ -17956,21 +17956,21 @@ CAPITAL is the capital of Italy .
 Shinzo Abe is the leader of Japan .
 The dish bhajji is related to pakora which can be varied by using paneer .
 Dave Challinor is a player at the SPORTSTEAM .
-A monument to the 11th Mississippi Infantry was erected in ESTABLISHED in Gettysburg municipality in LOCATION , which has HAS TO ITS NORTH to its north . The monument falls under the category of CATEGORY .
+A monument to the 11th Mississippi Infantry was erected in ESTABLISHED in Gettysburg municipality in LOCATION , which has HAS_TO_ITS_NORTH to its north . The monument falls under the category of CATEGORY .
 AUTHOR , born in BIRTHPLACE , wrote both PRECEDEDBY and then WRITTENWORK .
 Condiments are used in the preparation of a bacon sandwich .
-ASTRONAUT was born in BIRTHPLACE . He attended the University of Texas in Austin and was selected by NASA in WAS SELECTED BY NASA . He died in St Louis .
+ASTRONAUT was born in BIRTHPLACE . He attended the University of Texas in Austin and was selected by NASA in WAS_SELECTED_BY_NASA . He died in St Louis .
 BUILDING is in LOCATION , and it has the Postmodern style of architecture .
 The UNIVERSITY has NUMBEROFPOSTGRADUATESTUDENTS Postgraduate Students , its campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore 560090 and it is affiliated with AFFILIATION . The University was established in ESTABLISHED and is found in CITY , COUNTRY .
-ASTRONAUT graduated for the ALMAMATER , which is affiliated with the University of Texas system and is competing in the COMPETE IN . He was born in BIRTHPLACE and died in DEATHPLACE on February 28 , 1966 .
+ASTRONAUT graduated for the ALMAMATER , which is affiliated with the University of Texas system and is competing in the COMPETE_IN . He was born in BIRTHPLACE and died in DEATHPLACE on February 28 , 1966 .
 MANAGER manages the A . D . Isidro Metapan , is located in Metap á n , El Salvado , has NUMBEROFMEMBERS members , and full name is " FULLNAME " .
 COUNTRY ' s leader is Pietro Grasso . LEADERNAME is a leader from COUNTRY which has CAPITAL as its capital and the people of the country are known as DEMONYM . FOOD can be found in COUNTRY .
-ASTRONAUT was chosen by NASA in WAS SELECTED BY NASA .
+ASTRONAUT was chosen by NASA in WAS_SELECTED_BY_NASA .
 Arros negre comes from the region of the REGION ( leader Ximo Puig ) , COUNTRY ( leader Felipe VI ) . ETHNICGROUP are the population name there .
 Ayam Penyet , a fried chicken dish , is from REGION and COUNTRY ( country of the Javanese ) .
-ASTRONAUT was born in BIRTHPLACE and studied at the University of Texas in Austin . He was was chosen by NASA in WAS SELECTED BY NASA . He died in DEATHPLACE .
+ASTRONAUT was born in BIRTHPLACE and studied at the University of Texas in Austin . He was was chosen by NASA in WAS_SELECTED_BY_NASA . He died in DEATHPLACE .
 Afonso Pena Airport , located in Sao Jose dos Pinhais , has a runway length of RUNWAYLENGTH and a runway name of RUNWAYNAME .
-ASTRONAUT was born in BIRTHPLACE and is dead , was a test pilot . He was a student at the ALMAMATER , which is affiliated to the University Of Texas system and will compete in the COMPETE IN .
+ASTRONAUT was born in BIRTHPLACE and is dead , was a test pilot . He was a student at the ALMAMATER , which is affiliated to the University Of Texas system and will compete in the COMPETE_IN .
 The ABBREVIATION Journal has the ISSN number of ISSN_NUMBER and the LCCN number of LCCN_NUMBER . It is published by Wiley - Blackwell on behalf of the Society for the Study of ABBREVIATION and is abbreviated to " ABBREVIATION " .
 TENANT is the tenant of BUILDING which is in LOCATION , whose leader is Margrethe ll .
 Al Asad airbase in LOCATION is operated by the OPERATINGORGANISATION and has the ICAO location identifier ICAO_LOCATION_IDENTIFIER . The runway , which is named RUNWAYNAME has a length of RUNWAYLENGTH .
@@ -17991,7 +17991,7 @@ COMICSCHARACTER was created by Duncan Rouleau and Steven T Seagle and is voiced 
 AIRPORT serves the city of CITYSERVED in LANGUAGE speaking COUNTRY .
 ASTRONAUT graduated from NWC , M . A . in 1957 , he died in DEATHPLACE on DEATHDATE .
 The College of William and Mary own the BUILDING that was completed on June 1 , 2009 and is located in LOCATION .
-Although ASTRONAUT was born in BIRTHPLACE on October 17 , 1933 he is an American citizen . He graduated , with an M . S . , from AFIT in 1962and became a test pilot before being a member of WAS A CREW MEMBER OF . He has now retired .
+Although ASTRONAUT was born in BIRTHPLACE on October 17 , 1933 he is an American citizen . He graduated , with an M . S . , from AFIT in 1962and became a test pilot before being a member of WAS_A_CREW_MEMBER_OF . He has now retired .
 LEADERNAME is the leader of COUNTRY which is where the City of CITYSERVED is . this city is served by Allama Iqbal International airport .
 The California State Senate is part of the ISPARTOF .
 Alpharetta is part of the U . S . state , Georgia .
@@ -18033,7 +18033,7 @@ MANAGER manages A . S . Roma . He also plays for Empoli F . C . and played for U
 CITYSERVED is served by the Abilene regional airport , which is located ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level . The airport ' s ICAO Location Identifier is ICAO_LOCATION_IDENTIFIER . Abilene airport ' s runway - RUNWAYNAME - measures a length of RUNWAYLENGTH .
 AIRPORT serves the city of CITYSERVED located in COUNTRY . The Flemish region is led by the Flemish government .
 ETHNICGROUP are an ethnic group in the United States .
-ASTRONAUT , who was born on 15th of March 1932 and selected by NASA in WAS SELECTED BY NASA , is now retired .
+ASTRONAUT , who was born on 15th of March 1932 and selected by NASA in WAS_SELECTED_BY_NASA , is now retired .
 The comic book character Arion was created by CREATOR .
 SPORTSTEAM play in the LEAGUE .
 The book WRITTENWORK comes from the U . S . and is written in English . One of the ethnic groups in the US are the Native Americans .
@@ -18075,20 +18075,20 @@ The runway length of AIRPORT is RUNWAYLENGTH .
 ASTRONAUT served as a OCCUPATION .
 WRITTENWORK is abbreviated to ABBREVIATION and has the LCCN number LCCN_NUMBER . It comes under the academic discipline of ACADEMICDISCIPLINE .
 The UNIVERSITY in CITY , COUNTRY is affiliated to the AFFILIATION . It was established in the year ESTABLISHED and has Dr G P Prabhukumar as Director . The campus is located at In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 .
-ASTRONAUT was born on 20 January 1930 in BIRTHPLACE . He graduated from MIT in WAS SELECTED BY NASA with an ScD and was selected that year by OPERATOR . He served as a fighter pilot and as crew member on WAS A CREW MEMBER OF .
+ASTRONAUT was born on 20 January 1930 in BIRTHPLACE . He graduated from MIT in WAS_SELECTED_BY_NASA with an ScD and was selected that year by OPERATOR . He served as a fighter pilot and as crew member on WAS_A_CREW_MEMBER_OF .
 FULLNAME , or A . S Roma for short , has the GROUND as its ground and NUMBEROFMEMBERS members . A . S . Roma played in Serie A in 2014 - 15 .
 DISHVARIATION is one variation of ingredients in FOOD .
-ASTRONAUT graduated from UT Austin BS in 1955 . He was selected as a crew member for the OPERATOR operated WAS A CREW MEMBER OF in WAS SELECTED BY NASA .
+ASTRONAUT graduated from UT Austin BS in 1955 . He was selected as a crew member for the OPERATOR operated WAS_A_CREW_MEMBER_OF in WAS_SELECTED_BY_NASA .
 Alan B Miller Hall was completed on COMPLETIONDATE in LOCATION , COUNTRY . The current tenants are the CURRENTTENANTS .
-Alan Shephard , born in BIRTHPLACE , but died in DEATHPLACE , was hired by NASA in WAS SELECTED BY NASA .
+Alan Shephard , born in BIRTHPLACE , but died in DEATHPLACE , was hired by NASA in WAS_SELECTED_BY_NASA .
 BUILDING , designed by the architect ARCHITECT , is located in LOCATION which is governed by LEADERNAME and the United Kingdom ' s Parliament .
 250 Delaware Ave . in Buffalo , N . Y . is a Postmodern style .
 TENANT is a tenant of GROUND , the ground of SPORTSTEAM amateurs .
 A Loyal Character is in print and was written by AUTHOR with NUMBEROFPAGES pages .
 The capital of the LOCATION is CAPITAL which is lead by the LEADERTITLE along with LEADERNAME . The country is the location of BUILDING and the native people are known as British .
 ASTRONAUT is deceased .
-The UNIVERSITY is located in CITY , COUNTRY and it is affiliated to the AFFILIATION ( HQ in HEADQUARTERS ) . COUNTRY has a monarchy and its leader is Lars Lokke Rasmussen . Aarhu has HAS TO ITS NORTHEAST to its northeast .
-ASTRONAUT , a US National , is retired but was born in BIRTHPLACE , was a fighter pilot and selected by NASA in WAS SELECTED BY NASA as a crew member of WAS A CREW MEMBER OF .
+The UNIVERSITY is located in CITY , COUNTRY and it is affiliated to the AFFILIATION ( HQ in HEADQUARTERS ) . COUNTRY has a monarchy and its leader is Lars Lokke Rasmussen . Aarhu has HAS_TO_ITS_NORTHEAST to its northeast .
+ASTRONAUT , a US National , is retired but was born in BIRTHPLACE , was a fighter pilot and selected by NASA in WAS_SELECTED_BY_NASA as a crew member of WAS_A_CREW_MEMBER_OF .
 AIRPORT is located in LOCATION where the leader party is the Peoples Party ( Spain ) .
 FOOD is a food found in COUNTRY , and it comes from the region of REGION .
 Bacon sandwiches are made using bread and originate from the UK . A variation is known as the DISHVARIATION .

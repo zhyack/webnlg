@@ -5,9 +5,13 @@ import copy
 import data_utils
 import model_utils
 from contrib_rnn_cell import ExtendedMultiRNNCell
+from reward import *
+import rlloss
 
 class Seq2SeqModel():
     def __init__(self, config):
+        self.rl_enable = config['RL_ENABLE']
+
         self.learning_rate = tf.Variable(config['LR'], dtype=tf.float32, name='model_learning_rate', trainable=False)
 
         self.word_embedding_learning_rate = tf.Variable(config['WE_LR'], dtype=tf.float32, name='model_learning_rate', trainable=False)
@@ -22,9 +26,9 @@ class Seq2SeqModel():
         else:
             self.lr_decay_op = self.learning_rate.assign(self.learning_rate * config['LR_DECAY'])
 
-        if config['OPTIMIZER']='Adam':
+        if config['OPTIMIZER']=='Adam':
             self.optimizer = tf.train.AdamOptimizer
-        elif config['OPTIMIZER']='GD':
+        elif config['OPTIMIZER']=='GD':
             self.optimizer = tf.train.GradientDescentOptimizer
         else:
             raise Exception("Wrong optimizer name...")
@@ -48,6 +52,7 @@ class Seq2SeqModel():
         self.decoder_targets = tf.placeholder(dtype=tf.int32, shape=(None, self.batch_size), name='decoder_targets')
         self.decoder_targets_length = tf.placeholder(dtype=tf.int32, shape=(self.batch_size), name='decoder_targets_length')
         self.decoder_targets_mask = tf.placeholder(dtype=tf.float32, shape=(self.batch_size, None), name='decoder_targets_mask')
+        self.rewards = tf.placeholder(dtype=tf.float32, shape=(self.batch_size, None, self.output_size), name='decoder_targets_mask')
 
         # with tf.variable_scope("model_vars", regularizer = tf.contrib.layers.l2_regularizer(config['VAR_NORM_BETA'])) as global_scope:
 
@@ -165,6 +170,7 @@ class Seq2SeqModel():
             self.eval_outputs = tf.slice(self.infer_outputs, [0,0,0], [-1,tf.reduce_max(self.decoder_inputs_length),-1])
 
             self.train_loss = seq2seq.sequence_loss(logits=self.train_outputs, targets=tf.transpose(self.decoder_targets, perm=[1,0]), weights=self.decoder_targets_mask)
+            self.train_loss_rl = rlloss.sequence_loss_rl(logits=self.train_outputs, rewards=self.rewards, weights=self.decoder_targets_mask)
 
 
             self.eval_loss = seq2seq.sequence_loss(logits=self.eval_outputs, targets=tf.transpose(self.decoder_targets, perm=[1,0]), weights=self.decoder_targets_mask)
@@ -174,6 +180,8 @@ class Seq2SeqModel():
 
             if config['TRAIN_ON_EACH_STEP']:
                 self.final_loss = self.train_loss
+                if config['RL_ENABLE']:
+                    self.final_loss = self.final_loss + self.train_loss_rl
             else:
                 self.final_loss = self.eval_loss
 
@@ -224,10 +232,17 @@ class Seq2SeqModel():
             self.decoder_targets_length: decoder_targets_length,
             self.decoder_targets_mask: decoder_targets_mask,
         }
-    def train_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask):
+    def train_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask, rev_dict_src, dict_dst):
         train_feed = self.make_train_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask)
-        _, loss = session.run([self.train_op, self.final_loss], train_feed)
-        return loss
+        if self.rl_enable:
+            [outputs] = session.run([self.train_outputs], train_feed)
+            r = contentPenalty(np.transpose(encoder_inputs), outputs, rev_dict_src, dict_dst)
+            train_feed[self.rewards] = r
+            _, ce_loss, rl_loss = session.run([self.train_op, self.train_loss, self.train_loss_rl], train_feed)
+            return [ce_loss, rl_loss]
+        else:
+            _, loss = session.run([self.train_op, self.final_loss], train_feed)
+            return loss
     def eval_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask):
         infer_feed = self.make_infer_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask)
         loss, outputs = session.run([self.eval_loss, self.infer_outputs], infer_feed)

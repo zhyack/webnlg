@@ -23,21 +23,22 @@ CONFIG['ATTENTION_MECHANISE'] = 'LUONG'
 CONFIG['INPUT_DROPOUT'] = 1.0
 CONFIG['OUTPUT_DROPOUT'] = 0.7
 CONFIG['CLIP']=True
+CONFIG['MAX_STEPS_PER_ITER']=500
+CONFIG['RL_ENABLE']=True
 
 CONFIG['CLIP_NORM']=5.0
 CONFIG['VAR_NORM_BETA']=0.00003
 CONFIG['TRAIN_ON_EACH_STEP']=True
-CONFIG['MAX_STEPS_PER_ITER']=500
 CONFIG['ITERS']=50
 CONFIG['BATCH_SIZE']=64
 
 CONFIG['SEED'] = 233333
-CONFIG['SRC_DICT']='../data_utils/modify/dict_src'
-CONFIG['DST_DICT']='../data_utils/modify/dict_dst'
-CONFIG['TRAIN_INPUT']='../data_utils/modify/train-webnlg-all-delex.triple'
-CONFIG['TRAIN_OUTPUT']='../data_utils/modify/train-mod.txt'
-CONFIG['DEV_INPUT']='../data_utils/modify/dev-webnlg-all-delex.triple'
-CONFIG['DEV_OUTPUT']='../data_utils/modify/dev-mod.txt'
+CONFIG['SRC_DICT']='../data_utils/dict_src'
+CONFIG['DST_DICT']='../data_utils/dict_dst'
+CONFIG['TRAIN_INPUT']='../data_utils/train-webnlg-all-delex.triple'
+CONFIG['TRAIN_OUTPUT']='../data_utils/train-webnlg-all-delex.lex'
+CONFIG['DEV_INPUT']='../data_utils/dev-webnlg-all-delex.triple'
+CONFIG['DEV_OUTPUT']='../data_utils/dev-webnlg-all-delex.lex'
 
 CONFIG['GLOBAL_STEP']=1
 CONFIG['MAX_IN_LEN']=30
@@ -116,8 +117,11 @@ with tf.Session() as sess:
             model_inputs, len_inputs, inputs_mask = dataSeqs2NpSeqs(train_batch[0], full_dict_src, CONFIG['BUCKETS'][b][0])
             model_outputs, len_outputs, outputs_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1])
             model_targets, len_targets, targets_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1], bias=1)
-            batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs, outputs_mask, model_targets, len_targets, targets_mask)
-            print('Train completed for Iter@%d, Step@%d: Loss=%.6f LR=%.6f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss, sess.run(Model.learning_rate)))
+            batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs, outputs_mask, model_targets, len_targets, targets_mask, rev_dict_src, full_dict_dst)
+            if CONFIG['RL_ENABLE']:
+                print('Train completed for Iter@%d, Step@%d: CE_Loss=%.6f RL_Loss=%.6f LR=%.6f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss[0], batch_loss[1], sess.run(Model.learning_rate)))
+            else:
+                print('Train completed for Iter@%d, Step@%d: Loss=%.6f LR=%.6f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss, sess.run(Model.learning_rate)))
             CONFIG['GLOBAL_STEP']+=1
             if (CONFIG['GLOBAL_STEP'] % CONFIG['MAX_STEPS_PER_ITER'] == 0):
                 break
@@ -129,7 +133,7 @@ with tf.Session() as sess:
             n_b = len(eval_buckets_raw[b])
             for k in range((n_b+CONFIG['BATCH_SIZE']-1)/CONFIG['BATCH_SIZE']):
                 eval_batch = [ eval_buckets_raw[b][i%n_b] for i in range(k*CONFIG['BATCH_SIZE'], (k+1)*CONFIG['BATCH_SIZE']) ]
-                print('Eval process: [%d/%d] [%d/%d]'%(b, len(CONFIG['BUCKETS']), k*CONFIG['BATCH_SIZE'], n_b))
+                print('Eval process: [%d/%d] [%d/%d]'%(b+1, len(CONFIG['BUCKETS']), k*CONFIG['BATCH_SIZE'], n_b))
                 eval_batch = map(list, zip(*eval_batch))
                 model_inputs, len_inputs, inputs_mask = dataSeqs2NpSeqs(eval_batch[0], full_dict_src, CONFIG['BUCKETS'][b][0])
                 model_outputs, len_outputs, outputs_mask = dataSeqs2NpSeqs(eval_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1])
