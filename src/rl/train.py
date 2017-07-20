@@ -33,12 +33,14 @@ CONFIG['ITERS']=50
 CONFIG['BATCH_SIZE']=64
 
 CONFIG['SEED'] = 233333
+
 CONFIG['SRC_DICT']='../data_utils/dict_src'
 CONFIG['DST_DICT']='../data_utils/dict_dst'
 CONFIG['TRAIN_INPUT']='../data_utils/train-webnlg-all-delex.triple'
 CONFIG['TRAIN_OUTPUT']='../data_utils/train-webnlg-all-delex.lex'
 CONFIG['DEV_INPUT']='../data_utils/dev-webnlg-all-delex.triple'
 CONFIG['DEV_OUTPUT']='../data_utils/dev-webnlg-all-delex.lex'
+
 
 CONFIG['GLOBAL_STEP']=1
 CONFIG['MAX_IN_LEN']=30
@@ -99,6 +101,7 @@ f_y.close()
 # print len(train_raw), len(eval_raw)
 #
 # exit(0)
+
 
 with tf.Session() as sess:
     print('Loading model...')
