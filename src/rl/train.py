@@ -3,7 +3,7 @@ from data_utils import _2uni, _2utf8, _2gbk
 
 CONFIG = dict()
 
-CONFIG['LR'] = 0.00015
+CONFIG['LR'] = 0.0001
 CONFIG['WE_LR'] = 0.00001
 CONFIG['ENCODER_LR'] = 0.00001
 CONFIG['DECODER_LR'] = 0.00001
@@ -120,9 +120,9 @@ with tf.Session() as sess:
             model_inputs, len_inputs, inputs_mask = dataSeqs2NpSeqs(train_batch[0], full_dict_src, CONFIG['BUCKETS'][b][0])
             model_outputs, len_outputs, outputs_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1])
             model_targets, len_targets, targets_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1], bias=1)
-            batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs, outputs_mask, model_targets, len_targets, targets_mask, rev_dict_src, full_dict_dst)
+            batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs, outputs_mask, model_targets, len_targets, targets_mask, rev_dict_src, full_dict_dst, rev_dict_dst)
             if CONFIG['RL_ENABLE']:
-                print('Train completed for Iter@%d, Step@%d: CE_Loss=%.6f RL_Loss=%.6f LR=%.6f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss[0], batch_loss[1], sess.run(Model.learning_rate)))
+                print('Train completed for Iter@%d, Step@%d: CE_Loss=%.6f RL_Loss=%.6f Loss=%.6f LR=%.6f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss[0], batch_loss[1], batch_loss[0]+batch_loss[1], sess.run(Model.learning_rate)))
             else:
                 print('Train completed for Iter@%d, Step@%d: Loss=%.6f LR=%.6f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss, sess.run(Model.learning_rate)))
             CONFIG['GLOBAL_STEP']+=1

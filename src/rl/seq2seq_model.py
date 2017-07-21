@@ -232,13 +232,24 @@ class Seq2SeqModel():
             self.decoder_targets_length: decoder_targets_length,
             self.decoder_targets_mask: decoder_targets_mask,
         }
-    def train_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask, rev_dict_src, dict_dst):
+    def train_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask, rev_dict_src, dict_dst, rev_dict_dst):
         train_feed = self.make_train_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask)
         if self.rl_enable:
             [outputs] = session.run([self.train_outputs], train_feed)
             r = contentPenalty(np.transpose(encoder_inputs), outputs, rev_dict_src, dict_dst)
+            for i in range(self.batch_size):
+                if random.random() < 0.002:
+                    output_list = dataLogits2Seq(outputs[i], rev_dict_dst, calc_argmax=True).split()
+                    reward_list = r[i]
+                    for j in range(len(reward_list)):
+                        if decoder_targets_mask[j][i]:
+                            print(output_list[j], reward_list[j][dict_dst[output_list[j]]])
+
+
+
             train_feed[self.rewards] = r
             _, ce_loss, rl_loss = session.run([self.train_op, self.train_loss, self.train_loss_rl], train_feed)
+
             return [ce_loss, rl_loss]
         else:
             _, loss = session.run([self.train_op, self.final_loss], train_feed)

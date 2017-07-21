@@ -32,31 +32,41 @@ def bleuPerlInstance():
     return runMayGetValue(command_s, p)
 
 def contentPenalty(inputs, outputs, rev_dict_src, dict_dst):
-    print(inputs.shape)
-    print(outputs.shape)
+    # print(inputs.shape)
+    # print(outputs.shape)
     batch_size = len(inputs)
     assert(batch_size == len(outputs))
     max_len = outputs.shape[1]
     ret = []
-    score_board = [0]*len(dict_dst)
+    all_keys = [False]*len(dict_dst)
     for ind_src in rev_dict_src:
         word = rev_dict_src[ind_src]
         if word.upper()==word and dict_dst.has_key(word):
             ind_dst = dict_dst[word]
-            score_board[ind_dst]=-1.0
+            all_keys[ind_dst]=True
     for i in range(batch_size):
-        sb = copy.deepcopy(score_board)
+        # sb = copy.deepcopy(score_board)
+        pos_keys = [0]*len(dict_dst)
         for ind in inputs[i]:
             ind_src = int(ind)
             word = rev_dict_src[ind_src]
             if word.upper()==word and word!='<PAD>' and dict_dst.has_key(word):
                 ind_dst = dict_dst[word]
-                sb[ind_dst]=1.0
+                pos_keys[ind_dst]=2
         ret.append([])
         predictions = outputs[i].argmax(axis=-1)
         for j in range(max_len):
-            r = sb[int(predictions[j])]
-            ret[i].append(sb)
-            if r > 0:
-                sb[int(predictions[j])] -= 0.5
+            score_board = [0.0]*len(dict_dst)
+            p = int(predictions[j])
+            if (all_keys[p] and pos_keys[p]==0):
+                score_board[p] = -10.0
+            elif (all_keys[p] and pos_keys[p]==2):
+                score_board[p] = 2.0
+                pos_keys[p] -= 1
+            elif (all_keys[p] and pos_keys[p]==1):
+                score_board[p] = 0.2
+                pos_keys[p] -= 1
+            else:
+                score_board[p] = 0.2
+            ret[i].append(score_board)
     return np.array(ret, dtype=np.float32)
