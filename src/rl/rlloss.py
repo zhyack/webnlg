@@ -30,7 +30,7 @@ def sequence_loss_rl(logits, rewards, weights):
     """
 
     ret = 0.0
-    logp = tf.clip_by_value(tf.log(tf.nn.softmax(logits)), -1000.0, 0.0)
+    logp = tf.clip_by_value(tf.log(tf.nn.softmax(logits)), -10.0, 0.0)
     scores = tf.reduce_sum(tf.multiply(logp, rewards), 2)
     ret = -tf.reduce_mean(tf.multiply(scores, weights))
     return ret

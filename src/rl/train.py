@@ -24,12 +24,13 @@ CONFIG['INPUT_DROPOUT'] = 1.0
 CONFIG['OUTPUT_DROPOUT'] = 0.7
 CONFIG['CLIP']=True
 CONFIG['MAX_STEPS_PER_ITER']=500
-CONFIG['RL_ENABLE']=True
+CONFIG['RL_ENABLE']=False
+CONFIG['RL_RATIO']=0.4
 
 CONFIG['CLIP_NORM']=5.0
 CONFIG['VAR_NORM_BETA']=0.00003
 CONFIG['TRAIN_ON_EACH_STEP']=True
-CONFIG['ITERS']=50
+CONFIG['ITERS']=100
 CONFIG['BATCH_SIZE']=64
 
 CONFIG['SEED'] = 233333
@@ -43,7 +44,7 @@ CONFIG['DEV_OUTPUT']='../data_utils/dev-webnlg-all-delex.lex'
 
 
 CONFIG['GLOBAL_STEP']=1
-CONFIG['MAX_IN_LEN']=30
+CONFIG['MAX_IN_LEN']=50
 CONFIG['MAX_OUT_LEN']=80
 CONFIG['BUCKETS']=[[5,10], [10,20], [20,40], [30,50], [40,60], [50,70]]
 
@@ -161,6 +162,16 @@ with tf.Session() as sess:
 
 
         f_x = open(CONFIG['DEV_INPUT'],'r')
+        while(True):
+            f_lock = open('data/lock','r')
+            l = f_lock.readline().strip()
+            f_lock.close()
+            if l != 'LOCKED':
+                f_lock = open('data/lock','w')
+                f_lock.write('LOCKED')
+                f_lock.close()
+                break
+
         f_y = open('data/predictions.txt','w')
         for line in f_x.readlines():
             s = eval_results[line.strip()]
@@ -171,6 +182,8 @@ with tf.Session() as sess:
         f_x.close()
         f_y.close()
         eval_bleu = bleuPerlInstance()
+        f_lock = open('data/lock','w')
+        f_lock.close()
         # print eval_bleu
 
         print('Evaluationg completed:\nAverage Loss:%.6f\nBLEU:%.2f'%(sum(eval_losses)/len(eval_losses),eval_bleu))

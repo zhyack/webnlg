@@ -1,5 +1,6 @@
 import tensorflow as tf
 import tensorflow.contrib.seq2seq as seq2seq
+from tensorflow.python.layers import core as layers_core
 import math
 import copy
 import data_utils
@@ -142,9 +143,9 @@ class Seq2SeqModel():
             else:
                 raise Exception('config[\'ATTENTION_MECHANISE\'] should be LUONG or BAHDANAU')
 
-        self.decoder_cell = tf.contrib.rnn.OutputProjectionWrapper( self.decoder_cell, output_size = self.output_size)
 
         with tf.variable_scope("DynamicDecoder") as scope:
+
             initial_state = self.decoder_cell.zero_state(batch_size=self.batch_size, dtype=tf.float32)
 
             if config['ATTENTION_DECODER']:
@@ -153,15 +154,17 @@ class Seq2SeqModel():
             else:
                 initial_state = tuple([self.encoder_state] + list(initial_state[:-1]))
 
+            self.output_projection_layer = layers_core.Dense(self.output_size, use_bias=False)
+
             self.train_helper = tf.contrib.seq2seq.TrainingHelper(self.decoder_inputs_embedded, self.decoder_inputs_length, time_major=True)
-            self.decoder_train=tf.contrib.seq2seq.BasicDecoder(self.decoder_cell, helper=self.train_helper, initial_state=initial_state)
+            self.decoder_train=tf.contrib.seq2seq.BasicDecoder(self.decoder_cell, helper=self.train_helper, initial_state=initial_state, output_layer=self.output_projection_layer)
             self.train_outputs, self.train_state, self.train_sequence_lengths = tf.contrib.seq2seq.dynamic_decode(self.decoder_train, impute_finished=True, maximum_iterations=None)
 
 
 
 
             self.infer_helper = tf.contrib.seq2seq.GreedyEmbeddingHelper(self.output_word_embedding_matrix, self.decoder_inputs[0], self.output_size+1)
-            self.decoder_infer=tf.contrib.seq2seq.BasicDecoder(self.decoder_cell, helper=self.infer_helper, initial_state=initial_state)
+            self.decoder_infer=tf.contrib.seq2seq.BasicDecoder(self.decoder_cell, helper=self.infer_helper, initial_state=initial_state, output_layer=self.output_projection_layer)
             self.infer_outputs, self.infer_state, self.infer_sequence_lengths = tf.contrib.seq2seq.dynamic_decode(self.decoder_infer, impute_finished=False, maximum_iterations=config['MAX_OUT_LEN'])
 
 
@@ -181,6 +184,7 @@ class Seq2SeqModel():
             if config['TRAIN_ON_EACH_STEP']:
                 self.final_loss = self.train_loss
                 if config['RL_ENABLE']:
+                    # self.final_loss = self.final_loss*(1-self.config['RL_RATIO']) + self.train_loss_rl*self.config['RL_RATIO']
                     self.final_loss = self.final_loss + self.train_loss_rl
             else:
                 self.final_loss = self.eval_loss
@@ -236,14 +240,14 @@ class Seq2SeqModel():
         train_feed = self.make_train_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask)
         if self.rl_enable:
             [outputs] = session.run([self.train_outputs], train_feed)
-            r = contentPenalty(np.transpose(encoder_inputs), outputs, rev_dict_src, dict_dst)
-            for i in range(self.batch_size):
-                if random.random() < 0.002:
-                    output_list = dataLogits2Seq(outputs[i], rev_dict_dst, calc_argmax=True).split()
-                    reward_list = r[i]
-                    for j in range(len(reward_list)):
-                        if decoder_targets_mask[j][i]:
-                            print(output_list[j], reward_list[j][dict_dst[output_list[j]]])
+            r = contentPenalty(np.transpose(encoder_inputs), outputs, rev_dict_src, dict_dst, np.transpose(decoder_targets))
+            # for i in range(self.batch_size):
+            #     if random.random() < 0.002:
+            #         output_list = dataLogits2Seq(outputs[i], rev_dict_dst, calc_argmax=True).split()
+            #         reward_list = r[i]
+            #         for j in range(len(reward_list)):
+            #             if decoder_targets_mask[i][j]:
+            #                 print(output_list[j], reward_list[j][dict_dst[output_list[j]]])
 
 
 
