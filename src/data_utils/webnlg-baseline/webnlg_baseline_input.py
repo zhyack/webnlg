@@ -92,7 +92,7 @@ def create_source_target(b, options, dataset, delex=True):
             properties_objects = {}
             for triple in tripleset.triples:
                 triples += triple.s + ' ' + triple.p + ' ' + triple.o + ' '
-                properties_objects[triple.p] = triple.o
+                properties_objects[triple.p.replace(' ','_')] = triple.o
             triples = triples.replace('_', ' ').replace('"', '')
             # separate punct signs from text
             out_src = ' '.join(re.split('(\W)', triples))
@@ -116,9 +116,9 @@ def create_source_target(b, options, dataset, delex=True):
         source_out, target_out = zip(*corpus)
 
     with open(dataset + '-webnlg-' + options + '.triple', 'w+') as f:
-        f.write(('\n'.join(source_out)).encode('UTF-8'))
+        f.write('\n'.join(source_out).encode('UTF-8'))
     with open(dataset + '-webnlg-' + options + '.lex', 'w+') as f:
-        f.write(('\n'.join(target_out)).encode('UTF-8'))
+        f.write('\n'.join(target_out).encode('UTF-8'))
 
     # create separate files with references for multi-bleu.pl for dev set
     scr_refs = defaultdict(list)
@@ -131,7 +131,7 @@ def create_source_target(b, options, dataset, delex=True):
         values = [value for (key, value) in sorted(scr_refs.items())]
         # write the source file not delex
         with open(options + '-source.triple', 'w+') as f:
-            f.write(('\n'.join(keys)).encode('UTF-8'))
+            f.write('\n'.join(keys).encode('UTF-8'))
         # write references files
         for j in range(0, len(max_refs)):
             with open(options + '-reference' + str(j) + '.lex', 'w+') as f:
@@ -160,7 +160,6 @@ def relexicalise(predfile, rplc_list):
         rplc_dict = rplc_list[i]
         relex_pred = pred.decode('UTF-8')
         for key in sorted(rplc_dict):
-            relex_pred = relex_pred.replace('<$%s$> '%key, rplc_dict[key] + ' ')
             relex_pred = relex_pred.replace(key + ' ', rplc_dict[key] + ' ')
         relex_predictions.append(relex_pred)
     # with open('relexicalised_predictions_full.txt', 'w+') as f:

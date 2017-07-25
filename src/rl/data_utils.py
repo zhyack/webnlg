@@ -8,6 +8,7 @@ import numpy as np
 import os
 import time
 import random
+import copy
 
 import chardet
 def _2uni(s):
@@ -83,28 +84,28 @@ def loadDict(pf):
     f = open(pf, 'r')
     lcnt = 0
     ret = dict()
-    r_ret = []
+    r_ret = dict()
     for l in f.readlines():
         [w, _] = l.split()
         w = _2utf8(w)
         ret[w]=lcnt
-        r_ret.append(w)
+        r_ret[lcnt]=w
         lcnt += 1
     if not ret.has_key('<BOS>'):
         ret['<BOS>']=lcnt
-        r_ret.append('<BOS>')
+        r_ret[lcnt]='<BOS>'
         lcnt += 1
     if not ret.has_key('<EOS>'):
         ret['<EOS>']=lcnt
-        r_ret.append('<EOS>')
+        r_ret[lcnt]='<EOS>'
         lcnt += 1
     if not ret.has_key('<UNK>'):
         ret['<UNK>']=lcnt
-        r_ret.append('<UNK>')
+        r_ret[lcnt]='<UNK>'
         lcnt += 1
     if not ret.has_key('<PAD>'):
         ret['<PAD>']=lcnt
-        r_ret.append('<PAD>')
+        r_ret[lcnt]='<PAD>'
         lcnt += 1
     return ret, r_ret
 
@@ -150,6 +151,7 @@ def dataSeq2Onehot(s, full_dict, max_len):
     ret[-1][full_dict['<BOS>']]=1
     nr += 1
     for w in s.split():
+        w = _2utf8(w)
         if not full_dict.has_key(w):
             w = '<UNK>'
         ret.append([0]*ndict)
@@ -179,6 +181,9 @@ def dataSeqs2Digits(s, full_dict, max_len=None, bias=0):
         ret.append(full_dict['<BOS>'])
     for w in s.split():
         if not full_dict.has_key(w):
+            if len(full_dict)<5000:
+                print(_2utf8(w),'<unk> skip')
+                continue
             w = '<UNK>'
         ret.append(full_dict[w])
     nr = len(ret)
@@ -233,4 +238,3 @@ def dataLogits2Seq(x, full_dict, calc_argmax=False):
         except:
             print(w)
     return _2utf8(ret)
-

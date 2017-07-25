@@ -8,31 +8,23 @@ import nltk
 import copy
 def _2uni(s):
     try:
-        return s.decode('GBK')
-    except UnicodeDecodeError:
+        return unicode(s)
+    except:
         try:
-            return s.decode('UTF-8')
-        except UnicodeDecodeError:
-            return s
-def _2gbk(s):
-    try:
-        return s.encode('GBK')
-    except UnicodeError:
-        try:
-            return s.decode('UTF-8').encode('GBK')
-        except UnicodeDecodeError:
-            return s.decode('GBK').encode('GBK')
-def _2utf(s):
-    try:
-        return s.encode('UTF-8')
-    except UnicodeError:
-        try:
-            return s.decode('GBK').encode('UTF-8')
+            return unicode(s, 'UTF-8')
         except UnicodeDecodeError:
             try:
-                return s.decode('UTF-8').encode('UTF-8')
-            except UnicodeError:
-                return ""
+                return unicode(s, 'GBK')
+            except UnicodeDecodeError:
+                try:
+                    guess = chardet.detect(s)
+                    return unicode(s, guess["encoding"])
+                except:
+                    return s
+def _2utf(s):
+    return _2uni(s).encode('UTF-8')
+def _2gbk(s):
+    return _2uni(s).encode('GBK')
 def queryS(q):
     return _2utf(raw_input(_2gbk(q)).strip().rstrip())
 def queryL(q):
@@ -287,18 +279,19 @@ def getDict(files,fdict=None):
         f = open(pf,'r')
         for line in f.readlines():
             line = _2uni(line.strip())
-            l = []
-            st, en = 0,0
-            while(True):
-                en = line.find('<$',st)
-                if en == -1:
-                    if st != len(line)-1:
-                        l += word_tokenize(line[st:])
-                    break
-                if en>st:
-                    l += word_tokenize(line[st:en])
-                st = line.find('$>', en)+2
-                l += [line[en:st]]
+            l = line.split()
+            # l = []
+            # st, en = 0,0
+            # while(True):
+            #     en = line.find('<$',st)
+            #     if en == -1:
+            #         if st != len(line)-1:
+            #             l += word_tokenize(line[st:])
+            #         break
+            #     if en>st:
+            #         l += word_tokenize(line[st:en])
+            #     st = line.find('$>', en)+2
+            #     l += [line[en:st]]
             for w in l:
                 if not rd.has_key(w):
                     rd[w] = 1
@@ -308,8 +301,8 @@ def getDict(files,fdict=None):
     dd =sorted(rd.items(),key=lambda d:d[1], reverse=True)
     dcnt = 0
     for item in dd:
-        d.append(_2utf(item[0]).replace(' ',''))
-        rd[item[0].replace(' ','')] = dcnt
+        d.append(_2utf(item[0]))
+        rd[item[0]] = dcnt
         dcnt+=1
     if not rd.has_key('<UNK>'):
         d.append('<UNK>')
@@ -319,7 +312,7 @@ def getDict(files,fdict=None):
     if fdict:
         f = open(fdict, 'w')
         for item in dd:
-            f.write('%s\t%d\n'%(_2utf(item[0]).replace(' ',''),item[1]))
+            f.write('%s\t%d\n'%(_2utf(item[0]),item[1]))
         f.close()
     return d,rd
 def dictionarizeData(pfin, pfout, rd):
@@ -433,3 +426,5 @@ def parallel2multiMap(pfin, pfout):
 # d1,rd1 = getDict(['modify/train-webnlg-all-delex.triple'], 'modify/dict_src')
 # d2,rd2 = getDict(['modify/train-mod.txt'], 'modify/dict_dst')
 # postProcessing('modify/predictions.txt', 'modify/dev-key.txt', 'modify/dev-val.txt', 'modify/predict_full.txt')
+d1,rd1 = getDict(['train-webnlg-all-delex.triple'], 'dict_src')
+d2,rd2 = getDict(['train-webnlg-all-delex.lex'], 'dict_dst')
