@@ -3,13 +3,13 @@ from data_utils import _2uni, _2utf8, _2gbk
 
 CONFIG = dict()
 
-CONFIG['LR'] = 0.0001
+CONFIG['LR'] = 0.3
 CONFIG['WE_LR'] = 0.00001
 CONFIG['ENCODER_LR'] = 0.00001
 CONFIG['DECODER_LR'] = 0.00001
 CONFIG['SPLIT_LR'] = False
-CONFIG['LR_DECAY'] =  0.99999 #0.98
-CONFIG['OPTIMIZER'] = 'Adam'
+CONFIG['LR_DECAY'] =  0.9 #0.98
+CONFIG['OPTIMIZER'] = 'GD'
 CONFIG['CELL'] = "lstm"
 CONFIG['WORD_EMBEDDING_SIZE'] = 800
 CONFIG['ENCODER_HIDDEN_SIZE'] = 800
@@ -23,14 +23,14 @@ CONFIG['ATTENTION_MECHANISE'] = 'LUONG'
 CONFIG['INPUT_DROPOUT'] = 1.0
 CONFIG['OUTPUT_DROPOUT'] = 0.7
 CONFIG['CLIP']=True
-CONFIG['MAX_STEPS_PER_ITER']=500
-CONFIG['RL_ENABLE']=False
+CONFIG['MAX_STEPS_PER_ITER']=1000
+CONFIG['RL_ENABLE']=True
 CONFIG['RL_RATIO']=0.4
 
 CONFIG['CLIP_NORM']=5.0
 CONFIG['VAR_NORM_BETA']=0.00003
 CONFIG['TRAIN_ON_EACH_STEP']=True
-CONFIG['ITERS']=100
+CONFIG['ITERS']=200
 CONFIG['BATCH_SIZE']=64
 
 CONFIG['SEED'] = 233333
@@ -123,12 +123,13 @@ with tf.Session() as sess:
             model_targets, len_targets, targets_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1], bias=1)
             batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs, outputs_mask, model_targets, len_targets, targets_mask, rev_dict_src, full_dict_dst, rev_dict_dst)
             if CONFIG['RL_ENABLE']:
-                print('Train completed for Iter@%d, Step@%d: CE_Loss=%.6f RL_Loss=%.6f Loss=%.6f LR=%.6f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss[0], batch_loss[1], batch_loss[0]+batch_loss[1], sess.run(Model.learning_rate)))
+                print('Train completed for Iter@%d, Step@%d: CE_Loss=%.6f RL_Loss=%.6f Loss=%.6f LR=%.8f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss[0], batch_loss[1], batch_loss[0]+batch_loss[1], CONFIG['LR']))
             else:
-                print('Train completed for Iter@%d, Step@%d: Loss=%.6f LR=%.6f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss, sess.run(Model.learning_rate)))
+                print('Train completed for Iter@%d, Step@%d: Loss=%.6f LR=%.8f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss, CONFIG['LR']))
             CONFIG['GLOBAL_STEP']+=1
             if (CONFIG['GLOBAL_STEP'] % CONFIG['MAX_STEPS_PER_ITER'] == 0):
                 break
+        CONFIG['LR'] = CONFIG['LR']*CONFIG['LR_DECAY']
         print('Iter@%d completed! Start Evaluating...'%(n_iter))
         eval_losses=[]
         eval_results=dict()

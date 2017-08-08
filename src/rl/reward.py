@@ -46,6 +46,7 @@ def contentPenalty(inputs, outputs, rev_dict_src, dict_dst, targets):
             all_keys[ind_dst]=True
     for i in range(batch_size):
         # sb = copy.deepcopy(score_board)
+        expect_eos = np.argwhere(targets[i]==dict_dst['<EOS>'])[0]
         poskey_cnt = 0
         pos_keys = [0]*len(dict_dst)
         for ind in inputs[i]:
@@ -58,11 +59,17 @@ def contentPenalty(inputs, outputs, rev_dict_src, dict_dst, targets):
                 pos_keys[ind_dst]=2
         ret.append([])
         predictions = outputs[i].argmax(axis=-1)
+        eos = False
         for j in range(max_len):
             score_board = [0.0]*len(dict_dst)
+            if eos:
+                ret[i].append(score_board)
+                continue
             p = int(predictions[j])
-            if (all_keys[p] and pos_keys[p]==0):
-                score_board[p] = 0
+            if p == dict_dst['<EOS>'] and j < expect_eos:
+                score_board[p] = 0.2
+            elif (all_keys[p] and pos_keys[p]==0):
+                score_board[p] = 0.2
             elif (all_keys[p] and pos_keys[p]==2):
                 score_board[p] = 2.0
                 pos_keys[p] -= 1
