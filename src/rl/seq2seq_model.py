@@ -176,7 +176,7 @@ class Seq2SeqModel():
             self.train_loss_rl = rlloss.sequence_loss_rl(logits=self.train_outputs, rewards=self.rewards, weights=self.decoder_targets_mask)
 
 
-            self.eval_loss = seq2seq.sequence_loss(logits=self.eval_outputs, targets=tf.transpose(self.decoder_targets, perm=[1,0]), weights=self.decoder_targets_mask)
+            self.eval_loss = seq2seq.sequence_loss(logits=self.train_outputs, targets=tf.transpose(self.decoder_targets, perm=[1,0]), weights=self.decoder_targets_mask)
             print('Decoder Trainable Variables')
             self.decoder_variables = scope.trainable_variables()
             print(self.decoder_variables)
@@ -209,6 +209,7 @@ class Seq2SeqModel():
             else:
                 self.train_op = updateBP(self.final_loss, [config['LR']], [self.all_trainable_variables])
 
+        self.saver = model_utils.initGlobalSaver()
 
 
 
@@ -256,12 +257,13 @@ class Seq2SeqModel():
 
             return [ce_loss, rl_loss]
         else:
-            _, loss = session.run([self.train_op, self.final_loss], train_feed)
+            [_, loss] = session.run([self.train_op, self.final_loss], train_feed)
             return loss
     def eval_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask):
         infer_feed = self.make_infer_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask)
-        loss, outputs = session.run([self.eval_loss, self.infer_outputs], infer_feed)
+        [loss, outputs] = session.run([self.eval_loss, self.infer_outputs], infer_feed)
         return loss, outputs
     def predict_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask):
         infer_feed = self.make_infer_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask)
-        return
+        [outputs] = session.run([self.infer_outputs], infer_feed)
+        return outputs

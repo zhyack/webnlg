@@ -2,7 +2,7 @@ cd /mnt/c/Users/zhy-win/Git/OpenNMT
 th preprocess.lua -train_src ../webnlg/webnlg-baseline/train-webnlg-all-delex.triple -train_tgt ../webnlg/webnlg-baseline/train-webnlg-all-delex.lex -valid_src ../webnlg/webnlg-baseline/dev-webnlg-all-delex.triple -valid_tgt ../webnlg/webnlg-baseline/dev-webnlg-all-delex.lex -src_seq_length 70 -tgt_seq_length 70 -save_data baseline
 th train.lua -data baseline-train.t7 -save_model baseline
 cd /mnt/c/Users/zhy-win/Git/OpenNMT
-th translate.lua -model baseline_epoch13_*.t7 -src ../webnlg/src/baseline-official/dev-webnlg-all-delex.triple -output baseline_predictions.txt
+th translate.lua -model baseline_epoch13_*.t7 -src ../webnlg/src/baseline-official/train-webnlg-all-delex.triple -output baseline_predictions.txt
 cd /mnt/c/Users/zhy-win/Git/webnlg/src/baseline-official
 python webnlg_relexicalise.py -i /mnt/c/Users/zhy-win/Git/webnlg/data/ -f /mnt/c/Users/zhy-win/Git/OpenNMT/baseline_predictions.txt
 

@@ -108,7 +108,7 @@ with tf.Session() as sess:
     print('Loading model...')
     Model = instanceOfInitModel(sess, CONFIG)
     if args.load_folder != None:
-        Model, CONFIG = loadModelFromFolder(sess, Model.saver, args.load_folder)
+        CONFIG = loadModelFromFolder(sess, Model.saver, CONFIG, args.load_folder)
 
     print('Training Begin...')
     log_losses = []
@@ -194,5 +194,5 @@ with tf.Session() as sess:
             # sess.run(Model.lr_decay_op)
             print('Learning rate trun down-to %.6f'%(sess.run(Model.learning_rate)))
         if args.save_folder != None:
-            saveModelToFolder(sess, Model.saver, args.save_folder, CONFIG, Model)
+            saveModelToFolder(sess, Model.saver, args.save_folder, CONFIG, n_iter)
     print('Training Completed...')

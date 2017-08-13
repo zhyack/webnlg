@@ -17,13 +17,16 @@ def initGlobalSaver():
     saver = tf.train.Saver(tf.global_variables(), max_to_keep=50)
     return saver
 
-def loadModelFromFolder(sess, saver, pf):
-    config = json2load(pf+'/config.json')
-    saver.restore(sess, pf+"/checkpoint")
+def loadModelFromFolder(sess, saver, config, pf):
+    if os.path.isfile(pf+'/config.json'):
+        config = json2load(pf+'/config.json')
+    ckpt = tf.train.get_checkpoint_state(pf)
+    if ckpt!=None:
+        saver.restore(sess, ckpt.model_checkpoint_path)
     print("Restored model from %s"%pf)
-    return ret, config
+    return config
 
-def saveModelToFolder(sess, saver, pf, config):
+def saveModelToFolder(sess, saver, pf, config, n_iter):
     save2json(config, pf+'/config.json')
     saver.save(sess, pf+'checkpoint', global_step=n_iter)
     print("Model saved at %s"%(pf+'checkpoint-'+str(n_iter)))
