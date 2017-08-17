@@ -31,9 +31,24 @@ def bleuPerlInstance():
     p = bleuPerlParser
     return runMayGetValue(command_s, p)
 
-def contentPenalty(inputs, outputs, rev_dict_src, dict_dst, targets):
+def bleuPerlInstance2():
+    s = ''
+    for i in range(35):
+        s += '../data_process_pack/ref/train_2-delex-non-repeat-reference%d.lex '%(i)
+    command_s = 'cd ../data_utils/webnlg-baseline; perl multi-bleu.perl %s < ../../rl/data/predictions.txt'%(s)
+    p = bleuPerlParser
+    return runMayGetValue(command_s, p)
+
+global dict_src, rev_dict_src, dict_dst, rev_dict_dst
+dict_src, rev_dict_src, dict_dst, rev_dict_dst = None, None, None, None
+
+def contentPenalty(inputs, outputs, SRC_DICT, DST_DICT, targets):
     # print(inputs.shape)
     # print(outputs.shape)
+    global dict_src, rev_dict_src, dict_dst, rev_dict_dst
+    if dict_dst==None or dict_dst==None or rev_dict_dst==None or rev_dict_src==None:
+        dict_src, rev_dict_src = loadDict(SRC_DICT)
+        dict_dst, rev_dict_dst = loadDict(DST_DICT)
     batch_size = len(inputs)
     assert(batch_size == len(outputs))
     max_len = outputs.shape[1]
@@ -66,9 +81,7 @@ def contentPenalty(inputs, outputs, rev_dict_src, dict_dst, targets):
                 ret[i].append(score_board)
                 continue
             p = int(predictions[j])
-            if p == dict_dst['<EOS>'] and j < expect_eos:
-                score_board[p] = 0.2
-            elif (all_keys[p] and pos_keys[p]==0):
+            if (all_keys[p] and pos_keys[p]==0):
                 score_board[p] = 0.2
             elif (all_keys[p] and pos_keys[p]==2):
                 score_board[p] = 2.0
@@ -93,3 +106,7 @@ def contentPenalty(inputs, outputs, rev_dict_src, dict_dst, targets):
                 ret[i][j][p] += remain_penalty
                 ret[i][j][p] = max(0.0,ret[i][j][p])
     return np.array(ret, dtype=np.float32)
+
+
+def bleuPenalty():
+    pass

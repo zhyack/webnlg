@@ -3,12 +3,12 @@ from data_utils import _2uni, _2utf8, _2gbk
 
 CONFIG = dict()
 
-CONFIG['LR'] = 0.3
+CONFIG['LR'] = 0.5
 CONFIG['WE_LR'] = 0.00001
 CONFIG['ENCODER_LR'] = 0.00001
 CONFIG['DECODER_LR'] = 0.00001
 CONFIG['SPLIT_LR'] = False
-CONFIG['LR_DECAY'] =  0.9 #0.98
+CONFIG['LR_DECAY'] =  0.7 #0.98
 CONFIG['OPTIMIZER'] = 'GD'
 CONFIG['CELL'] = "lstm"
 CONFIG['WORD_EMBEDDING_SIZE'] = 800
@@ -41,12 +41,21 @@ CONFIG['TRAIN_INPUT']='../data_utils/train-webnlg-all-delex.triple'
 CONFIG['TRAIN_OUTPUT']='../data_utils/train-webnlg-all-delex.lex'
 CONFIG['DEV_INPUT']='../data_utils/dev-webnlg-all-delex.triple'
 CONFIG['DEV_OUTPUT']='../data_utils/dev-webnlg-all-delex.lex'
+# CONFIG['SRC_DICT']='../data_utils/data_process_pack/dict_src'
+# CONFIG['DST_DICT']='../data_utils/data_process_pack/dict_dst'
+# CONFIG['TRAIN_INPUT']='../data_utils/data_process_pack/train-1-webnlg-all-delex.triple'
+# CONFIG['TRAIN_OUTPUT']='../data_utils/data_process_pack/train-1-webnlg-all-delex.lex'
+# CONFIG['DEV_INPUT']='../data_utils/data_process_pack/train_2-delex-non-repeat-triple.txt'
+# CONFIG['DEV_OUTPUT']='../data_utils/data_process_pack/ref/train_2-delex-non-repeat-reference0.lex'
 
 
 CONFIG['GLOBAL_STEP']=1
 CONFIG['MAX_IN_LEN']=50
 CONFIG['MAX_OUT_LEN']=80
 CONFIG['BUCKETS']=[[5,10], [10,20], [20,40], [30,50], [40,60], [50,70]]
+
+CONFIG['USE_BS']=True
+CONFIG['BEAM_WIDTH']=10
 
 
 
@@ -106,10 +115,10 @@ f_y.close()
 
 with tf.Session() as sess:
     print('Loading model...')
+    CONFIG['IS_TRAIN'] = True
     Model = instanceOfInitModel(sess, CONFIG)
     if args.load_folder != None:
         CONFIG = loadModelFromFolder(sess, Model.saver, CONFIG, args.load_folder)
-
     print('Training Begin...')
     log_losses = []
     for n_iter in range(CONFIG['GLOBAL_STEP']/CONFIG['MAX_STEPS_PER_ITER'], CONFIG['ITERS']):
@@ -121,7 +130,7 @@ with tf.Session() as sess:
             model_inputs, len_inputs, inputs_mask = dataSeqs2NpSeqs(train_batch[0], full_dict_src, CONFIG['BUCKETS'][b][0])
             model_outputs, len_outputs, outputs_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1])
             model_targets, len_targets, targets_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1], bias=1)
-            batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs, outputs_mask, model_targets, len_targets, targets_mask, rev_dict_src, full_dict_dst, rev_dict_dst)
+            batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs, outputs_mask, model_targets, len_targets, targets_mask)
             if CONFIG['RL_ENABLE']:
                 print('Train completed for Iter@%d, Step@%d: CE_Loss=%.6f RL_Loss=%.6f Loss=%.6f LR=%.8f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss[0], batch_loss[1], batch_loss[0]+batch_loss[1], CONFIG['LR']))
             else:
@@ -148,7 +157,7 @@ with tf.Session() as sess:
                 eval_losses.append(batch_loss)
                 eval_batch = map(list, zip(*eval_batch))
                 for i in range(CONFIG['BATCH_SIZE']):
-                    eval_results[eval_batch[i][0]] = dataLogits2Seq(predict_outputs[i], rev_dict_dst, calc_argmax=True)
+                    eval_results[eval_batch[i][0]] = dataLogits2Seq(predict_outputs[i], rev_dict_dst, calc_argmax=False)
                     if random.random()<0.01:
                         try:
                             print('Raw input: %s\nExpected output: %s\nModel output: %s' % (eval_batch[i][0], eval_batch[i][1], eval_results[eval_batch[i][0]]))
@@ -183,16 +192,17 @@ with tf.Session() as sess:
         f_x.close()
         f_y.close()
         eval_bleu = bleuPerlInstance()
+        # eval_bleu = bleuPerlInstance2()
         f_lock = open('data/lock','w')
         f_lock.close()
-        # print eval_bleu
+        print eval_bleu
 
-        print('Evaluationg completed:\nAverage Loss:%.6f\nBLEU:%.2f'%(sum(eval_losses)/len(eval_losses),eval_bleu))
+        print('Evaluation completed:\nAverage Loss:%.6f\nBLEU:%.2f'%(sum(eval_losses)/len(eval_losses),eval_bleu))
         print(log_losses[max(0,len(log_losses)-200):])
         log_losses.append(eval_bleu)
         if log_losses[-1]<=min(log_losses[max(0,len(log_losses)-3):]):
             # sess.run(Model.lr_decay_op)
-            print('Learning rate trun down-to %.6f'%(sess.run(Model.learning_rate)))
+            print('Learning rate turn down-to %.6f'%(sess.run(Model.learning_rate)))
         if args.save_folder != None:
             saveModelToFolder(sess, Model.saver, args.save_folder, CONFIG, n_iter)
     print('Training Completed...')

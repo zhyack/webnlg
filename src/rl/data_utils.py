@@ -236,5 +236,6 @@ def dataLogits2Seq(x, full_dict, calc_argmax=False):
         try:
             ret += _2uni(full_dict[w])+' '
         except:
-            print(w)
+            pass
+            # print(w)
     return _2utf8(ret)
