@@ -23,8 +23,9 @@ CONFIG['ATTENTION_MECHANISE'] = 'LUONG'
 CONFIG['INPUT_DROPOUT'] = 1.0
 CONFIG['OUTPUT_DROPOUT'] = 0.7
 CONFIG['CLIP']=True
-CONFIG['MAX_STEPS_PER_ITER']=1500
+CONFIG['MAX_STEPS_PER_ITER']=1000
 CONFIG['RL_ENABLE']=True
+CONFIG['BLEU_RL_ENABLE']=False
 CONFIG['RL_RATIO']=0.4
 
 CONFIG['CLIP_NORM']=5.0
@@ -33,7 +34,7 @@ CONFIG['TRAIN_ON_EACH_STEP']=True
 CONFIG['ITERS']=200
 CONFIG['BATCH_SIZE']=64
 
-CONFIG['SEED'] = 233
+CONFIG['SEED'] = 2222222222
 
 CONFIG['SRC_DICT']='../data_utils/dict_src'
 CONFIG['DST_DICT']='../data_utils/dict_dst'
@@ -47,6 +48,8 @@ CONFIG['DEV_OUTPUT']='../data_utils/dev-webnlg-all-delex.lex'
 # CONFIG['TRAIN_OUTPUT']='../data_utils/data_process_pack/train-1-webnlg-all-delex.lex'
 # CONFIG['DEV_INPUT']='../data_utils/data_process_pack/train_2-delex-non-repeat-triple.txt'
 # CONFIG['DEV_OUTPUT']='../data_utils/data_process_pack/ref/train_2-delex-non-repeat-reference0.lex'
+CONFIG['HYP_FILE_PATH']='../data_utils/data_process_pack/train_1-delex-non-repeat-triple.txt'
+CONFIG['REF_FILE_PATH_FORMAT']='../data_utils/data_process_pack/ref/train_1-delex-non-repeat-reference%d.lex'
 
 
 CONFIG['GLOBAL_STEP']=1
@@ -57,6 +60,7 @@ CONFIG['BUCKETS']=[[5,10], [10,20], [20,40], [30,50], [40,60], [50,70]]
 CONFIG['USE_BS']=True
 CONFIG['BEAM_WIDTH']=10
 
+CONFIG['LOG']=[]
 
 
 import argparse
@@ -122,11 +126,15 @@ with g.as_default():
         Model = instanceOfInitModel(sess, CONFIG)
         if args.load_folder != None:
             CONFIG = loadModelFromFolder(sess, Model.saver, CONFIG, args.load_folder)
+        tf.set_random_seed(CONFIG['SEED'])
+        random.seed(CONFIG['SEED'])
         print('Training Begin...')
-        log_losses = []
+        log_losses = CONFIG['LOG']
         for n_iter in range(CONFIG['GLOBAL_STEP']/CONFIG['MAX_STEPS_PER_ITER'], CONFIG['ITERS']):
             while True:
                 b = random.randint(0, len(CONFIG['BUCKETS'])-1)
+                if (n_iter == 0):
+                    b = random.randint(0, 2)
                 n_b = len(train_buckets_raw[b])
                 train_batch = [ train_buckets_raw[b][random.randint(0, n_b-1)] for _ in range(CONFIG['BATCH_SIZE'])]
                 train_batch = map(list, zip(*train_batch))
@@ -135,7 +143,10 @@ with g.as_default():
                 model_targets, len_targets, targets_mask = dataSeqs2NpSeqs(train_batch[1], full_dict_dst, CONFIG['BUCKETS'][b][1], bias=1)
                 batch_loss = Model.train_on_batch(sess, model_inputs, len_inputs, inputs_mask, model_outputs, len_outputs, outputs_mask, model_targets, len_targets, targets_mask)
                 if CONFIG['RL_ENABLE']:
-                    print('Train completed for Iter@%d, Step@%d: CE_Loss=%.6f RL_Loss=%.6f Loss=%.6f LR=%.8f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss[0], batch_loss[1], batch_loss[0]+batch_loss[1], CONFIG['LR']))
+                    if CONFIG['BLEU_RL_ENABLE']:
+                        print('Train completed for Iter@%d, Step@%d: CE_Loss=%.6f RL_Loss=%.6f BLEU_Loss=%.6f Loss=%.6f LR=%.8f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss[0], batch_loss[1], batch_loss[2], batch_loss[0]+batch_loss[1]+batch_loss[2], CONFIG['LR']))
+                    else:
+                        print('Train completed for Iter@%d, Step@%d: CE_Loss=%.6f RL_Loss=%.6f Loss=%.6f LR=%.8f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss[0], batch_loss[1], batch_loss[0]+batch_loss[1], CONFIG['LR']))
                 else:
                     print('Train completed for Iter@%d, Step@%d: Loss=%.6f LR=%.8f'%(n_iter, CONFIG['GLOBAL_STEP'], batch_loss, CONFIG['LR']))
                 CONFIG['GLOBAL_STEP']+=1

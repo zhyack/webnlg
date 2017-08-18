@@ -15,6 +15,7 @@ class Seq2SeqModel():
         print('The model is built for training:', config['IS_TRAIN'])
 
         self.rl_enable = config['RL_ENABLE']
+        self.bleu_enable = config['BLEU_RL_ENABLE']
 
         self.learning_rate = tf.Variable(config['LR'], dtype=tf.float32, name='model_learning_rate', trainable=False)
 
@@ -202,8 +203,11 @@ class Seq2SeqModel():
 
                 self.rewards = tf.py_func(contentPenalty, [tf.transpose(self.encoder_inputs, perm=[1,0]), self.train_outputs, tf.constant(config['SRC_DICT'], dtype=tf.string), tf.constant(config['DST_DICT'], dtype=tf.string), tf.transpose(self.decoder_targets, perm=[1,0])], tf.float32)
                 self.rewards.set_shape(self.train_outputs.get_shape())
-
                 self.train_loss_rl = rlloss.sequence_loss_rl(logits=self.train_outputs, rewards=self.rewards, weights=self.decoder_targets_mask)
+
+                self.rewards_bleu = tf.py_func(bleuPenalty, [tf.transpose(self.encoder_inputs, perm=[1,0]), self.train_outputs, tf.constant(config['SRC_DICT'], dtype=tf.string), tf.constant(config['DST_DICT'], dtype=tf.string), tf.constant(config['HYP_FILE_PATH'], dtype=tf.string), tf.constant(config['REF_FILE_PATH_FORMAT'], dtype=tf.string)], tf.float32)
+                self.rewards_bleu.set_shape(self.train_outputs.get_shape())
+                self.train_loss_rl_bleu = rlloss.sequence_loss_rl(logits=self.train_outputs, rewards=self.rewards_bleu, weights=self.decoder_targets_mask)/3
 
 
                 self.eval_loss = seq2seq.sequence_loss(logits=self.train_outputs, targets=tf.transpose(self.decoder_targets, perm=[1,0]), weights=self.decoder_targets_mask)
@@ -211,8 +215,9 @@ class Seq2SeqModel():
                 if config['TRAIN_ON_EACH_STEP']:
                     self.final_loss = self.train_loss
                     if config['RL_ENABLE']:
-                        # self.final_loss = self.final_loss*(1-self.config['RL_RATIO']) + self.train_loss_rl*self.config['RL_RATIO']
                         self.final_loss = self.final_loss + self.train_loss_rl
+                    if config['BLEU_RL_ENABLE']:
+                        self.final_loss = self.final_loss + self.train_loss_rl_bleu
                 else:
                     self.final_loss = self.eval_loss
             print('Decoder Trainable Variables')
@@ -257,8 +262,12 @@ class Seq2SeqModel():
     def train_on_batch(self, session, encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask):
         train_feed = self.make_feed(encoder_inputs, encoder_inputs_length, encoder_inputs_mask, decoder_inputs, decoder_inputs_length, decoder_inputs_mask, decoder_targets, decoder_targets_length, decoder_targets_mask)
         if self.rl_enable:
-            [_, ce_loss, rl_loss] = session.run([self.train_op, self.train_loss, self.train_loss_rl], train_feed)
-            return [ce_loss, rl_loss]
+            if self.bleu_enable:
+                [_, ce_loss, rl_loss, bleu_loss] = session.run([self.train_op, self.train_loss, self.train_loss_rl, self.train_loss_rl_bleu], train_feed)
+                return [ce_loss, rl_loss, bleu_loss]
+            else:
+                [_, ce_loss, rl_loss] = session.run([self.train_op, self.train_loss, self.train_loss_rl], train_feed)
+                return [ce_loss, rl_loss]
         else:
             [_, loss] = session.run([self.train_op, self.final_loss], train_feed)
             return loss

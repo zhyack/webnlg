@@ -110,7 +110,7 @@ def contentPenalty(inputs, outputs, SRC_DICT, DST_DICT, targets):
 ref_dict = None
 import bleu
 import math
-def sigmoid():
+def sigmoid(x):
     return 1.0 / (1.0 + math.exp(-x))
 def bleuPenalty(inputs, outputs, SRC_DICT, DST_DICT, HYP_FILE_PATH, REF_FILE_PATH_FORMAT):
     global dict_src, rev_dict_src, dict_dst, rev_dict_dst
@@ -119,13 +119,19 @@ def bleuPenalty(inputs, outputs, SRC_DICT, DST_DICT, HYP_FILE_PATH, REF_FILE_PAT
         dict_dst, rev_dict_dst = loadDict(DST_DICT)
     global ref_dict
     if ref_dict == None:
+        print('Loading references...')
+        ref_dict = dict()
         hyp_list = []
         linecnt = 0
         f = open(HYP_FILE_PATH, 'r')
         for line in f.readlines():
-            line = line.strip()
+            line = _2uni(line.strip())
+            line = line.split()
+            if len(line)>48:
+                line = line[:48]
+            line = ' '.join(line)
             ref_dict[line]=[]
-            hyp_list[linecnt] = line
+            hyp_list.append(line)
             linecnt += 1
         f.close()
         ref_file_cnt = 0
@@ -134,10 +140,11 @@ def bleuPenalty(inputs, outputs, SRC_DICT, DST_DICT, HYP_FILE_PATH, REF_FILE_PAT
                 f = open(REF_FILE_PATH_FORMAT%(ref_file_cnt), 'r')
                 linecnt = 0
                 for line in f.readlines():
-                    line = line.strip()
+                    line = _2uni(line.strip())
                     if len(line)>0:
                         ref_dict[hyp_list[linecnt]].append(line)
                     linecnt += 1
+                ref_file_cnt+=1
             else:
                 break
 
@@ -148,12 +155,17 @@ def bleuPenalty(inputs, outputs, SRC_DICT, DST_DICT, HYP_FILE_PATH, REF_FILE_PAT
         ret.append([])
         predictions = outputs[i].argmax(axis=-1)
         last_bleu = 0.0
-        src = ' '.join([rev_dict_src[k] for k in inputs[i]])
-        hyp = ' '.join([rev_dict_dst[p] for p in predictions])
+        src = ' '.join([_2uni(rev_dict_src[k]) for k in inputs[i]])
+        # print(src)
+        if src.find(' <EOS>')!=-1:
+            src = src[6:src.find(' <EOS>')]
+        else:
+            src = src[6:]
+        hyp = ' '.join([_2uni(rev_dict_dst[p]) for p in predictions])
         for j in range(max_len):
             bleu_scores, _ = bleu.corpus_bleu([hyp],[ref_dict[src]])
             p = int(predictions[j])
             score_board = [0.0]*len(dict_dst)
             score_board[p] = sigmoid(last_bleu-bleu_scores[0])
             ret[i].append(score_board)
-    return np.array(ret, dtype=np.float32) 
+    return np.array(ret, dtype=np.float32)
