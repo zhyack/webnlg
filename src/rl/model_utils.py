@@ -43,7 +43,7 @@ def instanceOfInitModel(sess, config):
     return ret
 
 
-def create_learning_rate_decay_fn(decay_steps=500, decay_rate=0.7, decay_type='natural_exp_decay', start_decay_at=0, stop_decay_at=200000, min_learning_rate=0.00001, staircase=False):
+def create_learning_rate_decay_fn(decay_steps=200, decay_rate=0.01, decay_type='natural_exp_decay', start_decay_at=0, stop_decay_at=200000, min_learning_rate=0.00001, staircase=False):
 
     def decay_fn(learning_rate, global_step):
         decay_type_fn = getattr(tf.train, decay_type)

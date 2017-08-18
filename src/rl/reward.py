@@ -107,6 +107,53 @@ def contentPenalty(inputs, outputs, SRC_DICT, DST_DICT, targets):
                 ret[i][j][p] = max(0.0,ret[i][j][p])
     return np.array(ret, dtype=np.float32)
 
+ref_dict = None
+import bleu
+import math
+def sigmoid():
+    return 1.0 / (1.0 + math.exp(-x))
+def bleuPenalty(inputs, outputs, SRC_DICT, DST_DICT, HYP_FILE_PATH, REF_FILE_PATH_FORMAT):
+    global dict_src, rev_dict_src, dict_dst, rev_dict_dst
+    if dict_dst==None or dict_dst==None or rev_dict_dst==None or rev_dict_src==None:
+        dict_src, rev_dict_src = loadDict(SRC_DICT)
+        dict_dst, rev_dict_dst = loadDict(DST_DICT)
+    global ref_dict
+    if ref_dict == None:
+        hyp_list = []
+        linecnt = 0
+        f = open(HYP_FILE_PATH, 'r')
+        for line in f.readlines():
+            line = line.strip()
+            ref_dict[line]=[]
+            hyp_list[linecnt] = line
+            linecnt += 1
+        f.close()
+        ref_file_cnt = 0
+        while(True):
+            if os.path.isfile(REF_FILE_PATH_FORMAT%(ref_file_cnt)):
+                f = open(REF_FILE_PATH_FORMAT%(ref_file_cnt), 'r')
+                linecnt = 0
+                for line in f.readlines():
+                    line = line.strip()
+                    if len(line)>0:
+                        ref_dict[hyp_list[linecnt]].append(line)
+                    linecnt += 1
+            else:
+                break
 
-def bleuPenalty():
-    pass
+    batch_size = len(inputs)
+    max_len = outputs.shape[1]
+    ret = []
+    for i in range(batch_size):
+        ret.append([])
+        predictions = outputs[i].argmax(axis=-1)
+        last_bleu = 0.0
+        src = ' '.join([rev_dict_src[k] for k in inputs[i]])
+        hyp = ' '.join([rev_dict_dst[p] for p in predictions])
+        for j in range(max_len):
+            bleu_scores, _ = bleu.corpus_bleu([hyp],[ref_dict[src]])
+            p = int(predictions[j])
+            score_board = [0.0]*len(dict_dst)
+            score_board[p] = sigmoid(last_bleu-bleu_scores[0])
+            ret[i].append(score_board)
+    return np.array(ret, dtype=np.float32) 
