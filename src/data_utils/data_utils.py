@@ -426,5 +426,5 @@ def parallel2multiMap(pfin, pfout):
 # d1,rd1 = getDict(['modify/train-webnlg-all-delex.triple'], 'modify/dict_src')
 # d2,rd2 = getDict(['modify/train-mod.txt'], 'modify/dict_dst')
 # postProcessing('modify/predictions.txt', 'modify/dev-key.txt', 'modify/dev-val.txt', 'modify/predict_full.txt')
-d1,rd1 = getDict(['data_process_pack/train-1-webnlg-all-delex.triple'], 'data_process_pack/dict_src')
-d2,rd2 = getDict(['data_process_pack/train-1-webnlg-all-delex.lex'], 'data_process_pack/dict_dst')
+d1,rd1 = getDict(['data_process_pack/train-webnlg-all-delex.triple'], 'data_process_pack/dict_src_all')
+d2,rd2 = getDict(['data_process_pack/train-webnlg-all-delex.lex'], 'data_process_pack/dict_dst_all')

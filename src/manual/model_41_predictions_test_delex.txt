@@ -1,0 +1,1862 @@
+AIRPORT serves the city of CITYSERVED . 
+AIRPORT is located in LOCATION . 
+AIRPORT has the runway name RUNWAYNAME . 
+The ICAO Location Identifier of AIRPORT is ICAO_LOCATION_IDENTIFIER . 
+AIRPORT serves the city of CITYSERVED . 
+AIRPORT serves the city of CITYSERVED . 
+The runway length of AIRPORT is RUNWAYLENGTH . 
+AIRPORT has the runway name RUNWAYNAME . 
+The runway length of AIRPORT is RUNWAYLENGTH . 
+AIRPORT ' s 1st runway has the number 1ST_RUNWAY_NUMBER . 
+The AIRPORT ' s runway surface is made of asphalt . 
+AIRPORT has the runway name RUNWAYNAME . 
+AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . 
+AIRPORT is owned by OWNER . 
+The runway length of AIRPORT is RUNWAYLENGTH . 
+The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE . 
+AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . 
+AIRPORT is operated by OPERATINGORGANISATION . 
+The runway length of AIRPORT is RUNWAYLENGTH . 
+The runway length of AIRPORT is RUNWAYLENGTH . 
+The ICAO Location Identifier of AIRPORT is ICAO_LOCATION_IDENTIFIER . 
+AIRPORT has the runway name RUNWAYNAME . 
+AIRPORT is owned by OWNER . 
+AIRPORT has the runway name RUNWAYNAME . 
+The language of Belgium is French . 
+Curitiba is part of Parana state . 
+DEMONYM are from Spain . 
+The country of COUNTRY commonly serves the city of William and the country is the location of the bacon sandwich . 
+Greenville , Wisconsin , is part of the COUNTRY . 
+Greenville , Wisconsin is part of ISPARTOF . 
+The LANGUAGE are spoken in Iraq . 
+COUNTRY is the country of the COUNTRY . 
+The Egg Harbor Township , Madison County , Michigan is part of the ISPARTOF . 
+LEADERNAME is a leader of Pakistan . 
+The Port Authority of New York and Social Sciences serves which is based in the region of REGIONSERVED , and it is governed by the SPORTSGOVERNINGBODY . 
+LARGESTCITY is the largest city in Texas . 
+The United States Air Force has fought in the BATTLES . 
+The TRANSPORTAIRCRAFT is a transport aircraft in the United States Air Force . 
+The MONUMENT was established ESTABLISHED . 
+Adams County is located east of HAS_TO_ITS_WEST , and has Carrol County , Maryland . 
+LEADER is the leader in Azerbaijan . 
+The LEADERTITLE is the leader of the Azerbaijan Assembly . 
+The native name for the MONUMENT is Turk Sehitleri Aniti . 
+BUILDING is located in LOCATION . 
+BUILDING has the Tudor Revival architectural style . 
+BUILDING is located in LOCATION . 
+ARCHITECT is the architect of BUILDING . 
+BUILDING was built in BUILDINGSTARTDATE . 
+BUILDING has the reference number of Local . 
+ARCHITECT is the architect of BUILDING . 
+BUILDING is located in LOCATION . 
+BUILDING is in COUNTRY . 
+BUILDING is owned by OWNER . 
+The address of BUILDING is ADDRESS . 
+The BUILDING is located on the Asilomar Blvd , in the National Register of Historic Places . 
+ARCHITECT is the architect of BUILDING . 
+BUILDING is the location of the " Arts and Crafts Movement and American Craftsman " . 
+BUILDING was built in YEAROFCONSTRUCTION . 
+BUILDING is located in LOCATION . 
+The city of Saranac Lake , New York is part of ISPARTOF . 
+The leader of Akron , New York is LEADERNAME . 
+The United States Air Force is part of the ISPARTOF . 
+LEADERNAME is the leader of the city of Dublin . 
+LEADERNAME is the leader of Ethiopia . 
+DEMONYM are from India . 
+The SIGNIFICANTBUILDING and SIGNIFICANTPROJECT is a notable project of the SIGNIFICANTBUILDING . 
+The location of the UNIVERSITY is " In LOCATION , the established he was established in the country of the COUNTRY . 
+ISPARTOF is a city in ISPARTOF . 
+The ISPARTOF is part of New York City . 
+ISPARTOF is part of the ISPARTOF . 
+The ETHNICGROUP are an ethnic group in South Africa . 
+The leader of the United Kingdom is LEADERNAME . 
+WRITTENWORK has the ISBN number ISBN_NUMBER . 
+WRITTENWORK was written by AUTHOR . 
+WRITTENWORK is available in print form . 
+WRITTENWORK is from the COUNTRY . 
+WRITTENWORK has the OCLC number OCLC_NUMBER . 
+WRITTENWORK is available in print form . 
+WRITTENWORK is written in English . 
+WRITTENWORK was written by AUTHOR . 
+The ISSN number of WRITTENWORK is ISSN_NUMBER . 
+WRITTENWORK was written by AUTHOR . 
+WRITTENWORK is available in print form . 
+The ISSN number of WRITTENWORK is ISSN_NUMBER . 
+WRITTENWORK has the LCCN number LCCN_NUMBER . 
+WRITTENWORK is ACADEMICDISCIPLINE . 
+WRITTENWORK is written in English . 
+WRITTENWORK is from the COUNTRY . 
+WRITTENWORK is written in English . 
+WRITTENWORK is ACADEMICDISCIPLINE . 
+The LANGUAGE is spoken in italy . 
+The birth place of Graeme Garden is BIRTHPLACE . 
+PARENTCOMPANY is the parent company of the PARENTCOMPANY Press . 
+John Cowper Powys was born in the UK . 
+The country of COUNTRY is the origin of the European Mississippi . 
+The Polish Academy of Sciences is located in the COMPETE_IN . 
+ETHNICGROUP are an ethnic group in the United States . 
+The LANGUAGE is spoken in the United States . 
+WRITTENWORK was preceded by 1634 The Ram Rebellion . 
+MANAGER manages the SPORTSTEAM . 
+SPORTSTEAM play in LEAGUE . 
+FULLNAME is abbreviated to SPORTSTEAM . 
+SPORTSTEAM ' s ground is in GROUND . 
+SPORTSTEAM ' s ground is in GROUND . 
+SPORTSTEAM ' s ground is in GROUND . 
+SPORTSTEAM has NUMBEROFMEMBERS members . 
+SPORTSTEAM ' s ground is in GROUND . 
+SPORTSTEAM played in season SEASON . 
+The AZAL Arena is located in LOCATION . 
+SPORTSTEAM play in LEAGUE . 
+SPORTSTEAM played in season SEASON . 
+The country of COUNTRY is the location of the Apollo 14 , which is also home to the Ganges . 
+The location of Akron Ohio is LOCATION . 
+FULLNAME is abbreviated to SPORTSTEAM . 
+LEADER is a leader in Amsterdam . 
+Christian Panucci is in the CLUB club . 
+Christian Panucci is in the CLUB club . 
+Frank de Boer played for the CLUB . 
+The REGION region is part of the REGION . 
+LEADER is the leader in Italy . 
+Gus Poyet ' s club is CLUB . 
+Jorge Humberto Rodriguez plays for the CLUB . 
+Luciano Spalletti ' s club is CLUB . 
+Massimo Drago is in the CLUB club . 
+Michele Marcolini is attached to the club CLUB . 
+Michele Marcolini is attached to the club CLUB . 
+The footballer for SPORTSTEAM is located in the COMPETE_IN . 
+Rolando Maran plays at the CLUB . 
+TENANT is a tenant of Sportpark De Toekomst . 
+St . Vincent - St . Mary High School is located in the COUNTRY . 
+UNIVERSITY is in STATE state . 
+PRESIDENT is the president of the UNIVERSITY . 
+The location of the city of America is the HAS_TO_ITS_WEST . 
+The main ingredient of ASTRONAUT is banana . 
+CAPITAL is the capital of Oregon . 
+UNIVERSITY ' s dean is DEAN . 
+UNIVERSITY has NUMBEROFSTUDENTS students enrolled . 
+ASTRONAUT is from the NATIONALITY . 
+ASTRONAUT was a backup pilot of Apollo 8 . 
+ASTRONAUT graduated from the ALMAMATER . 
+ASTRONAUT was a crew member of WAS_A_CREW_MEMBER_OF . 
+ASTRONAUT was selected by NASA in WAS_SELECTED_BY_NASA . 
+The Senator representing California was the same . 
+ASTRONAUT died on DEATHDATE . 
+ASTRONAUT died in DEATHPLACE . 
+ASTRONAUT is now retired . 
+CREATOR created the comic character Balder . 
+COMICSCHARACTER is broadcast by the BROADCASTEDBY . 
+The comic character , Auron ' s full name is FULLNAME . 
+CREATOR created the comic character Balder . 
+The comic character , Auron ' s full name is FULLNAME . 
+The birth place of Bangalore is BIRTHPLACE . 
+ALTERNATIVENAME is also known as ALTERNATIVENAME . 
+John Buscema won the AWARD . 
+The nationality of Auron ( comics character ) is American . 
+Marv Wolfman was awarded the AWARD . 
+The nationality of Amsterdam ó n is NATIONALITY . 
+The birth place of OPERATOR is BIRTHPLACE . 
+The area code of CITY is AREACODE . 
+CITY is part of ISPARTOF . 
+The LEADERTITLE leads CITY . 
+The LEADERTITLE leads CITY . 
+The LEADERTITLE leads CITY . 
+The total area of CITY is AREATOTAL . 
+CITY is part of ISPARTOF . 
+CITY is part of ISPARTOF . 
+CITY is ELEVATIONABOVETHESEALEVEL above sea level . 
+The area code of CITY is AREACODE . 
+CITY is part of ISPARTOF . 
+CITY has a population density of POPULATIONDENSITY . 
+LEADER is the leader of CITY . 
+The total area of CITY is AREATOTAL . 
+CITY is part of ISPARTOF . 
+CITY is ELEVATIONABOVETHESEALEVEL above sea level . 
+CITY is part of ISPARTOF . 
+The total area of CITY is AREATOTAL . 
+CITY is part of ISPARTOF . 
+LANGUAGE is a language spoken in California . 
+LARGESTCITY is the largest city in Benton County , Oregon . 
+COUNTRY is the location of the origin of Fountain County , Georgia . 
+CITY is the county seat of Madison County , Indiana . 
+COUNTRY is in the country of COUNTRY . 
+LARGESTCITY is the largest city in Michigan . 
+Pacific County , California is in the COUNTRY . 
+LARGESTCITY is the largest city in Oregon . 
+LARGESTCITY is the largest city in Travis County , Texas . 
+LEADER is a leader of the United States . 
+The United States House of Representatives is located in Washington DC . 
+INGREDIENT is an ingredient in FOOD . 
+INGREDIENT is an ingredient in FOOD . 
+INGREDIENT is an ingredient in FOOD . 
+FOOD is a dish from REGION . 
+FOOD is a dish from REGION . 
+FOOD is a dish from REGION . 
+INGREDIENT is an ingredient in a BLT . 
+FOOD is a dish from REGION . 
+FOOD can be found in Arrabbiaita . 
+FOOD is from COUNTRY . 
+INGREDIENT is an ingredient in FOOD . 
+FOOD is a dish from REGION . 
+FOOD is a dish in pakora . 
+DISHVARIATION can be added to FOOD . 
+MAININGREDIENTS are the main ingredients of FOOD . 
+INGREDIENT is an ingredient in FOOD . 
+FOOD is a dish from REGION . 
+ALTERNATIVENAME is also known as FOOD . 
+INGREDIENT is an ingredient in FOOD . 
+DISHVARIATION can be added to FOOD . 
+FOOD is a dish from REGION . 
+The class of CLASS is CLASS . 
+The currency of India is the CURRENCY . 
+LEADERNAME is the leader of India . 
+LANGUAGE is the language of Indonesia . 
+The leader of Jalisco is LEADERNAME . 
+ETHNICGROUP are an ethnic group in Sumatra . 
+ETHNICGROUP is an ethnic group from Malaysia . 
+The leader of Mexico is LEADERNAME . 
+The LANGUAGE is spoken in New York . 
+The country of COUNTRY is the origin of Shumai . 
+INGREDIENT is an ingredient of the dish FOOD . 
+ETHNICGROUP is an ethnic group in Sumatra . 
+The leader of the United Kingdom is LEADERNAME . 
+The MONUMENT was established in ESTABLISHED and is categorised as a contributing property . 
+The MONUMENT is located on the DISTRICT , NEARESTCITY . 
+The MONUMENT is located in LOCATION . It is dedicated to DEDICATEDTO . 
+The Baku Turkish Martyrs Memorial , dedicated to the soldiers of the Ottoman army who died in the Battle of Baku are Turk Sehitleri Aniti . 
+The ETHNICGROUP are an ethnic group in the COUNTRY , where the population is known as the ETHNICGROUP . 
+CITY is part of ISPARTOF . 
+The leader of CITY is the LEADERTITLE . 
+CITY is part of ISPARTOF , in the COUNTRY . 
+CITY is part of ISPARTOF . 
+CITY is part of ISPARTOF in the COUNTRY . 
+CITY is part of ISPARTOF in the COUNTRY . 
+CITY is located at ELEVATIONABOVETHESEALEVEL above sea level . 
+CITY is located at ELEVATIONABOVETHESEALEVEL above sea level . 
+CITY is part of ISPARTOF in the COUNTRY . 
+CITY is located in the COUNTRY , which is part of the ISPARTOF . 
+CITY is located in the COUNTRY , which is part of the ISPARTOF . 
+CITY is in the COUNTRY , the capital of which is CAPITAL . 
+CITY is part of ISPARTOF in the COUNTRY . 
+CITY has a total area of AREATOTAL . 5 square kilometres of CITY . 
+CITY is part of ISPARTOF in the COUNTRY . 
+Austin is the capital of ISPARTOF . 
+CAPITAL is the capital of COUNTRY , a country where the capital city is CAPITAL . 
+The ETHNICGROUP are an ethnic group in the COUNTRY , where the ETHNICGROUP are one of the ethnic groups . 
+The ETHNICGROUP are an ethnic group in the ISPARTOF . 
+The country of COUNTRY is the origin of FOOD , which is also where one of the ethnic groups is Native Americans . 
+CITY is located in the COUNTRY , where the language is English . 
+The leader of COUNTRY is known as the President . A country is home to the UNIVERSITY . 
+INGREDIENT is an ingredient of FOOD which is a dish from COUNTRY . 
+FOOD is a food found in COUNTRY where LEADERNAME is a leader . 
+FOOD is a food found in COUNTRY where the language is LANGUAGE . 
+FOOD is a food found in COUNTRY where LEADERNAME is a leader . 
+INGREDIENT is an ingredient in FOOD which is a dish from COUNTRY . 
+FOOD is a dish from REGION and COUNTRY . 
+FOOD is a dish from the COUNTRY . The main ingredients of FOOD are ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables and fried shallots . 
+FOOD is a dish from REGION and COUNTRY . 
+DISHVARIATION is a variation of the club sandwich . A variation of the bacon sandwich is the DISHVARIATION ( which is the variation of club ) . 
+MAININGREDIENTS are the main ingredients of FOOD . 
+INGREDIENT sandwiches are popular in the UK and the main ingredient is bread . 
+INGREDIENT is an ingredient of a DISHVARIATION . FOOD includes bacon and as one of its ingredients . 
+INGREDIENT is an ingredient of FOOD which is a dish from COUNTRY . 
+FOOD is a food found in COUNTRY where LEADERNAME is a leader . 
+INGREDIENT is an ingredient of FOOD which is a dish from COUNTRY . 
+INGREDIENT is an ingredient of a DISHVARIATION and bacon sandwich . 
+INGREDIENT is an ingredient of FOOD which is a dish from COUNTRY . 
+INGREDIENT is part of the FAMILY family and is an ingredient in FOOD . 
+INGREDIENT is an ingredient in FOOD which is a dish from COUNTRY . 
+FOOD is a food found in COUNTRY where LEADERNAME is a leader . 
+INGREDIENT is an ingredient of FOOD which is a dish from COUNTRY . 
+INGREDIENT is an ingredient of FOOD and a variation of the dish that can be found in the country of the same dish . 
+INGREDIENT is an ingredient of FOOD which is a dish from COUNTRY . 
+FOOD is a food found in COUNTRY where LEADERNAME is a leader . 
+FOOD is a dish from the COUNTRY . MAININGREDIENTS are the main ingredients of FOOD . 
+FOOD is a food found in COUNTRY where the people are known as DEMONYM . 
+FOOD is a food found in COUNTRY where LEADERNAME is a leader . 
+FOOD is a food found in COUNTRY , where the ETHNICGROUP are an ethnic group . 
+FOOD is a dish from the COUNTRY . MAININGREDIENTS are the main ingredients of FOOD . 
+FOOD includes sweet potato and coconut milk . 
+FOOD is a food found in COUNTRY where LEADERNAME is a leader . 
+FOOD is from the REGION region and it contains water . 
+FOOD is a dessert that can be varied by using cottage cheese . 
+FOOD is a dish from the country of COUNTRY , where LEADERNAME is the leader . 
+INGREDIENT is an ingredient of DISHVARIATION and a variation of FOOD . 
+AIRPORT is operated by OPERATINGORGANISATION and has a runway length of RUNWAYLENGTH . 
+AIRPORT is located in LOCATION and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . 
+AIRPORT is located in LOCATION and has a runway length of RUNWAYLENGTH . 
+AIRPORT is located in LOCATION which is part of ISPARTOF . 
+AIRPORT is located in LOCATION and has a runway length of RUNWAYLENGTH . 
+AIRPORT is located in LOCATION where the LANGUAGE is spoken . 
+AIRPORT is operated by the OPERATINGORGANISATION which has the ATTACKAIRCRAFT ( attack aircraft ) . 
+The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE , which is CLASS . 1ST_RUNWAY_SURFACETYPE is CLASS and the surface of the 1st runway is poaceae . 
+The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE , which has a runway length of RUNWAYLENGTH . 
+AIRPORT is located in LOCATION where LEADERNAME is a leader . 
+AIRPORT is located in LOCATION and has a runway length of RUNWAYLENGTH . 
+The 1st runway at AIRPORT is made of asphalt and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . 
+AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and its 1st runway is made from 1ST_RUNWAY_SURFACETYPE . 
+AIRPORT serves the city of CITYSERVED and has a runway length of RUNWAYLENGTH . 
+AIRPORT serves the city of CITYSERVED and has a runway length of RUNWAYLENGTH . 
+The largest city in LOCATION is LARGESTCITY , and the AIRPORT is located in LOCATION . 
+AIRPORT serves the city of CITYSERVED and it is 4000 in length . 
+The 3rd runway at AIRPORT is made of 3RD_RUNWAY_SURFACETYPE . 
+AIRPORT is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above the sea level and its first runway is 1ST_RUNWAY_LENGTHFEET feet . 
+The headquarters of HEADQUARTER Airlines are located HEADQUARTER and HEADQUARTER is their headquarters in HEADQUARTER . 
+AIRPORT is located in LOCATION , COUNTRY . 
+AIRPORT is operated by OPERATINGORGANISATION and has the runway name RUNWAYNAME . 
+AIRPORT is operated by OPERATINGORGANISATION and has a runway length of RUNWAYLENGTH . 
+AIRPORT is in LOCATION and is operated by OPERATINGORGANISATION . 
+SPORTSTEAM has NUMBEROFMEMBERS members and played in the SEASON season . 
+SPORTSTEAM has NUMBEROFMEMBERS members and their ground is in GROUND . 
+MANAGER was born in PLACEOFBIRTH and is the manager of SPORTSTEAM . 
+MANAGER , who played for CLUB , is the manager of SPORTSTEAM . 
+SPORTSTEAM has NUMBEROFMEMBERS members and played in the SEASON season . 
+MANAGER , who played for CLUB , is the manager of SPORTSTEAM . 
+MANAGER , who played for CLUB , is the manager of SPORTSTEAM . 
+SPORTSTEAM has NUMBEROFMEMBERS members and its ground is the GROUND . 
+SPORTSTEAM has NUMBEROFMEMBERS members and its ground is the GROUND . 
+SPORTSTEAM is in the LEAGUE league and their ground is in GROUND . 
+MANAGER , who played for CLUB , is the manager of SPORTSTEAM . 
+MANAGER , who played for CLUB , is the manager of SPORTSTEAM . 
+SPORTSTEAM has NUMBEROFMEMBERS members and their full name is " SPORTSTEAM S . A . 
+SPORTSTEAM has NUMBEROFMEMBERS members and their ground is in GROUND . 
+SPORTSTEAM is in the LEAGUE league and their ground is in GROUND . 
+SPORTSTEAM ' s ground is GROUND , the TENANT Hotel which has the ground of GROUND , and the ground of SPORTSTEAM . 
+SPORTSTEAM is based in LOCATION . 
+SPORTSTEAM has NUMBEROFMEMBERS members and the runway name is " SPORTSTEAM " . 
+The ground of SPORTSTEAM is located in the REGION in GROUND . 
+The ground of SPORTSTEAM is located in GROUND , where the leader is LEADER . 
+MANAGER is the manager of A . S . Roma and plays for CLUB . 
+WRITTENWORK , written by AUTHOR , is preceded by PRECEDEDBY . 
+WRITTENWORK was written by AUTHOR and is published in MEDIATYPE . 
+WRITTENWORK , abbreviated to ABBREVIATION , is EISSN_NUMBER in the genre number of EISSN_NUMBER . 
+WRITTENWORK was written by AUTHOR and is available in print form . 
+WRITTENWORK has NUMBEROFPAGES pages and the ISBN number ISBN_NUMBER . 
+WRITTENWORK is followed by FOLLOWEDBY and Maiden Castle . 
+WRITTENWORK is available in print and has the OCLC number OCLC_NUMBER . 
+WRITTENWORK has NUMBEROFPAGES pages and the ISBN number ISBN_NUMBER . 
+PARENTCOMPANY is the parent company of PUBLISHER who publish the WRITTENWORK . 
+WRITTENWORK was written by AUTHOR and is available in print form . 
+WRITTENWORK has the OCLC number OCLC_NUMBER and the ISBN number ISBN_NUMBER . 
+WRITTENWORK is available in print and has the OCLC number OCLC_NUMBER . 
+WRITTENWORK is written in English , which is also spoken in SPOKENIN . 
+WRITTENWORK is published in MEDIATYPE and the ISBN number ISBN_NUMBER . 
+PUBLISHER , which founded by FOUNDER , is the publisher of WRITTENWORK . 
+WRITTENWORK is written by The ISBN number of ISBN_NUMBER . 
+WRITTENWORK has the OCLC number OCLC_NUMBER and the ISBN number ISBN_NUMBER . 
+WRITTENWORK is followed by FOLLOWEDBY and Maiden Castle . 
+WRITTENWORK , abbreviated to ABBREVIATION , is ACADEMICDISCIPLINE . It is ACADEMICDISCIPLINE . 
+PARENTCOMPANY is the parent company of the PARENTCOMPANY Press . The parent company of PARENTCOMPANY Press which is published WRITTENWORK . 
+WRITTENWORK is from the COUNTRY where the capital is Washington DC . 
+WRITTENWORK is from the COUNTRY where the capital is Washington DC . 
+WRITTENWORK is from the COUNTRY , which ETHNICGROUP are an ethnic group . 
+WRITTENWORK is from the COUNTRY , which ETHNICGROUP are an ethnic group . 
+WRITTENWORK is from the COUNTRY , which ETHNICGROUP are an ethnic group . 
+UNIVERSITY is known as NICKNAME . 
+UNIVERSITY is affiliated to the AFFILIATION in CITY . 
+UNIVERSITY is located in CITY and its president is PRESIDENT . 
+The UNIVERSITY was given Technical Campus status by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY which is based in LOCATION . 
+The UNIVERSITY is located in STATE state . It has a staff of ACADEMICSTAFFSIZE . LEADERNAME is the leader of STATE . 
+CREATOR is an American who created the comic character , Bolt . 
+COMICSCHARACTER was broadcast by the BROADCASTEDBY and the first aired on the BROADCASTEDBY in 1986 . 
+COMICSCHARACTER , broadcasted by the BROADCASTEDBY , has the full name COMICSCHARACTER . 
+STARRING , one of the stars of COMICSCHARACTER , was born in BIRTHPLACE . 
+COMICSCHARACTER first appeared in the film Big Hero 6 which stars STARRING . 
+COMICSCHARACTER first appeared in the film Big Hero 6 which stars STARRING . 
+COMICSCHARACTER is a character in Big Hero 6 . 
+COMICSCHARACTER ' s full name is FULLNAME and he was created in 1820 at the comics genre . 
+The comic character Auron was created by CREATOR and Roger McKenzie . 
+COMICSCHARACTER ' s full name is FULLNAME and he was created in 1820 at the comics genre . 
+ASTRONAUT , who was born on 20 January 1930 , has retired . 
+ASTRONAUT is now retired . 
+ASTRONAUT was born in BIRTHPLACE on November 18th , 1923 . 
+ASTRONAUT was born in BIRTHPLACE , ISPARTOF . 
+ASTRONAUT was born in BIRTHPLACE and served as crew on the WAS_A_CREW_MEMBER_OF mission . 
+ASTRONAUT , who has now retired , was born in the U . S . A . 
+BUILDING was completed in COMPLETIONDATE and has FLOORCOUNT floors . 
+BUILDING is located in LOCATION and has FLOORCOUNT floors . 
+BUILDING has a floor area of FLOORAREA . It is located in the country of BUILDING which has a floor area of FLOORAREA . 
+BUILDING has FLOORCOUNT floors and is located in LOCATION . 
+ARCHITECT is the architect of BUILDING , located in COUNTRY . 
+BUILDING is located in LOCATION and was designed by the architect ARCHITECT . 
+BUILDING is located in LOCATION and was designed by the architect ARCHITECT . 
+TENANT is a tenant of BUILDING and is located in LOCATION . 
+BUILDING was designed by the architect ARCHITECT and was completed in COMPLETIONDATE . 
+BUILDING is located in LOCATION and has a website . 
+BUILDING is located in LOCATION , COUNTRY . 
+BUILDING has the Tudor Revival architectural style , and it is located in LOCATION . 
+BUILDING has the Tudor Revival architectural style , and it is located in LOCATION . 
+BUILDING is located in COUNTRY and it ' s ethnic groups are the country . 
+BUILDING has FLOORCOUNT floors and is located at ADDRESS . 
+BUILDING is located on LOCATION . It is located at ADDRESS , Maryland and was awarded the " Arts " . 
+BUILDING is in STATE , which is lead by LEADERNAME . 
+BUILDING is located in LOCATION , COUNTRY . 
+BUILDING is located in LOCATION , ISPARTOF . 
+BUILDING is located in LOCATION , ISPARTOF . 
+BUILDING is located in LOCATION , ISPARTOF . 
+ASTRONAUT was born in BIRTHPLACE and is from the NATIONALITY . 
+ASTRONAUT is a US national , who was born in BIRTHPLACE and became a leader of the NATIONALITY . 
+ASTRONAUT , a US national , was selected by NASA in WAS_SELECTED_BY_NASA . He graduated from UT Austin in 1955 with a B . S . 
+ASTRONAUT was born in BIRTHPLACE and attended the ALMAMATER ( a crew member of the NATIONALITY ) . 
+ASTRONAUT was chosen by NASA in WAS_SELECTED_BY_NASA to be part of the University of Texas system . He was selected by NASA in WAS_SELECTED_BY_NASA and died in DEATHPLACE . 
+ASTRONAUT graduated from the ALMAMATER and died in DEATHPLACE . 
+ASTRONAUT died in DEATHPLACE on DEATHDATE . 
+ASTRONAUT was born in BIRTHPLACE , and spent 13017 . 0 minutes in space . 
+WRITTENWORK , written by AUTHOR , is available in hardcover . It has NUMBEROFPAGES pages . 
+WRITTENWORK is written in English , the language spoken in SPOKENIN . It was preceded by the novel Castle . 
+WRITTENWORK is published by the PUBLISHER and is located in HEADQUARTER . 
+The AIDS journal , which studies ACADEMICDISCIPLINE , has the ISSN number ISSN_NUMBER , is ACADEMICDISCIPLINE . 
+The AIDS journal , which studies ACADEMICDISCIPLINE , has the ISSN number ISSN_NUMBER , is ACADEMICDISCIPLINE . 
+WRITTENWORK was edited by EDITOR who is the editor of WRITTENWORK . 
+WRITTENWORK , ISBN number ISBN_NUMBER , is written by AUTHOR . 
+WRITTENWORK , written by AUTHOR , has the OCLC number OCLC_NUMBER and ISBN number ISBN_NUMBER . 
+WRITTENWORK was published by PUBLISHER in the COUNTRY and is published by PUBLISHER . 
+WRITTENWORK is from the COUNTRY . It is written in English which is the language spoken in SPOKENIN . 
+WRITTENWORK is NUMBEROFPAGES pages long and was published in print & paperback . Its OCLC number is OCLC_NUMBER . 
+WRITTENWORK is abbreviated to ABBREVIATION , and has the ISSN number of ISSN_NUMBER . 
+WRITTENWORK is written in English and was followed by FOLLOWEDBY . 
+WRITTENWORK , written by AUTHOR , is followed by FOLLOWEDBY . 
+WRITTENWORK , written by AUTHOR , is available in hardcover . It has NUMBEROFPAGES pages . 
+WRITTENWORK is abbreviated to ABBREVIATION , and has the ISSN number of ISSN_NUMBER . 
+WRITTENWORK , abbreviated ABBREVIATION , is about addiction . 
+PARENTCOMPANY is the parent company of PUBLISHER which published in the journal County in the UK . The ISSN number of the AIDS journal is ISSN_NUMBER . 
+PUBLISHER is the publisher of WRITTENWORK and is affiliated with the AFFILIATION . 
+WRITTENWORK was written by AUTHOR and is written in English and was written in the book . 
+WRITTENWORK is from the COUNTRY . It is written in English which is the language spoken in SPOKENIN . 
+WRITTENWORK is available in hardcover and has NUMBEROFPAGES pages . It has the OCLC number OCLC_NUMBER . 
+WRITTENWORK is from the COUNTRY and is the location of the second of the COUNTRY . The LANGUAGE is spoken in SPOKENIN . 
+AUTHOR is the birthplace of AUTHOR who was born in BIRTHPLACE . He is the author of the author for WRITTENWORK and it is available in the UK . 
+The PUBLISHER , whose founder is FOUNDER . The journal is published by PUBLISHER , whose founder is FOUNDER . 
+WRITTENWORK is a novel from the COUNTRY where the capital city is Washington D . C . and Native Americans are one of the ethnic groups there . 
+WRITTENWORK is from the COUNTRY and is written in English . ETHNICGROUP are an ethnic group in the U . S . 
+WRITTENWORK is from the COUNTRY . The capital of the country is Washington D . C . and ETHNICGROUP are one of the ethnic groups found there . 
+WRITTENWORK is from the COUNTRY where LEADERNAME is a leader and ETHNICGROUP are one of the ethnic groups . 
+WRITTENWORK is from the COUNTRY , where the leader is known as the President and ETHNICGROUP are an ethnic group . 
+WRITTENWORK is from the COUNTRY where the leader is known as the President and Native Americans are an ethnic group . 
+MANAGER , who played for CLUB , is the manager of 1 . FC Koln . 
+MANAGER has been manager of SPORTSTEAM and plays for CLUB and is now attached to club CLUB . 
+FULLNAME is the full name of SPORTSTEAM , it has NUMBEROFMEMBERS members and play in the LEAGUE league . 
+MANAGER is at Colwyn Bay FC and manages SPORTSTEAM . He also plays for CLUB . 
+SPORTSTEAM ' s ground is GROUND , it ' s ground is in GROUND and they have NUMBEROFMEMBERS members . 
+SPORTSTEAM ' s full name is " FULLNAME " and it ' s ground is in Metapan . 
+MANAGER is the manager of SPORTSTEAM and plays for both Tel F . C . 
+MANAGER plays for CLUB and manages SPORTSTEAM . 
+SPORTSTEAM ' s full name is " FULLNAME " and it ' s ground is in Metapan . 
+MANAGER has been the manager of SPORTSTEAM who are in the LEAGUE league , The league of the championship team is CHAMPIONS . 
+MANAGER is the manager of SPORTSTEAM and plays for CLUB . He is also a member of the Chesterfield F . C . 
+SPORTSTEAM ' s ground is in GROUND and they have been champions of the LEAGUE . The SPORTSTEAM football club play in the Superleague of Greece and its ground is GROUND . 
+MANAGER is in the CLUB club and manages SPORTSTEAM . It is managed by MANAGER , who has represented the club CLUB . 
+GROUND - Centrum is part of GROUND where the leader is LEADER and SPORTSTEAM is based . 
+GROUND - Centrum is part of GROUND where the ground of SPORTSTEAM is located . The leader of GROUND is LEADER . 
+MANAGER , who played for CLUB , is the manager of SPORTSTEAM . 
+SPORTSTEAM play in the LEAGUE league , which is based in COUNTRY . 
+MANAGER has been associated with CLUB and is the manager of A . S . Roma and plays for CLUB . 
+MANAGER has been the manager of A C Cesena and plays for CLUB . 
+MANAGER is the manager of SPORTSTEAM and plays for both CLUB . He now plays for U . S . Castrovillari Calcio . 
+MANAGER , who played football for CLUB , is the manager of SPORTSTEAM . 
+BUILDING is located in LOCATION and was designed by the architect ARCHITECT who was born in BIRTHPLACE . 
+The leader of LOCATION is LEADERNAME and ISPARTOF . 
+BUILDING is located in LOCATION and has FLOORCOUNT floors an area . 8 square metres . 
+The leader of LOCATION is LEADERNAME and the location of BUILDING is LOCATION . 
+ARCHITECT is the architect of BUILDING , which has FLOORCOUNT floors . 
+BUILDING , LOCATION , was designed by the architect ARCHITECT . 
+TENANT is a tenant of the BUILDING , which is located in LOCATION and has FLOORCOUNT floors . 
+The AC Hotel Bella Sky in Copenhagen is TENANT which has FLOORCOUNT floors and was designed by ARCHITECT . 
+ARCHITECT was born in BIRTHPLACE and is the architect of BUILDING . 
+BUILDING , which was completed in COMPLETIONDATE , is owned by OWNER and is a tenant of the BUILDING . 
+BUILDING , LOCATION , has the Tudor Revival architectural style , and was completed in COMPLETIONDATE . 
+BUILDING , located in LOCATION , is the location of the BUILDING and has the architectural style of Tudor and Jacobean . 
+BUILDING is located in LOCATION , COUNTRY . The leader of COUNTRY is LEADERNAME . 
+The capital of COUNTRY is CAPITAL , but the currency used in the country is the CURRENCY . 
+The CURRENTTENANTS is located in the COUNTRY and the current tenants are the CURRENTTENANTS . 
+ARCHITECT was born in BIRTHPLACE and is the architect of BUILDING . 
+ARCHITECT was born in BIRTHPLACE and is the architect of BUILDING . 
+BUILDING is located on Asilomar Blvd , in Pacific Grove , California and was added to the National Register of Historic Places on February the 27nd 1987 . The Grounds have the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES . 
+BUILDING , built in YEAROFCONSTRUCTION , are located in LOCATION . The Baths were added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES , reference number . 
+BUILDING , built in YEAROFCONSTRUCTION , are located in LOCATION . The Baths were added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES , reference number . 
+ARCHITECT was the architect of BUILDING which is located in the town of HOMETOWN . 
+ARCHITECT was born in BIRTHPLACE and is the leader of the city of America . 
+BUILDING is located in LOCATION , COUNTRY . The leader of the country is LEADERNAME . 
+BUILDING is located in LOCATION , the leader of which is LEADERNAME . 
+KEYPERSON is a key person at TENANT which is a tenant of the BUILDING . 
+CITY is part of ISPARTOF in the COUNTRY where the ETHNICGROUP are an ethnic group . 
+The LEADERTITLE leads CITY . 
+The country of CITY , is part of the ISPARTOF . The ETHNICGROUP are an ethnic group in the COUNTRY . 
+The country of CITY , is part of the ISPARTOF . The ETHNICGROUP are an ethnic group in the COUNTRY . 
+The capital of the country is Washington D . C . and ETHNICGROUP are one of the ethnic groups there . 
+CITY has an area code of AREACODE . 7 square kilometres . 
+The leader of CITY is the ISPARTOF . 
+Akron , Ohio is located within the COUNTRY . It is a part of the COUNTRY . 
+The country of CITY , is COUNTRY , which is home to the ethnic group of ETHNICGROUP . 
+The city of Akron , is part of the ISPARTOF . The United States , which is part of the ISPARTOF . 
+The leader of CITY , is part of ISPARTOF which is the location of the COUNTRY . 
+The capital of the country is Washington D . C . and ETHNICGROUP are one of the ethnic groups there . 
+CITY has a total area of AREATOTAL . The inhabitants per square kilometres of CITY . 
+CITY , is part of ISPARTOF . 
+The largest city in COUNTRY is LARGESTCITY , is the home city of LARGESTCITY , the country ' s largest city in COUNTRY . 
+Akron is in ISPARTOF , which is part of ISPARTOF . 
+The capital of CITY is Washington , D . C . and it is part of the state of ISPARTOF . 
+The capital of CITY is Washington D . C . and is one of the ingredients of the COUNTRY . 
+The capital of CITY is CAPITAL . 
+The largest city in COUNTRY is LARGESTCITY . It is part of the ISPARTOF . 
+The capital of ISPARTOF is CAPITAL and is the location of the BUILDING . 
+The largest city in ISPARTOF is LARGESTCITY . It is also where the LANGUAGE is spoken . 
+The capital city of CITY is Washington , D . C . and one of its ethnic groups is the country . 
+The capital of COUNTRY is CAPITAL and its main ingredients is called The College of William . 
+The capital of COUNTRY is CAPITAL , the language is English and the spoken language is LANGUAGE . 
+CITY , is part of ISPARTOF , in the COUNTRY . 
+CITY is part of the ISPARTOF . ETHNICGROUP are an ethnic group in the COUNTRY . 
+The country of COUNTRY is lead by LEADER . The country is lead by LEADER and is the origin of the book . 
+The ETHNICGROUP are an ethnic group in the COUNTRY , where the language is LANGUAGE . 
+The ETHNICGROUP are an ethnic group in the COUNTRY , where the language is LANGUAGE . 
+AIRPORT is operated by OPERATINGORGANISATION and has a runway length of RUNWAYLENGTH . It is operated by OPERATINGORGANISATION . 
+AIRPORT serves the city of CITYSERVED and it ' s runway length is RUNWAYLENGTH . 
+AIRPORT is located in LOCATION , ISPARTOF , COUNTRY . 
+AIRPORT is in LOCATION and operated by the OPERATINGORGANISATION . ICAO_LOCATION_IDENTIFIER is the ICAO location identifier of AIRPORT . 
+AIRPORT , which is operated by OPERATINGORGANISATION , is located in LOCATION . The airport has a runway length of RUNWAYLENGTH . 
+The OPERATINGORGANISATION is the operating organisation for Al Asad airbase . The ATTACKAIRCRAFT , also known as an aircraft fighter , used by the AIRCRAFTFIGHTER , an aircraft fighter . 
+The OPERATINGORGANISATION is the operating organisation for Al Asad airbase , and it has been AIRCRAFTFIGHTER as a fighter aircraft . 
+AIRPORT serves the city of CITYSERVED and its surface type is poaceae . The runway surface , which is RUNWAYLENGTH metres long . 
+AIRPORT is located in LOCATION and operated by the LOCATION Civil Aviation Authority . The airport ' s full name is the LOCATION . 
+AIRPORT , with a runway name of RUNWAYNAME , is RUNWAYLENGTH in length . 
+AIRPORT is located at LOCATION , COUNTRY . The airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . 
+AIRPORT is located in LOCATION and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . It has a runway length of RUNWAYLENGTH . 
+AIRPORT is located in LOCATION and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . It has a runway length of RUNWAYLENGTH . 
+AIRPORT is located in LOCATION where the capital is Austin . The capital city is Austin and the LANGUAGE is spoken . 
+AIRPORT is located in LOCATION , COUNTRY , where the people are known as DEMONYM . 
+AIRPORT serves the city of CITYSERVED , a popular tourist destination in COUNTRY . 
+AIRPORT is located in LOCATION , ISPARTOF , COUNTRY . 
+The OPERATINGORGANISATION , who have their HQ in HEADQUARTER , operates AIRPORT . 
+AIRPORT is located in LOCATION , COUNTRY . The airport has a runway length of RUNWAYLENGTH . 
+AIRPORT serves the city of CITYSERVED in COUNTRY . LEADERNAME is the leader of COUNTRY . 
+AIRPORT is located in LOCATION , ISPARTOF . The leader party in LOCATION is called the Peoples Party . 
+AIRPORT is located in LOCATION , COUNTRY where the LEADERPARTY are the leading party . 
+AIRPORT is located in LOCATION , COUNTRY . The leader of LOCATION is called the Peoples Party . 
+The MONUMENT is found in the LOCATION , COUNTRY . To the west of Adams County lies Carrol County , Maryland and to its southeast is Carrol County , Maryland . 
+The MONUMENT is located in Gettysburg , LOCATION . It is located in the north of Adams County , Pa and Carrol County , Maryland to its southeast . 
+The MONUMENT is known in LOCATION . It has a Memorial known as Turk Sehitleri Aniti . 
+The MONUMENT ' s location is LOCATION , which has a leader called LEADER as its . 
+The MONUMENT is located in LOCATION , where the capital is CAPITAL . The leader of LOCATION is LEADERNAME . 
+FOOD is a dish from REGION and COUNTRY . 
+FOOD is a dish that originates from REGION . The main ingredients of the dish are MAININGREDIENTS . 
+INGREDIENT is part of the FAMILY family and is an ingredient in FOOD . 
+FOOD is a dish from REGION and COUNTRY . 
+FOOD is a dish from REGION and COUNTRY . INGREDIENT is one of its ingredients . 
+FOOD is a dish from REGION , COUNTRY . The main ingredients of FOOD are MAININGREDIENTS . 
+The capital of COUNTRY is CAPITAL where LEADERNAME is the leader . 
+FOOD is a food found in REGION , COUNTRY . ETHNICGROUP are an ethnic group from REGION . 
+DISHVARIATION is one of the ingredients of the club sandwich and the bacon sandwich . The DISHVARIATION is also a variation of the club sandwich . 
+FOOD is a food found in COUNTRY where the ETHNICGROUP are an ethnic group and the leader is LEADERNAME . 
+FOOD is a food found in COUNTRY , where LEADERNAME is a leader and CAPITAL is the capital . 
+INGREDIENT is an ingredient of a bacon sandwich which is a variation of a club sandwich . 
+FOOD is a dish from REGION , COUNTRY . It contains INGREDIENT . 
+FOOD is a food found in COUNTRY , where the currency is the CURRENCY and the leader is LEADERNAME . 
+FOOD is a dish from REGION , COUNTRY . It contains INGREDIENT . 
+FOOD is a dessert that contains raisins . It is served as dessert and is a dessert . 
+FOOD is a dessert that is found nationwide in REGION and it is also served as a dessert . 
+FOOD is a variation of DISHVARIATION and can be found in REGION . It ' s ingredients include ground almonds , jam , butter and eggs . 
+FOOD is a food found in COUNTRY and is made from INGREDIENT . 
+FOOD is a traditional dish from REGION , COUNTRY . 
+FOOD is a dish from REGION and COUNTRY . 
+FOOD is a food found in COUNTRY and it ' s leader is LEADERNAME . 
+FOOD is a dish from COUNTRY , which has the main ingredients of bread and bacon and a condiment , often ketchup or brown sauce . 
+FOOD is a dish from COUNTRY , which has the main ingredients of bread and bacon and a condiment , often ketchup or brown sauce . 
+FOOD is a popular dish in COUNTRY and Indonesia . LEADERNAME is the leader of COUNTRY and Indonesia is also popular in Indonesia . 
+FOOD is a dish from REGION and COUNTRY . 
+FOOD is a dish from REGION and COUNTRY . INGREDIENT is one of its ingredients . 
+FOOD is a food found in COUNTRY where the currency is the CURRENCY and the leader is LEADERNAME . 
+FOOD is a dessert that can be served as an ingredient , and FOOD ( which contains raisins ) . 
+FOOD is a dessert that can be served as an ingredient , and FOOD ( which contains raisins ) . 
+FOOD is a dessert that can be served as an ingredient , and FOOD ( which contains raisins ) . 
+FOOD includes sweet potato ( of the ORDER order ) as a main ingredient . 
+FOOD is a dessert found in COUNTRY and it contains raisins . 
+FOOD is a dish from REGION , COUNTRY . It contains INGREDIENT . 
+FOOD is a food found in COUNTRY , where the currency is the CURRENCY and the leader is LEADERNAME . 
+FOOD is a traditional Italian sauce . It is a dish from COUNTRY , where the capital is CAPITAL and the leader is LEADERNAME . 
+FOOD is a dish from the COUNTRY , where the language is English and ETHNICGROUP . 
+The LANGUAGE is spoken in COUNTRY where the leader is LEADERNAME and the dish FOOD can be found . 
+INGREDIENT belongs to the family of ORDER and is an ingredient in the preparation of the rutaceae family . 
+UNIVERSITY in STATE , COUNTRY has ACADEMICSTAFFSIZE academic staff . 
+The UNIVERSITY is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 . It is affiliated with the AFFILIATION . 
+The state of STATE has the HAS_TO_ITS_WEST to its west and the state of STATE ' s leader is LEADERNAME . The state is home to the Ganges organisation . 
+The UNIVERSITY is located in COUNTRY and its ethnic group is the Germans of COUNTRY . 
+The UNIVERSITY is located in COUNTRY . The country ' s leader is LEADERNAME and the country is led by LEADERNAME . 
+The UNIVERSITY was established in ESTABLISHED and is affiliated with the AFFILIATION , it ' s headquarters in HEADQUARTERS . 
+The UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED . 
+The comic character , Blockbuster , was created by CREATOR and the American , CREATOR . 
+COMICSCHARACTER , starring STARRING , was broadcast by BROADCASTEDBY . 
+COMICSCHARACTER first appeared in the film Big Hero 6 which starred STARRING . 
+The film Big Hero 6 , which stars STARRING is a character in Big Hero 6 . 
+The film Big Hero 6 , starring STARRING , has a character called COMICSCHARACTER and was given the character COMICSCHARACTER . 
+The comic character Blockbuster , was created by Gardner Fox and CREATOR . 
+The comic character Asterix , sometimes called ALTERNATIVENAME , was created by CREATOR and Dan Mishkin . 
+The comic character , Blockbuster , has the alternative name , ALTERNATIVENAME , was created by CREATOR and the alternative name of ALTERNATIVENAME . 
+BUILDING , which has FLOORCOUNT floors , was started in BUILDINGSTARTDATE and completed in COMPLETIONDATE . It is located in LOCATION . 
+The capital of LOCATION is CAPITAL and one of the ethnic groups in LOCATION are Asian South Africans and the ETHNICGROUP . The country is the location of BUILDING . 
+The BUILDING is located in LOCATION , ISPARTOF , COUNTRY . 
+BUILDING has FLOORCOUNT floors and a floor area of 30843 . 8 square metres and cost 110 million dollars . 
+The location of BUILDING is LOCATION , ISPARTOF , COUNTRY where LEADERNAME is a leader . 
+BUILDING , LOCATION , with FLOORCOUNT floors , 111484 square metres , is located in LOCATION . 
+BUILDING is located in LOCATION , ISPARTOF , and it is owned by OWNER . 
+TENANT is a tenant of the BUILDING and was designed by the architect ARCHITECT . It has FLOORCOUNT floors and is located in LOCATION . 
+The location of BUILDING is LOCATION , ISPARTOF and has a floor area of 30843 . 
+BUILDING is located in LOCATION , ISPARTOF , COUNTRY . The country ' s main ethnic group are the Brazilians and the location of the country is BUILDING . 
+BUILDING is located in LOCATION , ISPARTOF , COUNTRY . The country ' s main ethnic group are the Germans of COUNTRY . 
+BUILDING is located in LOCATION , COUNTRY , which is home to the ethnic group of Vietnamese people . 
+The BUILDING is located in Akita , LOCATION , COUNTRY . One of the ethnic groups in COUNTRY is the Filipinos and the country ' s ethnic group is the Filipinos . 
+BUILDING , LOCATION , was completed in COMPLETIONDATE . It has a floor count of ADDRESS . The College of William and Mary was completed on " COMPLETIONDATE " . 
+BUILDING is located in LOCATION , COUNTRY , where the leader is LEADERNAME . 
+BUILDING is located on Asilomar Blvd , Pacific Grove , California , was constructed in YEAROFCONSTRUCTION , added to the National Register of Historic Places on February the 27nd 1987 with the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES . The Grounds have the reference number REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES . 
+BUILDING , constructed in YEAROFCONSTRUCTION in a Romanesque Revival style of architecture . They are located in LOCATION and were added to the National Register of Historic Places on ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES with the reference number of REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES . 
+BUILDING are located in LOCATION , ISPARTOF , where LEADERNAME is a leader . 
+The leader of LOCATION is LEADERNAME . LOCATION is part of ISPARTOF in the COUNTRY . 
+ARCHITECT was born in BIRTHPLACE and is the home town of the BUILDING , the architect who was designed by the architect ARCHITECT who was born in BIRTHPLACE . 
+ARCHITECT was born in BIRTHPLACE and is the home town of the BUILDING , the architect who was designed by the architect ARCHITECT who was born in BIRTHPLACE . 
+BUILDING is located in LOCATION , COUNTRY , where LEADERNAME is the leader . 
+BUILDING is located in LOCATION , COUNTRY , where the leaders are T . S . Thakur and LEADERNAME are leaders . 
+The COUNTRY is the location of the Akita Prefecture for the country which is home to the ethnic group of Native Americans . The BUILDING is located in Akita , Akita Prefecture . 
+The leader of LOCATION is LEADERNAME and the location of the BUILDING is CAPITAL . The country is the location of BUILDING and has the capital city of CAPITAL . 
+BUILDING is located in the LOCATION . The LANGUAGE is spoken in the country and has a leader called the LEADERTITLE . 
+The MONUMENT was established in ESTABLISHED and is categorised as a contributing property . It is found in the state of STATE . 
+The capital of LOCATION is CAPITAL and the leader is Prime Minister LEADERNAME . LOCATION is the location of the MONUMENT which is a monument location . 
+The MONUMENT is located in LOCATION ' s capital CAPITAL . The memorial is dedicated to the Ottoman Army soldiers killed in the Battle of CAPITAL and has the local name of Turk Sehitleri Aniti . 
+The MONUMENT was established on 11 July 1907 and is located in the DISTRICT , LOCATION . The monument was established on 11 July 1907 and is found in the DISTRICT , Maryland . 
+The MONUMENT is a monument created in red granite and white marble by its capital , is CAPITAL . The Turkish leader is LEADERNAME . 
+The Atat ü rk Monument in İ zmir was designed by DESIGNER and was inaugurated on 27th July , 1932 . It can be found in LOCATION , a country led by the LEADERTITLE , he retired . 
+CITY , is part of ISPARTOF , COUNTRY . Native Americans are one of the ethnic groups of the country and the country is where the population is known as a language . 
+CITY has an area density of AREAOFLAND . 3 inhabitants per square kilometre . 
+CITY is located in the ISPARTOF . Its main ingredient is the area . 
+The capital of COUNTRY is CAPITAL where ETHNICGROUP are one of the ethnic groups . The country is the location of the UNIVERSITY which is part of ISPARTOF . 
+The capital of STATE is CAPITAL , in the state of ISPARTOF , in the COUNTRY . 
+The leader of CITY is the LEADERTITLE . The language spoken in Atlantic City is the ISPARTOF . 
+CITY is part of ISPARTOF . CITY is a magistrate above sea level . 
+CITY is in ISPARTOF , in the COUNTRY . total area of the total are of Washington D . C . 
+CITY has a total area of AREATOTAL . 5 square kilometres of CITY . 
+CITY has a area of AREACODE ( POPULATIONDENSITY ) . The population of CITY is AREACODE . 
+CITY is part of ISPARTOF , in the COUNTRY . ETHNICGROUP are an ethnic group in the state of Georgia . 
+The country of COUNTRY , which has a population called the ETHNICGROUP , is the home of the ETHNICGROUP and the leader of ISPARTOF . 
+King County Washington is located within the COUNTRY . the capital is Washington , D . C . 
+CITY is located within the COUNTRY . 
+Austin is the largest city in Texas . The state has a population called a magistrate being led by the San county . 
+The leader of CITY is the LEADERTITLE . This state is the location of the ISPARTOF and the LANGUAGE . 
+CITY is part of ISPARTOF . 
+Akron , Ohio is a part of ISPARTOF , in the COUNTRY . The capital of Madison County is CAPITAL . 
+The largest city in COUNTRY is LARGESTCITY , the language is LANGUAGE . 
+The capital of COUNTRY is CAPITAL , the country ' s ethnic group is the Germans of COUNTRY and its capital city is CAPITAL . 
+The capital of COUNTRY is CAPITAL . In COUNTRY ' s capital is CAPITAL and its largest city is LARGESTCITY . 
+The leader of the COUNTRY is called the President and one of the ethnic groups is African American . 
+The leader of CITY is called the LEADERTITLE . The leader of the country is the LEADERTITLE . 
+CITY , is part of ISPARTOF , in the COUNTRY . ETHNICGROUP are one of the ethnic groups in the country . 
+The country of the COUNTRY , where the leader is the Prime Minister , the leader , of the CITY , is LEADERNAME , and one of the ethnic groups are the Native Americans . 
+The country of CITY , is COUNTRY , where the ethnic group is Native Americans . It is also where the language is English . 
+The COUNTRY is home to the ethnic group of ETHNICGROUP and the country is the location of the ETHNICGROUP . 
+The COUNTRY is home to the ethnic group of ETHNICGROUP and the country is the location of the ETHNICGROUP . 
+MANAGER has been manager of 1 FC Magdeburg and is part of the club CLUB . He has been manager for 1 FC Magdeburg . 
+MANAGER was born in PLACEOFBIRTH and is in the CLUB club . He manages the manager of SPORTSTEAM . 
+MANAGER is the manager of SPORTSTEAM and plays for CLUB . He is also the manager of SPORTSTEAM . 
+SPORTSTEAM has NUMBEROFMEMBERS members and their ground is located in GROUND . The club is called the league , and it has NUMBEROFMEMBERS members . 
+MANAGER is the leader of the GROUND where AFC GROUND is located and has the leader of the GROUND . 
+MANAGER is the leader of the GROUND where AFC GROUND is located and has the leader of the GROUND . 
+SPORTSTEAM , full name " FULLNAME " , is the home ground of SPORTSTEAM . They have NUMBEROFMEMBERS members and played in the SEASON season . 
+SPORTSTEAM ' s full name is FULLNAME . They have NUMBEROFMEMBERS members and their ground is located in GROUND . They played in the SEASON season . 
+MANAGER has been the manager of SPORTSTEAM which is in CLUB . He is also a member of Chesterfield FC . 
+SPORTSTEAM has NUMBEROFMEMBERS members and played in the SEASON season . Their ground is located in the town of GROUND and they were in the SEASON season . 
+SPORTSTEAM ' s ground is GROUND , which is operated by OPERATOR and owned by OPERATOR NV . TENANT and Ajax Youth Academy are both tenants . 
+SPORTSTEAM ( FULLNAME ) has NUMBEROFMEMBERS members and played in the SEASON season . 
+MANAGER , who played for CLUB , is the manager of SPORTSTEAM . He is also manager of SPORTSTEAM . 
+SPORTSTEAM play their home matches at the GROUND which is located in LOCATION . They play in the LEAGUE league and are the champions of the league which is the current champions . 
+SPORTSTEAM play their home matches at the GROUND in LOCATION . The club play in COUNTRY . 
+SPORTSTEAM play their home matches at the GROUND in LOCATION . The club play in COUNTRY . 
+St . Vincent - St . Mary High School in CITY , ISPARTOF , COUNTRY is the ground of SPORTSTEAM . 
+The ground of SPORTSTEAM is located in GROUND , which is lead by LEADER and LEADER . 
+MANAGER is in the CLUB club and manages 1 . FC Koln . He is also in the SK Vorw ä rts Steyr and CLUB . 
+AIRPORT serves the city of CITYSERVED . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH . The runway name is RUNWAYNAME and it ' s RUNWAYLENGTH meters long . 
+AIRPORT serves the city of Lake Placid and Saranac Lake in New York . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH . 
+AIRPORT , which has a runway name of RUNWAYNAME , is RUNWAYLENGTH in length , and it is operated by OPERATINGORGANISATION . The runway name is RUNWAYNAME . 
+AIRPORT , operated by the OPERATINGORGANISATION , is located in LOCATION . The airport ' s ICAO location identifier is ICAO_LOCATION_IDENTIFIER , the IATA Location Identifier of IATA_LOCATION_IDENTIFIER and is served by the OPERATINGORGANISATION . 
+AIRPORT , operated by OPERATINGORGANISATION , is located in LOCATION . The runway name is RUNWAYNAME and its length is RUNWAYLENGTH . 
+AIRPORT , located in LOCATION , is operated by OPERATINGORGANISATION . The runway , which is RUNWAYLENGTH in length , is named RUNWAYNAME . 
+The OPERATINGORGANISATION is the operating organisation for Al Asad airbase , and the ATTACKAIRCRAFT can be found on its aircraft carriers . The TRANSPORTAIRCRAFT is a transport aircraft while the McDonnell Douglas F - 15 is an aircraft fighter used by the OPERATINGORGANISATION . 
+AIRPORT , which serves the city of CITYSERVED , is located in LOCATION . The airport serves the city of CITYSERVED , and has a runway that is RUNWAYLENGTH . 
+AIRPORT serves the city of CITYSERVED . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH . 
+AIRPORT serves the city of CITYSERVED . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH . 
+AIRPORT , which serves the city of CITYSERVED , is located in LOCATION and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . It has a runway length of RUNWAYLENGTH and is named the name of CITYSERVED . 
+AIRPORT is located in LOCATION , COUNTRY , and its capital is Austin . 
+AIRPORT is located in LOCATION , COUNTRY . The capital of the country is Austin and the capital city is Austin . 
+AIRPORT is located in LOCATION , COUNTRY . The airport serves CITYSERVED , which is located in LOCATION . 
+AIRPORT is owned by the OWNER and operated by the OPERATINGORGANISATION . It has a runway length of RUNWAYLENGTH . and the airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . 
+AIRPORT is operated by OPERATINGORGANISATION , whose hub is HUBAIRPORT . 
+AIRPORT , which serves the city of CITYSERVED , is located in LOCATION . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH . 
+AIRPORT is located in LOCATION , COUNTRY and serves the city of CITYSERVED . The leader of the country is LEADERNAME . 
+AIRPORT is owned by the OWNER which is based in LOCATION . The leader of the city of Alpena is LEADERNAME . 
+AIRPORT serves the city of CITYSERVED and is in the COUNTRY . The leader of COUNTRY is LEADERNAME . 
+AIRPORT serves the city of CITYSERVED . It is located in COUNTRY and the country where the LANGUAGE is spoken . 
+AIRPORT serves the city of Saranac Lake , ISPARTOF , New York , COUNTRY . 
+AIRPORT serves the city of CITYSERVED in COUNTRY . LEADERNAME is the leader of COUNTRY , where the language is English . 
+AIRPORT serves the city of CITYSERVED in COUNTRY . The leader of COUNTRY is LEADERNAME . The country is the location of the Al Taqaddum Air Base . 
+AIRPORT , located in Punjab COUNTRY , is served by Allama Iqbal International airport . The airport is located in Punjab , COUNTRY and LEADERNAME is the leader of COUNTRY . 
+The 1st runway at AIRPORT is made from 1ST_RUNWAY_SURFACETYPE which belongs to the division of flowering plants . It is of the order ORDER . 
+COMICSCHARACTER , the TV series , was shown on the BROADCASTEDBY which has the title of BROADCASTEDBY . The BROADCASTEDBY is located in LOCATIONCITY and is broadcast by the BROADCASTEDBY . 
+COMICSCHARACTER , a TV series was created by CREATOR and starred in the film Big Hero 6 . The character was created by CREATOR and starred STARRING . 
+COMICSCHARACTER is a character in the film Big Hero 6 which was created by CREATOR and the American , CREATOR . 
+The comic book character , Balder called ALTERNATIVENAME was created by CREATOR and the American , CREATOR . 
+AUTHOR was born in BIRTHPLACE and wrote PRECEDEDBY . It is the sequel to PRECEDEDBY and was written by AUTHOR who was born in BIRTHPLACE . 
+WRITTENWORK , written by AUTHOR , has NUMBEROFPAGES pages and was published in MEDIATYPE . It has the ISBN number ISBN_NUMBER . 
+WRITTENWORK is published in the COUNTRY by PUBLISHER , the leader of which is LEADERNAME . 
+WRITTENWORK , written by AUTHOR , has an OCLC number of OCLC_NUMBER and an ISBN number of ISBN_NUMBER . 
+WRITTENWORK , written by AUTHOR , has an OCLC number of OCLC_NUMBER and an ISBN number of ISBN_NUMBER . 
+WRITTENWORK is written in English , a language spoken in SPOKENIN . It originates from the COUNTRY where the Native Americans are an ethnic group . 
+WRITTENWORK was published by PUBLISHER which is located in the COUNTRY . The LANGUAGE is spoken in the COUNTRY and the country ' s ethnic groups are the ETHNICGROUP . 
+WRITTENWORK , written by AUTHOR , has NUMBEROFPAGES pages and was published in MEDIATYPE . It has the ISBN number ISBN_NUMBER . 
+WRITTENWORK has the abbreviation of " ABBREVIATION " and the LCCN number of LCCN_NUMBER . It comes under the academic discipline of ACADEMICDISCIPLINE . 
+WRITTENWORK ( abbreviated to ABBREVIATION ) is concerned with the academic discipline of Pure Mathematics and has the LCCN number LCCN_NUMBER . 
+WRITTENWORK , abbreviated to ABBREVIATION , is published by the PUBLISHER and has the LCCN number LCCN_NUMBER . 
+PUBLISHER is the publisher of WRITTENWORK , which is affiliated with the AFFILIATION and is affiliated with the AFFILIATION . 
+PUBLISHER , CITY in the state of STATE , is the publisher of WRITTENWORK . 
+WRITTENWORK , written by AUTHOR is NUMBEROFPAGES pages long and was written by AUTHOR . It has NUMBEROFPAGES pages in it ' s ISBN number ISBN_NUMBER . 
+WRITTENWORK is written in English , a language spoken in SPOKENIN . The book was written in the COUNTRY in the COUNTRY where ETHNICGROUP are an ethnic group . 
+PARENTCOMPANY Press is the parent company of the PARENTCOMPANY Press who published the WRITTENWORK . The book was first published in FIRSTPUBLICATIONYEAR and is the parent company of PARENTCOMPANY Press . 
+WRITTENWORK is from the COUNTRY , where English is the spoken language and ( as in SPOKENIN ) . ETHNICGROUP are one of the ethnic groups of the COUNTRY . 
+WRITTENWORK is from the COUNTRY where LEADERNAME is the president and the leader is LEADERNAME . 
+WRITTENWORK is from the COUNTRY where LEADERNAME is the leader and ETHNICGROUP are an ethnic group . 
+WRITTENWORK is from the COUNTRY , where LEADERNAME is the leader , and English is spoken ( as in SPOKENIN ) . 
+WRITTENWORK is from the COUNTRY , where the leader is LEADERNAME and ETHNICGROUP are one of the ethnic groups . English is the language spoken there . 
+ASTRONAUT was born in BIRTHPLACE and is a NATIONALITY national . He was selected by NASA in WAS_SELECTED_BY_NASA where he spent 100305 minutes in space . 
+ASTRONAUT served as a crew member of WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR . The United States Navy awarded ASTRONAUT that was the Distinguished Service Medal . 
+ASTRONAUT was born in BIRTHPLACE where REPRESENTATIVE served as a crew member on WAS_A_CREW_MEMBER_OF . 
+ASTRONAUT was born in BIRTHPLACE . He graduated from AFIT in 1962 with an M . S . , and was a member of the WAS_A_CREW_MEMBER_OF crew . He has retired . 
+ASTRONAUT was born in BIRTHPLACE and is a fighter pilot . He joined NASA in WAS_SELECTED_BY_NASA , and was a crew member on WAS_A_CREW_MEMBER_OF . 
+ASTRONAUT was born BIRTHNAME and his name is BIRTHNAME . He was a member of the WAS_A_CREW_MEMBER_OF crew , which was operated by OPERATOR . 
+ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He was awarded the Distinguished Service Medal from the U . S . Navy and this is a medal that is higher than the HIGHER . 
+ASTRONAUT has died in DEATHPLACE , where SENATORS is a senator and you can find the gemstone Beintoite . He served aboard the United States Navy awarded and this was the recipient of AWARDS medal . 
+ASTRONAUT was born in BIRTHPLACE and died in DEATHPLACE . He went to school at NWC and graduated with an MA in 1957 , was a student at the ALMAMATER . 
+ASTRONAUT is a fighter pilot who joined OPERATOR in WAS_SELECTED_BY_NASA . He was a member of WAS_A_CREW_MEMBER_OF ' s crew . 
+The UNIVERSITY is located in CITY , COUNTRY . It was established in ESTABLISHED and it has a river called the RIVER . 
+The UNIVERSITY in COUNTRY is affiliated to the AFFILIATION based in the city of CITY . The exact location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 . 
+The UNIVERSITY is located in CITY , COUNTRY . Its director is Dr G . P . Prabhukumar and it has strong connections with the AFFILIATION . 
+The WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY in LOCATION granted Technical Campus status to the UNIVERSITY in the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY of tennis . One of the sports offered at the Institute is tennis which is governed by the SPORTSGOVERNINGBODY . 
+The UNIVERSITY is located in CITY , ISPARTOF , COUNTRY . COUNTRY ' s capital is CAPITAL and its main ingredients is " Desteapta - te . 
+The UNIVERSITY is located in CITY , COUNTRY . It has a GOVERNMENTTYPE of government and its leader is LEADERNAME . 
+The UNIVERSITY is located in CITY , STATE . It was established in the year ESTABLISHED with ACADEMICSTAFFSIZE academic staff . 
+The UNIVERSITY is located in COUNTRY and its patron Saint is PATRONSAINT . The Romanian anthem is De ș teapt ă - te , rom â ne and its patron Saint is the Apostle Andrew . 
+The UNIVERSITY is located in CITY , COUNTRY . COUNTRY ' s capital is CAPITAL , its leader is LEADERNAME and its capital is CAPITAL . 
+FOOD is a dish from the region of REGION , COUNTRY . The main ingredients of FOOD are MAININGREDIENTS . 
+FOOD is a food found in COUNTRY , the capital of which is CAPITAL and LEADERNAME is a leader of the COUNTRY . 
+FOOD is a dish from REGION , COUNTRY . The main ingredients of FOOD are MAININGREDIENTS . 
+FOOD is a dish from REGION and COUNTRY . It is made from sour cream , cuttlefish or squid , cephalopod ink and cubanelle peppers . 
+FOOD is a dish from REGION , where the leader is LEADERNAME . It is also where the ETHNICGROUP are an ethnic group . 
+FOOD is a food found in COUNTRY , where the ETHNICGROUP are an ethnic group . The dish is from the REGION region . 
+FOOD is a dish from REGION where ETHNICGROUP are an ethnic group . The country ' s leader is REGION where ETHNICGROUP are an ethnic group . 
+FOOD is a food found in COUNTRY , where LEADERNAME is a leader and ETHNICGROUP are one of the ethnic groups . 
+FOOD is a food found in COUNTRY , where LEADERNAME is a leader and ETHNICGROUP are one of the ethnic groups . 
+FOOD is a variation of DISHVARIATION ( which contains INGREDIENT ) and is a variation of the club sandwich . 
+The bacon sandwich , which is popular in the UK , has different names including : INGREDIENT butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin . The main ingredients are bread , bacon and a condiment , often ketchup or brown sauce . 
+FOOD is a dessert found in COUNTRY . ETHNICGROUP are a group of dessert . 
+FOOD is a dish from the REGION region of COUNTRY . The main ingredients are MAININGREDIENTS . 
+FOOD is a dish from the REGION region of COUNTRY . It contains chopped fruits , sour cream , condensed milk , granola , shredded coconut and raisins . 
+FOOD is a dish from REGION , COUNTRY . The main ingredients of FOOD are MAININGREDIENTS . 
+FOOD ( or tart ) originates from the ISPARTOF Dales , ISPARTOF . It includes INGREDIENT ( a main ingredient ) . 
+FOOD is a traditional dish throughout the whole of COUNTRY it ' s country of origin and is popular in neighbouring Southeast Asian countries too , it ' s ingredients are ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables , and fried shallots . It also contains noodles . 
+FOOD is a dish from the region of COUNTRY and contains MAININGREDIENTS . 
+FOOD is a Colombian dish from the Paisa region and the main ingredients are : red beans , pork belly , white rice , ground meat , chicharon , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon . 
+FOOD is a dish from the REGION region of COUNTRY . The main ingredients are MAININGREDIENTS . 
+FOOD is a food found in COUNTRY , where the language is Spanish and the leader is LEADERNAME . 
+FOOD is a dish found in COUNTRY . DISHVARIATION is a variation of Siomay and DISHVARIATION are one of the ingredients . 
+FOOD is a dish from REGION , COUNTRY . The main ingredients are MAININGREDIENTS . 
+FOOD is a main course dish from the COUNTRY . The main ingredients are MAININGREDIENTS . 
+FOOD is a popular dish in COUNTRY and Indonesia . It is made with kway teow , beef tender loin , gula Melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil . 
+FOOD is a dish from REGION , where the leader is LEADERNAME . It is also where the dish ayam penyet , which is found in REGION . 
+FOOD is a dish from REGION , COUNTRY . The main ingredients of FOOD are MAININGREDIENTS . 
+FOOD ( also known as ALTERNATIVENAME ) is a dish from REGION , COUNTRY . INGREDIENT is one of its ingredients . 
+FOOD is a dish from REGION , garlic . It includes ground almonds , jam , butter and eggs . It is known as Bhaji or bajji . 
+FOOD includes sweet potato ( part of the ORDER order ) and coconut milk . 
+FOOD is a dish from REGION , COUNTRY . The main ingredients of FOOD are MAININGREDIENTS . 
+FOOD is a dessert from REGION , COUNTRY . INGREDIENT is an ingredient of this cream , dessert . 
+FOOD is a dish from REGION , COUNTRY . The main ingredients of FOOD are MAININGREDIENTS . 
+FOOD is a dessert found in COUNTRY . LEADERNAME is a leader in COUNTRY . 
+FOOD is a dish from COUNTRY , where LEADERNAME is a leader . INGREDIENT is an ingredient of the dish FOOD . 
+FOOD is a dish from REGION , COUNTRY . LEADERNAME is the leader of REGION , where the ETHNICGROUP are an ethnic group . 
+FOOD is a dish from the COUNTRY and contains ETHNICGROUP . The country ' s ethnic groups include the ETHNICGROUP and the language is LANGUAGE . 
+FOOD is eaten in the COUNTRY , where the ETHNICGROUP are an ethnic group . The country is the origin of the origin of the dish , which has many ETHNICGROUP as one of its ethnic groups . 
+FOOD , a dish that can be served as a dessert , as is Spanish . It is a dessert . 
+FOOD , a dish that can be served as a dessert , as is Spanish . It is a dessert . 
+WRITTENWORK was written by AUTHOR of FOLLOWEDBY and was preceded by PRECEDEDBY . It was written by AUTHOR . 
+PRESIDENT is the president of the PUBLISHER of CITY and is affiliated with the Association of Public and Land grant Universities . The university is affiliated with the AFFILIATION and the AFFILIATION . 
+WRITTENWORK is published by PUBLISHER in the COUNTRY . The LANGUAGE is spoken in SPOKENIN and the US includes many ETHNICGROUP . 
+WRITTENWORK is published by PUBLISHER in the COUNTRY . The country ' s main language is English , same as in SPOKENIN and it was published by PUBLISHER . 
+WRITTENWORK is published by PUBLISHER , the COUNTRY . The LANGUAGE is spoken in SPOKENIN and it is led by the American ETHNICGROUP . 
+WRITTENWORK was written in COUNTRY and is also spoken in SPOKENIN . The capital of the US is Washington D . C . and Native Americans are one of the ethnic groups in the COUNTRY . 
+WRITTENWORK is preceded by The Violet Keystone and FOLLOWEDBY followed the sequel to WRITTENWORK and was written by Into Battle and Maiden Castle . 
+WRITTENWORK is from the COUNTRY and is written in English , also spoken in SPOKENIN . The US is lead by LEADERNAME and the ETHNICGROUP are an ethnic group there . 
+WRITTENWORK is from the COUNTRY , where English is spoken ( as in SPOKENIN ) . The leader of the US is LEADERNAME and ETHNICGROUP are one of the ethnic groups . 
+WRITTENWORK was written after PRECEDEDBY and it was written in COUNTRY . ETHNICGROUP are an ethnic group in the COUNTRY . The capital of the country is Washington D . C . and the book is written by LEADERNAME . 
+WRITTENWORK is a novel from the COUNTRY , where LEADERNAME is a leader and the capital is Washington DC . The country is the origin of the book 1634 The Ram Rebellion . 
+WRITTENWORK is from the COUNTRY , where English is spoken and ( as SPOKENIN ) . The leader of the COUNTRY is called the President and ETHNICGROUP are one of the ethnic groups . 
+The leader of COUNTRY is called the President and is home to the DEMONYM . The country is the location of the UNIVERSITY . 
+CITY is part of the ISPARTOF . Native Americans are one of the ethnic groups of the COUNTRY where the leader is American . 
+The capital of COUNTRY is CAPITAL , the language spoken in COUNTRY is the country . STATE is home to the main language , which is part of ISPARTOF , in the COUNTRY . 
+The capital of the state of STATE is CAPITAL . The country is the location of the ground of the Eastern state of Georgia , which is located in the state of STATE state . 
+The capital of ISPARTOF is CAPITAL and is the location of the home of the LANGUAGE state ( state ) . The state of STATE is the location of the state ' s main state . 
+CITY is located within the COUNTRY . The country ' s area is for 1 . 6 inhabitants per square kilometres . 
+The LANGUAGE is spoken in California which is part of California . It is also a part of California . 
+CITY , is part of ISPARTOF . The total area of CITY is AREACODE . 1 square kilometres . 
+CITY is located in the city of CITY , a city in Washington . D . POPULATIONDENSITY has a total population of AREATOTAL . 1 inhabitants per square kilometre . 
+The capital of COUNTRY is Washington D . C . and ETHNICGROUP are one ethnic group of the country which is the location of the ETHNICGROUP . 
+CITY is part of ISPARTOF , in the COUNTRY . 1 inhabitants per square kilometres . 
+Austin is the largest city in ISPARTOF . The capital of Texas is Austin . 
+Austin is the largest city in Texas , which is part of ISPARTOF . 
+Austin is the largest city in Texas . 
+CITY is part of ISPARTOF . The capital city of Indiana is the location of the WAS_A_CREW_MEMBER_OF . 
+Akron is a language of ISPARTOF and is home to the LANGUAGE . 
+The capital of ISPARTOF is CAPITAL . 
+The largest city in COUNTRY is LARGESTCITY , the country ' s capital city is CAPITAL . The largest city in COUNTRY is LARGESTCITY and one of the ethnic groups is the Filipinos . 
+The capital of the COUNTRY is CAPITAL , and the country are the ethnic group of the country . The country is the location of the origin of the dish army , CITY , and is part of ISPARTOF . 
+The DEMONYM are the people in COUNTRY , where the people are called DEMONYM and the capital city is CAPITAL . 
+The people of COUNTRY are known as DEMONYM . The country is the location of the UNIVERSITY , which is part of ISPARTOF , in the COUNTRY . The country is inhabited by DEMONYM , and where the people are known as DEMONYM . 
+The capital of the city of ISPARTOF is CAPITAL . The country is the location of the FOOD . 
+The Native Americans are an ethnic group in the COUNTRY which is part of the ISPARTOF . The US is home to Native Americans . 
+The capital of the COUNTRY is Washington D . C . and one ethnic group is Native Americans . 
+The leader of the COUNTRY is known as the President , is LEADER . The leader of the COUNTRY is known as the President and the language is English . 
+The people of COUNTRY are known as DEMONYM . The country is the location of the FOOD . The inhabitants of the ISPARTOF are from the COUNTRY and is also home to the ethnic group of the COUNTRY . 
+The capital of the city of CITY is CAPITAL . The country is lead by LEADER and the capital city is Washington D . C . 
+The leader of COUNTRY is called the President . A country is the location of the UNIVERSITY which is located in the city of CITY , which is lead by the President . 
+The MONUMENT , established in ESTABLISHED , is categorised as a contributing property and located in the LOCATION of COUNTRY . 
+The MONUMENT is categorized as a CATEGORY , and is found in LOCATION . Adams County is to the east of Franklin County and south of Cumberland County . Carrol County and Frederick County in Maryland lie to the southeast and southwest respectively . 
+The MONUMENT is located in LOCATION , dedicated to the Ottoman Army Soldiers killed in the Battle of CAPITAL . It is located in LOCATION , the capital of which is CAPITAL and the leader of the country is LEADERNAME . 
+The MONUMENT is a monument in the battle of the Ottoman army to the soldiers of the Ottoman army who died in the Battle of CAPITAL . The Native name of the Memorial is LEADERNAME . 
+The MONUMENT is found in LOCATION , where the capital is CAPITAL and the largest city is LARGESTCITY . The leader of LOCATION is Ahmet Davutoglu , who has the title LEADERTITLE ) , and the capital city is LARGESTCITY . 
+UNIVERSITY in CITY , STATE , southeast of Mahe , STATE is located in the state of STATE which is positioned with Mahe to it ' s northeast . 
+The UNIVERSITY is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 , is the location of the UNIVERSITY . The Institute ' s director is DIRECTOR and it has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students . The Institute is affiliated with AFFILIATION . 
+The UNIVERSITY is located in CITY , COUNTRY . It has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students and it is affiliated to the AFFILIATION . 
+The UNIVERSITY is located in COUNTRY . It is affiliated to the AFFILIATION , which has its headquarters in HEADQUARTERS . COUNTRY is led by its Monarchy of COUNTRY . 
+UNIVERSITY in CITY , COUNTRY was created in ESTABLISHED and has ACADEMICSTAFFSIZE academic staff . LARGESTCITY is the largest city in COUNTRY . 
+UNIVERSITY is located in STATE state in COUNTRY . The RIVER is a river in COUNTRY and LARGESTCITY is its largest city . The leader of STATE is LEADERNAME . 
+The UNIVERSITY is located in CITY , COUNTRY . It was established in ESTABLISHED and it has a staff size of ACADEMICSTAFFSIZE . 
+The UNIVERSITY is located in CITY , southwest of HAS_TO_ITS_NORTHEAST . It is affiliated with the AFFILIATION , which has its northeast being HAS_TO_ITS_NORTHEAST . The School is affiliated with the AFFILIATION which has its headquarters in HEADQUARTERS . 
+COMICSCHARACTER is a character in Big Hero 6 , which was created by CREATOR and the American , Duncan Rouleau . 
+MANAGER is the manager of SPORTSTEAM . The club is managed by MANAGER . He also plays for CLUB where the ground is located in GROUND . The leader of that is LEADER . 
+MANAGER is the home of the ground of SPORTSTEAM GROUND which is located in the town of GROUND . The club is managed by Stuart Parker who has represented the club GROUND . 
+SPORTSTEAM ' s ground is GROUND , where the LANGUAGE is spoken and the previous champions are CHAMPIONS . The latter of this club play in that country . 
+MANAGER is the home ground of AEK LOCATION FC . It is also the location of the AS GROUND club and has also managed AC Chievo Verona . 
+The ground of SPORTSTEAM is located in GROUND , where DEMONYM live . CAPITAL is the capital of the country and the inhabitants are known as DEMONYM . 
+The ground of SPORTSTEAM is located in GROUND , where the official language is Italian . It is inhabited by DEMONYM , its capital city is CAPITAL and the official language is Italian . 
+FOOD is a dish from COUNTRY , but is more specific to Java . The leader of COUNTRY is LEADERNAME and the currency is the CURRENCY . 
+FOOD is a dish from REGION and COUNTRY . The capital of COUNTRY is CAPITAL and the Malaysian chinese are both ethnic groups found in the country . 
+FOOD is a food found in COUNTRY and REGION . The capital of COUNTRY is CAPITAL and its ethnic groups is the Malaysian Chinese and the Malaysian Chinese . 
+FOOD is a food found in COUNTRY and REGION . The capital of COUNTRY is CAPITAL and its ethnic groups is the Malaysian Chinese and the Malaysian Chinese . 
+FOOD is a food found in COUNTRY and REGION . The leader of COUNTRY is LEADERNAME and the ETHNICGROUP are an ethnic group . 
+FOOD is a dish from the REGION region of the COUNTRY . The main ingredients are bacon and sausage . 
+FOOD is a food found in COUNTRY , where LEADERNAME is a leader and the capital is CAPITAL . ETHNICGROUP are one of the ethnic groups in the US . 
+The COUNTRY is home to the bacon sandwich which has the main ingredients bread and bacon and a condiment , often ketchup or brown sauce . A variation of the bacon sandwich , which is also known as bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin is the DISHVARIATION . 
+FOOD is a dish from COUNTRY and REGION . LEADERNAME is one of the leaders of COUNTRY and they speak LANGUAGE . 
+FOOD is a dish from REGION , COUNTRY . It includes INGREDIENT which is part of the order ORDER . 
+FOOD is a food found in COUNTRY , where the language is Spanish and the leader is LEADERNAME . 
+FOOD is a dish found in COUNTRY and it is made from peanut sauce . It is led by LEADERNAME . 
+FOOD is a dish from COUNTRY , it is led by LEADERNAME . DISHVARIATION is a variation of Siomay and Siomay , which is considered peanut sauce , has a variation of DISHVARIATION . 
+FOOD is a variation of DISHVARIATION and it contains peanut sauce . It is a variation of DISHVARIATION and it is a variation of Shumai , which contains peanut sauce . 
+FOOD ( or ALTERNATIVENAME ) , originates from the REGION region of COUNTRY . INGREDIENT and ingredients include bread , bacon and a condiment , often ketchup or brown sauce . 
+FOOD is from the REGION region of COUNTRY . The leader of the country is LEADERNAME and the dish FOOD is also found in the REGION . 
+FOOD is from the REGION region of COUNTRY . The leaders are T . S . Thakur and LEADERNAME . 
+FOOD is a dessert found in COUNTRY and REGION . It ' s ingredients include granola , chopped fruits , sour cream , condensed milk , granola , shredded coconut and raisins . 
+FOOD is a dessert found in COUNTRY , where the language is Spanish and the leader is LEADERNAME . DISHVARIATION is a dessert dish . 
+FOOD is a dessert dish from the REGION region of COUNTRY . DISHVARIATION is also a dish that can be served as a dessert . 
+FOOD is a dish from REGION , COUNTRY . The leader of REGION is Carles Puigdemont and the country ' s leader is Felipe VI . ETHNICGROUP are the ETHNICGROUP . 
+FOOD is a traditional Italian sauce . LEADERNAME is a leader in COUNTRY , where the capital is CAPITAL and where the language spoken is LANGUAGE . FOOD is a traditional Italian . 
+FOOD is a dish from COUNTRY , where the capital city is CAPITAL and the leader is LEADERNAME . The country is inhabited by DEMONYM , who live in the COUNTRY , the demonym for people . 
+FOOD is a dish from COUNTRY , where the capital is CAPITAL and LEADERNAME is a leader . The language spoken in COUNTRY is CAPITAL and FOOD is a traditional Italian sauce . 
+FOOD is a Colombian dish from the Paisa region and the main ingredients are : red beans , pork belly , white rice , ground meat , chicharon , fried egg in , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon . 
+FOOD is a dish from REGION , where the leader is LEADERNAME and ETHNICGROUP are an ethnic group . FOOD is a food found in REGION . 
+FOOD is eaten in the COUNTRY , where LANGUAGE is spoken and the ETHNICGROUP are an ethnic group . The country ' s language is Spanish and where the spoken language is LANGUAGE . 
+FOOD is a dish from the region of REGION , COUNTRY . The leader of the country is LEADERNAME and ETHNICGROUP are an ethnic group . 
+FOOD is from REGION in COUNTRY where the leader is Felipe VI . DEMONYM is a leader in COUNTRY . 
+ASTRONAUT was born in BIRTHPLACE and is an American . He was a test pilot . He was selected by NASA in WAS_SELECTED_BY_NASA . He is now retired . 
+ASTRONAUT was born in BIRTHPLACE , home of the WAS_A_CREW_MEMBER_OF mission . He was awarded the Distinguished Service Medal by the US Navy , which ranks higher than HIGHER . He was born in BIRTHPLACE . He served as a crew member of the WAS_A_CREW_MEMBER_OF , and was awarded the Distinguished Service Medal by the US Navy - an award higher than the Department of Commerce gold medal . 
+ASTRONAUT was born in BIRTHPLACE , NATIONALITY . He was a crew member of OPERATOR operated WAS_A_CREW_MEMBER_OF . He was a US national who served as a crew member on the OPERATOR operated WAS_A_CREW_MEMBER_OF mission . 
+ASTRONAUT , a NATIONALITY national , was born in BIRTHPLACE on 20 / 01 / 1930 . He is a retired fighter pilot and was a crew member of WAS_A_CREW_MEMBER_OF . 
+ASTRONAUT was an American born in BIRTHPLACE . He was a crew member of WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR . 
+ASTRONAUT was born in BIRTHPLACE and graduated from MIT with an Sc . D in 1963 . He worked as a fighter pilot and was a member of WAS_A_CREW_MEMBER_OF . He has retired . 
+Buzz Aldrin ( born in BIRTHPLACE ) is a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR and was a crew member . He has since retired . 
+Buzz Aldrin has a retired of January 20 , 1930 . He was a member of WAS_A_CREW_MEMBER_OF operated by OPERATOR . ASTRONAUT was a backup pilot on the WAS_A_CREW_MEMBER_OF mission . 
+ASTRONAUT has died in DEATHPLACE , where SENATORS is a senator and you can find the gemstone Beintoite . He served aboard the OPERATOR operated WAS_A_CREW_MEMBER_OF as a crew member . 
+ASTRONAUT was American born in BIRTHPLACE . He was a member of the United States Navy which ranks higher than HIGHER . The US died in DEATHPLACE . 
+ASTRONAUT , a US National , was born in BIRTHPLACE and retired on September 1 , 1969 . 
+AIRPORT is located in LOCATION , part of the Central COUNTRY region . The country is led by Margrethe II and Margrethe II . 
+AIRPORT is located in LOCATION and is operated by OPERATINGORGANISATION . The airport has an elevation of ELEVATIONABOVETHESEALEVEL_(IN_METRES) meters above sea level and has a runway called RUNWAYNAME . 
+AIRPORT is located in LOCATION and is operated by the OPERATINGORGANISATION . It is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH . 
+AIRPORT in LOCATION has a runway named RUNWAYNAME which is RUNWAYLENGTH in length . The airport is operated by the OPERATINGORGANISATION . The runway name is RUNWAYNAME and it has a length of RUNWAYLENGTH . 
+AIRPORT is located in LOCATION and operated by the OPERATINGORGANISATION . The ICAO location identifier for the airbase is ICAO_LOCATION_IDENTIFIER and the runway name is RUNWAYNAME . 
+The OPERATINGORGANISATION is the operating organisation for Al Asad airbase , and the ATTACKAIRCRAFT can be found on its aircraft carriers . The TRANSPORTAIRCRAFT is a transport aircraft while the McDonnell Douglas F - 15 is an aircraft fighter used by the USAF . The OPERATINGORGANISATION was involved in BATTLES . 
+The OPERATINGORGANISATION is the operating organisation for Al Asad airbase , and the ATTACKAIRCRAFT can be found on its aircraft carriers . The TRANSPORTAIRCRAFT is a transport aircraft while the McDonnell Douglas F - 15 is an aircraft fighter used by the USAF . The OPERATINGORGANISATION was involved in battles at the BATTLES . 
+AIRPORT is located in CITYSERVED and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . It has a 1st runway made from 1ST_RUNWAY_SURFACETYPE which is RUNWAYLENGTH in length and has the name RUNWAYNAME . 
+AIRPORT , which serves the city of CITYSERVED , is located in LOCATION . The airport ' s runway is called RUNWAYNAME and its length is RUNWAYLENGTH . 
+AIRPORT , which serves the city of CITYSERVED and is operated by the OPERATINGORGANISATION . It ' s runway is named RUNWAYNAME and is RUNWAYLENGTH in length . 
+AIRPORT serves the city of CITYSERVED in LOCATION , COUNTRY . The airport has a runway length of RUNWAYLENGTH and is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level . 
+AIRPORT , which serves the city of CITYSERVED , is located in LOCATION . The airport has a runway named RUNWAYNAME and is RUNWAYLENGTH in length . 
+AIRPORT , which serves the city of CITYSERVED , is located in LOCATION . The airport has a runway named RUNWAYNAME and is RUNWAYLENGTH in length . 
+AIRPORT is located in LOCATION , COUNTRY and serves the city of CITYSERVED . The airport is ELEVATIONABOVETHESEALEVEL_(IN_METRES) metres above sea level and has a runway length of RUNWAYLENGTH . 
+AIRPORT is located in LOCATION and serves the city of CITYSERVED . The runway is named RUNWAYNAME and is RUNWAYLENGTH in length . 
+AIRPORT serves the city of CITYSERVED , COUNTRY . The leader of COUNTRY is LEADERNAME and the language spoken there is LANGUAGE . 
+AIRPORT serves the city of CITYSERVED , COUNTRY . The leader of COUNTRY is LEADERNAME and the language spoken there is LANGUAGE . 
+AIRPORT is located in Egg Harbor Township , ISPARTOF in the COUNTRY . LEADERNAME is the leader of ISPARTOF which is the location of AIRPORT . 
+AIRPORT serves the city of CITYSERVED in COUNTRY . The country ' s capital is CAPITAL and the leader is LEADERNAME . 
+AIRPORT is located in LOCATION , ISPARTOF , COUNTRY . The ICAO Location Identifier of Atlantic City International airport is ICAO_LOCATION_IDENTIFIER . 
+AIRPORT serves Lake Placid , ISPARTOF , and also Saranac Lake . It is part of Harrietstown , ISPARTOF . 
+AIRPORT serves the cities of Lake Placid , and Saranac Lake ( part of Harrietstown , in New York , COUNTRY . 
+AIRPORT is located in LOCATION ( part of ISPARTOF ) and is operated by the OPERATINGORGANISATION . The airport has an aircraft - capable helicopter called the AIRCRAFTHELICOPTER . 
+AIRPORT is located in LOCATION which is part of ISPARTOF , where the leader is LEADERNAME . The airport is operated by the OPERATINGORGANISATION which has the AIRCRAFTHELICOPTER of AIRCRAFTHELICOPTER . 
+AIRPORT serves the city of CITYSERVED in COUNTRY . Haider Al - Abadi is the leader of COUNTRY where the LANGUAGE is spoken . Haider al - Abadi is the name of the leader of COUNTRY . 
+BUILDING is located in LOCATION , ISPARTOF , COUNTRY . LOCATION is part of ISPARTOF . 
+BUILDING has FLOORCOUNT floors and a floor area of FLOORAREA . It is located in LOCATION , began in the architectural style of the Romanesque Revival style and it is located in Avenue in the LOCATION . 
+BUILDING is located in LOCATION , ISPARTOF , COUNTRY . The leader of LOCATION is LEADERNAME . 
+TENANT which was founded in Washington DC is the current tenant of AC Hotel Bella Sky in LOCATION where the LANGUAGE is spoken . The country is lead by LEADERNAME . 
+KEYPERSON is a key leader in the TENANT Hotel which was founded in Washington DC . It is located in LOCATION where one of the languages is Greenlandic . The AC Hotel Bella Sky in Copenhagen is TENANT which was founded by KEYPERSON . 
+TENANT , which was founded in Washington DC , is the current tenant of BUILDING in LOCATION . The current tenant of the AC Hotel Bella Sky in Copenhagen is TENANT which is the location of the AC Hotel Bella Sky in Copenhagen . 
+ARCHITECT was born in BIRTHPLACE and is the architect of BUILDING . The building was born in BIRTHPLACE , and was designed by architect ARCHITECT , who also designed BUILDING . 
+BUILDING , with a height of 42 metres , began in BUILDINGSTARTDATE and completed in COMPLETIONDATE . The CURRENTTENANTS . 
+BUILDING is located in LOCATION , LOCATION , COUNTRY . 
+BUILDING is located in LOCATION , ISPARTOF , COUNTRY . The leader of COUNTRY is LEADERNAME and the country ' s ethnic groups are the Brazilians . 
+The CURRENTTENANTS , which is located in LOCATION , COUNTRY , is the current tenants of Alan B Miller Hall , designed by the Robert A M Stern and located in LOCATION , COUNTRY . 
+BUILDING is located in LOCATION , COUNTRY . The leader of the country is the LEADERTITLE and the leader of LOCATION is LEADERNAME . 
+BUILDING is located in the REGION region in the Eastern Province of COUNTRY , where LEADERNAME is the leader . 
+BUILDING is in Eastern Province , COUNTRY , where the capital is CAPITAL and the leader is LEADERNAME . 
+ARCHITECT was born in BIRTHPLACE and is the architect of the BUILDING . The building is also an architect behind Chinatown in San Francisco and the SIGNIFICANTBUILDING . 
+ARCHITECT was born in BIRTHPLACE and designed the significant buildings including the BUILDING , the SIGNIFICANTBUILDING and SIGNIFICANTPROJECT . 
+BUILDING are located in LOCATION , ISPARTOF , COUNTRY . The leader of Manhattan is LEADERNAME . 
+ARCHITECT , born in BIRTHPLACE , has B ' B ' and City ' s postcode area The City Council and LEADERNAME . The city is the birthplace of BUILDING , a city . 
+LEADERNAME is a leader in the LOCATION which is lead by President the President . The capital city is CAPITAL and the country is the location of BUILDING . 
+The MONUMENT is located in LOCATION , COUNTRY . It was established in ESTABLISHED and it is categorised as a contributing property . 
+The MONUMENT is categorized as a CATEGORY , and is found in LOCATION . To the west of Adams County lies Franklin County and to the north is Cumberland County . Carrol County , Maryland is located to the southeast . 
+CAPITAL is the capital of LOCATION where Prime Minister LEADER is the leader . The city is the location of the CAPITAL Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble . The memorial is dedicated to the soldiers of the Ottoman army who died in the Battle of CAPITAL . 
+The Baku Turkish Martyrs memorial , dedicated to the soldiers of the Ottoman army who died at the Battle of Baku was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner . The native name for the memorial which is located in the country of Baku is Turk Sehitleri Aniti . Turkey is lead by LEADERNAME and the country is the location of the Baku Turkish Martyrs memorial . 
+The MONUMENT is located in the DISTRICT in LOCATION , COUNTRY . The monument was established on 11 July 1907 and is categorised as a historic district in the COUNTRY . 
+ASTRONAUT was born on March 15 , 1932 in BIRTHPLACE . He is a US national . He was on a total of 100305 minutes in space . His time is now retired . 
+ASTRONAUT was born in BIRTHPLACE , and died in DEATHPLACE . He served as a crew member of WAS_A_CREW_MEMBER_OF , operated by OPERATOR . The United States Navy awarded him the Distinguished Service Medal , an award higher than the Department of Commerce gold medal . 
+ASTRONAUT was a member of the OPERATOR operated WAS_A_CREW_MEMBER_OF ' s WAS_A_CREW_MEMBER_OF mission along with backup pilot COMMANDER and COMMANDER . 
+ASTRONAUT was an American who was born in BIRTHPLACE . graduated from MIT with a Sc . D in WAS_SELECTED_BY_NASA , and was selected by NASA the same year . He was a member of the WAS_A_CREW_MEMBER_OF crew . 
+Buzz Aldrin ( born on January 20 , 1930 in BIRTHPLACE ) was , before he retired , a Sc . D . from MIT with a Sc . D in 1963 for the WAS_A_CREW_MEMBER_OF mission . ASTRONAUT was a backup pilot on that mission . 
+Buzz Aldrin was born in Glen Ridge in New Jersey and performed as a fighter pilot . He was a crew member on WAS_A_CREW_MEMBER_OF , operated by OPERATOR . ASTRONAUT was a backup pilot . 
+ASTRONAUT was born on January 20 , 1930 in BIRTHPLACE . He graduated from MIT with a Sc . D in WAS_SELECTED_BY_NASA . He was selected by NASA in WAS_SELECTED_BY_NASA and served as a fighter pilot . He was a member of the crew of WAS_A_CREW_MEMBER_OF . 
+ASTRONAUT died in DEATHPLACE , where SENATORS is a senator and you can find the gemstone Beintoite . He died in DEATHPLACE , where SENATORS is a senator . 
+ASTRONAUT was born in BIRTHPLACE and retired on the 1st September 1969 . He was a test pilot and a member of WAS_A_CREW_MEMBER_OF . He retired on September 1st 1969 . 
+ASTRONAUT was born in BIRTHPLACE and is a member of the WAS_A_CREW_MEMBER_OF crew . CREWMEMBERS was a backup pilot on the OPERATOR operated WAS_A_CREW_MEMBER_OF mission . BACKUP_PILOT was the backup pilot and CREWMEMBERS a crew member . 
+ASTRONAUT graduated from AFIT in 1962 with an M . S . He was a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR . The backup pilot on WAS_A_CREW_MEMBER_OF was BACKUP_PILOT , and the backup pilot was BACKUP_PILOT . 
+The UNIVERSITY is located in CITY , LOCATION , COUNTRY . It was established in ESTABLISHED and it has ACADEMICSTAFFSIZE academic staff . DEAN is DEAN . 
+The UNIVERSITY is located in the state of STATE in the country COUNTRY . It has NUMBEROFPOSTGRADUATESTUDENTS postgraduate students and is affiliated with AFFILIATION . The school is in CITY , the state of STATE . 
+The UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED . The school ' s president is B . M . Reddy and it has strong connections with the AFFILIATION . The campus is located at In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY – 560090 . 
+COUNTRY ' s leader is known as the the Monarchy of COUNTRY and the country is lead by The the Monarchy of COUNTRY religion , the Church of COUNTRY . It is also home to the UNIVERSITY which is also home to the UNIVERSITY , the Church of COUNTRY . 
+The UNIVERSITY in CITY , COUNTRY is affiliated with the AFFILIATION which has its headquarters in HEADQUARTERS . The leader of COUNTRY is LEADERNAME . The country is the location of the UNIVERSITY in the city of CITY . 
+UNIVERSITY in COUNTRY was established in ESTABLISHED . The city is located in STATE state . The well - known city of LARGESTCITY , the country ' s largest city , is found in COUNTRY which is led by LEADERNAME and is home to the RIVER River . 
+The UNIVERSITY is located in the country of COUNTRY , the capital of which is CAPITAL . COUNTRY ' s leader is LEADERNAME and the national anthem is De ș teapt ă - te , rom â ne and its patron Saint is the Apostle Andrew . The ethic group of COUNTRY is known as the Germans of COUNTRY . The country has the UNIVERSITY . 
+The UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED . It has ACADEMICSTAFFSIZE academic staff and 16 , 000 students . Its leader is LEADERNAME . 
+The MONUMENT is located in LOCATION , a country led by LEADERNAME , and whose currency is the CURRENCY . It is the location of the bronze Ataturk monument which was inaugurated on 27 July 1932 and was inaugurated on 27 July 1932 . 
+The MONUMENT , located in LOCATION , is a bronze monument by President Ahmet Davutoglu , is the LEADERTITLE . Its leader is Ahmet Davutoglu and the capital is CAPITAL . 
+The Atat ü rk Monument in İ zmir was inaugurated on 27th July , 1932 . It can be found in LOCATION , a country with capital as CAPITAL , its largest city and its currency is Ahmet Davutoglu . The leader of the LOCATION is Ahmet Davutoglu . 
+The UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED and has NUMBEROFSTUDENTS students and ACADEMICSTAFFSIZE staff . Its dean is DEAN . The leader of COUNTRY is Federal Chancellor . 
+The UNIVERSITY ' s campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , CITY , STATE , COUNTRY , 560090 . Its president is PRESIDENT and its director is DIRECTOR . It was established in ESTABLISHED . 
+The UNIVERSITY is in the state of STATE . It was awarded the status of Technical Campus by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY which is based in LOCATION . The UNIVERSITY has to its west including the SPORTSGOVERNINGBODY . 
+The UNIVERSITY is in CITY , COUNTRY . The capital of COUNTRY is CAPITAL and the country ' s leader is Prime Minister LEADERNAME . The country is led by Prime Minister LEADERNAME , and the ethnic group in COUNTRY is the Germans of CITY . 
+The UNIVERSITY is located in CITY , COUNTRY . It was established in ESTABLISHED and it has ACADEMICSTAFFSIZE academic staff and its dean is DEAN . The leader of COUNTRY is LEADERNAME . 
+The UNIVERSITY in CITY , COUNTRY is affiliated with the AFFILIATION which is headquartered in HEADQUARTERS . COUNTRY ' s leader is known as the Monarchy of COUNTRY , its leader is Lars Lokke Rasmussen . 
+The UNIVERSITY in CITY , COUNTRY was established in ESTABLISHED . It has 16 , 000 students and its Latin name is LATINNAME . It was established in ESTABLISHED and it has ACADEMICSTAFFSIZE employees . The dean of the institute is DEAN . 
+ASTRONAUT is a US national who was born on 15 March 1932 in BIRTHPLACE . He graduated from UT Austin in 1955 with a B . S . He was a test pilot and a crew member of WAS_A_CREW_MEMBER_OF . He is now retired . 
+ASTRONAUT was born on March 15th in 1932 in BIRTHPLACE . He graduated from NWC with an M . A . in 1957 / He served as a test pilot and was hired by NASA in WAS_SELECTED_BY_NASA . He died in DEATHPLACE . 
+ASTRONAUT was an American who was born in BIRTHPLACE . He served as a test pilot and was a member of the WAS_A_CREW_MEMBER_OF crew after . COMMANDER was the commander and BACKUP_PILOT was the backup pilot . 
+ASTRONAUT , also called Edwin E . Aldrin Jr . , was born on January 20 , 1930 in BIRTHPLACE . He graduated from MIT with a Sc . D in WAS_SELECTED_BY_NASA . In WAS_SELECTED_BY_NASA , he was selected by NASA to serve as a fighter pilot and crew member of WAS_A_CREW_MEMBER_OF . 
+ASTRONAUT was born in BIRTHPLACE in the NATIONALITY . He was a fighter pilot and a member of WAS_A_CREW_MEMBER_OF . He spent 52 minutes in space and was also part of the WAS_A_CREW_MEMBER_OF crew . 
+ASTRONAUT was born in BIRTHPLACE in 1930 . He graduated from MIT with a Sc . D in 1963 . He was a crew member of WAS_A_CREW_MEMBER_OF and is now retired . He was an WAS_A_CREW_MEMBER_OF crew member . 
+ASTRONAUT is now retired . A US national he was born on 20th January , 1930 in BIRTHPLACE . He performed as a member of the WAS_A_CREW_MEMBER_OF crew , which was operated by OPERATOR . 
+Buzz Aldrin was born in Glen Ridge , NJ and graduated from MIT in 1963 with a doctorate . He is a crew member of WAS_A_CREW_MEMBER_OF operated by OPERATOR . The backup pilot was ASTRONAUT . 
+ASTRONAUT was born on October 17th , 1933 in BIRTHPLACE . He was a member of WAS_A_CREW_MEMBER_OF ' s crew . He is now retired . ASTRONAUT retired in 1969 . 
+ASTRONAUT was born in BIRTHPLACE , NATIONALITY . He was a member of WAS_A_CREW_MEMBER_OF , which was operated by OPERATOR . Among the crew members included CREWMEMBERS and BACKUP_PILOT was a backup pilot . 
+ASTRONAUT was born in BIRTHPLACE on October 17th , 1933 and after joing NASA in WAS_SELECTED_BY_NASA to serve as a crew member on the WAS_A_CREW_MEMBER_OF mission . He was a total of 52 . 0 minutes in space . Anders retired on the 1st of September , 1969 . 
+Len Wein is an AWARD winner . 
+The Polish Academy of Sciences is called the NATIONALITY . 
+BIRTHPLACE is the birthplace of Brandon Sanderson . 
+The leader of Japan , whose capital is CAPITAL . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . The country is home to the bacon sandwich . 
+The location of the UNIVERSITY is " In Soldevanahalli , he was established in the battle of 2014 . 
+The leader of the city of CITY is called T . C . It ' s main ingredients are both from the United States Navy . 
+BIRTHPLACE is the birthplace of Brandon Sanderson . 
+BIRTHPLACE is the birthplace of Brandon Sanderson . 
+The leader of the city of CITY is called T . C . It ' s main ingredients are both from the United States Navy . 
+The location of the UNIVERSITY is AUTHOR . 
+BIRTHPLACE is the birthplace of Brandon Sanderson . 
+The capital of the city of Adams County is " Desteapta " . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The birth place of Technology is BIRTHPLACE . Located in the BIRTHPLACE , Texas is called the President . 
+The leader of GROUND is the NATIONALITY . It has a legislature in the National Assembly . 
+The leader of the Eastern Province , are called A . F . C . 
+BIRTHPLACE is the birthplace of Brandon Sanderson . 
+The birth place of Antwerp is called the College of William and Mary . 
+The location of the WAS_A_CREW_MEMBER_OF is AUTHOR and it has been given the ethnic group of Germans . 
+Len Wein is an AWARD winner . 
+BIRTHPLACE is the birthplace of Brandon Sanderson . 
+The leader of GROUND is the location of the WAS_A_CREW_MEMBER_OF team and his name is Turk Sehitleri Aniti . 
+The leader of CITY is called the President . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . The country is home to the bacon sandwich . 
+The leader of the country of the community of Madrid is LEADERNAME . 
+The capital of OPERATOR is CAPITAL and it ' s leaders are the same name of this country . 
+The nationality of the NATIONALITY is of the NATIONALITY . 
+The location of the UNIVERSITY is AUTHOR , it is also home to the UNIVERSITY . 
+The location of the UNIVERSITY is AUTHOR . 
+The location of the WAS_A_CREW_MEMBER_OF is AUTHOR and it has been given the ethnic group of Germans . 
+The Polish Academy of Sciences is called the NATIONALITY . 
+BIRTHPLACE is the birthplace of Brandon Sanderson . 
+The leader of the Eastern Province , are called A . F . C . 
+The location of the WAS_A_CREW_MEMBER_OF is AUTHOR and it has been given the ethnic group of Germans . 
+The capital of OPERATOR is CAPITAL and it ' s leaders are the same name of this country . 
+The location of the UNIVERSITY is " In Soldevanahalli , he was established in the battle of 2014 . 
+The location of the WAS_A_CREW_MEMBER_OF is AUTHOR and it has been given the ethnic group of Germans . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . The country is home to the bacon sandwich . 
+The location of the UNIVERSITY is COMMANDER . 
+The language of the Philippines is the LANGUAGE . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta by FOUNDEDBY . 
+The location of the WAS_A_CREW_MEMBER_OF of Business Airlines is AUTHOR . 
+The leader of GROUND is LEADERNAME . It is also home to the bacon sandwich which has a popular government of Commerce . 
+The location of the Apollo 12 County is AUTHOR . 
+The novel Owen Glendower is a member of the Ottoman army who died in the same region . 
+The ALMAMATER is a student at the University of Texas in Austin . 
+The leader of Spain is Ranil ș . 
+The capital of the city of Adams County is BIRTHPLACE called the country . It has a monument called the National Assembly . 
+The leader of Jalisco is LEADERNAME . 
+The United States Air Force has been awarded the Distinguished Service Medal of the United States . 
+The birth place of AS Roma is BIRTHPLACE . 
+ALTERNATIVENAME is also known as A . 
+The location of the UNIVERSITY is AUTHOR . 
+The location of the UNIVERSITY is AUTHOR . The country is the location of the ground of AS Livorno Calcio . 
+The leader of LOCATION is called the President . A notable Character includes the ground of OPERATOR , is located in LOCATION . 
+The Apollo 12 is operated by OPERATOR . 
+The location of the UNIVERSITY is AUTHOR . The country is the location of the ground of AS Livorno Calcio . 
+The completion date of AIRPORT is 1873 . 
+The capital of OPERATOR is CAPITAL and it ' s leader is called Desteapta - te . 
+The Apollo 12 is operated by OPERATOR . 
+The leader of CITY is called the CURRENCY . One of the ingredients of the country is the origin Of of AS Livorno . 
+ALTERNATIVENAME is also known as A . 
+The country is now . 
+The location of the UNIVERSITY is AUTHOR . 
+The location of the UNIVERSITY is AUTHOR . 
+The location of the WAS_A_CREW_MEMBER_OF mission is AUTHOR . 
+The leader of CITY is the NATIONALITY . 
+The leader of CITY is LEADERNAME . 
+The leader of CITY is called the President . 
+The leader of CITY is the NATIONALITY . 
+The leader of CITY is LEADERNAME . 
+The leader of GROUND is called the country that comes from . It has an Indian leader called the Federal Assembly . 
+The leader of the country is LEADERNAME and it has a legislature called the National Assembly . He was also a crew member of the WAS_A_CREW_MEMBER_OF . 
+The country is the location of the UNIVERSITY . 
+The LANGUAGE is spoken in the country of Denmark and the country is home to the Ganges government . 
+The location of the UNIVERSITY is AUTHOR . 
+The capital of OPERATOR is CAPITAL . They are an ingredient in the country of FOOD . 
+The location of the UNIVERSITY is AUTHOR . The country is home to the bacon sandwich . 
+The country of FOOD is a member of the WAS_A_CREW_MEMBER_OF crew . 
+The leader of CITY is called the CURRENCY . One of the ingredients of the country is the origin Of of AS Livorno . 
+LEADERNAME is a leader in the Valencian . 
+The leader of CITY is called the CURRENCY . One of the ingredients of the country is the origin Of of AS Livorno . 
+The location of the UNIVERSITY is " CAMPUS " smashed " was used by " A . " . 
+The leader of GROUND is the location of the Phillippines Madrid . It has a fried called the company " " MOTTO " . 
+The location of the UNIVERSITY is " FULLNAME " . " . 
+The location of the UNIVERSITY is AUTHOR . 
+The country of FOOD is a member of the WAS_A_CREW_MEMBER_OF crew . 
+The leader of CITY is called the CURRENCY . One of the ingredients of the country is the origin Of of AS Livorno . 
+The founder of Bangalore was Kempe Gowda . 
+The leader of CITY is called the President . 
+The leader of CITY is the NATIONALITY . 
+The location of the AS Gubbio 1910 is " In LOCATION " . 
+The location of the UNIVERSITY is LOCATION . The country ' s main ingredients are bread and bacon and the exact location of the ORDER is " In LOCATION " . 
+The capital of the city of Adams is ARCHITECTURALSTYLE . It is also where the LANGUAGES is known as Cumberland . 
+The leader of CITY is LEADERNAME . 
+DEMONYM inhabit inhabit . 
+LEADERNAME is the leader of Gujurat . 
+LEADERNAME is the leader of Gujurat . 
+The location of the WAS_A_CREW_MEMBER_OF mission are : The country of COUNTRY . 
+The leader of HEADQUARTER is the Peoples Party . 
+The country of FOOD is the location of the WAS_A_CREW_MEMBER_OF mission . 
+The ANTHEM is the anthem of the United States , which is higher than the HIGHER . 
+ETHNICGROUP are an ethnic group in the United States . 
+CHAIRMAN is the chairman of the A . S . Roma . 
+BIRTHPLACE ' s birth place is BIRTHPLACE . 
+Paulo Sousa plays for the CLUB . 
+Paulo Sousa plays for the CLUB . 
+Paulo Sousa plays for the CLUB . 
+BIRTHPLACE ' s birth place is BIRTHPLACE . 
+BIRTHPLACE ' s birth place is BIRTHPLACE . 
+BIRTHPLACE ' s birth place is BIRTHPLACE . 
+Paulo Sousa plays for the CLUB . 
+Paulo Sousa plays for the CLUB . 
+Paulo Sousa plays for the CLUB . 
+BIRTHPLACE ' s birth place is BIRTHPLACE . 
+The capital of the city of Technology is called the NATIONALITY . One of the country ' s main ingredients is BIRTHPLACE . 
+Paulo Sousa plays for the CLUB . 
+The Olympic Stadium in New Jersey is in the LEAGUE . 
+MANAGER was the manager of the Apollo Office . 
+The country of the UNIVERSITY is origin , which is also known as the city of HAS_TO_ITS_WEST . 
+BIRTHPLACE ' s birth place is BIRTHPLACE . 
+Paulo Sousa plays for the CLUB . 
+Paulo Sousa plays for the CLUB . 
+Paulo Sousa plays for the CLUB . 
+BIRTHDATE was born on 23rd July 1927 . 
+Paulo Sousa plays for the CLUB . 
+The height of 121 is 121 . 92 metres . 
+LEAGUE is a member of the LEAGUE . 
+BIRTHDATE was born on 23rd July 1927 . 
+Paulo Sousa plays for the CLUB . 
+BIRTHPLACE ' s birth place is BIRTHPLACE . 
+Paulo Sousa plays for the CLUB . 
+Paulo Sousa plays for the CLUB . 
+Paulo Sousa plays for the CLUB . 
+The novel is the administrative arrondissement of ASTRONAUT . 
+BIRTHPLACE ' s birth place is BIRTHPLACE . 
+LEAGUE is a member of the LEAGUE . 
+CITY is located in the city of CITY . 
+The leader of GROUND is the location of the WAS_A_CREW_MEMBER_OF mission . It was also where the ground of AS Livorno Calcio is located . 
+COUNTRY is the country of COUNTRY . 
+LANGUAGE is spoken in Texas . 
+LANGUAGE is spoken in Texas . 
+The location of CITY , is the location of the WAS_A_CREW_MEMBER_OF team , which is led by OPERATOR . 
+MANAGER has been the manager of A C Cesena . 
+MANAGER is the manager of the UNIVERSITY . 
+The chairman of ASTRONAUT is CHAIRMAN . 
+LANGUAGE is the language spoken in Ethiopia . 
+The Polish Academy of Sciences is called LEADERNAME . 
+The headquarters of the US Navy is ALMAMATER . 
+The ground of AS Gubbio 1910 is called GROUND . 
+OWNER is the owner of the BUILDING in Denmark . 
+CITY is located in the city of CITY , is where the leader is known as a Contributing Property . 
+The country of CITY , is the location of the ground of AS Livorno Calcio , which is located in the city of CITY . 
+The capital of OPERATOR ' s WAS_A_CREW_MEMBER_OF is In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road ' s ingredients . 
+The capital of the city of William is CAPITAL . It is also a member of the WAS_A_CREW_MEMBER_OF . 
+The location of the dessert of WAS_A_CREW_MEMBER_OF is AUTHOR . 
+The novel is the location of the novel . 
+The novel is the location of the novel . 
+The leader of CITY is the NATIONALITY . 
+BIRTHDATE is an 18th on BIRTHDATE . 
+BIRTHPLACE is the birthplace of BIRTHPLACE . 
+The novel is the location of the novel . 
+The novel is the location of the novel . 
+BIRTHPLACE is the birthplace of BIRTHPLACE . 
+The novel is the location of the novel . 
+The capital of the city of William is CAPITAL . It is also a member of the WAS_A_CREW_MEMBER_OF . 
+The leader of CITY is the NATIONALITY . 
+BIRTHPLACE is the birthplace of BIRTHPLACE . 
+The novel is the location of the novel . 
+The novel is the location of the novel . 
+The novel is the location of the novel . 
+The capital of the city of William is CAPITAL . It is also a member of the WAS_A_CREW_MEMBER_OF . 
+BIRTHPLACE is the birthplace of BIRTHPLACE . 
+The Senator representing DEATHPLACE is the gemstone GEMSTONE . 
+The location of the dessert of WAS_A_CREW_MEMBER_OF is AUTHOR . 
+The capital of OPERATOR ' s WAS_A_CREW_MEMBER_OF is In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road ' s ingredients . 
+The novel is the location of the novel . 
+The location of the city of CITY is the NATIONALITY . One of the leaders of the country are the bacon Assembly . 
+BIRTHDATE is an 18th on BIRTHDATE . 
+The novel is the location of the novel . 
+The leader of LOCATION is called the NATIONALITY . One of the main ingredients in LOCATION is called the CURRENCY . 
+The capital of the city of William is CAPITAL . It is also a member of the WAS_A_CREW_MEMBER_OF . 
+The novel is the location of the novel . 
+The location of the dessert of WAS_A_CREW_MEMBER_OF is AUTHOR . 
+The novel is the location of the novel . 
+The capital of OPERATOR ' s WAS_A_CREW_MEMBER_OF is In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road ' s ingredients . 
+The capital of the city of William is CAPITAL . It is also a member of the WAS_A_CREW_MEMBER_OF . 
+BIRTHPLACE is the birthplace of BIRTHPLACE . 
+The capital of the city of William is CAPITAL . It is also a member of the WAS_A_CREW_MEMBER_OF . 
+The location of the dessert of WAS_A_CREW_MEMBER_OF is AUTHOR . 
+ISPARTOF is part of ISPARTOF . 
+The capital of the city of Denmark is CAPITAL . 
+The capital of the city of Adams is called Desteapta - te , the country that is called bacon . 
+The capital of Technology is CAPITAL . It is also where the bacon sandwich . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . 
+ISPARTOF is part of ISPARTOF . 
+The location of the dessert of WAS_A_CREW_MEMBER_OF is " In LOCATION " . 
+The leader of the country is LEADERNAME and it is also where the bacon explosion is from . 
+The leader of Japan is the NATIONALITY . It has a legislature in the National Assembly . 
+The location of the UNIVERSITY is AUTHOR , it is also home to the UNIVERSITY . 
+The demonym for natives of the United Kingdom is DEMONYM . 
+The location of the WAS_A_CREW_MEMBER_OF mission are the main ingredient of William and Mary . 
+The leader of GROUND is the location of the NATIONALITY national and the main ingredient is in the COMPETE_IN . 
+The capital of the city of America is Desteapta . In this country is the origin of the team of FOOD . 
+The capital of OPERATOR is located in the country of Madrid , which is led by NASA . 
+The capital of OPERATOR is located in the country of Madrid , which is led by NASA . 
+The leader of CITY is called the CURRENCY . 
+The leader of Japan is called the CURRENCY . 
+The Polish Academy of Sciences is the FORMERNAME . 
+The leader of CITY is called the CURRENCY . 
+The capital of OPERATOR is located in the country of Madrid , which is led by NASA . 
+The leader of CITY is called the CURRENCY . 
+The capital of OPERATOR is an American - ingredient . 
+The capital of OPERATOR ' s WAS_A_CREW_MEMBER_OF is 877 . 
+The capital of the city of America is Desteapta . In this country is the origin of the team of FOOD . 
+The capital of OPERATOR is an American - ingredient . 
+The capital of the city of America is Desteapta . In this country is the origin of the team of FOOD . 
+The leader of GROUND is the location of the NATIONALITY national and the main ingredient is in the COMPETE_IN . 
+The Polish Academy of Sciences is the FORMERNAME . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 . 
+The capital of OPERATOR ' s WAS_A_CREW_MEMBER_OF is 877 . 
+The leader of CITY is called the CURRENCY . 
+The location of Afonso Pena International is " Desteapta " . " . 
+The leader of GROUND is the location of the NATIONALITY national and the main ingredient is in the COMPETE_IN . 
+The main ingredient of bakewell is ARCHITECTURALSTYLE . 
+The capital of OPERATOR ' s WAS_A_CREW_MEMBER_OF is 877 . 
+The main ingredient of bakewell is ARCHITECTURALSTYLE . 
+The leader of CITY is called the CURRENCY . 
+The main ingredient of ASTRONAUT is ARCHITECTURALSTYLE . 
+The ALMAMATER is an affiliate of the Ottoman army who died in the Battle of Technology . 
+The birth place of AS Roma is BIRTHPLACE . 
+The AWARD has won the AWARD . 
+Doug Moench won the AWARD . 
+The leader of GROUND is the location of the 11th Mississippi Infantry monument . This country is also where the capital city is Washington D . C . 
+The birth place of BIRTHPLACE is called the birthplace of the BIRTHPLACE . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The birth place of Graeme Garden is BIRTHPLACE . 
+The Olympic Stadium ( in the county ) of Texas is " Desteapta - te , and it has a backup pilot of OUTLOOKRANKING . 
+The location of the WAS_A_CREW_MEMBER_OF mission is AUTHOR and its leader is Ranil . 
+The leader of CITY is LEADERNAME . 
+The novel Into Battle is 23 . 
+The leader of the country of Valencia is LEADERNAME . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The birth place of OPERATOR is called the BIRTHPLACE and the country is lead by the birthplace of John Madin . 
+Doug Moench won the AWARD . 
+The location of the UNIVERSITY is BIRTHPLACE , it ' s main ingredients are OFFICIALSCHOOLCOLOUR . 
+BIRTHPLACE born in BIRTHPLACE , is the birthplace of AS Livorno . 
+The location of the UNIVERSITY is BIRTHPLACE , it ' s main ingredients are OFFICIALSCHOOLCOLOUR . 
+The location of the UNIVERSITY is BIRTHPLACE , it ' s main ingredients are OFFICIALSCHOOLCOLOUR . 
+The AWARD Party won the AWARD . 
+The leader of the country is Lars Lokke Rasmussen . 
+The novel Into Battle is 23 . 
+The birth place of Graeme Garden is BIRTHPLACE . 
+The novel Into Battle is 23 . 
+The novel Into Battle is 23 . 
+The birth date of Technology is BIRTHPLACE , which is also home to the Ganges government . 
+The location of the Polish Academy of Sciences is Kempe Gowda . 
+BIRTHPLACE is the birthplace of AS Livorno Calcio . 
+The Olympic Stadium of Alpena County , Michigan is located in the country of the country . 
+The birth place of BIRTHPLACE is called the birthplace of the BIRTHPLACE . 
+The Olympic Stadium ( in the county ) of Texas is " Desteapta - te , and it has a backup pilot of OUTLOOKRANKING . 
+BIRTHPLACE is the birthplace of BIRTHPLACE . 
+The birth place of OPERATOR is BIRTHPLACE . 
+The Olympic Stadium ( in the county ) of Texas is " Desteapta - te , and it has a backup pilot of OUTLOOKRANKING . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The location of the UNIVERSITY is BIRTHPLACE , it ' s main ingredients are OFFICIALSCHOOLCOLOUR . 
+The leader of the country of Valencia is LEADERNAME . 
+The novel Into Battle is 23 . 
+The location of the UNIVERSITY is BIRTHPLACE , it ' s main ingredients are OFFICIALSCHOOLCOLOUR . 
+The Olympic Stadium ( in the county ) of Texas is " Desteapta - te , and it has a backup pilot of OUTLOOKRANKING . 
+The birth date of Technology is EDITOR . 
+The CURRENCY is the currency in COUNTRY where the CURRENCY is used . 
+LEADERNAME is the leader of COUNTRY where the leader is LEADERNAME . 
+The Senator St . Georges Terrace is the location of the COUNTRY . 
+Gus Poyet is in the BIRTHPLACE club . 
+MANAGER is the manager of the club CLUB . He is also the manager of CLUB . 
+Paulo Sousa is a member of the CLUB club . 
+The footballer football club is attached to Chesterfield football club and plays for CLUB . 
+Dave Challinor plays for CLUB . 
+Paulo Sousa is a member of the Calcio Cantania . He is also a member of the Chesterfield F . C . 
+MANAGER is the manager of the club CLUB . He is also the manager of CLUB . 
+The footballer football club is attached to be used at the club Football Team . 
+The location of the UNIVERSITY is " Desteapta " . " . 
+The location of the UNIVERSITY is " Desteapta " . " . 
+The main ingredient of ASTRONAUT is October 17th 1933 . 
+Dave Challinor plays for CLUB and is attached to the club CLUB . 
+Dave Challinor played football for Bury FC . 
+Gus Poyet is in CLUB club . 
+MANAGER is the manager of the club CLUB . He is also the manager of CLUB . 
+Paulo Sousa plays for CLUB . 
+Gus Poyet is in CLUB club . 
+Paulo Sousa is a member of the club SSD . 
+Gus Poyet is in the BIRTHPLACE club . 
+MANAGER is the manager of the club CLUB . He is also the manager of CLUB . 
+Dave Challinor plays for CLUB . 
+Gus Poyet played for CLUB . 
+Dave Challinor plays for CLUB and is attached to the club CLUB . 
+The birth place of Graeme is BIRTHPLACE . 
+Paulo Sousa is a member of the club SSD . 
+The football football club ' s football club was LEAGUE ' s football club . 
+BIRTHPLACE is the leader of BIRTHPLACE , the name of the leader . 
+The ANTHEM is the anthem of BIRTHPLACE and the country is the birthplace of the ANTHEM . 
+BIRTHPLACE is the language spoken in BIRTHPLACE . 
+MANAGER is attached to the club CLUB and has been the manager of A C . 
+GROUND is the location of the club CLUB . 
+Dave Challinor played for Bury F . C . 
+GROUND is the location of the club CLUB . 
+The novel of the HAS_TO_ITS_WEST is " MOTTO " . 
+The United States are known as the National Assembly . 
+The novel of the University of Texas is called T . C . 
+The novel is the location of the Apollo 14 , which is led by the Democratic company of Birkenhead . 
+The novel is the location of the AS Mississippi Infantry . 
+BIRTHPLACE born BIRTHDATE was an born on BIRTHDATE . 
+BIRTHPLACE is the birthplace of Brandon - 15 . 
+The novel of AS is the HAS_TO_ITS_WEST . 
+The country of FOOD is the location of the OPERATOR dish of Cumberland . 
+The birth place of Graeme Garden is BIRTHPLACE . It has a website called the SPORTSGOVERNINGBODY . 
+The nationality of bakewell pudding is Juventus . 
+The novel of AS is the HAS_TO_ITS_WEST . 
+The novel of AS is the HAS_TO_ITS_WEST . 
+The novel is the location of the novel Mississippi Infantry monument . 
+The novel of AS is the HAS_TO_ITS_WEST . 
+The novel Owen is a member of the Portugal National Assembly . It is also where the UNIVERSITY is located . 
+The novel of AS is the HAS_TO_ITS_WEST . 
+The birth place of OPERATOR is called BIRTHPLACE . 
+The novel of the European Hotel is located in the country of Madrid . 
+The novel of the European Hotel is located in the country of Madrid . 
+The birth place of ASTRONAUT is BIRTHPLACE . 
+BIRTHPLACE died in DEATHPLACE . 
+The novel is the location of the novel Mississippi Infantry monument . 
+The leader of Japan is called the NATIONALITY . It ' s main ingredients are both with the same name of Commerce butty . 
+The novel is the location of the UNIVERSITY . 
+The novel of the HAS_TO_ITS_WEST is " MOTTO " . 
+The novel is the location of the novel Mississippi Infantry monument . 
+The novel is the location of the Apollo 14 . 
+The location of the UNIVERSITY is AUTHOR , who has the title of HAS_TO_ITS_WEST . 
+The novel is the location of the UNIVERSITY . 
+The novel is the location of the UNIVERSITY . 
+The novel Owen is a member of the Portugal National Assembly . It is also where the UNIVERSITY is located . 
+The novel of AS is the HAS_TO_ITS_WEST . 
+The leader of the country of Denmark is Ranil Wickremesinghe . 
+The leader of the country is LEADERNAME and it ' s location is the origin of Akita Museum . 
+The location of the dish asam pedas is AUTHOR . 
+The novel of AS is the HAS_TO_ITS_WEST . 
+The location of the BUILDING is " Desteapta " . 
+The location of the LOCATION , is home to the Ganges of OPERATOR ' s main . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 . 
+The main ingredient of the dish of Technology is AUTHOR . 
+The location of the UNIVERSITY is AUTHOR . It is also where the ground of AS Gubbio is . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . It is also where the ground of AS Gubbio 1910 is located . 
+The location of the city of OPERATOR is the origin of binignit , which is also the location of the UNIVERSITY . 
+The location of the UNIVERSITY is AUTHOR . 
+The capital of the city of Denmark is CAPITAL . 
+The location of the WAS_A_CREW_MEMBER_OF mission is the following National Assembly , and it ' s location of the WAS_A_CREW_MEMBER_OF are the noted Mississippi . 
+The birth place of BIRTHPLACE , is called the NATIONALITY . It ' s main ingredients is the origin of BIRTHPLACE . 
+The nationality of the NATIONALITY is NATIONALITY . C . is the NATIONALITY . 
+The capital of the city of Denmark is CAPITAL . 
+The nationality of the NATIONALITY is NATIONALITY . C . is the NATIONALITY . 
+The birth place of BIRTHPLACE , is called the NATIONALITY . It ' s main ingredients is the origin of BIRTHPLACE . 
+The UNIVERSITY is located in the Indian region of New Jersey . 
+The leader of the country is AUTHOR . 
+The leader of the country of COUNTRY is Ranil . 
+The capital of OPERATOR is located in the town of Denmark and is the location of the WAS_A_CREW_MEMBER_OF mission . 
+The leader of the country of COUNTRY is Ranil . 
+The leader of CITY is called the CURRENCY . It has a floor count of ACADEMICSTAFFSIZE . 
+The capital of OPERATOR is located in the town of Denmark and is the location of the WAS_A_CREW_MEMBER_OF mission . 
+The UNIVERSITY is located in the country of Denmark , where the leader is named . 
+The leader of GROUND is the location of the WAS_A_CREW_MEMBER_OF team which has the local name of Turk Sehitleri Aniti . 
+The location of the city of OPERATOR is the origin of binignit , which is also the location of the UNIVERSITY . 
+The leader of GROUND is LEADERNAME . The country is the location of the UNIVERSITY which has the following source of Technical . 
+The capital of COUNTRY is called the ANTHEM and it ' s manager is called a magistrate . 
+The OPERATOR operated WAS_A_CREW_MEMBER_OF is " In LOCATION . 
+The OPERATOR operated WAS_A_CREW_MEMBER_OF is " In LOCATION . 
+The leader of GROUND is LEADERNAME . It is also where the location of the UNIVERSITY is " Desteapta " . 
+The location of the city of OPERATOR in Denmark is the NATIONALITY . He has been given as its leader . 
+The leader of CITY is the NATIONALITY . A . D . has an ethic group called the National Assembly . 
+The leader of the community of Madrid , which is positioned with the following name of Cumberland , is also where the bacon explosion comes from . 
+The leader of the country of Denmark is T . C . It also has an ingredient of called bacon . 
+DESIGNER is a member of the WAS_A_CREW_MEMBER_OF flight mission . 
+The location of the COUNTRY is asam for the OPERATOR - it ' s main ingredients are the same dish . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR , he is also home to the bacon sandwich . 
+The leader of the country is LEADERNAME and it has a legislature called the National Assembly . 
+The leader of the country is LEADERNAME and it has a legislature called the National Assembly . 
+The location of LOCATIONCITY is the CURRENCY and it is home to the Ganges organisation . 
+The location of the UNIVERSITY is " CAMPUS " . The book was established in the year ESTABLISHED . 
+The location of the UNIVERSITY is " CAMPUS " . The book was established in the year ESTABLISHED . 
+The location of the dish of OPERATOR ' s WAS_A_CREW_MEMBER_OF is " Desteapta - te , romane ! 
+The leader of CITY is LEADERNAME . 
+The leader of COUNTRY is LEADERNAME . The country is the location of the UNIVERSITY . 
+The location of the OPERATOR army for the OPERATOR - Medal is the origin of the Bacon Sandwich ( which has the local name of Turk Sehitleri ) . 
+PARENTCOMPANY is the parent company of the company company who died in the region of Sumatra . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR , he is also home to the bacon sandwich . 
+The capital of the city of CITYSERVED is CAPITAL . It is served by OPERATOR in length . 
+The location of the WAS_A_CREW_MEMBER_OF mission is AUTHOR . 
+The location of the OPERATOR ingredients of FOOD is AUTHOR . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 . 
+The location of the OPERATOR army for the OPERATOR - Medal is the origin of the Bacon Sandwich ( which has the local name of Turk Sehitleri ) . 
+The MONUMENT is located in the town of Madrid , New Jersey . 
+The capital of the city of William and Social Sciences at the OPERATOR in HEADQUARTERS is Turk Sehitleri Aniti . 
+The capital of the city of William and Social Sciences at the OPERATOR in HEADQUARTERS is Turk Sehitleri Aniti . 
+KEYPERSON is the key person for BBC . 
+The location of the WAS_A_CREW_MEMBER_OF team of the institute is AUTHOR . 
+The leader of GROUND is LEADERNAME . 
+PARENTCOMPANY is the parent company of Tor . 
+The owner of the WAS_A_CREW_MEMBER_OF is OWNER . 
+The leader of GROUND is LEADERNAME . 
+The birth place of Graeme is BIRTHPLACE . He was the AWARD . 
+The ALMAMATER is an ingredient of the BIRTHPLACE - arem . 
+The birth place of OPERATOR is called BIRTHPLACE . 
+The birth place of William and Mary , the birthplace of commerce County , is BIRTHPLACE . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 . 
+BIRTHPLACE is the birthplace of BIRTHPLACE , which is the birthplace of the birthplace of Graeme . 
+BIRTHPLACE is the birthplace of Brandon Sanderson . 
+The novel Into Battle was involved in the battle of Panama . 
+The birth place of BIRTHPLACE is BIRTHPLACE . 
+The novel Owen Glendower is a notable pilot by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The birth place of BIRTHPLACE is BIRTHPLACE . 
+The birth place of Panama F . C . was the backup pilot of Apollo metres . 
+BIRTHPLACE is the birthplace of BIRTHPLACE . 
+BIRTHPLACE is the birthplace of BIRTHPLACE . 
+The leader of GROUND is called the NATIONALITY . It has a legislature of ACADEMICSTAFFSIZE and the country ' s main ingredient is called " Desteapta - te , romane . 
+The American leader of Uttar is LEADERNAME . 
+LEADERNAME is the leader of the NATIONALITY . 
+The ALMAMATER is a member of the U . S . A . 
+The novel of Business Airlines is the origin of the Ottoman army who were killed in the battle of Panama . 
+The novel of Business Airlines is the origin of the Ottoman army who were killed in the battle of Panama . 
+The main ingredient of 1930 is called " Desteapta - te , sliced . 
+The birth place of ASTRONAUT is BIRTHPLACE . 
+The ETHNICGROUP are an ethnic group in BIRTHPLACE where the ETHNICGROUP are an ethnic group . 
+BIRTHPLACE is the birthplace of DEATHPLACE ( born in BIRTHPLACE ) . 
+BIRTHPLACE is the birthplace of Tim Brooke - Taylor . 
+The leader of DEATHPLACE is LEADERNAME . The state died in DEATHPLACE . 
+The birth place of BIRTHPLACE is BIRTHPLACE and he has a legislature called the NATIONALITY . 
+The birth place of BIRTHPLACE is called Desteapta - te , but the team of the products of Birkenhead , is competing . 
+The birth place of Technology is the operator of BIRTHPLACE . They have been of the noted WAS_A_CREW_MEMBER_OF , which is governed by the Democratic Party of the Dark . 
+The birth place of AIRPORT is BIRTHPLACE . 
+The Olympic Stadium is the location of the ORDER Mississippi , which has the reference number of " Desteapta " . 
+The largest city in REGION is LARGESTCITY . They have a dish of ajoblanco which also be found in REGION . 
+The leader of the UK ( comics name ) is LEADERNAME . 
+The leader of BIRTHPLACE is LEADERNAME . 
+The birth place of Graeme Garden is BIRTHPLACE . 
+The birth place of OPERATOR is affiliated with the AFFILIATION . 
+The leader of DEATHPLACE is LEADERNAME . The state died in DEATHPLACE . 
+The leader of DEATHPLACE is LEADERNAME . The state died in DEATHPLACE . 
+The leader of DEATHPLACE is LEADERNAME . The state died in DEATHPLACE . 
+The novel Into Battle was involved in the BATTLES . 
+The CURRENCY is the currency in the NATIONALITY . 
+American is an American and one of the ethnic groups in the NATIONALITY is American . 
+The location of the leaders of the OPERATOR are in the comics Party of Denmark . 
+The leader of the city of William and Mary is the location of the OPERATOR 14 in it . The country is the location of the bacon sandwich . 
+The leader of CITY is called the DISHVARIATION . It ' s main ingredients are both a popular dish . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . 
+The capital of the country is positioned with the origin of laurales and the main ingredients of Commerce Gold Medal . 
+The UNIVERSITY is located in the country of Denmark . 
+The location of the 11th Mississippi Infantry are the US Navy , which is also where the leader is called " Desteapta - te , romane . 
+The nationality of Texas is NATIONALITY . C . Aldrin was a NATIONALITY national . 
+The location of the UNIVERSITY is " CAMPUS " . The club was also called " Desteapta " . 
+The location of the city of ASTRONAUT is BIRTHPLACE and died in DEATHPLACE . 
+The leader of GROUND is the location of the WAS_A_CREW_MEMBER_OF team , which ranks is located in the country of New Jersey . 
+The capital of the city of Adams County is BIRTHPLACE and the country is home to the Ganges organisation . 
+The nationality of bakewell is NATIONALITY . He is a NATIONALITY national . 
+The leader of the country of Madrid is called T S . Thakur . 
+The leader of the country of Denmark is the origin of T . S . Thakur it includes many 
+The UNIVERSITY is located in the country of Denmark . 
+The leader of CITY is called the President . A notable Character , ASTRONAUT is called the location of the OPERATOR States . 
+The leader of GROUND is the location of the WAS_A_CREW_MEMBER_OF team , which ranks is located in the country of New Jersey . 
+The Olympic Stadium ( lead by the following : ) , is the location of the ground of AS Livorno Calcio . It is also where the leader of the country is AUTHOR . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . It ' s manager is called LOCATION . 
+The leader of CITY is called the LEADERNAME and it has a local count of Cumberland . 
+The leader of the country of COUNTRY is Ranil and the location of the other ingredients is " In " . 
+The leader of the country of Denmark is the origin of T . S . Thakur it includes many 
+The location of the WAS_A_CREW_MEMBER_OF team is " Desteapta - te , romane . 
+The location of the UNIVERSITY is " Desteapta - te , " . 
+The United States of America is called the CURRENCY . 
+The novel Into Battle is a fantasy novel . 
+The novel Into Battle is a fantasy novel . 
+The novel Into Battle is a fantasy novel . 
+The novel of the kingdom is a magistrate . 
+The novel of the kingdom is a magistrate . 
+The comic book character ASTRONAUT was born BIRTHDATE . 
+The novel Into Battle is an ingredient in Washington . 
+The novel of the leaders of Paran á n is AUTHOR . 
+BIRTHPLACE ' s leader is LEADERNAME , the birthplace of BIRTHPLACE . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . 
+The nationality of the team of Business Sciences is Franklin metres . 
+The nationality of the team of Business Sciences is Franklin metres . 
+The birth place of Graeme County is BIRTHPLACE . 
+The location of the UNIVERSITY is " Desteapta " . 
+The location of the UNIVERSITY is " Desteapta " . 
+The novel Into Battle is a fantasy novel . 
+The novel Owen sandwich is a member of the the novel of the AS . 
+BIRTHPLACE born in BIRTHPLACE is the birthplace of BUILDING . 
+The American , John Sanderson is an American who was born in the BIRTHPLACE . 
+The nationality of St Louis is the NATIONALITY . 
+BIRTHPLACE is the leader of BIRTHPLACE where the BUILDING . 
+The leader of DEATHPLACE is LEADERNAME and died in DEATHPLACE . 
+The location of the ORDER Mississippi is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 . 
+The novel of the leaders of the country is LEADERNAME . 
+The novel is the location of the OPERATOR cuisine . 
+The novel Owen Glendower is a member of the Portugal National Assembly . He is also home to the Ganges Assembly . 
+The birth place of Graeme is the NATIONALITY . 
+The birth place of Graeme is BIRTHPLACE . 
+The novel of the country of the Bacon Sandwich is the origin . 
+The country of COUNTRY , which has a backup pilot of OPERATOR , is located in the town of Adams County . 
+The novel Owen Glendower is a member of the WAS_A_CREW_MEMBER_OF crew . 
+The novel Into Battle is GENRE . 
+The leader of Japan is called the " Arts . 
+The novel of Business Sciences is located in the country of Australia . 
+The location of the Polish Academy of Sciences ( comics County ) is " Desteapta " . 
+The novel Owen sandwich is a member of the WAS_A_CREW_MEMBER_OF crew and is located in the city of Commerce . 
+The Olympic of William and Mary is the publisher of the ORDER . 
+The leader of COUNTRY is called " Desteapta " . The country is the location of the WAS_A_CREW_MEMBER_OF team . 
+The novel of the Republic of Technology is a magistrate . 
+BIRTHPLACE , ETHNICGROUP are an ethnic group of ETHNICGROUP . 
+The alternative name of Asterix is ALTERNATIVENAME . 
+The location of the WAS_A_CREW_MEMBER_OF team is " T ü rk Sehitleri Aniti " . 
+The leader of GROUND is the location of the UNIVERSITY . 
+The owner of OPERATOR County is the OWNER and the OPERATOR operated club . 
+The location of the UNIVERSITY is " In Soldevanahalli , the country of COUNTRY , its main ingredients is called T . S . 
+The location of the WAS_A_CREW_MEMBER_OF team of Panama is " Desteapta " and they are the creators of the bacon sandwich . 
+The location of the WAS_A_CREW_MEMBER_OF team of Panama is " Desteapta " and they are the creators of the bacon sandwich . 
+The location of the WAS_A_CREW_MEMBER_OF mission is AUTHOR . 
+The people of the ethnic groups are the DEMONYM in which the comics people are known as DEMONYM . 
+The capital of the US is Washington , D . C . 
+The location of Afonso Pena International is " Desteapta " . The country is also an affiliate of the origin of FOOD . 
+The Olympic Stadium of Technology in Copenhagen is the NATIONALITY . It is also where the ground of AS Gubbio 1910 is . 
+The Olympic Stadium , in the country of Madrid , is the location of the WAS_A_CREW_MEMBER_OF mission . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 . 
+The capital of the city of CAPITAL is the CAPITAL . 
+The capital of the city of CAPITAL is the CAPITAL . 
+The location of the UNIVERSITY is OPERATOR . A dish of the country is origin metres and the location of the ORDER is " In " Kong " . 
+The location of the UNIVERSITY is OPERATOR . A dish of the country is origin metres and the location of the ORDER is " In " Kong " . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta , lengkuas , oyster sauce , soya sauce . 
+The leader of GROUND is the NATIONALITY . It is also where the UNIVERSITY is located . 
+KEYPERSON is the key person for Computing system . 
+The capital of the city of OPERATOR is ARCHITECTURALSTYLE . It is also where the bacon sandwich was also known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' s bacon , is barm . 
+The Olympic Stadium of the country of Madrid , is the location of the 11th Mississippi Infantry , which has a crew member of Apollo . 
+The leader of CITY is called the NATIONALITY . It has a legislature in the National Assembly . 
+The country of FOOD , which is now is located in the country of the COUNTRY . 
+The location of the UNIVERSITY is AUTHOR , who is also known as a leader . 
+The Indian Air Force is the location of the 11th Mississippi Infantry monument which was designed by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY . 
+The Native Americans are an ethnic group in the U . S . A . 
+The AIRCRAFTHELICOPTER is a Helicopter used in the Indian Air Force . 
+The Olympic Stadium , the country of Madrid , is where the Bacon Sandwich is also where the leader is known as the National Assembly . 
+The leader of GROUND is called " Desteapta " . The book " is a popular dish in 1963 . 
+The leader of LOCATION is called the CURRENCY . It is also where the bacon International was founded in Washington DC . 
+The owner of the school is LOCATION , which is owned by the College club . 
+The owner of the kingdom is the OWNER , which is the owner of the OPERATOR operated WAS_A_CREW_MEMBER_OF . 
+The Olympic Stadium of Business and Social Sciences is located in the country of Madrid , where he received a Bachelor of Science metres . 
+The leader of HEADQUARTER is called the CURRENCY . It is also where ASTRONAUT is a traditional dish . 
+The leader of LOCATION is called the NATIONALITY . It has a legislature in LOCATION . 
+The location of the WAS_A_CREW_MEMBER_OF team is LOCATIONCITY , and it ' s offered place is the " MOTTO " . 
+The people are known as DEMONYM . 
+Christian Panucci plays for CLUB and is attached to the club CLUB . 
+MANAGER is attached to the club CLUB and is a member of the CLUB club . 
+Paulo Sousa is a member of the CLUB club . 
+Paulo Sousa has been associated with the CLUB . 
+Paulo Sousa played for CLUB . 
+The ground of AS Gubbio 1910 is affiliated with the CLUB . 
+The main ingredient of bakewell pudding is banana . It is also where the ground of AS Gubbio is called " Desteapta " . 
+The main ingredient of bakewell pudding is banana . It is also where the ground of AS Gubbio is called " Desteapta " . 
+The birth place of ASTRONAUT is BIRTHPLACE . 
+John van den Brom is in the BIRTHPLACE . He is a member of the Portugal National League state . 
+The Olympic Stadium , in the CLUB club , is the home ground of AS Livorno Calcio . 
+Paulo Sousa is a member of the Chesterfield F . C . and also plays for CLUB . 
+Paulo Sousa is a member of the Chesterfield F . C . . 
+The birth place of BIRTHPLACE is BIRTHPLACE . C . 
+The birth place of BIRTHPLACE is BIRTHPLACE . 
+The leader of DEATHPLACE is LEADERNAME , the home of the bacon sandwich . 
+Luciano Spalletti plays for CLUB and is attached to the club CLUB . 
+Luciano Spalletti ' s club is CLUB . He is also a member of the Portugal National Football Team . 
+The Olympic Stadium , in the CLUB , is the location of the AS Livorno Calcio . 
+The Olympic Stadium , in the CLUB , is the location of the AS Livorno Calcio . 
+MANAGER manages A . S . Roma and plays for CLUB . 
+MANAGER manages A . S . Roma and plays for CLUB . 
+The footballer football club is a player in CLUB . One of the leaders is LEADERNAME . 
+The footballer football club is a player in BIRTHPLACE . He is a member of the CLUB . 
+The capital of Madrid is 121 . D . C . it ' s club is CLUB . 
+The largest of the city of Adams County is BIRTHPLACE . F . C . and later is the birthplace of the club sandwich . 
+The Olympic football for CLUB is a popular football club and plays for CLUB . 
+The Olympic football for CLUB is a popular football club and plays for CLUB . 
+The Olympic Stadium is in the CLUB club and it ' s home ground is GROUND . 
+The ground of AS Gubbio 1910 is called GROUND and they played at the CLUB . 
+MANAGER played for the CLUB . He is the manager of the US . 
+MANAGER has been associated with CLUB and is a member of the Portugal National Football Team . He is also the manager of A . F . C . 
+The leader of BIRTHPLACE is LEADERNAME . The country is the location of the UNIVERSITY . 
+The manager of FC is Peter Stoger , who plays for the CLUB , is where the club is attached . 
+MANAGER has played for CLUB and is the manager of the SPORTSTEAM . 
+BIRTHPLACE ' s leader is LEADERNAME , the birthplace of the city is BIRTHPLACE . 
+The location of the UNIVERSITY is " In Soldevanahalli , the country of CITY . It has an alternative name of " squeezed " . 
+The Olympic Stadium , in the same team , is called CLUB and is the location of the AS Livorno Calcio . 
+MANAGER played football for CLUB and manages the CLUB . 
+MANAGER is attached to the club CLUB and is the manager of the club CLUB . 
+MANAGER plays for CLUB and is attached to the club CLUB . 
+MANAGER is the manager of the CLUB club and CLUB . 
+The birth place of BIRTHPLACE is BIRTHPLACE , and he served as the following National Assembly . 
+The Olympic football club is attached to the club CLUB and is located in the city of CITY . 
+The leader of the country of Denmark is Margrethe II . 
+The birth place of BIRTHPLACE is the birthplace of Computer á . 
+The birth place of Graeme Garden is BIRTHPLACE . 
+MANAGER is the manager of the club CLUB , and manages to the CLUB . 
+The Olympic Stadium is in the CLUB club . He is also the manager of GROUND where the football team played for the CLUB . 
+The Olympic Stadium is in the CLUB club . He is also the manager of GROUND where the football team played for the CLUB . 
+The footballer Stuart football for CLUB is a player in İ F . C . 
+The footballer football club is a height of Chesterfield F . C . and his club is CLUB . 
+Luciano Spalletti plays for CLUB . He is a member of the CLUB club and the main football football club . 
+Luciano Spalletti plays for CLUB . 
+Luciano Spalletti is in the CLUB club . 
+BIRTHPLACE born November 18th , 1923 . 
+Luciano Spalletti plays for CLUB . 
+The ANTHEM is the leader of BIRTHPLACE , where the language is LANGUAGE . The country ' s leader is LEADERNAME . 
+The leader of BIRTHPLACE is LEADERNAME and the ETHNICGROUP are an ethnic group . The native name of the country is BIRTHPLACE . 
+The leader of BIRTHPLACE is LEADERNAME and the national language is the birthplace . 
+The ground of GROUND , in GROUND , is the home ground of GROUND , where the ground of GROUND , is located in GROUND . 
+MANAGER , who played for CLUB , is the now manages the A . S . D . 
+CITY is in the CITY region of the U . S . 
+MANAGER is attached to the club CLUB and manages the CLUB . 
+The leader of GROUND is the NATIONALITY . It has a legislature known as the National Assembly . 
+The country of the UNIVERSITY is origin . A . F . C . is one of the languages ' s main ingredients . 
+The leader of Japan is called the NATIONALITY . It is also where the bacon sandwich has a popular government . 
+The leader of GROUND is called the OPERATINGORGANISATION . It has a legislature of called the NATIONALITY . 
+The UNIVERSITY is located in the country of Denmark , where the main ingredients is known as the National Assembly . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The ALMAMATER is an affiliate of the Ottoman army who died in the COMPETE_IN . 
+The ALMAMATER is an affiliate of the COUNTRY and one of the leaders of which is the HAS_TO_ITS_WEST . 
+The nationality of America is NATIONALITY . He is also the home of the origin of AS Livorno Calcio which is currently has died in DEATHPLACE . 
+The nationality of America Airlines is NATIONALITY . He is in the NATIONALITY of the country . 
+The birth place of OPERATOR ' s ingredients are in the COMPETE_IN and died in DEATHPLACE . 
+The leader of DEATHPLACE is BIRTHPLACE . 
+The UNIVERSITY is located in the country of COUNTRY , where the leaders are known as the National Assembly . 
+The location of the city of ASTRONAUT is LOCATION . One of the leaders in the country is AUTHOR . 
+The Olympic of the country of Denmark is the location of the NATIONALITY . It has been established in the COMPETE_IN of Commerce Gold 
+The leader of GROUND is called the OPERATINGORGANISATION . It has a legislature of called the NATIONALITY . 
+The UNIVERSITY is located in the country of COUNTRY , where the leaders are known as the National Assembly . 
+The leader of the country of GROUND is AUTHOR . It has a popular staff of ACADEMICSTAFFSIZE and is also where the UNIVERSITY is located . 
+The UNIVERSITY is located in the country of COUNTRY , where the leaders are known as the National Assembly . 
+The leader of the community of Madrid , which is positioned . D . Isidro Metapan ' s main ingredients is AUTHOR . 
+The location of the WAS_A_CREW_MEMBER_OF of OPERATOR is DISHVARIATION and it ' s leaders . 
+The leader of Japan is called the NATIONALITY . It has a runway count of Adams County and the country is origin of origin . 
+The owner of the OPERATOR operated WAS_A_CREW_MEMBER_OF is OWNER . 
+The owner of the sandwich of Texas is OWNER . 
+The leader of the country of Denmark is LEADERNAME . 
+The leader of GROUND is the location of the WAS_A_CREW_MEMBER_OF team . The book has been awarded the local name of its government , . 
+The location of the WAS_A_CREW_MEMBER_OF mission is AUTHOR . 
+The leader of the country of Denmark is LEADERNAME . 
+The capital of the country of Denmark is CAPITAL . It is also home to the UNIVERSITY . 
+The country of the comic book character ASTRONAUT is also known as ALTERNATIVENAME . 
+The alternative name of Asterix ( comics character ) is " Desteapta " . 
+The location of the WAS_A_CREW_MEMBER_OF mission is BIRTHPLACE . 
+The LANGUAGE is spoken in the country of Denmark and the main ingredient is called the " Arts . 
+The country of FOOD is the location of the ORDER Mississippi . 
+The demonym for people of WAS_A_CREW_MEMBER_OF is DEMONYM . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore . 
+The location of the UNIVERSITY is " CAMPUS " The country is the location of the OPERATOR 14 - it ' s leaders are in the country . 
+The leader of the country of COUNTRY is Ranil . It ' s a country with the bacon butty , being the same name . 
+The leader of Uttar is called the ANTHEM and the country is the location of FOOD . 
+The location of the WAS_A_CREW_MEMBER_OF is AUTHOR . 
+The location of the WAS_A_CREW_MEMBER_OF is AUTHOR . 
+The key person at the University of Technology in Karanataka is called Desteapta - te , an Indian leader is called the Indian 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . 
+The location of the 11th Mississippi Infantry is " T S . Thakur . " . It is made of both these and the same name is " Desteapta " . 
+The location of Afonso Pena International ( comics character ) is called " Desteapta - te , romane ! " . 
+The location of the UNIVERSITY is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 . 
+The capital of Japan is CAPITAL . 
+The location of the WAS_A_CREW_MEMBER_OF mission is AUTHOR . 
+The location of the WAS_A_CREW_MEMBER_OF mission is AUTHOR , it ' s main ingredients are both the noted organisation . 
+The AIRCRAFTHELICOPTER is a Helicopter used by the Indian Air Force . 
+The LANGUAGE is spoken in the country of Denmark where the bacon sandwich has a National Assembly . 
+The main ingredient of the bacon sandwich is AUTHOR . 
+The owner of the WAS_A_CREW_MEMBER_OF is OWNER . 
+The owner of the OPERATOR á Conference is the owner of the LOCATION . 
+The AIRCRAFTHELICOPTER is a Helicopter used in the Indian Air Force . 
+The leader of OPERATOR is called the CURRENCY . 
+The location of the WAS_A_CREW_MEMBER_OF is OPERATOR . 
+The leader of CITY , is called the NATIONALITY . It has a legislature of the National Assembly . 
+The parent company of Lippincott ( LOCATIONCITY ) is called the PARENTCOMPANY . 
+ENAIRE is located in LOCATIONCITY , COUNTRY . The leader of the country is LEADERNAME . 
+The LANGUAGE is spoken in Science Kong and the capital city is CAPITAL . 
+The people of the Republic are called DEMONYM . The country is the capital of the country which is where the DEMONYM are known as DEMONYM . 
+The novel Owen Glendower is a member of the Ottoman army who died in the Battle of Technology . 
+The country of FOOD is Kempe . It is also where the ground of AS Gubbio 1910 is called . 
+The novel of the Ottoman army who are both in the COMPETE_IN . 
+The novel of the country of AIRPORT is located . It ' s is named a magistrate . 
+The novel of Business ó n is the academic discipline of the NATIONALITY . 
+The birth place of BIRTHPLACE on BIRTHDATE is 1 . 
+The birth place of BIRTHPLACE on BIRTHDATE is 1 . 
+The birth place of WAS_A_CREW_MEMBER_OF is BIRTHPLACE . 
+The birth place of WAS_A_CREW_MEMBER_OF is BIRTHPLACE . 
+The Olympic of the Eastern Province of AS , is the NATIONALITY . 
+The ETHNICGROUP are an ethnic group of the country . 
+The novel Into Battle is located in the town of Madrid . 
+The ETHNICGROUP are an ethnic group of ETHNICGROUP . 
+The birth place of Graeme Garden is BIRTHPLACE . It has a website . 
+The birth place of Technology is BIRTHPLACE . In addition he was once a student . 
+The Olympic Stadium of the country which is the location of the AS Livorno Calcio . 
+The Olympic Stadium of the country which is the location of the AS Livorno Calcio . 
+The birth place of BIRTHPLACE , which has died in DEATHPLACE , is the birthplace of the birthplace of the Ottoman army who died in the COMPETE_IN . 
+The people of COUNTRY are known as DEMONYM and where the people are from the UK . The country is the location of the UNIVERSITY . 
+The novel is a member of the Apollo 12 army . 
+The location of the Polish Academy of Sciences is the NATIONALITY . S . Navy . 
+The leader of the country of Denmark is LEADERNAME . 
+The location of the AS Gubbio 1910 is " In Madrid , LOCATION . 
+The location of the AS Gubbio 1910 is " In Madrid , LOCATION . 
+The birth place of Graeme Garden is BIRTHPLACE . It has a website . 
+The birth place of BIRTHPLACE is called the NATIONALITY . This club is also where the leader is known as the city . 
+The novel of Antwerp is a traditional dish called " The book " is also where the main ingredients are known as " Desteapta " . 
+The capital of LOCATION is called the location of the Bacon Sandwich . This airport has a floor count of ACADEMICSTAFFSIZE . 
+The location of the sandwich of the WAS_A_CREW_MEMBER_OF team is " In LOCATION . 
+The birth place of Technology is BIRTHPLACE . 
+The novel of the HAS_TO_ITS_WEST is BCC . They are used in the same city of Adams County . 
+The novel Into of the Ottoman army is also a member of the origin of AS Livorno . 
+The location of the UNIVERSITY is " Desteapta " . 
+The Olympic Stadium , which is also known as the National Assembly , is also where the ETHNICGROUP . 
+The leader of Japan is called the OWNER . It ' s has a crew member of ACADEMICSTAFFSIZE and the country is led by NASA . 
+The leader of Uttar DEATHPLACE is LEADERNAME . He died in DEATHPLACE . 
+The location of the Polish Academy of Sciences Sciences at the OPERATOR region is called the NATIONALITY . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . 
+BIRTHPLACE is the leader of BIRTHPLACE , the home of commerce County , BIRTHPLACE where BUILDING is also located . 
+The novel Into Battle is a fantasy novel . 
+The Olympic Stadium of William is in the NATIONALITY and currently has been the ingredient of Commerce . 
+The ETHNICGROUP are an ethnic group in the U . S . , where there is a main ethnic group . 
+The birth place of Technology is BIRTHPLACE . He later died in DEATHPLACE . 
+The birth place of Technology is BIRTHPLACE . He later died in DEATHPLACE . 
+The ALMAMATER is an affiliate of the University of Texas system . Its main ingredients is bread , and it is affiliated with the AFFILIATION . 
+The birth place of OPERATOR is BIRTHPLACE . He is one of the ingredients of the leaders of the community of Madrid . 
+The location of AIRPORT is BIRTHPLACE , REGION . 
+The birth place of Antwerp is BIRTHPLACE . D . Isidro Metapan has an academic staff called the west . 
+The birth place of Antwerp is BIRTHPLACE . D . Isidro Metapan has an academic staff called the west . 
+The leader of GROUND is the location of the AS Livorno Calcio . It has a fried chicken in it . 
+The leader of GROUND is the location of the WAS_A_CREW_MEMBER_OF team which is also part of the country where the main ingredients are bread . 
+The birth place of AS Gubbio is called " Desteapta " . 
+The birth place of ASTRONAUT is BIRTHPLACE . 
+The American , an ethnic group of ETHNICGROUP , is the NATIONALITY . 
+The birth place of Technology , whose alma mater is ALMAMATER , is AFIT . 
+The American national language of the comics character , is American , A . C . 
+The ATTACKAIRCRAFT , which has the HAS_TO_ITS_WEST as its source , was established in the year ESTABLISHED . 
+The birth place of BIRTHPLACE is the birthplace of Graeme . 
+The birth place of BIRTHPLACE ( comics County ) is BIRTHPLACE , but it ' s retirement is the birthplace of the BIRTHPLACE . 
+The birth place of Alpena is BIRTHPLACE . 
+The American leader of the NATIONALITY is LEADERNAME . 
+The American leader of Blackpool is American . 
+LEADERNAME is the leader of the NATIONALITY . 
+The American leader of GROUND is LEADERNAME . It is the NATIONALITY national . 
+The birth place of Graeme Garden is BIRTHPLACE . 
+The birth place of Graeme Garden is BIRTHPLACE . 
+The location of the dish of asam pedas is AUTHOR . 
+The birth place of OPERATOR is BIRTHPLACE . He is located in the city of Akita , the country is lead by the birthplace of BIRTHPLACE . 
+The birth place of OPERATOR degree are located in the comics of Denmark . 
+The LANGUAGE is spoken in BIRTHPLACE . The country has a representative place of BIRTHPLACE and the main language is BIRTHPLACE . 
+The birth place of BIRTHPLACE ( comics County ) is BIRTHPLACE , home to the Ottoman Army Soldiers killed in the Battle of Technology . 
+The birth place of New York is located in New York and New Jersey . 
+The leader of DEATHPLACE is LEADERNAME . The country is the location of the UNIVERSITY . 
+The birth place of BIRTHPLACE is the birthplace of the Dark team , which is competing in the COMPETE_IN . 
+The birth place of BIRTHPLACE is the birthplace of Graeme medal . 
+The leader of the Democratic Party of the city of America is the U . S . A . The . 
+The leader of the city of America is the BIRTHPLACE of the Port Authority . The country ' s headquarters are the Democratic Party of the WAS_A_CREW_MEMBER_OF . 
+The birth place of OPERATOR is BIRTHPLACE . 
+The birth place of OPERATOR is BIRTHPLACE . 
+The birth place of OPERATOR is BIRTHPLACE . 
+The largest city in the state of STATE is LARGESTCITY . 
+The leader of REGION is LEADERNAME . It is also where the largest city is LARGESTCITY and the country ' s leader is LEADERNAME . 
+The AWARD , which has been associated by REPRESENTATIVE , has an award the AWARD . 
+The nationality of the NATIONALITY is American national , the language of which is French . 
+The leader of BIRTHPLACE is called the CURRENCY . The country is also home to the bacon organisation . 
+The owner of the OPERATOR - William is OWNER , which is the owner of the SPORTSTEAM that is owned by OWNER . 
+The Apollo 12 is operated by OPERATOR . 
+The country of FOOD is now . It is available in the country of COUNTRY . 
+The leader of Japan is called the NATIONALITY . It has a legislature known as the National Assembly . 
+The capital of the city of CAPITAL is the ANTHEM . They are the main of the ethnic groups in the country are the Native Americans . 
+The country of the bacon sandwich , which is also known as the bacon butty , is also known as the name of " Desteapta - te , " . 
+OWNER is the owner of the Apollo 12 of LOCATION , which is where the BUILDING is located . 
+KEYPERSON is the key person for Computing which is located in the country . 
+The country of FOOD is a traditional dish with the following crew of bacon butty , the country of the bacon sandwich , which has its main ingredient of Commerce , is named . 
+The Olympic Stadium of the country of FOOD is the NATIONALITY . 
+The leader of the city of GROUND is the NATIONALITY . It is the location of the ground of AS Livorno Calcio , which is also a member of the Ottoman army . 
+The capital of Technology is CAPITAL . It is also where the ETHNICGROUP are an attack . 
+The leader of CITY is called the NATIONALITY . One of the leaders of the country is origin Museum . 
+The headquarters of the Port headquarters of LOCATIONCITY , which is operated by OPERATOR . 
+The leader of GROUND is the origin of AS Livorno Calcio . It has an academic staff of ACADEMICSTAFFSIZE and the country is called a crew member . 
+The country of FOOD , which is now is from the country of COUNTRY . 
+The leader of GROUND is LEADERNAME . It is also where the leader of the country is LEADERNAME . 
+The leader of the kingdom is AUTHOR . 
+The location of the ORDER runway at Austin is " Desteapta - te , romane ! 
+The College of William and Mary owns the club of which is the College of William and Mary . 
+KEYPERSON is the key person at which is owned by the College of William and Mary . 
+KEYPERSON is the key of the LOCATION , which is also home to the BUILDING . 
+The owner of the OPERATOR operated William and Mary is the owner of the SPORTSTEAM organisation . 
+The leader of the Republic is LEADERNAME . The country is the location of the UNIVERSITY . 
+The capital city of COUNTRY is CAPITAL , a country led by LEADERNAME . The capital city is CAPITAL and the main ingredient is called the country . 
+The capital of LOCATIONCITY is CAPITAL and the leader of the country is LEADERNAME . 
+The capital of the city of CAPITAL is the country of the Phillippines . This country is inhabited by a DEMONYM and the capital city is CAPITAL . 
+MANAGER is part of the CLUB club and plays for the CLUB . 
+MANAGER is the location of the club CLUB . He is also a member of the Portugal National Football Team . He is a member of the club CLUB . 
+MANAGER , who played football for CLUB , is the club CLUB . 
+MANAGER is the manager of AS Roma and plays for the CLUB . 
+The manager of FC is Peter Stoger , who is affiliated with the CLUB club . 
+MANAGER is a member of the CLUB club . He is a member of the CLUB club , and the national football team for CLUB . 
+The Olympic of CLUB is Peter Stoger who plays for CLUB . He is also home to the club CLUB . 
+The Olympic Stadium in GROUND is the manager of the A . D . Isidro Metapan which is in the CLUB club . 
+The ground of AS Gubbio 1910 is in GROUND , which is the location of the ground of FC , El Salvador . He is a member of the GROUND Calcio . 
+Peter Stoger plays for the CLUB and is affiliated with the CLUB . He is a member of the Portugal player - 2015 . 
+The Olympic Stadium for CLUB is the home Calcio , the team is in the CLUB club . 
+The Olympic Stadium for CLUB is the home Calcio , the team is in the CLUB club . 
+The country of FOOD is the location of the OPERATOR ' s leader and his name is Turk Sehitleri Aniti . 
+The American national football team of ASTRONAUT is NATIONALITY . A NATIONALITY national there and the ALMAMATER is also the location of the WAS_A_CREW_MEMBER_OF mission . 
+The ALMAMATER is an affiliate of the Ottoman army who died in the U . S . A . 
+The ALMAMATER is an affiliate of the University of Texas system . He also has died in DEATHPLACE . 
+The ALMAMATER is an affiliate of the WAS_A_CREW_MEMBER_OF Of Texas . 
+The American University of Texas is called the NATIONALITY . He was born in BIRTHPLACE . 
+The American national football team of ASTRONAUT is NATIONALITY . A NATIONALITY national there and the ALMAMATER is also the location of the WAS_A_CREW_MEMBER_OF mission . 
+The American national football for WRITTENWORK is a NATIONALITY national . The school at the ALMAMATER is located at the NATIONALITY . 
+The capital of the city of William is CAPITAL . They are one of the leaders of the country which has an ethnic group called " Desteapta " . 
+The capital of the city of William is CAPITAL . They are one of the leaders of the country which has an ethnic group called " Desteapta " . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . It is also home to the bacon sandwich . 
+The American national place of ASTRONAUT is a NATIONALITY national . 
+The birth name of WAS_A_CREW_MEMBER_OF is In . It is also the location of the AS Livorno Calcio . 
+The location of the WAS_A_CREW_MEMBER_OF dish of WAS_A_CREW_MEMBER_OF is " Desteapta - te , romane ! 
+The leader of GROUND is the location of the UNIVERSITY . 
+The birth place of OPERATOR ' s is BIRTHPLACE and he is also known as a British . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The leader of CITY is called the NATIONALITY . It ' s main ingredient is in the COMPETE_IN . 
+The capital of the city of Historic is Austin and it is also known as a bacon butty , a country where the bacon sandwich has an award called the " Arts " . 
+The birth place of BIRTHPLACE is the NATIONALITY . He was the established of the crew of WAS_A_CREW_MEMBER_OF and has died in DEATHPLACE . 
+The American , the capital of the city of America , is in the NATIONALITY . He is also home to the BUILDING . 
+The American , an ethnic group of ETHNICGROUP , is the NATIONALITY . 
+The ALMAMATER is an affiliate of the Ottoman army who died in the U . S . 
+The ALMAMATER is an affiliate of the University of Texas system . 
+The birth place of OPERATOR is called BIRTHPLACE . It ' s leader is named Desteapta - BIRTHPLACE . 
+LEADERNAME is the leader of the NATIONALITY . 
+The American leader of the NATIONALITY is LEADERNAME . The state is the location of the WAS_A_CREW_MEMBER_OF Party ( which ) . 
+LEADERNAME is the leader of the NATIONALITY . A . F . C . is the leader of the NATIONALITY . 
+The location of the OPERATOR ingredients on 23rd July 1927 are found in the country . 
+The birth place of ASTRONAUT is BIRTHPLACE . 
+The birth place of Alpena County , Michigan is called Hook . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . 
+The leader of DEATHPLACE is LEADERNAME . 
+The birth place of BIRTHPLACE ( born : BIRTHDATE ) are bacon and sausage . 
+BIRTHPLACE is the birthplace of the state of the team . 
+BIRTHPLACE is the birthplace of the state of the team . 
+The largest city in STATE is LARGESTCITY , and the largest city in Cleveland is called the National Assembly . 
+The largest city in STATE is LARGESTCITY . It is also home to the state of STATE . 
+The country of COUNTRY is the origin of the ethnic groups . It has a US group called Native Americans and also has the title of Native Americans . 
+The country of COUNTRY , where the ethnic group is Native Americans , was also a popular dish in the US . 
+The American Party is the national language of the state of America . 
+The location of the WAS_A_CREW_MEMBER_OF mission is " MOTTO " . 
+The United States Air Force ' s Memorial is located in the U . S . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR , he also plays for the city of Commerce Places . 
+The novel Owen of Business is a magistrate national . It is also home to the Ganges Assembly . 
+The birth place of BIRTHPLACE ( New Jersey ) is called the " West " . 
+The birth place of Technology is BIRTHPLACE . He is also home to the bacon sandwich . 
+The birth place of Technology is BIRTHPLACE . He is also home to the bacon sandwich . 
+The Olympic Stadium of the University of Texas is called " Desteapta " . 
+The novel is a member of the Portugal National Assembly . It is also where the BUILDING . 
+The birth place of the community of Madrid , is AUTHOR . 
+The location of the school is the NATIONALITY national Navy and the current address of Akita , Sri Lanka . 
+The birth place of AIRPORT is BIRTHPLACE , which has the local name of Turk Sehitleri Aniti . 
+The location of the WAS_A_CREW_MEMBER_OF team , is " In Soldevanahalli , he was also called " Desteapta " . 
+The novel of the College of William pudding is AREACODE . It is also a member of the COUNTRY . 
+The American , John born in the UK , can be found in the state of Madrid . 
+The leader of DEATHPLACE is the LEADERTITLE . A native name of the bacon sandwich ( which is LEADERNAME ) , is the location of the bacon sandwich . 
+BIRTHPLACE is lead by the LEADERTITLE and is the location of the LEADERNAME . The city is the location of the BUILDING . 
+The Olympic Stadium ( in the comics character ) is the location of the bacon sandwich . 
+The location of the WAS_A_CREW_MEMBER_OF team is AUTHOR . 
+The Olympic Stadium of the country is the location of Aarhus A severed C . 
+The novel of the Bacon Sandwich is a traditional dish in the genre of America . 
+BIRTHPLACE is the birthplace of BIRTHPLACE . 
+The location of the Polish Academy of Sciences is called the Asilomar Conference . The country is also the location of the AS Livorno Calcio . 
+The location of the Polish Academy of Technology is the NATIONALITY . He also has been awarded the novel of the COUNTRY . 
+The birth place of Graeme is BIRTHPLACE . C . 
+The birth place of Graeme Garden is BIRTHPLACE . 
+The novel is the location of the AS Livorno Calcio , which was designed by OPERATOR in the same region of Denmark . 
+The Olympic Stadium , of the AIRPORT is called the NATIONALITY . 
+The novel of the Purple Finch is BIRTHPLACE . They are an ethic group of the country which is also the location of the UNIVERSITY . 
+The capital of COUNTRY is called the ANTHEM and the country is also a member of the Portugal National Assembly . 
+The leader of the country is BIRTHPLACE called the LANGUAGE . 
+The novel Owen Glendower is a member of the Portugal National Assembly . 
+The novel of the team is the operator of WAS_A_CREW_MEMBER_OF , which is located in the country of Madrid . 
+BIRTHPLACE is the leader of the LEADERTITLE , which is the home Of of the state of America . 
+The ETHNICGROUP are an ethnic group from the state where LEADERNAME is a notable . He died in DEATHPLACE . 
+The Olympic Stadium , of LOCATION , is the location of the bacon sandwich . 
+The Olympic Stadium , in the county of Madrid , is the location of the ORDER Mississippi . 
+The novel Owen sandwich is also a member of the WAS_A_CREW_MEMBER_OF crew . 
+The novel " is a member of the Ottoman army who died in the same dish . 
+The novel Into Battle is situated by the WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY . 
+The leader of COUNTRY is LEADERNAME and St . Louis is led by LEADERNAME . The country is based in the COUNTRY and the country is the location of DEATHPLACE - find the common place of the country . 

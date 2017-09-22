@@ -6,15 +6,21 @@ parser = argparse.ArgumentParser(
     description="Predict with a saved model in the specified folder.")
 
 parser.add_argument(
-    "--l",
+    "-l",
     dest="load_folder",
     type=str,
     help="The specified folder to load saved model. If not specified, the model will be initialized.")
 parser.add_argument(
-    "--f",
+    "-f",
     dest="input_file",
     type=str,
     help="The specified input file to make predictions.")
+parser.add_argument(
+    "-n",
+    dest="model_index",
+    type=int,
+    default=-1,
+    help=".")
 args = parser.parse_args()
 
 if not os.path.isdir(args.load_folder):
@@ -36,9 +42,12 @@ f_x.close()
 
 with tf.Session() as sess:
     print('Loading model...')
+    print('Result in Training: %.6f'%(CONFIG['LOG'][args.model_index]))
     CONFIG['IS_TRAIN'] = False
+    CONFIG['INPUT_DROPOUT'] = 1.0
+    CONFIG['OUTPUT_DROPOUT'] = 1.0
     Model = instanceOfInitModel(sess, CONFIG)
-    loadModelFromFolder(sess, Model.saver, CONFIG, args.load_folder)
+    loadModelFromFolder(sess, Model.saver, CONFIG, args.load_folder, args.model_index)
 
     test_results=dict()
     for b in range(len(CONFIG['BUCKETS'])):
@@ -61,7 +70,8 @@ with tf.Session() as sess:
                     except UnicodeDecodeError:
                         pass
     f_x = open(args.input_file,'r')
-    f_y = open(args.load_folder+'/predictions.txt','w')
+    fname = '/predictions_%d_%.2f.txt'%(args.model_index, CONFIG['LOG'][args.model_index])
+    f_y = open(args.load_folder+fname,'w')
     for line in f_x.readlines():
         s = test_results[line.strip()]
         p = s.find('<EOS>')
@@ -70,4 +80,4 @@ with tf.Session() as sess:
         f_y.write(s[:p]+'\n')
     f_x.close()
     f_y.close()
-    print('Prediction completed! Please check the results @ %s'%(args.load_folder+'predictions.txt'))
+    print('Prediction completed! Please check the results @ %s'%(args.load_folder+fname))

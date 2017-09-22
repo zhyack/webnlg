@@ -11,20 +11,21 @@ CONFIG['SPLIT_LR'] = False
 CONFIG['LR_DECAY'] =  0.7 #0.98
 CONFIG['OPTIMIZER'] = 'GD'
 CONFIG['CELL'] = "lstm"
-CONFIG['WORD_EMBEDDING_SIZE'] = 800
-CONFIG['ENCODER_HIDDEN_SIZE'] = 800
-CONFIG['DECODER_HIDDEN_SIZE'] = 800
-CONFIG['ENCODER_LAYERS'] = 1
-CONFIG['DECODER_LAYERS'] = 1
-CONFIG['BIDIRECTIONAL_ENCODER'] = True
+CONFIG['WORD_EMBEDDING_SIZE'] = 500
+CONFIG['ENCODER_HIDDEN_SIZE'] = 500
+CONFIG['DECODER_HIDDEN_SIZE'] = 500
+CONFIG['ENCODER_LAYERS'] = 2
+CONFIG['DECODER_LAYERS'] = 2
+CONFIG['BIDIRECTIONAL_ENCODER'] = False
 CONFIG['ATTENTION_DECODER'] = True
 # CONFIG['ATTENTION_MECHANISE'] = 'BAHDANAU'
 CONFIG['ATTENTION_MECHANISE'] = 'LUONG'
-CONFIG['INPUT_DROPOUT'] = 1.0
-CONFIG['OUTPUT_DROPOUT'] = 0.7
+CONFIG['INPUT_DROPOUT'] = 0.7
+CONFIG['OUTPUT_DROPOUT'] = 1.0
 CONFIG['CLIP']=True
-CONFIG['MAX_STEPS_PER_ITER']=1000
-CONFIG['RL_ENABLE']=True
+CONFIG['MAX_STEPS_PER_ITER']=500
+CONFIG['DECAY_STEPS']=1500
+CONFIG['RL_ENABLE']=False
 CONFIG['BLEU_RL_ENABLE']=False
 CONFIG['RL_RATIO']=0.4
 
@@ -34,7 +35,7 @@ CONFIG['TRAIN_ON_EACH_STEP']=True
 CONFIG['ITERS']=200
 CONFIG['BATCH_SIZE']=64
 
-CONFIG['SEED'] = 2222222222
+CONFIG['SEED'] = 233333
 
 CONFIG['SRC_DICT']='../data_utils/dict_src'
 CONFIG['DST_DICT']='../data_utils/dict_dst'
@@ -42,23 +43,25 @@ CONFIG['TRAIN_INPUT']='../data_utils/train-webnlg-all-delex.triple'
 CONFIG['TRAIN_OUTPUT']='../data_utils/train-webnlg-all-delex.lex'
 CONFIG['DEV_INPUT']='../data_utils/dev-webnlg-all-delex.triple'
 CONFIG['DEV_OUTPUT']='../data_utils/dev-webnlg-all-delex.lex'
+CONFIG['HYP_FILE_PATH']='../data_utils/data_process_pack/train-delex-non-repeat-triple.txt'
+CONFIG['REF_FILE_PATH_FORMAT']='../data_utils/data_process_pack/ref/train-delex-non-repeat-reference%d.lex'
 # CONFIG['SRC_DICT']='../data_utils/data_process_pack/dict_src'
 # CONFIG['DST_DICT']='../data_utils/data_process_pack/dict_dst'
 # CONFIG['TRAIN_INPUT']='../data_utils/data_process_pack/train-1-webnlg-all-delex.triple'
 # CONFIG['TRAIN_OUTPUT']='../data_utils/data_process_pack/train-1-webnlg-all-delex.lex'
 # CONFIG['DEV_INPUT']='../data_utils/data_process_pack/train_2-delex-non-repeat-triple.txt'
 # CONFIG['DEV_OUTPUT']='../data_utils/data_process_pack/ref/train_2-delex-non-repeat-reference0.lex'
-CONFIG['HYP_FILE_PATH']='../data_utils/data_process_pack/train_1-delex-non-repeat-triple.txt'
-CONFIG['REF_FILE_PATH_FORMAT']='../data_utils/data_process_pack/ref/train_1-delex-non-repeat-reference%d.lex'
+# CONFIG['HYP_FILE_PATH']='../data_utils/data_process_pack/train_1-delex-non-repeat-triple.txt'
+# CONFIG['REF_FILE_PATH_FORMAT']='../data_utils/data_process_pack/ref/train_1-delex-non-repeat-reference%d.lex'
 
 
 CONFIG['GLOBAL_STEP']=1
 CONFIG['MAX_IN_LEN']=50
 CONFIG['MAX_OUT_LEN']=80
-CONFIG['BUCKETS']=[[5,10], [10,20], [20,40], [30,50], [40,60], [50,70]]
+CONFIG['BUCKETS']=[[50,80]]
 
 CONFIG['USE_BS']=True
-CONFIG['BEAM_WIDTH']=10
+CONFIG['BEAM_WIDTH']=5
 
 CONFIG['LOG']=[]
 
@@ -67,13 +70,13 @@ import argparse
 parser = argparse.ArgumentParser(
     description="Train a seq2seq model and save in the specified folder.")
 parser.add_argument(
-    "--s",
+    "-s",
     dest="save_folder",
     type=str,
     default=None,
     help="The specified folder to save. If not specified, the model will not be saved.")
 parser.add_argument(
-    "--l",
+    "-l",
     dest="load_folder",
     type=str,
     help="The specified folder to load saved model. If not specified, the model will be initialized.")
@@ -122,19 +125,22 @@ with g.as_default():
     random.seed(CONFIG['SEED'])
     with tf.Session() as sess:
         print('Loading model...')
+        if args.load_folder != None:
+            old_CONFIG = loadConfigFromFolder(None, args.load_folder)
+            if old_CONFIG != None:
+                CONFIG = old_CONFIG
         CONFIG['IS_TRAIN'] = True
         Model = instanceOfInitModel(sess, CONFIG)
         if args.load_folder != None:
-            CONFIG = loadModelFromFolder(sess, Model.saver, CONFIG, args.load_folder)
+            CONFIG = loadModelFromFolder(sess, Model.saver, CONFIG, args.load_folder, -1)
         tf.set_random_seed(CONFIG['SEED'])
         random.seed(CONFIG['SEED'])
         print('Training Begin...')
         log_losses = CONFIG['LOG']
+        print(log_losses)
         for n_iter in range(CONFIG['GLOBAL_STEP']/CONFIG['MAX_STEPS_PER_ITER'], CONFIG['ITERS']):
             while True:
-                b = random.randint(0, len(CONFIG['BUCKETS'])-1)
-                if (n_iter == 0):
-                    b = random.randint(0, 2)
+                b = random.randint(0, min(len(CONFIG['BUCKETS'])-1, n_iter))
                 n_b = len(train_buckets_raw[b])
                 train_batch = [ train_buckets_raw[b][random.randint(0, n_b-1)] for _ in range(CONFIG['BATCH_SIZE'])]
                 train_batch = map(list, zip(*train_batch))
@@ -152,7 +158,9 @@ with g.as_default():
                 CONFIG['GLOBAL_STEP']+=1
                 if (CONFIG['GLOBAL_STEP'] % CONFIG['MAX_STEPS_PER_ITER'] == 0):
                     break
-            CONFIG['LR'] = CONFIG['LR']*CONFIG['LR_DECAY']
+            if CONFIG['GLOBAL_STEP']%CONFIG['DECAY_STEPS']==0:
+                CONFIG['LR'] = CONFIG['LR']*CONFIG['LR_DECAY']
+                sess.run(Model.lr_decay_op)
             print('Iter@%d completed! Start Evaluating...'%(n_iter))
             eval_losses=[]
             eval_results=dict()

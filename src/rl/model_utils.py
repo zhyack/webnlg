@@ -21,13 +21,16 @@ def loadConfigFromFolder(config, pf):
     if os.path.isfile(pf+'/config.json'):
         config = json2load(pf+'/config.json')
     return config
-def loadModelFromFolder(sess, saver, config, pf):
+def loadModelFromFolder(sess, saver, config, pf, n):
     if os.path.isfile(pf+'/config.json'):
         config = json2load(pf+'/config.json')
     ckpt = tf.train.get_checkpoint_state(pf)
     if ckpt!=None:
-        print('Restoring checkpoint @ %s'%(ckpt.model_checkpoint_path))
-        saver.restore(sess, ckpt.model_checkpoint_path)
+        p = ckpt.model_checkpoint_path
+        if n != -1:
+            p = p[:p.rfind('-')+1]+str(n)
+        print('Restoring checkpoint @ %s'%(p))
+        saver.restore(sess, p)
     print("Restored model from %s"%pf)
     return config
 

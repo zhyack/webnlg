@@ -1,0 +1,1556 @@
+('Path to the file is', '../../rl/modele/predictions_-1_52.47.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 54.08, 84.3/64.7/50.8/40.2 (BP=0.936, ratio=0.938, hyp_len=18153, ref_len=19357)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modele/predictions_-1_53.07.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modele/predictions_-1_53.07.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.35, 83.9/64.9/51.1/40.6 (BP=0.972, ratio=0.972, hyp_len=19282, ref_len=19838)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modele/predictions_-1_54.61.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modele/predictions_-1_54.61.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.26, 84.1/65.1/51.1/40.6 (BP=0.986, ratio=0.986, hyp_len=19660, ref_len=19930)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_45.79.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_45.79.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 45.61, 82.2/60.7/47.5/37.4 (BP=0.836, ratio=0.848, hyp_len=14278, ref_len=16843)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_47.51.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_47.51.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 46.02, 81.3/60.1/46.9/36.7 (BP=0.855, ratio=0.864, hyp_len=15583, ref_len=18029)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_48.91.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_48.91.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 45.87, 80.6/59.4/46.2/36.1 (BP=0.863, ratio=0.872, hyp_len=15565, ref_len=17852)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_50.25.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_50.25.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 45.89, 80.0/58.4/45.6/35.8 (BP=0.873, ratio=0.881, hyp_len=16126, ref_len=18313)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_45.76.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_45.76.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 46.25, 79.1/57.8/44.5/34.5 (BP=0.898, ratio=0.903, hyp_len=17293, ref_len=19146)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_47.68.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_47.68.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 49.95, 80.7/60.0/46.6/36.6 (BP=0.932, ratio=0.934, hyp_len=18077, ref_len=19355)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_48.73.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_48.73.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 50.96, 80.8/61.1/48.0/37.9 (BP=0.931, ratio=0.933, hyp_len=18206, ref_len=19507)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_50.42.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_50.42.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 51.54, 83.0/62.8/49.5/39.1 (BP=0.915, ratio=0.918, hyp_len=17698, ref_len=19276)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_50.24.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_50.24.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.02, 82.5/62.9/49.7/39.5 (BP=0.939, ratio=0.940, hyp_len=18448, ref_len=19617)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.02, 82.5/62.9/49.7/39.5 (BP=0.939, ratio=0.940, hyp_len=18448, ref_len=19617)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_49.37.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_49.37.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 47.48, 74.3/53.6/40.8/31.3 (BP=1.000, ratio=1.020, hyp_len=20954, ref_len=20542)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_50.24.txt\>
+-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_50.24.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 47.94, 74.9/54.0/41.3/31.6 (BP=1.000, ratio=1.009, hyp_len=20450, ref_len=20266)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_50.85predictions_-1_50.85.txt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/modelt/predictions_-1_50.85.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/modelt/predictions_-1_50.85.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 48.96, 75.3/55.1/42.3/32.7 (BP=1.000, ratio=1.036, hyp_len=21146, ref_len=20406)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_46.31.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_46.31.txt')
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 201, in inpu
+t_files    rplc_list = create_source_target(b, option, part, delex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 101, in crea
+te_source_target    out_src, out_trg, rplc_dict = delexicalisation(out_src, out_trg, category, properties_objects)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 40, in delex
+icalisation    data = json.load(data_file)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/__init__.py", line 339, in load
+s    return _default_decoder.decode(s)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/decoder.py", line 364, in decod
+e    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/decoder.py", line 380, in raw_d
+ecode    obj, end = self.scan_once(s, idx)
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_46.31.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_46.31.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 47.43, 84.1/63.5/49.6/38.8 (BP=0.837, ratio=0.849, hyp_len=15174, ref_len=17866)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_48.67.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_48.67.txt')
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 201, in inpu
+t_files    rplc_list = create_source_target(b, option, part, delex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 101, in crea
+te_source_target    out_src, out_trg, rplc_dict = delexicalisation(out_src, out_trg, category, properties_objects)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 48, in delex
+icalisation    clean_subj = ' '.join(re.split('(\W)', subject.replace('_', ' ')))
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/re.py", line 171, in split
+    return _compile(pattern, flags).split(string, maxsplit)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/re.py", line 235, in _compile
+    cachekey = (type(key[0]),) + key
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_48.67.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_48.67.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 48.59, 82.5/61.9/48.4/38.2 (BP=0.877, ratio=0.884, hyp_len=16559, ref_len=18737)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_48.45.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_48.45.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 50.36, 84.2/63.9/50.1/39.3 (BP=0.883, ratio=0.889, hyp_len=16708, ref_len=18790)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_49.44.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_49.44.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 50.80, 83.5/63.7/50.3/40.1 (BP=0.888, ratio=0.893, hyp_len=16868, ref_len=18881)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_49.96.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_49.96.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 51.47, 84.0/63.7/50.1/39.7 (BP=0.901, ratio=0.906, hyp_len=17163, ref_len=18953)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_50.73.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_50.73.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 51.98, 83.5/63.4/49.8/39.5 (BP=0.915, ratio=0.918, hyp_len=17372, ref_len=18923)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_51.42.txt `>
+> ^C
+>
+> `
+-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+bash: : command not found...
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_51.42.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 51.83, 84.0/63.7/49.8/39.3 (BP=0.911, ratio=0.915, hyp_len=17599, ref_len=19237)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_50.87.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_50.87.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.03, 83.6/63.7/50.3/40.1 (BP=0.926, ratio=0.929, hyp_len=17910, ref_len=19281)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_51.78.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_51.78.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.29, 84.7/64.6/50.8/40.3 (BP=0.904, ratio=0.908, hyp_len=17458, ref_len=19227)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.99.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.99.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.05, 84.1/63.8/50.0/39.8 (BP=0.928, ratio=0.931, hyp_len=17954, ref_len=19290)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.81.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.81.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.77, 84.5/64.6/50.9/40.5 (BP=0.928, ratio=0.931, hyp_len=17914, ref_len=19252)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.78.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.78.txt')
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 201, in inpu
+t_files    rplc_list = create_source_target(b, option, part, delex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 94, in creat
+e_source_target    triples += triple.s + ' ' + triple.p + ' ' + triple.o + ' '
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.73.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.73.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.78.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.78.txt')
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 201, in inpu
+t_files    rplc_list = create_source_target(b, option, part, delex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 101, in crea
+te_source_target    out_src, out_trg, rplc_dict = delexicalisation(out_src, out_trg, category, properties_objects)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 40, in delex
+icalisation    data = json.load(data_file)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/__init__.py", line 339, in load
+s    return _default_decoder.decode(s)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/decoder.py", line 364, in decod
+e    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/decoder.py", line 380, in raw_d
+ecode    obj, end = self.scan_once(s, idx)
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.78, 83.9/63.8/50.4/40.3 (BP=0.937, ratio=0.939, hyp_len=18146, ref_len=19330)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.84.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.84.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.08, 83.9/63.5/49.9/39.6 (BP=0.932, ratio=0.934, hyp_len=18126, ref_len=19407)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/prepredictions_-1_52.04.txt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_52.04.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_52.04.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.95, 85.1/65.8/52.0/41.2 (BP=0.917, ratio=0.920, hyp_len=17880, ref_len=19438)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_53.97.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_53.97.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.41, 83.6/64.4/50.9/40.7 (BP=0.959, ratio=0.960, hyp_len=18978, ref_len=19770)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_50.99.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_50.99.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.73, 84.0/63.9/50.5/40.3 (BP=0.917, ratio=0.920, hyp_len=17449, ref_len=18958)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_51.59.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_51.59.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.57, 83.3/63.3/49.8/39.5 (BP=0.927, ratio=0.929, hyp_len=18076, ref_len=19453)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.75.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.75.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.04, 84.2/65.1/51.2/40.7 (BP=0.964, ratio=0.965, hyp_len=19220, ref_len=19923)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.50.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.50.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.52, 84.1/65.5/52.0/41.6 (BP=0.962, ratio=0.963, hyp_len=19072, ref_len=19808)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.30.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.30.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.54, 83.7/64.4/51.1/41.0 (BP=0.924, ratio=0.927, hyp_len=18026, ref_len=19449)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.67.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.67.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.37, 83.8/65.0/51.4/41.2 (BP=0.967, ratio=0.968, hyp_len=19187, ref_len=19828)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.87.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.87.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.91, 83.8/63.8/49.9/40.0 (BP=0.926, ratio=0.928, hyp_len=18044, ref_len=19436)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_53.07.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_53.07.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.06, 83.8/63.7/49.9/39.8 (BP=0.930, ratio=0.933, hyp_len=18056, ref_len=19362)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.40.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.40.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.17, 84.1/65.3/51.9/41.6 (BP=0.974, ratio=0.975, hyp_len=19404, ref_len=19911)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.22\.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.22.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.66, 84.5/66.0/52.5/42.2 (BP=0.972, ratio=0.973, hyp_len=19454, ref_len=19998)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_53.30.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_53.30.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.46, 82.8/62.1/48.3/38.1 (BP=0.946, ratio=0.947, hyp_len=18365, ref_len=19389)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.96.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.96.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.68, 84.5/65.8/52.2/41.8 (BP=0.977, ratio=0.977, hyp_len=19603, ref_len=20064)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.83.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.83.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.59, 84.2/65.6/51.9/41.5 (BP=0.981, ratio=0.981, hyp_len=19653, ref_len=20038)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.66.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.66.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 54.23, 83.4/63.1/49.3/39.0 (BP=0.961, ratio=0.962, hyp_len=18610, ref_len=19341)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_53.01.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_53.01.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.88, 83.0/62.2/48.2/37.9 (BP=0.954, ratio=0.955, hyp_len=18429, ref_len=19292)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.11.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.11.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.59, 83.2/62.8/49.0/38.8 (BP=0.955, ratio=0.956, hyp_len=18671, ref_len=19540)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.79.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.79.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.77, 84.6/65.8/52.1/41.4 (BP=0.981, ratio=0.981, hyp_len=19728, ref_len=20104)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.51.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.51.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.55, 83.4/63.2/49.4/39.3 (BP=0.947, ratio=0.949, hyp_len=18464, ref_len=19465)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.60.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.60.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 58.08, 83.5/64.9/51.3/41.0 (BP=1.000, ratio=1.004, hyp_len=20248, ref_len=20173)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.11.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.11.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 58.06, 84.0/65.4/51.6/41.1 (BP=0.993, ratio=0.993, hyp_len=20009, ref_len=20141)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_52.41.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_52.41.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.25, 83.5/64.7/51.1/40.7 (BP=0.954, ratio=0.955, hyp_len=18642, ref_len=19518)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_56.02.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_56.02.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.48, 84.4/65.7/52.1/41.7 (BP=0.976, ratio=0.976, hyp_len=19540, ref_len=20014)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+$ cd ../data_utils/webnlg-baseline; python webnlg_relexicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_52.11.txt -bash: cd: ../data_utils/webnlg-baseline: No such
+ file or directory('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/prediction
+s_-1_52.11.txt')Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi
+-bleu.perl  all-notdelex-reference0.lex all-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.83, 82.6/64.0/50.6/40.3 (BP=0.974, ratio=0.975, hyp
+_len=19478, ref_len=19987)(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_52.86.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_52.86.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.03, 82.5/63.4/49.9/39.5 (BP=0.971, ratio=0.971, hyp_len=19402, ref_len=19974)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.27-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.27')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Traceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 207, in inpu
+t_files    relexicalise(filepath, rplc_list)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 156, in rele
+xicalise    with open(predfile, 'r') as f:
+IOError: [Errno 2] No such file or directory: '../../rl/ss12/predictions_-1_54.27'
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.27-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.27')
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 201, in inpu
+t_files    rplc_list = create_source_target(b, option, part, delex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 98, in creat
+e_source_target    out_src = ' '.join(re.split('(\W)', triples))
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/re.py", line 171, in split
+    return _compile(pattern, flags).split(string, maxsplit)
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.27-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.27')
+Total of 52 files processed in train with all-delex mode
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 199, in inpu
+t_files    b.fill_benchmark(files)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/benchmark_reader.py", line 68, in fill_bench
+mark    tree = Et.parse(file[0] + '/' + file[1])
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/xml/etree/ElementTree.py", line 1182
+, in parse    tree.parse(source, parser)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/xml/etree/ElementTree.py", line 656,
+ in parse    parser.feed(data)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/xml/etree/ElementTree.py", line 1651
+, in feed    self._parser.Parse(data, 0)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/xml/etree/ElementTree.py", line 1560
+, in _end    return self.target.end(self._fixname(tag))
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.27.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.27.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.48, 83.5/64.9/51.4/41.1 (BP=0.971, ratio=0.971, hyp_len=19403, ref_len=19982)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.62.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.62.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.29, 84.1/65.2/51.6/41.1 (BP=0.981, ratio=0.982, hyp_len=19759, ref_len=20130)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_53.39.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_53.39.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.07, 83.8/64.7/51.0/40.5 (BP=0.969, ratio=0.969, hyp_len=19257, ref_len=19863)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$
+
+
+
+
+
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 51.83, 84.0/63.7/49.8/39.3 (BP=0.911, ratio=0.915, hyp_len=17599, ref_len=19237)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_50.87.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_50.87.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.03, 83.6/63.7/50.3/40.1 (BP=0.926, ratio=0.929, hyp_len=17910, ref_len=19281)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_51.78.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_51.78.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.29, 84.7/64.6/50.8/40.3 (BP=0.904, ratio=0.908, hyp_len=17458, ref_len=19227)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.99.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.99.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.05, 84.1/63.8/50.0/39.8 (BP=0.928, ratio=0.931, hyp_len=17954, ref_len=19290)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.81.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.81.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.77, 84.5/64.6/50.9/40.5 (BP=0.928, ratio=0.931, hyp_len=17914, ref_len=19252)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.78.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.78.txt')
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 201, in inpu
+t_files    rplc_list = create_source_target(b, option, part, delex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 94, in creat
+e_source_target    triples += triple.s + ' ' + triple.p + ' ' + triple.o + ' '
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.73.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.73.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.78.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.78.txt')
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 201, in inpu
+t_files    rplc_list = create_source_target(b, option, part, delex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 101, in crea
+te_source_target    out_src, out_trg, rplc_dict = delexicalisation(out_src, out_trg, category, properties_objects)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 40, in delex
+icalisation    data = json.load(data_file)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/__init__.py", line 339, in load
+s    return _default_decoder.decode(s)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/decoder.py", line 364, in decod
+e    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/json/decoder.py", line 380, in raw_d
+ecode    obj, end = self.scan_once(s, idx)
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.78, 83.9/63.8/50.4/40.3 (BP=0.937, ratio=0.939, hyp_len=18146, ref_len=19330)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.84.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.84.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.08, 83.9/63.5/49.9/39.6 (BP=0.932, ratio=0.934, hyp_len=18126, ref_len=19407)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/prepredictions_-1_52.04.txt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_52.04.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_52.04.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.95, 85.1/65.8/52.0/41.2 (BP=0.917, ratio=0.920, hyp_len=17880, ref_len=19438)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_53.97.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_53.97.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.41, 83.6/64.4/50.9/40.7 (BP=0.959, ratio=0.960, hyp_len=18978, ref_len=19770)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_50.99.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_50.99.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.73, 84.0/63.9/50.5/40.3 (BP=0.917, ratio=0.920, hyp_len=17449, ref_len=18958)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_51.59.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_51.59.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.57, 83.3/63.3/49.8/39.5 (BP=0.927, ratio=0.929, hyp_len=18076, ref_len=19453)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.75.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.75.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.04, 84.2/65.1/51.2/40.7 (BP=0.964, ratio=0.965, hyp_len=19220, ref_len=19923)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.50.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.50.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.52, 84.1/65.5/52.0/41.6 (BP=0.962, ratio=0.963, hyp_len=19072, ref_len=19808)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.30.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.30.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.54, 83.7/64.4/51.1/41.0 (BP=0.924, ratio=0.927, hyp_len=18026, ref_len=19449)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.67.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.67.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.37, 83.8/65.0/51.4/41.2 (BP=0.967, ratio=0.968, hyp_len=19187, ref_len=19828)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.87.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.87.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.91, 83.8/63.8/49.9/40.0 (BP=0.926, ratio=0.928, hyp_len=18044, ref_len=19436)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_53.07.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_53.07.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.06, 83.8/63.7/49.9/39.8 (BP=0.930, ratio=0.933, hyp_len=18056, ref_len=19362)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.40.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.40.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.17, 84.1/65.3/51.9/41.6 (BP=0.974, ratio=0.975, hyp_len=19404, ref_len=19911)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.22\.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.22.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.66, 84.5/66.0/52.5/42.2 (BP=0.972, ratio=0.973, hyp_len=19454, ref_len=19998)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_53.30.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_53.30.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.46, 82.8/62.1/48.3/38.1 (BP=0.946, ratio=0.947, hyp_len=18365, ref_len=19389)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.96.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.96.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.68, 84.5/65.8/52.2/41.8 (BP=0.977, ratio=0.977, hyp_len=19603, ref_len=20064)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.83.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.83.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.59, 84.2/65.6/51.9/41.5 (BP=0.981, ratio=0.981, hyp_len=19653, ref_len=20038)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.66.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.66.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 54.23, 83.4/63.1/49.3/39.0 (BP=0.961, ratio=0.962, hyp_len=18610, ref_len=19341)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_53.01.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_53.01.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 52.88, 83.0/62.2/48.2/37.9 (BP=0.954, ratio=0.955, hyp_len=18429, ref_len=19292)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.11.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.11.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.59, 83.2/62.8/49.0/38.8 (BP=0.955, ratio=0.956, hyp_len=18671, ref_len=19540)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.79.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.79.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.77, 84.6/65.8/52.1/41.4 (BP=0.981, ratio=0.981, hyp_len=19728, ref_len=20104)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/model5/predictions_-1_52.51.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/model5/predictions_-1_52.51.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 53.55, 83.4/63.2/49.4/39.3 (BP=0.947, ratio=0.949, hyp_len=18464, ref_len=19465)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_54.60.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_54.60.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 58.08, 83.5/64.9/51.3/41.0 (BP=1.000, ratio=1.004, hyp_len=20248, ref_len=20173)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.11.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.11.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 58.06, 84.0/65.4/51.6/41.1 (BP=0.993, ratio=0.993, hyp_len=20009, ref_len=20141)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_52.41.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_52.41.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.25, 83.5/64.7/51.1/40.7 (BP=0.954, ratio=0.955, hyp_len=18642, ref_len=19518)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_56.02.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_56.02.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.48, 84.4/65.7/52.1/41.7 (BP=0.976, ratio=0.976, hyp_len=19540, ref_len=20014)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+$ cd ../data_utils/webnlg-baseline; python webnlg_relexicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_52.11.txt -bash: cd: ../data_utils/webnlg-baseline: No such
+ file or directory('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/prediction
+s_-1_52.11.txt')Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi
+-bleu.perl  all-notdelex-reference0.lex all-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.83, 82.6/64.0/50.6/40.3 (BP=0.974, ratio=0.975, hyp
+_len=19478, ref_len=19987)(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_52.86.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_52.86.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.03, 82.5/63.4/49.9/39.5 (BP=0.971, ratio=0.971, hyp_len=19402, ref_len=19974)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.27-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.27')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Traceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 207, in inpu
+t_files    relexicalise(filepath, rplc_list)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 156, in rele
+xicalise    with open(predfile, 'r') as f:
+IOError: [Errno 2] No such file or directory: '../../rl/ss12/predictions_-1_54.27'
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.27-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.27')
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 201, in inpu
+t_files    rplc_list = create_source_target(b, option, part, delex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 98, in creat
+e_source_target    out_src = ' '.join(re.split('(\W)', triples))
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/re.py", line 171, in split
+    return _compile(pattern, flags).split(string, maxsplit)
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.27-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.27')
+Total of 52 files processed in train with all-delex mode
+^CTraceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 199, in inpu
+t_files    b.fill_benchmark(files)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/benchmark_reader.py", line 68, in fill_bench
+mark    tree = Et.parse(file[0] + '/' + file[1])
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/xml/etree/ElementTree.py", line 1182
+, in parse    tree.parse(source, parser)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/xml/etree/ElementTree.py", line 656,
+ in parse    parser.feed(data)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/xml/etree/ElementTree.py", line 1651
+, in feed    self._parser.Parse(data, 0)
+  File "/home/zanghy/anaconda2/envs/tensorflow_1_2_1/lib/python2.7/xml/etree/ElementTree.py", line 1560
+, in _end    return self.target.end(self._fixname(tag))
+KeyboardInterrupt
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.27.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.27.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.48, 83.5/64.9/51.4/41.1 (BP=0.971, ratio=0.971, hyp_len=19403, ref_len=19982)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.62.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.62.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.29, 84.1/65.2/51.6/41.1 (BP=0.981, ratio=0.982, hyp_len=19759, ref_len=20130)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_53.39.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_53.39.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.07, 83.8/64.7/51.0/40.5 (BP=0.969, ratio=0.969, hyp_len=19257, ref_len=19863)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.53.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.53.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.69, 82.7/63.6/49.8/39.8 (BP=0.980, ratio=0.980, hyp_len=19570, ref_len=19961)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.29.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.29.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.02, 82.7/63.7/49.9/39.5 (BP=0.987, ratio=0.987, hyp_len=19819, ref_len=20077)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl11/predictions_-1_52.97.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl11/predictions_-1_52.97.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 54.93, 84.7/65.6/51.7/40.9 (BP=0.938, ratio=0.940, hyp_len=18253, ref_len=19419)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_55.12.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_55.12.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.70, 83.1/64.3/50.7/40.4 (BP=0.985, ratio=0.986, hyp_len=19754, ref_len=20043)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.52.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.52.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 58.12, 84.2/65.5/52.1/41.7 (BP=0.988, ratio=0.988, hyp_len=19872, ref_len=20104)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.12.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.12.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.25, 83.3/64.6/51.1/40.9 (BP=0.989, ratio=0.989, hyp_len=19765, ref_len=19991)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.14.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.14.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.51, 83.1/64.1/50.5/40.2 (BP=0.986, ratio=0.986, hyp_len=19770, ref_len=20057)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl11/predictions_-1_52.57.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl11/predictions_-1_52.57.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.80, 84.9/65.7/51.9/41.2 (BP=0.949, ratio=0.950, hyp_len=18696, ref_len=19670)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_53.94.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_53.94.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.24, 82.6/63.4/49.7/39.6 (BP=0.993, ratio=0.993, hyp_len=19995, ref_len=20142)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_56.13.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_56.13.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 58.12, 84.2/65.7/52.2/41.7 (BP=0.987, ratio=0.987, hyp_len=19800, ref_len=20065)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.60.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.60.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.12, 83.2/64.1/50.6/40.3 (BP=0.994, ratio=0.994, hyp_len=20028, ref_len=20140)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl11/predictions_-1_53.78.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl11/predictions_-1_53.78.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.16, 82.8/63.6/49.7/39.2 (BP=0.975, ratio=0.975, hyp_len=19244, ref_len=19729)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.49.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.49.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.26, 83.8/65.2/51.5/41.2 (BP=0.981, ratio=0.981, hyp_len=19679, ref_len=20055)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_55.00.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_55.00.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.69, 82.9/64.0/50.4/40.2 (BP=0.990, ratio=0.990, hyp_len=19905, ref_len=20110)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.62.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.62.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.90, 82.9/63.8/50.3/40.2 (BP=0.995, ratio=0.995, hyp_len=19993, ref_len=20103)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl11/predictions_-1_53.38.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl11/predictions_-1_53.38.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.49, 83.4/64.2/50.3/39.9 (BP=0.969, ratio=0.969, hyp_len=19203, ref_len=19810)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.49.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.49.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 58.29, 84.3/65.7/52.2/41.8 (BP=0.989, ratio=0.989, hyp_len=19815, ref_len=20039)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_53.99.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_53.99.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 56.76, 83.3/64.4/50.8/40.3 (BP=0.986, ratio=0.986, hyp_len=19870, ref_len=20152)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_53.79.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_53.79.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.64, 83.6/64.8/51.2/40.8 (BP=0.994, ratio=0.994, hyp_len=19960, ref_len=20077)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl11/predictions_-1_53.86.txt -bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl11/predictions_-1_53.86.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 55.33, 83.8/64.5/50.5/39.7 (BP=0.964, ratio=0.964, hyp_len=19110, ref_len=19815)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.24.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.24.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Traceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 207, in inpu
+t_files    relexicalise(filepath, rplc_list)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 156, in rele
+xicalise    with open(predfile, 'r') as f:
+IOError: [Errno 2] No such file or directory: '../../rl/ss12/predictions_-1_54.24.txt'
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.24.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.24.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.27, 83.3/64.5/51.0/40.6 (BP=0.992, ratio=0.992, hyp_len=19963, ref_len=20129)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/rl12/predictions_-1_55.65.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/rl12/predictions_-1_55.65.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 58.28, 84.3/65.7/52.2/41.7 (BP=0.989, ratio=0.989, hyp_len=19848, ref_len=20068)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.35.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.35.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Traceback (most recent call last):
+  File "webnlg_relexicalise.py", line 36, in <module>
+    main(sys.argv[1:])
+  File "webnlg_relexicalise.py", line 33, in main
+    input_files(inputdir, filepath, relex=True)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 207, in inpu
+t_files    relexicalise(filepath, rplc_list)
+  File "/home/zanghy/webnlg/src/data_utils/webnlg-baseline/webnlg_baseline_input.py", line 156, in rele
+xicalise    with open(predfile, 'r') as f:
+IOError: [Errno 2] No such file or directory: '../../rl/ss12/predictions_-1_54.35.txt'
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ cd ../data_utils/webnlg-baseline; python webnlg_rele
+xicalise.py -i ../../../data/ -f ../../rl/ss12/predictions_-1_54.35.txt-bash: cd: ../data_utils/webnlg-baseline: No such file or directory
+('Input directory is', '../../../data/')
+('Path to the file is', '../../rl/ss12/predictions_-1_54.35.txt')
+Total of 52 files processed in train with all-delex mode
+Total of 52 files processed in train with all-notdelex mode
+Total of 52 files processed in dev with all-delex mode
+Total of 52 files processed in dev with all-notdelex mode
+Files necessary for training/evaluating are written on disc.
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$ perl multi-bleu.perl  all-notdelex-reference0.lex al
+l-notdelex-reference1.lex  all-notdelex-reference2.lex all-notdelex-reference3.lex  all-notdelex-reference4.lex all-notdelex-reference5.lex  all-notdelex-reference6.lex all-notdelex-reference7.lex < relexicalised_predictions.txtBLEU = 57.51, 83.3/64.7/51.2/40.9 (BP=0.993, ratio=0.993, hyp_len=20032, ref_len=20179)
+(tensorflow_1_2_1) [zanghy@icst4 webnlg-baseline]$

@@ -6,6 +6,7 @@ import copy
 import data_utils
 import model_utils
 from contrib_rnn_cell import ExtendedMultiRNNCell
+from GNMTCell import GNMTAttentionMultiCell
 from reward import *
 import rlloss
 
@@ -89,15 +90,26 @@ class Seq2SeqModel():
                 config_encoder_cell = tf.contrib.rnn.BasicRNNCell(self.encoder_hidden_size)
             config_encoder_cell = tf.contrib.rnn.DropoutWrapper(config_encoder_cell, input_keep_prob=config['INPUT_DROPOUT'], output_keep_prob=config['OUTPUT_DROPOUT'])
             self.encoder_cell.append(config_encoder_cell)
-        self.encoder_cell = ExtendedMultiRNNCell(self.encoder_cell)
+        if not config['BIDIRECTIONAL_ENCODER']:
+            self.encoder_cell = ExtendedMultiRNNCell(self.encoder_cell)
 
+        print(self.encoder_cell)
 
         with tf.variable_scope("DynamicEncoder") as scope:
             if config['BIDIRECTIONAL_ENCODER']:
                 self.encoder_fw_cell = copy.deepcopy(self.encoder_cell)
                 self.encoder_bw_cell = copy.deepcopy(self.encoder_cell)
-                ((encoder_fw_outputs, encoder_bw_outputs), (encoder_fw_states, encoder_bw_states)) =                 tf.nn.bidirectional_dynamic_rnn(cell_fw=self.encoder_fw_cell, cell_bw=self.encoder_bw_cell, inputs=self.encoder_inputs_embedded, sequence_length=self.encoder_inputs_length, time_major=True, dtype=tf.float32)
-                self.encoder_outputs = tf.concat((encoder_fw_outputs, encoder_bw_outputs), 2)
+                # ((encoder_fw_outputs, encoder_bw_outputs), (encoder_fw_states, encoder_bw_states)) =                 tf.nn.bidirectional_dynamic_rnn(cell_fw=self.encoder_fw_cell, cell_bw=self.encoder_bw_cell, inputs=self.encoder_inputs_embedded, sequence_length=None, time_major=True, dtype=tf.float32)
+                # print('\n\n\n\n\n\n\n', encoder_fw_outputs, '\n\n\n\n\n\n')
+                # print('\n\n\n\n\n\n\n', encoder_fw_states, '\n\n\n\n\n\n')
+                # self.encoder_outputs = tf.concat((encoder_fw_outputs, encoder_bw_outputs), 2)
+                # print('\n\n\n\n\n\n\n', self.encoder_outputs, '\n\n\n\n\n\n')
+
+
+                # (self.encoder_outputs, encoder_fw_states, encoder_bw_states) =                 tf.nn.static_bidirectional_rnn(cell_fw=self.encoder_fw_cell, cell_bw=self.encoder_bw_cell, inputs=self.encoder_inputs_embedded, sequence_length=self.encoder_inputs_length, dtype=tf.float32)
+
+                (self.encoder_outputs, encoder_fw_states, encoder_bw_states) =                 tf.contrib.rnn.stack_bidirectional_dynamic_rnn(cells_fw=self.encoder_fw_cell, cells_bw=self.encoder_bw_cell, inputs=tf.transpose(self.encoder_inputs_embedded,[1,0,2]), sequence_length=self.encoder_inputs_length, dtype=tf.float32)
+                self.encoder_outputs = tf.transpose(self.encoder_outputs, [1,0,2])
                 encoder_fw_state = encoder_fw_states[-1]
                 encoder_bw_state = encoder_bw_states[-1]
                 encoder_state_c = (encoder_fw_state.c+encoder_bw_state.c)/2.0
@@ -106,10 +118,17 @@ class Seq2SeqModel():
                     self.encoder_state = tf.contrib.rnn.LSTMStateTuple(c=encoder_state_c, h=encoder_state_h)
                     self.encoder_state = seq2seq.tile_batch(self.encoder_state, config['BEAM_WIDTH'])
                     self.encoder_outputs = tf.transpose(seq2seq.tile_batch(tf.transpose(self.encoder_outputs, [1,0,2]), config['BEAM_WIDTH']), [1,0,2])
-                    # self.encoder_inputs_length = seq2seq.tile_batch(self.encoder_inputs_length, config['BEAM_WIDTH'])
+                    self.encoder_inputs_length_att = seq2seq.tile_batch(self.encoder_inputs_length, config['BEAM_WIDTH'])
+                else:
+                    self.encoder_inputs_length_att = self.encoder_inputs_length
                 self.encoder_state = tf.contrib.rnn.LSTMStateTuple(c=encoder_state_c, h=encoder_state_h)
             else:
                 self.encoder_outputs, self.encoder_state = tf.nn.dynamic_rnn(cell=self.encoder_cell, inputs=self.encoder_inputs_embedded, sequence_length=self.encoder_inputs_length, time_major=True, dtype=tf.float32)
+                if config['USE_BS'] and not config['IS_TRAIN']:
+                    self.encoder_outputs = tf.transpose(seq2seq.tile_batch(tf.transpose(self.encoder_outputs, [1,0,2]), config['BEAM_WIDTH']), [1,0,2])
+                    self.encoder_inputs_length_att = seq2seq.tile_batch(self.encoder_inputs_length, config['BEAM_WIDTH'])
+                else:
+                    self.encoder_inputs_length_att = self.encoder_inputs_length
             print('Encoder Trainable Variables')
             self.encoder_variables = scope.trainable_variables()
             print(self.encoder_variables)
@@ -130,27 +149,32 @@ class Seq2SeqModel():
                 config_decoder_cell = tf.contrib.rnn.BasicRNNCell(self.decoder_hidden_size)
             config_decoder_cell = tf.contrib.rnn.DropoutWrapper(config_decoder_cell, input_keep_prob=config['INPUT_DROPOUT'], output_keep_prob=config['OUTPUT_DROPOUT'])
             self.decoder_cell.append(config_decoder_cell)
-        self.decoder_cell = ExtendedMultiRNNCell(self.decoder_cell)
+
+
+
         if config['ATTENTION_DECODER']:
+            attention_cell = self.decoder_cell.pop(0)
             if config['ATTENTION_MECHANISE']=='LUONG':
                 attention_mechanism = None
                 # if config['USE_BS'] and not config['IS_TRAIN']:
-                #     attention_mechanism = tf.contrib.seq2seq.LuongAttention(self.decoder_hidden_size, tf.transpose(self.encoder_outputs_bs,perm=[1,0,2]), memory_sequence_length=self.encoder_inputs_length_bs, scale=True, name='shared_attention_mechanism')
-                #     self.decoder_cell_bs = tf.contrib.seq2seq.AttentionWrapper(self.decoder_cell, attention_mechanism, attention_layer_size=self.decoder_hidden_size, output_attention=True, name='shared_attention_decoder')
-                if config['IS_TRAIN']:
-                    attention_mechanism = tf.contrib.seq2seq.LuongAttention(self.decoder_hidden_size, tf.transpose(self.encoder_outputs,perm=[1,0,2]), memory_sequence_length=self.encoder_inputs_length, scale=True, name='shared_attention_mechanism')
-                else:
-                    attention_mechanism = tf.contrib.seq2seq.LuongAttention(self.decoder_hidden_size, tf.transpose(self.encoder_outputs,perm=[1,0,2]), scale=True, name='shared_attention_mechanism')
-                self.decoder_cell = tf.contrib.seq2seq.AttentionWrapper(self.decoder_cell, attention_mechanism, attention_layer_size=self.decoder_hidden_size,  output_attention=True, name='shared_attention_decoder')
+                #     attention_mechanism = tf.contrib.seq2seq.LuongAttention(self.decoder_hidden_size, tf.transpose(self.encoder_outputs,perm=[1,0,2]), scale=True, name='shared_attention_mechanism')
+                # else:
+                attention_mechanism = tf.contrib.seq2seq.LuongAttention(self.decoder_hidden_size, tf.transpose(self.encoder_outputs,perm=[1,0,2]), memory_sequence_length=self.encoder_inputs_length_att, scale=True, name='shared_attention_mechanism')
+                # self.decoder_cell = tf.contrib.seq2seq.AttentionWrapper(self.decoder_cell, attention_mechanism, attention_layer_size=self.decoder_hidden_size,  output_attention=True, name='shared_attention_decoder')
+                attention_cell = tf.contrib.seq2seq.AttentionWrapper(attention_cell, attention_mechanism, attention_layer_size=self.decoder_hidden_size, output_attention=True)
             elif config['ATTENTION_MECHANISE']=='BAHDANAU':
                 attention_mechanism = None
                 # if config['USE_BS'] and not config['IS_TRAIN']:
-                #     attention_mechanism = tf.contrib.seq2seq.BahdanauAttention(self.decoder_hidden_size, tf.transpose(self.encoder_outputs_bs,perm=[1,0,2]), memory_sequence_length=self.encoder_inputs_length_bs, normalize=True)
-                #     self.decoder_cell_bs = tf.contrib.seq2seq.AttentionWrapper(self.decoder_cell, attention_mechanism, attention_layer_size=self.decoder_hidden_size, output_attention=False, name='shared_attention_decoder')
-                attention_mechanism = tf.contrib.seq2seq.BahdanauAttention(self.decoder_hidden_size, tf.transpose(self.encoder_outputs,perm=[1,0,2]), memory_sequence_length=self.encoder_inputs_length, normalize=True)
-                self.decoder_cell = tf.contrib.seq2seq.AttentionWrapper(self.decoder_cell, attention_mechanism, attention_layer_size=self.decoder_hidden_size, output_attention=False, name='shared_attention_decoder')
+                #     attention_mechanism = tf.contrib.seq2seq.BahdanauAttention(self.decoder_hidden_size, tf.transpose(self.encoder_outputs,perm=[1,0,2]), normalize=True)
+                # else:
+                attention_mechanism = tf.contrib.seq2seq.BahdanauAttention(self.decoder_hidden_size, tf.transpose(self.encoder_outputs,perm=[1,0,2]), memory_sequence_length=self.encoder_inputs_length_att, normalize=True)
+                # self.decoder_cell = tf.contrib.seq2seq.AttentionWrapper(self.decoder_cell, attention_mechanism, attention_layer_size=self.decoder_hidden_size, output_attention=True, name='shared_attention_decoder')
+                attention_cell = tf.contrib.seq2seq.AttentionWrapper(attention_cell, attention_mechanism, attention_layer_size=self.decoder_hidden_size, output_attention=True)
             else:
                 raise Exception('config[\'ATTENTION_MECHANISE\'] should be LUONG or BAHDANAU')
+            self.decoder_cell = GNMTAttentionMultiCell(attention_cell, self.decoder_cell)
+        else:
+            self.decoder_cell = ExtendedMultiRNNCell(self.decoder_cell)
 
 
         with tf.variable_scope("DynamicDecoder") as scope:
@@ -159,19 +183,19 @@ class Seq2SeqModel():
 
             if config['USE_BS'] and not config['IS_TRAIN']:
                 initial_state = self.decoder_cell.zero_state(batch_size=self.batch_size*config['BEAM_WIDTH'], dtype=tf.float32)
-                if config['ATTENTION_DECODER']:
-                    cat_state = tuple([self.encoder_state] + list(initial_state.cell_state)[:-1])
-                    initial_state.clone(cell_state=cat_state)
-                else:
-                    initial_state = tuple([self.encoder_state] + list(initial_state[:-1]))
+                # if config['ATTENTION_DECODER']:
+                #     cat_state = tuple([self.encoder_state] + list(initial_state.cell_state)[:-1])
+                #     initial_state.clone(cell_state=cat_state)
+                # else:
+                #     initial_state = tuple([self.encoder_state] + list(initial_state[:-1]))
             else:
                 initial_state = self.decoder_cell.zero_state(batch_size=self.batch_size, dtype=tf.float32)
 
-                if config['ATTENTION_DECODER']:
-                    cat_state = tuple([self.encoder_state] + list(initial_state.cell_state)[:-1])
-                    initial_state.clone(cell_state=cat_state)
-                else:
-                    initial_state = tuple([self.encoder_state] + list(initial_state[:-1]))
+                # if config['ATTENTION_DECODER']:
+                #     cat_state = tuple([self.encoder_state] + list(initial_state.cell_state)[:-1])
+                #     initial_state.clone(cell_state=cat_state)
+                # else:
+                #     initial_state = tuple([self.encoder_state] + list(initial_state[:-1]))
 
             self.output_projection_layer = layers_core.Dense(self.output_size, use_bias=False)
 
@@ -188,7 +212,7 @@ class Seq2SeqModel():
                 self.infer_helper = tf.contrib.seq2seq.GreedyEmbeddingHelper(self.output_word_embedding_matrix, self.decoder_inputs[0], config['ID_END'])
                 self.decoder_infer=tf.contrib.seq2seq.BasicDecoder(self.decoder_cell, helper=self.infer_helper, initial_state=initial_state, output_layer=self.output_projection_layer)
             print("The decoder is:", self.decoder_infer)
-            self.infer_outputs, self.infer_state, self.infer_sequence_lengths = tf.contrib.seq2seq.dynamic_decode(self.decoder_infer, impute_finished=False, maximum_iterations=config['MAX_OUT_LEN'])
+            self.infer_outputs, self.infer_state, self.infer_sequence_lengths = tf.contrib.seq2seq.dynamic_decode(self.decoder_infer, impute_finished=False, maximum_iterations=config['MAX_OUT_LEN']*2)
             if config['USE_BS'] and not config['IS_TRAIN']:
                 self.infer_outputs = tf.transpose(self.infer_outputs.predicted_ids, [2,0,1])[0]
             else:
@@ -203,11 +227,17 @@ class Seq2SeqModel():
 
                 self.rewards = tf.py_func(contentPenalty, [tf.transpose(self.encoder_inputs, perm=[1,0]), self.train_outputs, tf.constant(config['SRC_DICT'], dtype=tf.string), tf.constant(config['DST_DICT'], dtype=tf.string), tf.transpose(self.decoder_targets, perm=[1,0])], tf.float32)
                 self.rewards.set_shape(self.train_outputs.get_shape())
-                self.train_loss_rl = rlloss.sequence_loss_rl(logits=self.train_outputs, rewards=self.rewards, weights=self.decoder_targets_mask)
+                if config['RL_ENABLE']:
+                    self.train_loss_rl = rlloss.sequence_loss_rl(logits=self.train_outputs, rewards=self.rewards, weights=self.decoder_targets_mask)
+                else:
+                    self.train_loss_rl = tf.constant(0.0)
 
                 self.rewards_bleu = tf.py_func(bleuPenalty, [tf.transpose(self.encoder_inputs, perm=[1,0]), self.train_outputs, tf.constant(config['SRC_DICT'], dtype=tf.string), tf.constant(config['DST_DICT'], dtype=tf.string), tf.constant(config['HYP_FILE_PATH'], dtype=tf.string), tf.constant(config['REF_FILE_PATH_FORMAT'], dtype=tf.string)], tf.float32)
                 self.rewards_bleu.set_shape(self.train_outputs.get_shape())
-                self.train_loss_rl_bleu = rlloss.sequence_loss_rl(logits=self.train_outputs, rewards=self.rewards_bleu, weights=self.decoder_targets_mask)/3
+                if config['BLEU_RL_ENABLE']:
+                    self.train_loss_rl_bleu = rlloss.sequence_loss_rl(logits=self.train_outputs, rewards=self.rewards_bleu, weights=self.decoder_targets_mask)/2
+                else:
+                    self.train_loss_rl_bleu = tf.constant(0.0)
 
 
                 self.eval_loss = seq2seq.sequence_loss(logits=self.train_outputs, targets=tf.transpose(self.decoder_targets, perm=[1,0]), weights=self.decoder_targets_mask)
@@ -228,22 +258,19 @@ class Seq2SeqModel():
         self.all_trainable_variables = tf.trainable_variables()
         print(self.all_trainable_variables)
         if config['IS_TRAIN']:
-            if config['CLIP']:
-                def updateBP(loss, lr, var_list):
+            def updateBP(loss, lr, var_list):
 
-                    return [tf.contrib.layers.optimize_loss( loss=loss, global_step=self.global_step, learning_rate=lr[i], optimizer=self.optimizer, clip_gradients=config['CLIP_NORM'], variables=var_list[i], learning_rate_decay_fn=model_utils.create_learning_rate_decay_fn(decay_rate=1-config['LR_DECAY'], decay_steps=config['MAX_STEPS_PER_ITER'])) for i in range(len(lr))]
+                # return [tf.contrib.layers.optimize_loss( loss=loss, global_step=self.global_step, learning_rate=lr[i], optimizer=self.optimizer, clip_gradients=config['CLIP_NORM'], variables=var_list[i], learning_rate_decay_fn=model_utils.create_learning_rate_decay_fn(decay_rate=1-config['LR_DECAY'], decay_steps=config['DECAY_STEPS'])) for i in range(len(lr))]
+                gradients = [tf.gradients(loss, var_list[i]) for i in range(len(lr))]
+                if config['CLIP']:
+                    gradients = [tf.clip_by_global_norm(gradients[i], config['CLIP_NORM'])[0] for i in range(len(lr))]
+                optimizers = [self.optimizer(lr[i]) for i in range(len(lr))]
+                return [optimizers[i].apply_gradients(zip(gradients[i], var_list[i])) for i in range(len(lr))]
 
-                if config['SPLIT_LR']:
-                    self.train_op = updateBP(self.final_loss, [config['WE_LR'], config['ENCODER_LR'], config['DECODER_LR']], [self.embedding_variables, self.encoder_variables, self.decoder_variables])
-                else:
-                    self.train_op = updateBP(self.final_loss, [config['LR']], [self.all_trainable_variables])
+            if config['SPLIT_LR']:
+                self.train_op = updateBP(self.final_loss, [self.word_embedding_learning_rate, self.encoder_learning_rate, self.decoder_learning_rate], [self.embedding_variables, self.encoder_variables, self.decoder_variables])
             else:
-                def updateBP(loss, lr, var_list):
-                    return                    [tf.train.AdamOptimizer(learning_rate=lr[i]).minimize(loss, var_list=var_list[i]) for i in range(len(lr))]
-                if config['SPLIT_LR']:
-                    self.train_op = updateBP(self.final_loss, [config['WE_LR'], config['ENCODER_LR'], config['DECODER_LR']], [self.embedding_variables, self.encoder_variables, self.decoder_variables])
-                else:
-                    self.train_op = updateBP(self.final_loss, [config['LR']], [self.all_trainable_variables])
+                self.train_op = updateBP(self.final_loss, [self.learning_rate], [self.all_trainable_variables])
 
         self.saver = model_utils.initGlobalSaver()
 

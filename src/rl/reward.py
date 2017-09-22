@@ -129,7 +129,13 @@ def bleuPenalty(inputs, outputs, SRC_DICT, DST_DICT, HYP_FILE_PATH, REF_FILE_PAT
             line = line.split()
             if len(line)>48:
                 line = line[:48]
-            line = ' '.join(line)
+                line = ' '.join(line)
+                line = line.replace('_',' ').replace(' ','')
+                line = line[:150]
+            else:
+                line = ' '.join(line)
+                line = line.replace('_',' ').replace(' ','')
+                line = line[:150]
             ref_dict[line]=[]
             hyp_list.append(line)
             linecnt += 1
@@ -156,14 +162,20 @@ def bleuPenalty(inputs, outputs, SRC_DICT, DST_DICT, HYP_FILE_PATH, REF_FILE_PAT
         predictions = outputs[i].argmax(axis=-1)
         last_bleu = 0.0
         src = ' '.join([_2uni(rev_dict_src[k]) for k in inputs[i]])
-        # print(src)
-        if src.find(' <EOS>')!=-1:
-            src = src[6:src.find(' <EOS>')]
+        src = src.replace('_',' ').replace(' ','')
+        if src.find('<EOS>')!=-1:
+            src = src[5:src.find('<EOS>')]
         else:
-            src = src[6:]
+            src = src[5:]
+        if len(src) > 150:
+            src = src[:150]
         hyp = ' '.join([_2uni(rev_dict_dst[p]) for p in predictions])
+        try:
+            bleu_scores = bleu.incremental_sent_bleu(hyp,ref_dict[src])
+        except KeyError:
+            print(len(src))
         for j in range(max_len):
-            bleu_scores, _ = bleu.corpus_bleu([hyp],[ref_dict[src]])
+            bleu_score = bleu_scores[j]
             p = int(predictions[j])
             score_board = [0.0]*len(dict_dst)
             score_board[p] = sigmoid(last_bleu-bleu_scores[0])
